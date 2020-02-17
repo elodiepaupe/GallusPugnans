@@ -9,8 +9,8 @@
                 <edition>Version électronique TEI</edition>   
                 <respStmt> 
                     <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
-                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique 
-                        <date type="creation" when="2020-02">février 2020</date>
+                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
+                        <date type="creation" when="2020-02"/>
                     </resp>    
                 </respStmt>
             </editionStmt>
@@ -59,6 +59,9 @@
                 </segmentation>
             </editorialDecl>
         </encodingDesc>
+        <revisionDesc>
+            <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
+        </revisionDesc> 
         <profileDesc>
             <langUsage>
                 <language ident="la">Latin</language>
