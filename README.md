@@ -27,4 +27,3 @@ Tout dépend de vos compétences:
 * Vous pouvez modifier les fichiers pour les mettre à jour, corriger les erreurs philologiques ou de codage.
 * Vous pouvez télécharger les documents pour découvrir les différents langages, transformer les fichiers et découvrir comment ils fonctionnent entre eux. 
 * Vous pouvez ne pas les toucher et vous contenter des versions pdf qui seront mises à disposition.
-* Vous 
