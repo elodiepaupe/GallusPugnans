@@ -1,0 +1,52 @@
+teiHeader {
+    display: none;
+}
+
+h1 {
+  display: block;
+  margin: 10px;
+  font-size: 150%;
+  line-height: 1.5;
+  text-align: left;
+  max-width: 800px;
+  padding: 20px;
+}
+
+h2{
+  display: block;
+  margin: 10px;
+  font-variant: small-caps;
+  font-size: 120%;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 800px;
+  padding: 20px;  
+    
+}
+
+body {
+  color: #000; 
+  text-align: inherit;
+  line-height: 1.5;
+  font-size: 100%;
+  text-decoration: none;
+  border-bottom: none;
+  max-width: 800px;
+  padding: 10px;
+}
+
+div {
+  display: block;
+  text-align: inherit;
+  color: inherit;
+  width: inherit;
+  padding: inherit;
+}
+
+strong{
+    color: green;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: inherit;
+    content:attr(source);
+}
