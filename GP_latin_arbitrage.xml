@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="fr">
+        <fileDesc>
+            <titleStmt>
+                <title>Joachim Vadianus, Gallus Pugnans</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Version électronique TEI</edition>   
+                <respStmt> 
+                    <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
+                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
+                        <date type="creation" when="2020-02"/>
+                    </resp>    
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Chaire de philologie classique</authority>
+                <address>
+                    <addrLine>Université de Neuchâtel</addrLine>
+                    <addrLine>Faculté de lettres et sciences humaines</addrLine>
+                    <addrLine>Espace Tilo-Frey 1</addrLine>
+                    <addrLine>2000 Neuchâtel</addrLine>
+                    <addrLine>http://www.unine.ch</addrLine>
+                </address>
+                <availability status="restricted" n="CC-BY-NC-SA">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+                    <p>Creative Commons Attribution 4.0 CC BY-NC-SA 4.0 FR</p>
+                    <p>NB: le texte latin employé comme source s'est élevé dans le domaine public.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Joachim Vadianus</author>
+                    <title>Gallus Pugnans</title>
+                    <publisher>?</publisher>
+                    <placeName>Vienne</placeName>
+                    <date when="1514">1514</date>
+                </bibl>
+                <listWit>
+                    <witness xml:id="ed">Editio princeps encodée</witness>
+                    <witness xml:id="Zimmel">Édition du texte avec traduction</witness>
+                    <witness xml:id="MS">Copie manuscrite de 1514</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.
+                       Les graphies sont normalisées: diphtongues tardives supprimées, ci/ti, etc.</p>
+                </normalization>
+                <correction>
+                    <p>Les corrections sont encodées.</p>
+                </correction>
+                <hyphenation>
+                    <p>La césure des mots en fin de ligne ne respecte pas l'original.</p>
+                </hyphenation>
+                <punctuation>
+                    <p>La ponctuation n'est pas conservée</p>
+                </punctuation>
+                <quotation>
+                    <p>Les citations marquées dans l'original sont encodées.</p>
+                    <p>Les éventuelles autres marques d'intertextualité du texte sont encodées.</p>
+                </quotation>
+                <segmentation>
+                    <p>La segmentation de la source est conservée.</p>
+                </segmentation>
+            </editorialDecl>
+            <variantEncoding location="internal" method="parallel-segmentation"></variantEncoding>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+                <language ident="fr">Français</language>
+            </langUsage>
+        </profileDesc> 
+        <revisionDesc>
+            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier: prologue p. 40-43 de la source.</change>
+        </revisionDesc> 
+    </teiHeader>
+    <text n="5" type="discours">
+        <body>
+            <head>Caporum arbitrium<!-- 40 --> Nomothetes interpres loquitur.<note>Pages 40-43 de la source; l'imprimé donne Nomotheses pour le titre.</note></head>
+            
+            <sp>
+                <speaker>Nomothetes</speaker>
+                <p>
+                    Recensui, ut jussistis Philonice, tuque Euthyme breviter &amp; enucleate rem omnem Capis, 
+                    qui nescio an alia in re <app><lem wit="#Zimmel">umquam</lem><rdg wit="#ed">unquam</rdg></app> adeo stupefacti fuerint, 
+                    ac hodie fuere, postquam illam inter Gallos, Gallinae que audivere <app><lem wit="#Zimmel">dissensionem</lem><rdg wit="#ed">dissentionem</rdg></app>. 
+                    Sciunt equidem, intestinis bellis nil pestilentius esse, &amp; eius <app><lem wit="#ed">reipublicae</lem><rdg wit="#Zimmel">rei publicae</rdg></app> fulcimenta durare diu non posse, 
+                    qua a capite membra dissentiant, &amp; alioqui, veritatis amator Historicus, Concordia dixit res parvas crescere, Discordia maximas dilabi. 
+                    Id quod adeo vobis est notum ut quod maxime. 
+                    Quapropter eis ne breviter accepta, 
+                    visum est eo festinantius ad moderati arbitrii praescriptum contendendum esse quanto res in se plus habitura periculi est, 
+                    si longius proteletur, Gratiasque agunt bonae forti, &amp; secundo fato quod arbitrii ad eos libertas, vestro, &amp; partium consensu pervenit. 
+                    Si enim res cessisset aliter, timendum ipsis videbatur, 
+                    <app><lem wit="#Zimmel">ne quis</lem><rdg wit="#ed">nequis</rdg></app> immitius quam huiusmodi generis imbecilla securitas commeruisset, agere fuerit ausus, quod hercle nemo in Capis animadvertet. 
+                    Sunt enim hi qui &amp; Gallos &amp; Gallinas, par amoris moderamine <app><lem wit="#Zimmel">persequuntur</lem><rdg wit="#ed">prosecuntur</rdg></app>, 
+                    ac de gallis quidem non est quod dubitet quispiam, cum &amp; ipsi aliquando galli fuerint, 
+                    quod tu Euthyme paulo ante dicebas. 
+                    pro Gallinis vero haec indicia sunt, quod olim mares eas communi instinctu dilexere, 
+                    Et iam nunc cum excubatrix deficit, in amoris argumentum pullos fovent tactu subtus <app><lem wit="#Zimmel">iacentium</lem><rdg wit="#ed">iacentum</rdg></app> pullorum pruriente, quoque se oblectantes, 
+                    semper deinceps, amant ducunt, pascunt, 
+                    quod se expertum magnus naturae indagator, asseruit. 
+                    Quae cum vera esse constet, nemo sane Capos in arbitratu suspectos habebit, utcumque cesserit sententia, 
+                    Quam ego, ut jusserunt breviter &amp; aperte vobis Spectatores
+                    Audientibus partium patronis effabor.  
+                    <!-- 41 --> Gallinis enim &amp; Gallis plura a Capis ipsis, iuste non nihil indignantibus, 
+                    post sedatam hanc contentionem dicentur, maxime si ad aliorum nostrae provinciae aures haec res aperte pervenerit: 
+                    ut certe pervenient. 
+                    Quod enim iam sum locuturus, ex horum animis defluxit praecipue, quos hic mihi assidere videtis, 
+                    qui nostri Ornithoboscii incolae, supremae <app><lem wit="#Zimmel">auctoritatis</lem><rdg wit="#ed">autoritatis</rdg></app> locum inter omnes obtinent, 
+                    idque tenent memoria, quod a longis annis inter eos actum est, &amp; per exercitam illam prudentiam facile quid futurum sit, 
+                    odorati potuerunt, semper, ex longa &amp; honestissima consuetudine, &amp; libero provinciae suae decreto, 
+                    in difficillimarum rerum <app><lem wit="#Zimmel">aestimatione</lem><rdg wit="#ed">estimatione</rdg></app> omnium consensu, primores. 
+                    Hi igitur acclamantibus qui domi nostrae sunt reliquis, ingenue fatentur, fere omnia ab Gallis, 
+                    Gallinisque gnaviter &amp; attente agi, remque rusticam &amp; villaticas divitias, per eos levissimis impensis augeri, 
+                    Esse tamen, quod in utroque (ut imbecillitas fert mortalium) <app><lem wit="#Zimmel">vitio</lem><rdg wit="#ed">vicio</rdg></app> dare quis possit. 
+                    Nimis enim morosas Gallinas, Gallos vero nimis petulantes, saepe animadvertisse asserunt, nec morigerantes semper Gallinas, nec Gallos semper tuentes. 
+                    Quae quidem, cum &amp; inter homines habeant libertatem impunem, quis gallis &amp; gallinis imputabit? 
+                    At istud consilium quo per invidiam correptae Gallinae, eo dementiae pervenerunt, 
+                    ut Gallorum famam inter mortales illustrem admodum &amp; prespectam, 
+                    infringere atque infamem reddere, rebus non tam veris quam confictis &amp; perperam excogitatis conatae fuerint, adeo displicet, 
+                    ut quod maxime. 
+                    Nullo enim instituto major ruina, rei suae publicae parari poterat, si eo voto ad metam perventum esset, quo res coepta est. 
+                    Idcirco partium consiliis diligenter perpensis, cognitoque universo <app><lem wit="#Zimmel">negotii</lem><rdg wit="#ed">negocii</rdg></app> excursu, non possunt non asserere, Gallis strenuis illatam esse injuriam. 
+                    Quod tu Philonice, ubi Gallinis dixeris ne <app><lem wit="#Zimmel">aegre ferant</lem><rdg wit="#ed">aegreferant</rdg></app>, oratas habeto, 
+                    Apertae enim <app><lem wit="#Zimmel">justitiae</lem><rdg wit="#ed">justiciae</rdg></app> nemo commode pro  <!-- 42 --> amicis etiam amicissimis, refragari potest, cumque justae poenae non nihil loci in Gallinis esse videretur, 
+                    eam abolitam &amp; expunctam in amoris sui argumentum volvere. 
+                    Novistis legem, quae Iudices in levioribus causis vult esse ad lenitatem proniores, 
+                    In gravioribus autem poenis, severitatem legum cum aliquo temperamento benignitatis subsequi. 
+                    Capi causae nostra non judices sed Arbitri, poenam commissi, hercle non parui: 
+                    non temperare, sed non reminisci volverunt Eius loco munus <app><lem wit="#Zimmel">exspectantes</lem><rdg wit="#ed">expectantes</rdg></app> pulcherrimum, &amp; partibus commodissimum, 
+                    Concordiam videlicet &amp; matrimonii perenni pace stabiliti mite comertium, 
+                    ad quod praestandum, tu Philonice, tuque Euthyme, cum domum venietis, Gallos, Gallinasque, iterum atque iterum hortemini. 
+                    QUID est enim, Dii boni, in ea familia, qua vir &amp; uxor rerum habent administrationem, divinius? 
+                    Quid utilius pace &amp; amore? 
+                    Magnum legislatorem dixisse ferunt, Vitam reliquam minime videndam esse, quando uxor cum viro in discordia est. 
+                    Ubi enim illa est morosa &amp; jurgiosa invidia, Ubi irae &amp; molestiae, per dies perque noctes scatent, 
+                    Ibi de vita <app><lem wit="#ed">quotidie</lem><rdg wit="#ed">cotidie</rdg></app> plus amittitur, adeo, ut mortuum esse satius esset, quam ad mortem tam lento &amp; molesto passu pervenire. 
+                    Monendae igitur Philonice sunt Gallinae, ut se suosque maritos ament, remque domesticam current, &amp; invidiae errore conceptae stimulos, 
+                    ex animis suis procul eliminent, sintque probae (Conjuge, namque proba nihil <app><lem wit="#Zimmel">exstat</lem><rdg wit="#ed">extat</rdg></app> dulcius usquam) &amp; apertae, 
+                    ut virorum suorum major per haec salus, majorque quies astruatur. 
+                    Non frustra diligens quidam rei domesticae praeceptor dixit, 
+                    Existimo probam conjugem, sociam domus esse, magnumque momentum ad viri <app><lem wit="#Zimmel">felicitatem</lem><rdg wit="#ed">foelicitatem</rdg></app>. 
+                    Natura siquidem, quam primus ille mundi genitor perpetua <app><lem wit="#Zimmel">fecunditate</lem><rdg wit="#ed">foecunditate</rdg></app> donavit, operam mulieris ad domesticam diligentiam comparavit, 
+                    Viri vero ad exercitationem extraneam, 
+                    Itaque viro calores &amp; frigora perpetienda, 
+                    tum  <!-- 43 --> etiam laborem pacis &amp; belli distribuit, mulieri autem domestica <app><lem wit="#Zimmel">negotia</lem><rdg wit="#ed">negocia</rdg></app> curanda tradidit, 
+                    quae ut curaret diligentius, viro timidiorem esse voluit. 
+                    Nam metus ad diligentiam custodiendi plurimum confert nobilis agricolae testimonio, 
+                    Perperam ergo invident Gallinae Gallis honestam illam, socialis pugnae exercitationem, &amp; haec quasi militaria stipendia, 
+                    quae in viris <app><lem wit="#ed">rempublicam</lem><rdg wit="#Zimmel">rem publicam</rdg></app> apud majores administrantibus raro desiderata sunt. 
+                    Ex his enim exerciti propugnabunt audentius, &amp; timebunt minus, 
+                    quos tu Euthyme, tu Gallinas conjuges continenter ament curentque obsecrato, decet hoc eos, 
+                    quia <app><lem wit="#ed">reipublicae</lem><rdg wit="#Zimmel">rei publicae</rdg></app> nostrae suo imperio aemuli cognoscuntur. 
+                    Praeterea, ut omnium injuriarum oblivio sit. 
+                    Fidus enim &amp; sincerus amor ibi esse non potest, ubi injuriarum memoriam, latentibus scintillis invidia nutrit. 
+                    Quod si pristinae benevolentiae favore, resipiscentes Gallinae, Gallique amantes consenserint, salvi erunt, vitamque agent beatam &amp; utilissimam his, 
+                    quorum <app><lem wit="#Zimmel">praediis</lem><rdg wit="#ed">prediis</rdg></app> suam istam civitatem locaverint. 
+                    Nobilis Poetae sententia est. Nec divitias nec quicquam aliud tantum voluptatis habere, quantum virum &amp; uxorem bonos. 
+                    Eam si domi vestrae Gallis &amp; Gallinis explicabitis sese amabunt, ut antea, 
+                    Capisque agent, ut certe <app><lem wit="#Zimmel">debent</lem><rdg wit="#ed">daebent</rdg></app>, infinitas gratias, 
+                    Ite igitur actutum domum, &amp; concordiae consulite, 
+                    in cuius solius incolumitate, Gallinarum &amp; Gallorum sita est salus, dixi.
+                </p>
+            </sp> 
+            
+        </body>
+    </text>
+</TEI>
