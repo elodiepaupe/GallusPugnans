@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="fr">
         <fileDesc>
@@ -45,162 +47,170 @@
                     <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.</p>
                 </normalization>
                 <correction>
-                    <p>Les corrections qui sont apportées au texte sont faites sous forme d'apparat critique.</p>
+                    <p>Les corrections sont encodées.</p>
                 </correction>
+                <hyphenation>
+                    <p>La césure des mots en fin de ligne ne respecte pas l'original.</p>
+                </hyphenation>
                 <punctuation>
                     <p>La ponctuation est conservée</p>
                 </punctuation>
                 <quotation>
-                    <p>Les citations marquées dans la marge latérale figurent dans l'apparat des sources.</p>
-                    <p>Les éventuelles autres marques d'intertextualité du texte figurent dans un apparat secondaire.</p>
+                    <p>Les citations marquées dans l'original sont encodées.</p>
+                    <p>Les éventuelles autres marques d'intertextualité du texte sont encodées.</p>
                 </quotation>
                 <segmentation>
                     <p>La segmentation de la source est conservée.</p>
                 </segmentation>
             </editorialDecl>
         </encodingDesc>
-        <revisionDesc>
-            <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
-        </revisionDesc> 
         <profileDesc>
             <langUsage>
                 <language ident="la">Latin</language>
                 <language ident="fr">Français</language>
             </langUsage>
         </profileDesc> 
+        <revisionDesc>
+            <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
+        </revisionDesc> 
     </teiHeader>
-    <text>
+    <text type="dialogue">
         <body>
             <head>Parasceve, Instituendae concordiae collocutores<note>36-39</note></head>
             
             <stage> Philonicus Euthymus Nomothetes</stage>
-            <sp><p>
-                Audistis hactenus, Spectatores, ephebi, grandevi &amp; medioximi: me narrante 
-            breviter, Euthymo vero longissime &amp; fastidiosissime, quid Gallinae defiderent, quid Galli reponant:<!-- 37 -->
+            <sp><speaker>Philonicus</speaker>
+                <p>
+                Audistis hactenus, Spectatores, ephebi, grandævi &amp; medioximi: me narrante 
+            breviter, Euthymo vero longissime &amp; fastidiosissime, quid Gallinae desiderent, quid Galli reponant:<!-- 37 -->
             sive potius Euthymus, qui de Gallis ea retulit, quae ne ipsi quidem sciunt, &amp; si scirent ne unquam crederent.</p>
             </sp>
-            <sp><speaker>Eu.</speaker> 
-                <p>Audistis inquam Spect. quam inique gallinae accusarint, quanquam pertinenter, argumentis evidentibus, &amp; indiciis plus quam veris galli se me Patrono
-            purgarint. Qui etsi ea quae dicta sunt: aut proposita per Philonicum neququam dictum iri putarunt, Propterea, q aliter sensurum amo
-            rem, aliter fidem, aliter conjugium credidere, Suspicati tamen plaeraque eas injuriae loco habituras me purgationis &amp; defensionis
-            provinciam ita subire volvere, ut inihil praterirem eorum, quae ad gloriam suam pertinere viderentur, qd quidem pro virli perfeci, respondendo
-            magis, qua retaxando, multa enim consulto pratermissa sunt, quae 
+            <sp><speaker>Euthymus</speaker> 
+                <p>Audistis inquam Spectatores quam inique gallinae accusarint, quanquam pertinenter, argumentis evidentibus, &amp; indiciis plus quam veris galli se me Patrono
+            purgarint. Qui etsi ea quae dicta sunt: aut proposita per Philonicum nequaquam dictum iri putarunt, Propterea, q aliter sensurum amo
+            rem, aliter fidem, aliter conjugium credidere, Suspicati tamen pleraque eas injuriae loco habituras me purgationis &amp; defensionis
+            provinciam ita subire volvere, ut nihil præterirem eorum, quae ad gloriam suam pertinere viderentur, quod quidem pro virili perfeci, respondendo
+            magis, qua retaxando, multa enim consulto prætermissa sunt, quae 
             vehementibus verborum aculeis ex officio prosequi potuissem, si
-            me adcrescentis oratinis vastitas non absterruisset, Magis igitur
-            tibi PHilo. temeritatis culpa tribuenda est, quam mihi longitudinis, 
+            me adcrescentis orationis vastitas non absterruisset, Magis igitur
+            tibi Philo. temeritatis culpa tribuenda est, quam mihi longitudinis, 
             Potest, ingens maledicentia, paucissimis verbis comprehendi, imo
-            quinque tantum litteris ut si dixero, Fures? amoveri aunt &amp; expungi paucis non potest.</p>
+            quinque tantum litteris ut si dixero, Fures? amoveri aut &amp; expungi paucis non potest.</p>
             </sp> 
             <sp>
-                <speaker>Phi.</speaker> 
+                <speaker>Philonicus</speaker> 
                 <p>Saepe in me maledicentiam, tu vaniloquentia notas, an non tu vaniloquus es potius, quod me bonam 
             operam pro virili navantem, maledictum dicere falso audes, Videsis
             Euthyme, &amp; cognoscens loquitor, instituam ego (mihi crede) isti
             tuae tam inverecundae petulantiae, alio in loco ultionem.</p>
             </sp> 
             <sp>
-                <speaker>Eut.</speaker> 
-                <p>Heus Spec. non est satis a Philonico, tot falso Gallis esse ascripta, 
+                <speaker>Euthymus</speaker> 
+                <p>Heus Spectatores non est satis a Philonico, tot falso Gallis esse ascripta, 
             nisi etiam in Euthymo libidinem exaturet: minans ipse aliam iam nunc
-            aliarum injuriarum actionem instituit, Pergamus obsercro Philo. ne gallorum &amp; gallinatum obliti, in alius causae luctam acerbiorem deveniamus</p>
+            aliarum injuriarum actionem instituit, Pergamus obsecro Philonice ne gallorum &amp; gallinarum obliti, in alius causae luctam acerbiorem deveniamus</p>
             </sp>
             <sp>
-                <speaker>PHi,</speaker> 
-                <p>&amp; istud mihi adprime placet, quanquam te monitum velim, ut horum quae in me dixti memor sis, ego enim ea non intermittam, nec ut sepulta prateribo.</p></sp> 
+                <speaker>Philonicus</speaker> 
+                <p>&amp; istud mihi adprime placet, quanquam te monitum velim, ut horum quae in me dixisti memor sis, ego enim ea non intermittam, nec ut sepulta præteribo.</p></sp> 
             <sp>
-                <speaker>Eut.</speaker> 
-                <p>Dicite ergo Spect. ut estis hortati, &amp; sententiam pronunciate, novistis insontissimos Gallos.</p></sp> 
+                <speaker>Euthymus</speaker> 
+                <p>Dicite ergo Spectores ut estis hortati, &amp; sententiam pronuntiate, novistis insontissimos Gallos.</p></sp> 
             <sp>
-                <speaker>PHi.</speaker> 
-                <p>Dicite obsecro Spect. optimi, novistis optimas &amp; <!-- 38 -->insontissimas Gallinas.</p></sp>
+                <speaker>Philonicus</speaker> 
+                <p>Dicite obsecro Spectores optimi, novistis optimas &amp; <!-- 38 -->insontissimas Gallinas.</p></sp>
             <sp>
-                <speaker>Eut.</speaker> 
+                <speaker>Euthymus</speaker> 
                 <p>Eheu quid tacetis, ita enim utra pars occubuerit, haud promptum erit intelligere.</p>
             </sp> 
             <sp>
-                <speaker>PHi,</speaker> 
+                <speaker>Philonicus</speaker> 
                 <p>Eia age, profemini, quod vobis est in animo, reique finem date, fastidiosa est illa in re satis proposita, satisque clara, cunctatio.</p>
             </sp> 
             <sp>
-                <speaker>Eut.</speaker> 
-                <p>Tacere omnes sentis, mussare, tamen vides, &amp; conari quicquam non nullos. Quod si unus
-            verba faceret primus, plures sensum essemus audituri. Etenim, 
-            cum respondere omnes nequeant. singuli eum qui primus loqui audeat, 
-            expectant: quem tandem ordientem, certatim urgere &amp; impellere (ut
-            saepe in coetu sit) reliqui multitudo solet.</p>
+                <speaker>Euthymus</speaker> 
+                <p>Tacere omnes sentis, mussare, tamen vides, &amp; conari quicquam non nullos. 
+                    Quod si unus verba faceret primus, plures sensum essemus audituri. 
+                    Etenim, cum respondere omnes nequeant. singuli eum qui primus loqui audeat, expectant: 
+                    quem tandem ordientem, certatim urgere &amp; impellere (ut saepe in coetu sit) reliqui multitudo solet.</p>
             </sp> 
             <sp>
-                <speaker>PHi.</speaker> 
+                <speaker>Philonicus</speaker> 
                 <p>Ego te Nomothetes, cum prudentissimis quibusque consiliorum acumine par sis, tam 
             diu tacere, attente audientem, admodum miror, Effare obsecro, 
-            quod foelix faustumque fiet ut et alii aut in tu sententia conquiescant, aut
+            quod felix faustumque fiet ut et alii aut in tu sententia conquiescant, aut
             ad dicendum invitati, quae animo concepere, proloquantur, nosque cum
             primis quid sentias, non ignoremus, Amas tu quidem, ut scio, Gallinas, &amp; Ornithoboscia frequentissima, ea villa fovet, quam nuper ad 
-            subrubanum, exedificasti.</p>
+            suburbanum, exædificasti.</p>
             </sp> 
             <sp>
-                <speaker>EUt.</speaker> 
-                <p>Salva res est, eloquente Nomothete potest enim caeteris qui assunt, recte sentiendi exemplum, praebere. Dicito ergo mi Nomothetes, et ordire faustiter.</p>
+                <speaker>Euthymus</speaker> 
+                <p>Salva res est, eloquente Nomothete potest enim ceteris qui assunt, recte sentiendi exemplum, praebere. 
+                    Dicito ergo mi Nomothetes, et ordire faustiter.</p>
             </sp> 
             <sp>
-                <speaker>Nom.</speaker> 
+                <speaker>Nomothetes</speaker> 
                 <p>Quia me Philonice, tuque Euthyme, adeo ut primus eloquar: 
-            quod sentio hortamini, duco non tacendum esse, maxime quod nullius
-            sententia nostra opinione, praeveritur. Idque omnium maxime velim ut 
-            Capos castratos in vestra illa disceptatione, Galli, Gallinaeque
-            arbitros deligerent. Iudices enim esse non possunt cum sint Eunuchi, 
-            id quod nostrarum legum sanctione, si bene sentio, comprehenssum est, Arbitri Hercle optime erunt ob communis amicitiae vinculum &amp; mores utrisque multis annis examussim perspectos, Et hoc etiam vocabulum, illo plus est honorum, Nam arbitrorum officium, multo mansuetius, multoque in affinium &amp; conjugum dissidiis oportunuis. Hos
-            enim legum adeo non ligat severitas, quin multa possint pro partium 
-            commodo mansuetissime moderari. Illos autem officii rigor legumque<!-- 39 -->
-            dictamen non sinunt nisi cum incommodo qudam mites esse. Praete
-            rea, Odiosissimum est, pati iudicem qui nostri generis non sit, Ad sui 
-            enim ordinis iudicem fugere debetlegibus &amp; natura promittentibus, 
-            quisquis accusatur eumque sequatur, qui accusat oportet. Quia egitur 
-            utraque pars, Caporum fidem vestris verbis imploravit, quod ego
-            praecaeteris iter audiendum animadverti, quos alios commode praeter Capos, obsecro, instituetis Arbitros?</p>
+                    quod sentio hortamini, duco non tacendum esse, maxime quod nullius
+                    sententia nostra opinione, praevertitur. Idque omnium maxime velim ut 
+                    Capos castratos in vestra illa disceptatione, Galli, Gallinaeque arbitros deligerent. 
+                    Iudices enim esse non possunt cum sint Eunuchi, 
+                    id quod nostrarum legum sanctione, si bene sentio, comprehensum est, 
+                    Arbitri Hercle optime erunt ob communis amicitiae vinculum &amp; mores utrisque multis annis examussim perspectos, 
+                    Et hoc etiam vocabulum, illo plus est honorum, 
+                    Nam arbitrorum officium, multo mansuetius, multoque in affinium &amp; conjugum dissidiis oportunuis. 
+                    Hos enim legum adeo non ligat severitas, quin multa possint pro partium commodo mansuetissime moderari. 
+                    Illos autem officii rigor legumque<!-- 39 --> dictamen non sinunt nisi cum incommodo quodam mites esse. 
+                    Praeterea, Odiosissimum est, pati iudicem qui nostri generis non sit, Ad sui 
+                    enim ordinis iudicem fugere debet legibus &amp; natura promittentibus, 
+                    quisquis accusatur eumque sequatur, qui accusat oportet. 
+                    Quia igitur utraque pars, Caporum fidem vestris verbis imploravit, 
+                    quod ego praecaeteris iter audiendum animadverti, 
+                    quos alios commode praeter Capos, obsecro, instituetis Arbitros?</p>
             </sp> 
             <sp>
-                <speaker>EUR.</speaker> 
-                <p>Hercle ita fieri desidero, ut Nomothetae placet, utque aliis ips anuentibus placere vido verum quis Caporum commodus interpres erit?</p>
+                <speaker>Euthymus</speaker> 
+                <p>Hercle ita fieri desidero, ut Nomothetae placet, utque aliis ipsi annuentibus placere video. 
+                    Verum quis Caporum commodus interpres erit?</p>
             </sp>
             <sp>
-                <speaker>PHi.</speaker> 
-                <p>Prius quaerere, an Gallis, Gallinisque hoc ipsum sit placiturum Euthymue, his siquidem nolentibus nihil loci Nomothetae consulta
-            obtinebunt.
-                </p>
+                <speaker>Philonicus</speaker> 
+                <p>Prius quaerere, an Gallis, Gallinisque hoc ipsum sit placiturum Euthyme, his siquidem nolentibus nihil loci Nomothetae consulta obtinebunt.</p>
             </sp> 
             <sp>
-                <speaker>NOm.</speaker> 
+                <speaker>Nomothetes</speaker> 
                 <p>Quin igitur, quid velint rimamini?</p>
             </sp>
             <sp>
-                <speaker>PHi.</speaker> 
+                <speaker>Philonicus</speaker> 
                 <p>iam rimabimur si placet Euthyme?</p>
             </sp>
             <sp>
-                <speaker>EUT.</speaker> <p>perplacet. Vos interim Spectatores Spectatores libero &amp; hilario animo eritis.</p>
+                <speaker>Euthymus</speaker> <p>perplacet. Vos interim Spectatores Spectatores libero &amp; hilaro animo eritis.</p>
             </sp>
             <sp>
-                <speaker>NOM.</speaker> 
-                <p>Video ego medius fidius, trisque acceptos esse Capos, nam utrique connivent &amp; verbis quoque assentiuntur, Verum revertentes audiamus.</p>
+                <speaker>Nomothetes</speaker> 
+                <p>Video ego medius fidius, trisque acceptos esse Capos, nam utrique conivent &amp; verbis quoque assentiuntur, verum revertentes audiamus.</p>
             </sp>
             <sp>
-                <speaker>PHI.</speaker> 
+                <speaker>Philonicus</speaker> 
                 <p>Pulchre Gallinae sibi evenisse putant, quod Capos arbitros habiturae sunt.</p>
             </sp> 
             <sp>
-                <speaker>EUt.</speaker> 
-                <p>Et pulcherime Galli, nam Capi Galli aliquando fuere, Gallinae nunquam.</p>
+                <speaker>Euthymus</speaker> 
+                <p>Et pulcherrime Galli, nam Capi Galli aliquando fuere, Gallinae nunquam.</p>
             </sp>
             <sp>
-                <speaker>PHi.</speaker> 
-                <p>Subiobsecro Nomothete, provinciam id eloquendi quod Capi volunt. Nullum enim omnium scio qui majori ipsis familiaritate, inter ociandum  junctus sit. 
-                    Enarra igitur eis prius rem omnem ut eam acceptisti, &amp; Democriti herba, qua multarum volucrum sermonem intelligis, gnaviter utete.</p>
+                <speaker>Philonicus</speaker> 
+                <p>Subi obsecro Nomothete, provinciam id eloquendi quod Capi volunt. 
+                    Nullum enim omnium scio qui majori ipsis familiaritate, inter oriandum junctus sit. 
+                    Enarra igitur eis prius rem omnem ut eam accepisti, &amp; Democriti herba, qua multarum volucrum sermonem intelligis, gnaviter utere.</p>
             </sp> 
             <sp>
-                <speaker>NOM.</speaker> 
+                <speaker>Nomothetes</speaker> 
                 <p>Quia ita Patroni vultis ita agetur, verum immorandum est paulisper donec omnia explicem Capis, &amp; quae rursum dicenda sint accipiam. 
-                    Vos interim Spect. orate superos, ut Nomothetes voster ex Caporum Senatu id referat, quod pro pace &amp; concordia, tantae discordiae prospere faxit.</p>
+                    Vos interim Spectatores orate superos, ut Nomothetes voster ex Caporum Senatu id referat, 
+                    quod pro pace &amp; concordia, tantae discordiae prospere faxit.</p>
             </sp> 
             
         </body>
