@@ -18,6 +18,7 @@
     	{\end{hyphenrules}}
         \usepackage{hyperref}
         \usepackage[noend,series={A,B},noeledsec, noledgroup]{reledmac}
+            \Xarrangement[A]{paragraph}
         \usepackage{reledpar}
         \usepackage {lineno}
         \usepackage[a4paper]{geometry}
@@ -34,12 +35,11 @@
         \date{Semestre de printemps 2020}
         
         \maketitle
-        \begin {linenumbers} [1]
-		  \modulolinenumbers [5]
+        \beginnumbering 
     </xsl:text>
             <xsl:apply-templates select="//body"/>
     <xsl:text> 
-        \end{linenumbers}
+        \endnumbering
         \end{latin}
         \end{document}
     </xsl:text>
@@ -58,9 +58,17 @@
     <xsl:template match="stage">
         <xsl:text>\subsection*{</xsl:text><xsl:value-of select="."/><xsl:text>}</xsl:text>
     </xsl:template>
-        
+    
+    <xsl:template match="sp">
+        <xsl:text>\pstart</xsl:text><xsl:apply-templates/><xsl:text>\pend</xsl:text>
+    </xsl:template>
+    
     <xsl:template match="speaker">
-        <xsl:text>\newline\textbf{</xsl:text><xsl:value-of select="."/><xsl:text>}\hspace{1cm} </xsl:text>
+        <xsl:text>\textbf{</xsl:text><xsl:value-of select="."/><xsl:text>}\hspace{1cm} </xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="app">
+        <xsl:text>\edtext{</xsl:text><xsl:value-of select="lem"/><xsl:text>}{\Afootnote{</xsl:text><xsl:value-of select="rdg"/><xsl:text>}}</xsl:text>
     </xsl:template>
     
     <xsl:template match="text()">
