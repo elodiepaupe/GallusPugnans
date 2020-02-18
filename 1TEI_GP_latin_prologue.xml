@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="fr">
+        <fileDesc>
+            <titleStmt>
+                <title>Joachim Vadianus, Gallus Pugnans</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Version électronique TEI</edition>   
+                <respStmt> 
+                    <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
+                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
+                        <date type="creation" when="2020-02"/>
+                    </resp>    
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Chaire de philologie classique</authority>
+                <address>
+                    <addrLine>Université de Neuchâtel</addrLine>
+                    <addrLine>Faculté de lettres et sciences humaines</addrLine>
+                    <addrLine>Espace Tilo-Frey 1</addrLine>
+                    <addrLine>2000 Neuchâtel</addrLine>
+                    <addrLine>http://www.unine.ch</addrLine>
+                </address>
+                <availability status="restricted" n="CC-BY-NC-SA">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+                    <p>Creative Commons Attribution 4.0 CC BY-NC-SA 4.0 FR</p>
+                    <p>NB: le texte latin employé comme source s'est élevé dans le domaine public.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Joachim Vadianus</author>
+                    <title>Gallus Pugnans</title>
+                    <publisher>?</publisher>
+                    <placeName>Vienne</placeName>
+                    <date when="1514">1514</date>
+                </bibl>
+                <listWit>
+                    <witness xml:id="ed">Editio princeps encodée</witness>
+                    <witness xml:id="Zimmel">Édition du texte avec traduction</witness>
+                    <witness xml:id="MS">Copie manuscrite de 1514</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.
+                       Les graphies sont normalisées: diphtongues tardives supprimées, ci/ti, etc.</p>
+                </normalization>
+                <correction>
+                    <p>Les corrections sont encodées.</p>
+                </correction>
+                <hyphenation>
+                    <p>La césure des mots en fin de ligne ne respecte pas l'original.</p>
+                </hyphenation>
+                <punctuation>
+                    <p>La ponctuation n'est pas conservée</p>
+                </punctuation>
+                <quotation>
+                    <p>Les citations marquées dans l'original sont encodées.</p>
+                    <p>Les éventuelles autres marques d'intertextualité du texte sont encodées.</p>
+                </quotation>
+                <segmentation>
+                    <p>La segmentation de la source est conservée.</p>
+                </segmentation>
+            </editorialDecl>
+            <variantEncoding location="internal" method="parallel-segmentation"></variantEncoding>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+                <language ident="fr">Français</language>
+            </langUsage>
+        </profileDesc> 
+        <revisionDesc>
+            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier: prologue p. 8-9 de la source.</change>
+        </revisionDesc> 
+    </teiHeader>
+    <text n="1" type="prologue">
+        <body>
+            <head>Prologium argumentum continens: Philolaus loquitur.<note>Pages 8-9 de la source
+            </note></head>
+            
+            <sp>
+                <speaker>Philolaus</speaker>
+                <p><!-- 8 -->Adverti saepe:  
+                    Spectatores <app><lem wit="#Zimmel">optumi</lem><rdg wit="#ed">optumi</rdg></app>, parvis initiis maxima inter mortales dissidia exoriri solere: 
+            Et latentem invidiam vehementissimis irarum <app><lem wit="#Zimmer">flammis</lem><rdg wit="#ed">flaminis</rdg></app> erumpere. 
+            Nec id solum nostro in genere qui rationalis creaturae gradum occupamus.  
+            Id enim minus esset mirum, hoc <app><lem wit="#Zimmel">praesertim</lem><rdg wit="#ed">presertim</rdg></app> tempore quo omnes omnibus in locis dissentiunt, 
+            Verum et in Brutis quae a ratione aliena, solo naturae instinctu pergere creduntur, <app><lem wit="#Zimmel">pro</lem><rdg wit="#ed">proh</rdg></app> boni dii, quid invidia potest?  
+            quantum secum periculi honores trahunt?  
+            Galli et Gallinae litigant.  
+            Hae invident, Illi quod annui victores sunt lacessuntur.  
+            Video vos nutare Spectatores et negare fidem novae rei, 
+            Quam tunc ut credatis, obsecro animo auribusque arrecti paucis accipite.  
+            Postquam Gallinae, quotquot in hac nostra provincia sunt, audentes Gallos, celebribus ludis, annuoque Gymnasio depugnare, et victorem Regem institui, intellexerunt, 
+            Invidia magna, quae Crescentis semper gloriae comes est, 
+            succensae atque exagitatae quod domi negligi, 
+            et ingloriae degere sibi viderent, 
+            Pumiles <app><lem wit="#Zimmel">nuntias</lem><rdg wit="#ed">nuncias</rdg></app> per omnia passim Gallinaria atque Ornithoboscia consilii instituendi gratia emiserunt, 
+            Quibus rem omnem interpretantibus decretum est consulto, 
+            ut per Patronum justae postulationis causa agatur ne prorsus alioqui imbecilla gens non Gallis modo, 
+            sed et Anaticulis, et Anseribus despectui foret, 
+            Utque Gallis per alienae linguae subsidium, inter homines quoque invidiam suscitarent, 
+            Hi vero hoc diu ludicrum esse putantes, tam frequentibus Gallinarum conventiculis, 
+            <app><lem wit="#Zimmel">tamque</lem><rdg wit="#ed">tanque</rdg></app> insolito contemptu animadverso, rem agi serio acceperunt.  
+            Et <app><lem wit="#Zimmel">e vestigio</lem><rdg wit="#ed">evestigio</rdg></app>, 
+            ne clamosae multitudini indulgendo (quod saepe evenit) dignitatis aliquid sibi aut <app><lem wit="#Zimmel">aestimationis</lem><rdg wit="#ed">estimationis</rdg></app> imminuatur, 
+            suffarcinati optimis consiliis accelerant, seque et vellicando et propugnando vindicant, 
+            Philonicus illarum  <!-- 9 --> est Patronus, 
+            Horum <app><lem wit="#ed">dissertus</lem><rdg wit="#Zimmel">dissertor</rdg></app> Euthymus,  
+            Accusat ille, Hic refutat,  
+            Resque agitur gravi admodum certamine, 
+            Capi tandem, neutrum genus nec suspectum partibus, 
+            Arbitrii nacti copiam, Gallis illatam esse injuriam <app><lem wit="#Zimmel">pronuntiant</lem><rdg wit="#ed">pronunciant</rdg></app>,  
+            interpres est Nomothetes  
+            qui ut sint concordes imperat, seque ament ut antea, Galli et Gallinae tum silentes abeunt, 
+            remque omnem ex Patronis ediscunt Domi,  
+            Lichenor tandem Parasitus, ridens factum, ridiculum <app><lem wit="#Zimmel">pronuntiat</lem><rdg wit="#ed">pronunciat</rdg></app> Audite obsecro placidis animis remque 
+            ut partibus concepta est Silentes dijudicate, Gallosque et Gallinas amabitis. 
+                </p>
+            </sp> 
+            
+        </body>
+    </text>
+</TEI>
