@@ -13,7 +13,9 @@
                     <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
                     <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
                         <date type="creation" when="2020-02"/>
-                    </resp>    
+                    </resp>   
+                    <persName xml:id="PJ" type="contributeur">Pauline Jacsont</persName>
+                    <resp>Participante de l'atelier</resp>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
@@ -72,7 +74,7 @@
         </profileDesc> 
         <revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
-            <change type="update" resp="PJ"><date when=2020-02"/>Correction ligne 11</change>
+            <change type="update" resp="#PJ"><date when=2020-02"/>Correction ligne 11</change>
         </revisionDesc> 
     </teiHeader>
     <text type="dialogue">
