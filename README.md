@@ -23,7 +23,7 @@ Sur ce dépot vous trouverez des fichiers de différents types qui forment l'arc
 Des versions PDF du texte latin et de la progression bilingue seront placés sur Moodle.
 
 ## Que faire avec les fichiers qui se trouvent sur GitHub?
-Tout dépend de vos compétences: 
+Tout dépend de vos compétences et du pilier dans lequel vous validez cet enseignement: 
 * Vous pouvez modifier les fichiers pour les mettre à jour, corriger les erreurs philologiques ou de codage.
 * Vous pouvez télécharger les documents pour découvrir les différents langages, transformer les fichiers et découvrir comment ils fonctionnent entre eux. 
 * Vous pouvez ne pas les toucher et vous contenter des versions pdf qui seront mises à disposition.
