@@ -15,10 +15,10 @@ L'imprimé numérisé se trouve [ici](https://books.google.ch/books?id=8WKhxNJ_2
 ## Types de fichiers
 Sur ce dépot vous trouverez des fichiers de différents types qui forment l'architecture des éditions monolingues et bilingues. Le fichier du XML-TEI latin est le document pivot à partir duquel nous allons générer les 
 
-* Texte latin: XML-TEI
-* Texte français pour la scène: XML-TEI
-* Fichiers de transformation vers latex et html: xslt
-* Feuilles de style: CSS
+* Texte latin: .xml
+* Fichiers de transformation vers latex et html: .xslt
+* Feuilles de style: .css
+* Fichier latex issus de la transformation du fichierlatin.xml grâce à la TEI_to_latexbilingue.xslt: .tex
 
 Des versions PDF du texte latin et de la progression bilingue seront placés sur Moodle.
 
