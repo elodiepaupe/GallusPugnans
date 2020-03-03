@@ -5,9 +5,9 @@ Ce dépôt concerne l'atelier de traduction pour le [Groupe de Théâtre antique
 
 Chères et chers étudiant·e·s, vous êtes invités à faire évoluer les différents fichiers ci-dessous. Lorsque vous apportez des corrections aux fichiers .xml, merci de le signaler dans le `<revisionDesc>` du teiHeader (l. 73): 
 
-        `<revisionDesc>
+        <revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
-        </revisionDesc>` 
+        </revisionDesc> 
 
 En modifiant les informations comme suit:
 
