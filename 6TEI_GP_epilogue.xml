@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
 <?xml-stylesheet type="text/xsl" href="TEI_to_latexbilingue.xsl"?>
-<?xml-model href="TEI_GP_schemaXML.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="TEI_to_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="fr">
         <fileDesc>
             <titleStmt>
-                <title>Partie V: arbitrage</title>
+                <title>Parti VI: épilogue</title>
             </titleStmt>
             <editionStmt>
                 <edition>Version électronique TEI</edition>   
@@ -39,7 +40,7 @@
                     <publisher>?</publisher>
                     <placeName>Vienne</placeName>
                     <date when="1514">1514</date>
-                    <biblScope unit="page" from="40" to="43">40-43</biblScope>
+                    <biblScope unit="page" from="43" to="45">43-45</biblScope>
                 </bibl>
                 <listWit>
                     <witness xml:id="ed">Editio princeps encodée</witness>
@@ -51,7 +52,7 @@
         <encodingDesc>
             <editorialDecl>
                 <normalization>
-                <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.</p>
+                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.</p>
                 </normalization>
                 <correction>
                     <p>Les corrections sont encodées.</p>
@@ -82,102 +83,57 @@
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
         </revisionDesc> 
     </teiHeader>
-    <text n="5" type="discours">
+    <text n="6" type="discours">
         <body>
-            <div type="source">
-                <head>Caporum arbitrium<!-- 40 --> Nomothetes interpres loquitur.<note>L'imprimé donne Nomotheses pour le titre.</note></head>
-            <stage>Nomothetes</stage>
-            <sp>
-                <speaker>Nomothetes</speaker>
-                <p>
-                    Recensui, ut jussistis Philonice, tuque Euthyme breviter &amp; enucleate rem omnem Capis, 
-                    qui nescio an alia in re <app><lem wit="#Zimmel">umquam</lem><rdg wit="#ed">unquam</rdg></app> adeo stupefacti fuerint, 
-                    ac hodie fuere, postquam illam inter Gallos, Gallinae que audivere <app><lem wit="#Zimmel">dissensionem</lem><rdg wit="#ed">dissentionem</rdg></app>. 
-                    Sciunt equidem, intestinis bellis nil pestilentius esse, &amp; eius <app><lem wit="#ed">reipublicae</lem><rdg wit="#Zimmel">rei publicae</rdg></app> fulcimenta durare diu non posse, 
-                    qua a capite membra dissentiant, &amp; alioqui, veritatis amator Historicus, Concordia dixit res parvas crescere, Discordia maximas dilabi. 
-                    Id quod adeo vobis est notum ut quod maxime. 
-                    Quapropter eis ne breviter accepta, 
-                    visum est eo festinantius ad moderati arbitrii praescriptum contendendum esse quanto res in se plus habitura periculi est, 
-                    si longius proteletur, Gratiasque agunt bonae forti, &amp; secundo fato quod arbitrii ad eos libertas, vestro, &amp; partium consensu pervenit. 
-                    Si enim res cessisset aliter, timendum ipsis videbatur, 
-                    <app><lem wit="#Zimmel">ne quis</lem><rdg wit="#ed">nequis</rdg></app> immitius quam huiusmodi generis imbecilla securitas commeruisset, agere fuerit ausus, quod hercle nemo in Capis animadvertet. 
-                    Sunt enim hi qui &amp; Gallos &amp; Gallinas, par amoris moderamine <app><lem wit="#Zimmel">persequuntur</lem><rdg wit="#ed">prosecuntur</rdg></app>, 
-                    ac de gallis quidem non est quod dubitet quispiam, cum &amp; ipsi aliquando galli fuerint, 
-                    quod tu Euthyme paulo ante dicebas. 
-                    pro Gallinis vero haec indicia sunt, quod olim mares eas communi instinctu dilexere, 
-                    Et iam nunc cum excubatrix deficit, in amoris argumentum pullos fovent tactu subtus <app><lem wit="#Zimmel">iacentium</lem><rdg wit="#ed">iacentum</rdg></app> pullorum pruriente, quoque se oblectantes, 
-                    semper deinceps, amant ducunt, pascunt, 
-                    quod se expertum magnus naturae indagator, asseruit. 
-                    Quae cum vera esse constet, nemo sane Capos in arbitratu suspectos habebit, utcumque cesserit sententia, 
-                    Quam ego, ut jusserunt breviter &amp; aperte vobis Spectatores
-                    Audientibus partium patronis effabor.  
-                    <!-- 41 --> Gallinis enim &amp; Gallis plura a Capis ipsis, iuste non nihil indignantibus, 
-                    post sedatam hanc contentionem dicentur, maxime si ad aliorum nostrae provinciae aures haec res aperte pervenerit: 
-                    ut certe pervenient. 
-                    Quod enim iam sum locuturus, ex horum animis defluxit praecipue, quos hic mihi assidere videtis, 
-                    qui nostri Ornithoboscii incolae, supremae <app><lem wit="#Zimmel">auctoritatis</lem><rdg wit="#ed">autoritatis</rdg></app> locum inter omnes obtinent, 
-                    idque tenent memoria, quod a longis annis inter eos actum est, &amp; per exercitam illam prudentiam facile quid futurum sit, 
-                    odorati potuerunt, semper, ex longa &amp; honestissima consuetudine, &amp; libero provinciae suae decreto, 
-                    in difficillimarum rerum <app><lem wit="#Zimmel">aestimatione</lem><rdg wit="#ed">estimatione</rdg></app> omnium consensu, primores. 
-                    Hi igitur acclamantibus qui domi nostrae sunt reliquis, ingenue fatentur, fere omnia ab Gallis, 
-                    Gallinisque gnaviter &amp; attente agi, remque rusticam &amp; villaticas divitias, per eos levissimis impensis augeri, 
-                    Esse tamen, quod in utroque (ut imbecillitas fert mortalium) <app><lem wit="#Zimmel">vitio</lem><rdg wit="#ed">vicio</rdg></app> dare quis possit. 
-                    Nimis enim morosas Gallinas, Gallos vero nimis petulantes, saepe animadvertisse asserunt, nec morigerantes semper Gallinas, nec Gallos semper tuentes. 
-                    Quae quidem, cum &amp; inter homines habeant libertatem impunem, quis gallis &amp; gallinis imputabit? 
-                    At istud consilium quo per invidiam correptae Gallinae, eo dementiae pervenerunt, 
-                    ut Gallorum famam inter mortales illustrem admodum &amp; prespectam, 
-                    infringere atque infamem reddere, rebus non tam veris quam confictis &amp; perperam excogitatis conatae fuerint, adeo displicet, 
-                    ut quod maxime. 
-                    Nullo enim instituto major ruina, rei suae publicae parari poterat, si eo voto ad metam perventum esset, quo res coepta est. 
-                    Idcirco partium consiliis diligenter perpensis, cognitoque universo <app><lem wit="#Zimmel">negotii</lem><rdg wit="#ed">negocii</rdg></app> excursu, non possunt non asserere, Gallis strenuis illatam esse injuriam. 
-                    Quod tu Philonice, ubi Gallinis dixeris ne <app><lem wit="#Zimmel">aegre ferant</lem><rdg wit="#ed">aegreferant</rdg></app>, oratas habeto, 
-                    Apertae enim <app><lem wit="#Zimmel">justitiae</lem><rdg wit="#ed">justiciae</rdg></app> nemo commode pro  <!-- 42 --> amicis etiam amicissimis, refragari potest, cumque justae poenae non nihil loci in Gallinis esse videretur, 
-                    eam abolitam &amp; expunctam in amoris sui argumentum volvere. 
-                    Novistis legem, quae Iudices in levioribus causis vult esse ad lenitatem proniores, 
-                    In gravioribus autem poenis, severitatem legum cum aliquo temperamento benignitatis subsequi. 
-                    Capi causae nostra non judices sed Arbitri, poenam commissi, hercle non parui: 
-                    non temperare, sed non reminisci volverunt Eius loco munus <app><lem wit="#Zimmel">exspectantes</lem><rdg wit="#ed">expectantes</rdg></app> pulcherrimum, &amp; partibus commodissimum, 
-                    Concordiam videlicet &amp; matrimonii perenni pace stabiliti mite comertium, 
-                    ad quod praestandum, tu Philonice, tuque Euthyme, cum domum venietis, Gallos, Gallinasque, iterum atque iterum hortemini. 
-                    QUID est enim, Dii boni, in ea familia, qua vir &amp; uxor rerum habent administrationem, divinius? 
-                    Quid utilius pace &amp; amore? 
-                    Magnum legislatorem dixisse ferunt, Vitam reliquam minime videndam esse, quando uxor cum viro in discordia est. 
-                    Ubi enim illa est morosa &amp; jurgiosa invidia, Ubi irae &amp; molestiae, per dies perque noctes scatent, 
-                    Ibi de vita <app><lem wit="#ed">quotidie</lem><rdg wit="#ed">cotidie</rdg></app> plus amittitur, adeo, ut mortuum esse satius esset, quam ad mortem tam lento &amp; molesto passu pervenire. 
-                    Monendae igitur Philonice sunt Gallinae, ut se suosque maritos ament, remque domesticam current, &amp; invidiae errore conceptae stimulos, 
-                    ex animis suis procul eliminent, sintque probae (Conjuge, namque proba nihil <app><lem wit="#Zimmel">exstat</lem><rdg wit="#ed">extat</rdg></app> dulcius usquam) &amp; apertae, 
-                    ut virorum suorum major per haec salus, majorque quies astruatur. 
-                    Non frustra diligens quidam rei domesticae praeceptor dixit, 
-                    Existimo probam conjugem, sociam domus esse, magnumque momentum ad viri <app><lem wit="#Zimmel">felicitatem</lem><rdg wit="#ed">foelicitatem</rdg></app>. 
-                    Natura siquidem, quam primus ille mundi genitor perpetua <app><lem wit="#Zimmel">fecunditate</lem><rdg wit="#ed">foecunditate</rdg></app> donavit, operam mulieris ad domesticam diligentiam comparavit, 
-                    Viri vero ad exercitationem extraneam, 
-                    Itaque viro calores &amp; frigora perpetienda, 
-                    tum  <!-- 43 --> etiam laborem pacis &amp; belli distribuit, mulieri autem domestica <app><lem wit="#Zimmel">negotia</lem><rdg wit="#ed">negocia</rdg></app> curanda tradidit, 
-                    quae ut curaret diligentius, viro timidiorem esse voluit. 
-                    Nam metus ad diligentiam custodiendi plurimum confert nobilis agricolae testimonio, 
-                    Perperam ergo invident Gallinae Gallis honestam illam, socialis pugnae exercitationem, &amp; haec quasi militaria stipendia, 
-                    quae in viris <app><lem wit="#ed">rempublicam</lem><rdg wit="#Zimmel">rem publicam</rdg></app> apud majores administrantibus raro desiderata sunt. 
-                    Ex his enim exerciti propugnabunt audentius, &amp; timebunt minus, 
-                    quos tu Euthyme, tu Gallinas conjuges continenter ament curentque obsecrato, decet hoc eos, 
-                    quia <app><lem wit="#ed">reipublicae</lem><rdg wit="#Zimmel">rei publicae</rdg></app> nostrae suo imperio aemuli cognoscuntur. 
-                    Praeterea, ut omnium injuriarum oblivio sit. 
-                    Fidus enim &amp; sincerus amor ibi esse non potest, ubi injuriarum memoriam, latentibus scintillis invidia nutrit. 
-                    Quod si pristinae benevolentiae favore, resipiscentes Gallinae, Gallique amantes consenserint, salvi erunt, vitamque agent beatam &amp; utilissimam his, 
-                    quorum <app><lem wit="#Zimmel">praediis</lem><rdg wit="#ed">prediis</rdg></app> suam istam civitatem locaverint. 
-                    Nobilis Poetae sententia est. Nec divitias nec quicquam aliud tantum voluptatis habere, quantum virum &amp; uxorem bonos. 
-                    Eam si domi vestrae Gallis &amp; Gallinis explicabitis sese amabunt, ut antea, 
-                    Capisque agent, ut certe <app><lem wit="#Zimmel">debent</lem><rdg wit="#ed">daebent</rdg></app>, infinitas gratias, 
-                    Ite igitur actutum domum, &amp; concordiae consulite, 
-                    in cuius solius incolumitate, Gallinarum &amp; Gallorum sita est salus, dixi.
-                </p>
-            </sp>
-            </div>
             
-            <div type="traduction">
-                <head>Arbitrage des chapons, l'interprète Nomothetes parle.</head>
-                <stage>Nomothetes</stage>
+            
+            <div type="source">
+                <head>Lichenor parasitus, loquitur.</head>
+                <stage>Lichenor</stage>
                 <sp>
-                    <speaker>Nomothetes</speaker>
+                <speaker>Lichenor</speaker>
+                <p>
+                    Ehodum Spectatores, quidnam est, quod adeo dispalescitis unius hominis inepta, &amp; nimis in levissima re gravi sententia saturi? 
+                    numquid &amp; vos quicquam estis bona Minerva, bonoque Genio his subjuncturi quae Nomothetes attulit? 
+                    State paullulum  <!-- 44 --> obsecro &amp; quantum in multorum cosiliis frugis extet perdiscite. 
+                    Vetus est sententia, Neminem unum omnia noscere, &amp; hoc itidem percelebratum. 
+                    Sape etiam est olitor valde oportuna locutus. 
+                    Parasitum me noscitis Lichenora, qui Parasitando multis iam annis ventrem pavi meum, &amp; alienum cibum ceu musculus quidam semper edi, nullorum edacitate unquam victus, vestibusque ut videtis non plane sumptuosis, nec plane sordidis amictus. 
+                    Qui consiliis haud quaquam malis, levi adolescentiae saepe suppetiatum affui. 
+                    En ego si nemo ex vobis aliud est dicturus, quid sentiam ipse eloquar, esto non multum amplius loci mea sententia, habitura sit, propterea quod absunt partes, dicam tamen quod dicturus antea fueram, quan quam me fortassis ut hominem semissem, nihil ad rem dicere posse, existiment non nulli. 
+                    Non enim barba, nec pallio, nec pallore in faciem inducto Cimino, prudentiam ostento, id quod solent multi, Sed Lichenora me &amp; ore &amp; habitu profiteor, quid mihi abscondita, intra calviciem, &amp; calvam hanc calvariam, mea mens, secum saepe mussitet, non omnibus est in aperto. 
+                    Idcirco Lichenora audite contendite, paulumque ipsi date morae, quo se a screatu liberet, ne raucus Orator appareat, Hem, hem, Ho, oho, Pfhui. 
+                    Ah male ex gutture habeo, ob hesternum acre &amp; immaturum vinum, quod mihi Saturio combibo &amp; convivator meus in coena dedit. 
+                    Verum vos spectatores non vocem sed verba pensabitis. 
+                    Audistis hodie, quid conductus donis animus possit, quantumque muneribus suscitatae, vires incrementi summant. 
+                    Philonicum ego his quatuor annis proximis, quibus mihi est familiaris, nunquam gravius loquentem audivi, &amp; eo viso primum an Philonicus esset dubitare occoepi, Cum enim una sumus in coena, salibus me &amp; lepore parasitico multo est urbanior, &amp; ea ludit, quae elegans solet Pantomimus. 
+                    Cum obaeratus praemiis loquitur, talis est quem audistis.  
+                    <!-- 45 --> Magnae primum artis esse mihi videtur, variare posse vultum &amp;, cum sapientia est opus, sapeintis pellem induere. 
+                    Euthymus ipse, paulo gravior cum domi est, &amp; si me amet, non tamen levitate superat, Ast animum exhilarat meis ineptiis suum, tu inde atratos &amp; bicolores codices minus moleste volvere queat, Quem heri fere hoc dicturum olfeci, quae hocide dixit, multum enim sudoris in chartis reliquerat, antequam potaret, quod si tot horis non dormiisset, perturbasset ordinem, &amp; susceptis donis nequaquam fecisset satis. 
+                    Nomothetes, qui legibus suis barbatorum hominum sapientiam adnexuit, idem in Gallorum Gallinarumque lite referendum putavit, quod refertur, dum maximi principis in maxima discordia sunt, nimis in frivolis rebus studiosus. 
+                    Verum quid ego hos imprudens enumero Spectatores Si mihi non imputatum fuisset praecaeteris clamanti, hi haec verba, ut in animum venerant, pronunciassem. Gallos &amp; Gallinas cum Capis, quia mihil apud eos aeris est, quo litis sumptibus satis fieri possit, in coquinarium carcerem coniiciendos existimo, ibique retinendos donec rerum omnium ambiguitas excussa pateat, Sponsio enim in tam volucri genere non est tuta. 
+                    Quod si humanos animos, mendacibus ausis, &amp; insultu temerario, agitare &amp; ludibrio habere visi fuerint &amp; sapere velle in alieno genere videri, Censeo breviter ea poena puniendos, ut sensim eis, Pinna post pinam, &amp; post plumam pluma, radicitus evellantur, prius ipsis jugulatis, &amp; in bulientem aquam immersis. 
+                    Post vero in omnium Spectatorum oblectationem assentur partim &amp; elixentur, partim comminutis ossibus &amp; pulpis, in sapidi iusculi liquorem conterantur, quod pro salute multorum fiat, foelixque sit &amp; faustum toti turbae, &amp; haec quidem sunt, quae dicta volui, Qua sententia Spectatores, Multum vobis accessisset commodi, Nihil enim praeter nugas &amp; nebulas Galli, Gal  <!-- 45 --> linaeque, garritidarunt, adauctas causidicorum versutia, latiore suco, quorum hodie tantus clamor fuit, ut adventans ego Pharmacopolas me audire putarim. 
+                    Et profecto credidi esse aliquem, qui vivum serpentem, aut lacertam viridem, aut Araneolum voraturus esset, sed clamore falsus sum, &amp; frustratus etiam ad finem meo voto, Dii perdant trepidos Parasitos, &amp; ubi res postulat ad loquendum Creperos. 
+                    Iam Gallis, Gallinis, &amp; Capis vesceremur. 
+                    Iam potaremus ex Symbolo, promptumque erat saginari nos maligni generis obitu. 
+                    Nec ullus nos Legirupas dicere fuisset ausus, quod rem civilem cruore clausissemus. 
+                    Nemo enim Pullis, Gallis, Gallinisque &amp; Capis enectis, libentius victitat, quam hi qui penes se summum legum arbitrium locatum esse autumant. 
+                    Videte quantum neglexerimus silendo commodum, Frustra iam labia tergitis, qui angimini fame, frustra vacuum deglutitis, desiderium vestrum latius hoc in loco exaturari non potest. 
+                    Consulat igitur sibi quisque domi, &amp; captivi generis faciat sibi quisque copiam, pro conditione. 
+                    Ego Euthymum adibo, quem Gallis suis domi male consulere habeo compertum, ut Philonicus quoque male Gallinis consulit. 
+                    Utrinque enim deplumantur iam, &amp; ad Culinam destinantur, laetitiam facturi avidis faucibus. 
+                    Illic ego viscera distendam, &amp; ut me pinguiorem Giggulirus faciat curabo. 
+                    Bibamque adeo, ut Veternosum me tota familia putet. VALETE vos. 
+                    Et post hac, si huc litigatum Galli, Gallinaeque pervenerint, quid censendum sit, me Iudice, memoriae commendate.
+                </p>
+            </sp> 
+            </div>
+            <div type="traduction">
+                <head>Le parasite Lichenor prend la parole.</head>
+                <stage>Lichenor</stage>
+                <sp>
+                    <speaker>Lichenor</speaker>
                     <p>
                         traduction
                     </p>
@@ -185,5 +141,6 @@
             </div>
             
         </body>
+        <back><p>Finis, iuvante deo opt. max.</p></back>
     </text>
 </TEI>
