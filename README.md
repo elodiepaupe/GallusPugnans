@@ -9,6 +9,10 @@ Chères et chers étudiant·e·s, vous êtes invités à faire évoluer les diff
             <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
         </revisionDesc>` 
 
+En modifiant les informations comme suit:
+
+`<change type="update" resp="[votrenom]"><date when="2020-02-17"/>[type de modification apportée, par exemple faute de frappe, ponctuation, encodage]</change>`
+
 L'imprimé numérisé se trouve [ici](https://books.google.ch/books?id=8WKhxNJ_2JUC&dq=gallus+pugnans&hl=fr&source=gbs_navlinks_s)
 
 
