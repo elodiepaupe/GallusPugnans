@@ -3,11 +3,11 @@
 ## Le projet
 Ce dépôt concerne l'atelier de traduction pour le [Groupe de Théâtre antique](http://www.unine.ch/gta/) de l'Université de Neuchâtel (CH) qui aura lieu durant le semestre de printemps 2020.
 
-Chères et chers étudiant·e·s, vous êtes invités à faire évoluer les différents fichiers ci-dessous. Lorsque vous apportez des corrections aux fichiers .xml, merci de le signaler dans le '<revisionDesc>' du teiHeader (l. 73): 
+Chères et chers étudiant·e·s, vous êtes invités à faire évoluer les différents fichiers ci-dessous. Lorsque vous apportez des corrections aux fichiers .xml, merci de le signaler dans le `<revisionDesc>` du teiHeader (l. 73): 
 
-        <revisionDesc>
+        `<revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
-        </revisionDesc> 
+        </revisionDesc>` 
 
 L'imprimé numérisé se trouve [ici](https://books.google.ch/books?id=8WKhxNJ_2JUC&dq=gallus+pugnans&hl=fr&source=gbs_navlinks_s)
 
