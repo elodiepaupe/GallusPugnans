@@ -5,7 +5,7 @@
     <teiHeader xml:lang="fr">
         <fileDesc>
             <titleStmt>
-                <title>Joachim Vadianus, Gallus Pugnans</title>
+                <title>V: arbitrage</title>
             </titleStmt>
             <editionStmt>
                 <edition>Version électronique TEI</edition>   
@@ -78,7 +78,8 @@
             </langUsage>
         </profileDesc> 
         <revisionDesc>
-            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier: prologue p. 40-43 de la source.</change>
+            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier: arbitrage p. 40-43 de la source.</change>
+            <change type="update" resp="Séverine Moy"><date when="2020-03-03"/>Modification du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -99,7 +100,7 @@
                     si longius proteletur, Gratiasque agunt bonae forti, &amp; secundo fato quod arbitrii ad eos libertas, vestro, &amp; partium consensu pervenit. 
                     Si enim res cessisset aliter, timendum ipsis videbatur, 
                     <app><lem wit="#Zimmel">ne quis</lem><rdg wit="#ed">nequis</rdg></app> immitius quam huiusmodi generis imbecilla securitas commeruisset, agere fuerit ausus, quod hercle nemo in Capis animadvertet. 
-                    Sunt enim hi qui &amp; Gallos &amp; Gallinas, par amoris moderamine <app><lem wit="#Zimmel">persequuntur</lem><rdg wit="#ed">prosecuntur</rdg></app>, 
+                    Sunt enim hi qui &amp; Gallos &amp; Gallinas, pari amoris moderamine <app><lem wit="#Zimmel">persequuntur</lem><rdg wit="#ed">prosecuntur</rdg></app>, 
                     ac de gallis quidem non est quod dubitet quispiam, cum &amp; ipsi aliquando galli fuerint, 
                     quod tu Euthyme paulo ante dicebas. 
                     pro Gallinis vero haec indicia sunt, quod olim mares eas communi instinctu dilexere, 
