@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
+<?xml-stylesheet type="text/xsl" href="TEI_to_latexbilingue.xsl"?>
+<?xml-model href="TEI_GP_schemaXML.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="fr">
         <fileDesc>
             <titleStmt>
-                <title>V: arbitrage</title>
+                <title>Partie V: arbitrage</title>
             </titleStmt>
             <editionStmt>
                 <edition>Version électronique TEI</edition>   
@@ -13,7 +14,9 @@
                     <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
                     <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
                         <date type="creation" when="2020-02"/>
-                    </resp>    
+                    </resp>
+                    <persName type="participante" xml:id="SM">Séverine Moy</persName>
+                    <resp>Participante de l'atelier.</resp>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
@@ -38,6 +41,7 @@
                     <publisher>?</publisher>
                     <placeName>Vienne</placeName>
                     <date when="1514">1514</date>
+                    <biblScope unit="page" from="40" to="43">40-43</biblScope>
                 </bibl>
                 <listWit>
                     <witness xml:id="ed">Editio princeps encodée</witness>
@@ -49,8 +53,7 @@
         <encodingDesc>
             <editorialDecl>
                 <normalization>
-                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.
-                       Les graphies sont normalisées: diphtongues tardives supprimées, ci/ti, etc.</p>
+                <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.</p>
                 </normalization>
                 <correction>
                     <p>Les corrections sont encodées.</p>
@@ -66,7 +69,7 @@
                     <p>Les éventuelles autres marques d'intertextualité du texte sont encodées.</p>
                 </quotation>
                 <segmentation>
-                    <p>La segmentation de la source est conservée.</p>
+                    <p>La segmentation de la source est conservée littéraire de la source est conservée, mais pas la segmentation par page.</p>
                 </segmentation>
             </editorialDecl>
             <variantEncoding location="internal" method="parallel-segmentation"></variantEncoding>
@@ -78,14 +81,16 @@
             </langUsage>
         </profileDesc> 
         <revisionDesc>
-            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier: arbitrage p. 40-43 de la source.</change>
-            <change type="update" resp="Séverine Moy"><date when="2020-03-03"/>Modification du texte latin.</change>
+            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
+            <change type="update" resp="#SM"><date when="2020-03-03"/>Modification du texte latin.</change>
+            <change type="update" resp="#EP"><date when="2020-03-09"/>Mise à jour de la traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
         <body>
-            <head>Caporum arbitrium<!-- 40 --> Nomothetes interpres loquitur.<note>Pages 40-43 de la source; l'imprimé donne Nomotheses pour le titre.</note></head>
-            
+            <div type="source">
+                <head>Caporum arbitrium<!-- 40 --> Nomothetes interpres loquitur.</head>
+            <stage>Nomothetes</stage>
             <sp>
                 <speaker>Nomothetes</speaker>
                 <p>
@@ -100,7 +105,7 @@
                     si longius proteletur, Gratiasque agunt bonae forti, &amp; secundo fato quod arbitrii ad eos libertas, vestro, &amp; partium consensu pervenit. 
                     Si enim res cessisset aliter, timendum ipsis videbatur, 
                     <app><lem wit="#Zimmel">ne quis</lem><rdg wit="#ed">nequis</rdg></app> immitius quam huiusmodi generis imbecilla securitas commeruisset, agere fuerit ausus, quod hercle nemo in Capis animadvertet. 
-                    Sunt enim hi qui &amp; Gallos &amp; Gallinas, pari amoris moderamine <app><lem wit="#Zimmel">persequuntur</lem><rdg wit="#ed">prosecuntur</rdg></app>, 
+                    Sunt enim hi qui &amp; Gallos &amp; Gallinas, par amoris moderamine <app><lem wit="#Zimmel">persequuntur</lem><rdg wit="#ed">prosecuntur</rdg></app>, 
                     ac de gallis quidem non est quod dubitet quispiam, cum &amp; ipsi aliquando galli fuerint, 
                     quod tu Euthyme paulo ante dicebas. 
                     pro Gallinis vero haec indicia sunt, quod olim mares eas communi instinctu dilexere, 
@@ -169,8 +174,28 @@
                     Ite igitur actutum domum, &amp; concordiae consulite, 
                     in cuius solius incolumitate, Gallinarum &amp; Gallorum sita est salus, dixi.
                 </p>
-            </sp> 
+            </sp>
+            </div>
             
+            <div type="traduction">
+                <head>Arbitrage des chapons, l'interprète Nomothetes parle.</head>
+                <stage>Nomothetes</stage>
+                <sp>
+                    <speaker>Nomothetes</speaker>
+                    <p>
+                        Comme vous me l’avez ordonné, toi Philonique et toi Euthyme, j’ai exposé brièvement et sans artifice toute l’affaire aux chapons dont j’ignore s’ils ont jamais été aussi ébahi dans une autre affaire qu’ils furent aujourd’hui après qu’ils eurent entendu le désaccord des coqs et des poules.
+                        Ils savent évidemment que rien n’est plus funeste qu’une guerre intestine  et que les fondements de la république dont les membres sont en désaccord avec la tête ne pourront pas tenir longtemps. Par ailleurs, l’historien amoureux de la vérité, dit que les petites choses croissent par l’harmonie et que les grandes choses s’évanouissent par la discorde. Ceci est si bien connu de vous que c'est ce qui l'est le mieux. 
+                        À cause de cela (C’est pourquoi elle ne fut pas brièvement bienvenue pour ceux-ci) , il a semblé que l’instruction devait aller avec assez de précipitation vers la modération du pouvoir autant qu’il est dangereux d’avoir davantage de choses sur soi, si elle s’était éloignée très loin, elles remercient la bonne fortune et le destin favorable parce que la liberté parvint de bon plaisir vers eux par votre accord et celui des parties. Si en effet l’affaire avait marché autrement, il semblait les craindre, pour que la faible sécurité du genre n’aie pas commis quelque chose de plus affreux que de cette sorte, (séverine) il aura osé agir, parce que personne, par hercule, n’a fait attention pour les chapons.
+
+                        En effet ce sont ceux qui poursuivent en justice et les coqs et les poules à l’aide d’une conduite égale de l’amour, et qui n’est certes pas venant des coqs parce qu’il balance entre deux choses, quelqu’un, puisque les coqs ont été à ce même individu, ce que toi Euthymus tu me disais un peu auparavant.
+                        En vérité ces indices sont en faveur des poules, parce qu’elles ont jadis choisi les mâles par un instinct commun [eas ?], elles ont réchauffé les petits dans une preuve d’amour après avoir éprouvé une envie de toucher les petits couchés en dessous, aussi s’amusant, toujours en continuant, elles aiment, tirent, nourrissent, parce que [se] le grand investigateur a amené quelque chose de la nature qui a fait ses preuves.
+                        Et puisque que c’est un fait établi que ces choses sont vraies, personne n’aura suspecté les Chapons de manière raisonnable dans la sentence de l’arbitrage, combien moi, lorsqu’ils ont ordonné, je vous dirai, spectateurs, brièvement et ouvertement après que vous avez entendu la partie des avocats.
+                        En effet plusieurs venant des Chapons plaident pour les poules et les coqs, qui ne s’indignent justement pas pour rien, après cette lutte calme, principalement pour le cas où l’affaire serait parvenue ouvertement à ces oreilles d’autres personnes de notre province : puisqu’elles sont parvenues avec certitude.
+                        Et en effet je suis déjà destiné à dire cela, qui a principalement coulé hors de l’âme de ceux-ci, que vous avez vu ici s’asseoir vers moi, qui (main)tiennent entre tous la situation de l’autorité de l’habitant suprême de notre poulailler, et ils tiennent cela dans leur mémoire, qui depuis de longues années s’est passé entre eux, et (joram) par cette prévoyance inquiétée qui sera facile, les parfumés purent, toujours, avec une longue et très honnête habitude, et par un décret libre de leur province et dans une estimation de toutes les affaires très difficiles par accord, devenir les nobles (les premiers). 
+                        (Joram) Ceux-ci donc blâmant celles qui ont abandonnée notre maison, reconnaissent naïvement, presque tous des coqs, et d’avoir fait avec empressement et application à partir des poules, et un évènement champêtre et des fortunes des ferme, (et) d’avoir augmenté de lourdes dépenses à travers celles-ci, d’être cependant, parce que
+                    </p>
+                </sp>
+            </div>  
         </body>
     </text>
 </TEI>
