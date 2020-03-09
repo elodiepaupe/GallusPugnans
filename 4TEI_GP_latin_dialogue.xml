@@ -76,6 +76,7 @@
             <change type="creation" resp="#EP"><date when="2020-02-17"/>Création du fichier: partie dialoguée p. 36-39 de la source.</change>
             <change type="update" resp="#PJ"><date when="2020-02"/>Correction ligne 11</change>
             <change type="update" resp="#EP"><date when="2020-03-02"/>Corrections diverses sur le texte latin</change>
+            <change type="update" resp="#EP"><date when="2020-03-09"/>Ponctuation</change>
         </revisionDesc> 
     </teiHeader>
     <text n="4" type="dialogue">
@@ -111,9 +112,10 @@
             </sp> 
             <sp>
                 <speaker>Euthymus </speaker> 
-                <p>Heus Spectatores non est satis a Philonico, tot falso Gallis esse <app><lem wit="#Zimmel">ascripta</lem><rdg wit="#ed">asscripta</rdg></app>, 
-            nisi etiam in Euthymo libidinem <app><lem wit="#Zimmel">exsaturet</lem><rdg wit="#ed">exaturet</rdg></app>: minans ipse aliam iam nunc
-            aliarum injuriarum actionem instituit, Pergamus obsecro Philonice ne gallorum &amp; gallinarum obliti, in alius causae luctam acerbiorem deveniamus</p>
+                <p>Heus Spectatores non est satis a Philonico tot falso Gallis esse <app><lem wit="#Zimmel">ascripta</lem><rdg wit="#ed">asscripta</rdg></app>, 
+            nisi etiam in Euthymo libidinem <app><lem wit="#Zimmel">exsaturet</lem><rdg wit="#ed">exaturet</rdg></app>. 
+            Minans ipse aliam iam nunc
+            aliarum injuriarum actionem instituit. Pergamus, obsecro Philonice, ne gallorum &amp; gallinarum obliti, in alius causae luctam acerbiorem deveniamus.</p>
             </sp>
             <sp>
                 <speaker>Philonicus </speaker> 
@@ -126,38 +128,46 @@
                 <p>Dicite obsecro Spectores optimi, novistis optimas &amp; <!-- 38 -->insontissimas Gallinas.</p></sp>
             <sp>
                 <speaker>Euthymus </speaker> 
-                <p>Eheu quid tacetis, ita enim utra pars occubuerit, haud promptum erit <app><lem wit="#Zimmel">intellegere</lem><rdg wit="#ed">intelligere</rdg></app>.</p>
+                <p>Eheu quid tacetis? 
+                    Ita enim utra pars occubuerit, haud promptum erit <app><lem wit="#Zimmel">intellegere</lem><rdg wit="#ed">intelligere</rdg></app>.</p>
             </sp> 
             <sp>
                 <speaker>Philonicus </speaker> 
-                <p>Eia age, profemini, quod vobis est in animo, reique finem date, fastidiosa est illa in re satis proposita, satisque clara, cunctatio.</p>
+                <p>Eia age! 
+                    Profemini quod vobis est in animo reique finem date. 
+                    Fastidiosa est illa in re satis proposita satisque clara cunctatio.</p>
             </sp> 
             <sp>
                 <speaker>Euthymus </speaker> 
-                <p>Tacere omnes sentis, mussare, tamen vides, &amp; conari quicquam <app><lem wit="#Zimmel">nonnullos</lem><rdg wit="#ed">non nullos</rdg></app>. 
-                    Quod si unus verba faceret primus, plures sensum essemus audituri. 
-                    Etenim, cum respondere omnes nequeant. singuli eum qui primus loqui audeat, expectant: 
-                    quem tandem ordientem, certatim urgere &amp; impellere (ut saepe in coetu sit) reliqui multitudo solet.</p>
+                <p>Tacere omnes sentis. 
+                    Mussare tamen vides &amp; conari quicquam <app><lem wit="#Zimmel">nonnullos</lem><rdg wit="#ed">non nullos</rdg></app>. 
+                    Quod si unus verba faceret primus, plures sensim essemus audituri. 
+                    Etenim, cum respondere omnes nequeant, singuli eum qui primus loqui audeat, expectant: 
+                    quem tandem ordientem certatim urgere &amp; impellere, ut saepe in coetu sit, reliqua multitudo solet.</p>
             </sp> 
             <sp>
                 <speaker>Philonicus </speaker> 
-                <p>Ego te Nomothetes, cum prudentissimis quibusque consiliorum acumine par sis, tam 
-            diu tacere, attente audientem, admodum miror, Effare obsecro, 
-            quod <app><lem wit="#Zimmel">felix</lem><rdg wit="#ed">foelix</rdg></app> faustumque fiet ut et alii aut in tu sententia conquiescant, aut
-            ad dicendum invitati, quae animo concepere, proloquantur, nosque <app><lem wit="#Zimmel">cumprimis</lem><rdg wit="#ed">cum primis</rdg></app>  
-            quid sentias, non ignoremus, Amas tu quidem, ut scio, Gallinas, &amp; Ornithoboscia frequentissima, ea villa fovet, quam nuper ad 
-            suburbanum, <app><lem wit="#Zimmel">exædificasti</lem><rdg wit="#ed">exedificasti</rdg></app>.</p>
+                <p>Ego te, Nomothetes, cum prudentissimis quibusque consiliorum acumine par sis, tam 
+            diu tacere, attente audientem admodum miror. 
+                    Effare obsecro 
+            quod <app><lem wit="#Zimmel">felix</lem><rdg wit="#ed">foelix</rdg></app> faustumque fiet 
+                    ut et alii aut in tua sententia conquiescant aut
+            ad dicendum invitati, quae animo concepere, proloquantur nosque <app><lem wit="#Zimmel">cumprimis</lem><rdg wit="#ed">cum primis</rdg></app>  
+            quid sentias non ignoremus. 
+                    Amas tu quidem, ut scio, Gallinas &amp; Ornithoboscia frequentissima ea villa fovet quam nuper ad 
+            suburbanum <app><lem wit="#Zimmel">exædificasti</lem><rdg wit="#ed">exedificasti</rdg></app>.</p>
             </sp> 
             <sp>
                 <speaker>Euthymus </speaker> 
-                <p>Salva res est, eloquente Nomothete potest enim <app><lem wit="#Zimmel">ceteris</lem><rdg wit="#ed">coeteris</rdg></app> qui assunt, recte sentiendi exemplum, praebere. 
-                    Dicito ergo mi Nomothetes, et ordire faustiter.</p>
+                <p>Salva res est. Eloquente Nomothete potest enim <app><lem wit="#Zimmel">ceteris</lem><rdg wit="#ed">coeteris</rdg></app> qui assunt, recte sentiendi exemplum, praebere. 
+                    Dicito ergo, mi Nomothetes, et ordire faustiter.</p>
             </sp> 
             <sp>
                 <speaker>Nomothetes </speaker> 
-                <p>Quia me Philonice, tuque Euthyme, adeo ut primus eloquar: 
+                <p>Quia me, Philonice tuque Euthyme, adeo ut primus eloquar 
                     quod sentio hortamini, duco non tacendum esse, maxime quod nullius
-                    sententia nostra opinione, praevertitur. Idque omnium maxime velim ut 
+                    sententia nostra opinione, praevertitur. 
+                    Idque omnium maxime velim ut 
                     Capos castratos in vestra illa disceptatione, Galli, Gallinaeque arbitros deligerent. 
                     Iudices enim esse non possunt cum sint Eunuchi, 
                     id quod nostrarum legum sanctione, si bene sentio, <app><lem wit="#Zimmel">comprehensum</lem><rdg wit="#ed">comprehenssum</rdg></app> est, 
