@@ -34,6 +34,6 @@ Tout dépend de vos compétences et du pilier dans lequel vous validez cet ensei
 
 ## Les logiciels opensource à télécharger pour pouvoir travailler sur les documents hors ligne
 * atom: pour travailler sur les fichiers .xml, .xslt, .css et .html
-        * Pour pouvoir transformer les fichiers .xml en .html ou .tex, vous devez télécharger un package supplémentaire: atom-xsltransform
-        * Le logiciel est disponible sur macOS, windows et GNU/linux
+  * Pour pouvoir transformer les fichiers .xml en .html ou .tex, vous devez télécharger un package supplémentaire: atom-xsltransform
+  * Le logiciel est disponible sur macOS, windows et GNU/linux
 * Texmaker (windows) ou TeXsShop (mac): pour travailler sur les fichiers .tex et générer les .pdf actualisés
