@@ -79,6 +79,7 @@
         </profileDesc> 
         <revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
+            <change type="update" resp="#PJ"><date when="2020-03-10"/>faute de frappe : Ludicem pour Iudicem</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -88,7 +89,7 @@
             <sp>
                 <speaker>Philonicus</speaker>
                 <p>
-                    Video ego, in ista spectatorum accurrentium multitudine, ludicem etiam ignorans, multa graviter et Attente pro Gallinis dici oportere, 
+                    Video ego, in ista spectatorum accurrentium multitudine, Iudicem etiam ignorans, multa graviter et Attente pro Gallinis dici oportere, 
                     propterea quam Euthymum cerno virum facundum et agendarum rerum, mira praeditum <app><lem wit="#Zimmel">sollertia</lem><rdg wit="#ed">solertia</rdg></app>, 
                     quem insolentissimam Gallorum turbam, patronum conduxisse audio, quasi aut purgare se tanto spectatorum assentiente numero superbissima gens aut vincere nos viri tam eruditi ingenio aliquo modo <app><lem wit="#Zimmel">posset</lem><rdg wit="#ed">possent</rdg></app>. 
                     Cum penes nos victoriam fore usque adeo certum habeam, ut quantum in me est, nullum casae Nostrae destinatum ludicem exoptem, 
