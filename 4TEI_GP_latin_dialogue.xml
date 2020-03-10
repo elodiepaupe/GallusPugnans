@@ -48,6 +48,7 @@
                     <witness xml:id="ed">Editio princeps encodée</witness>
                     <witness xml:id="Zimmel">Édition du texte avec traduction</witness>
                     <witness xml:id="MS">Copie manuscrite de 1514</witness>
+                    <witness xml:id="CLAM">Proposition de lecture du cours</witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
