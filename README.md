@@ -31,3 +31,9 @@ Tout dépend de vos compétences et du pilier dans lequel vous validez cet ensei
 * Vous pouvez modifier les fichiers pour les mettre à jour, corriger les erreurs philologiques ou de codage.
 * Vous pouvez télécharger les documents pour découvrir les différents langages, transformer les fichiers et découvrir comment ils fonctionnent entre eux. 
 * Vous pouvez ne pas les toucher et vous contenter des versions pdf qui seront mises à disposition.
+
+## Les logiciels opensource à télécharger pour pouvoir travailler sur les documents hors ligne
+* atom: pour travailler sur les fichiers .xml, .xslt, .css et .html
+        * Pour pouvoir transformer les fichiers .xml en .html ou .tex, vous devez télécharger un package supplémentaire: atom-xsltransform
+        * Le logiciel est disponible sur macOS, windows et GNU/linux
+* Texmaker (windows) ou TeXsShop (mac): pour travailler sur les fichiers .tex et générer les .pdf actualisés
