@@ -1,9 +1,9 @@
-#Progression du travail
+# Progression du travail
 |Partie|Encodage de l'apparat critique|Encodage de l'apparat des sources|Traduction littérale|Traduction adaptée|
 |:-----|:-----------------------------|:--------------------------------|:-------------------|:-----------------|
-|Prologue|||||
-|Accusation|||||
+|Prologue|ok||||
+|Accusation|||en cours||
 |Défense|||||
-|Dialogue|||||
-|Arbitrage|||||
-|Épilogue|||||
+|Dialogue|ok||ok||
+|Arbitrage|ok||en cours||
+|Épilogue|||en cours||
