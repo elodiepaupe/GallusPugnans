@@ -84,6 +84,7 @@
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
             <change type="update" resp="#SM"><date when="2020-03-03"/>Modification du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-09"/>Mise à jour de la traduction.</change>
+            <change type="update" resp="#SM"><date when="2020-03-13"/>Modification du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -118,11 +119,11 @@
                     Audientibus partium patronis effabor.  
                     <!-- 41 --> Gallinis enim &amp; Gallis plura a Capis ipsis, iuste non nihil indignantibus, 
                     post sedatam hanc contentionem dicentur, maxime si ad aliorum nostrae provinciae aures haec res aperte pervenerit: 
-                    ut certe pervenient. 
+                    ut certe perveniet. 
                     Quod enim iam sum locuturus, ex horum animis defluxit praecipue, quos hic mihi assidere videtis, 
                     qui nostri Ornithoboscii incolae, supremae <app><lem wit="#Zimmel">auctoritatis</lem><rdg wit="#ed">autoritatis</rdg></app> locum inter omnes obtinent, 
                     idque tenent memoria, quod a longis annis inter eos actum est, &amp; per exercitam illam prudentiam facile quid futurum sit, 
-                    odorati potuerunt, semper, ex longa &amp; honestissima consuetudine, &amp; libero provinciae suae decreto, 
+                    odorari potuerunt, semper, ex longa &amp; honestissima consuetudine, &amp; libero provinciae suae decreto, 
                     in difficillimarum rerum <app><lem wit="#Zimmel">aestimatione</lem><rdg wit="#ed">estimatione</rdg></app> omnium consensu, primores. 
                     Hi igitur acclamantibus qui domi nostrae sunt reliquis, ingenue fatentur, fere omnia ab Gallis, 
                     Gallinisque gnaviter &amp; attente agi, remque rusticam &amp; villaticas divitias, per eos levissimis impensis augeri, 
