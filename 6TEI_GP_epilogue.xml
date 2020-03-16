@@ -12,10 +12,11 @@
             <editionStmt>
                 <edition>Version électronique TEI</edition>   
                 <respStmt> 
-                    <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
-                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
-                        <date type="creation" when="2020-02"/>
-                    </resp>    
+                    <resp><date type="creation" when="2020-02"/>Équipe de traduction pour le Groupe de Théâtre Antique composée de
+                        <name xml:id="RR" type="participante">Rania Richard</name>
+                        sous la direction de 
+                    </resp>  
+                    <name xml:id="EP" type="éditeur">Élodie Paupe</name>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
@@ -40,7 +41,7 @@
                     <publisher>?</publisher>
                     <placeName>Vienne</placeName>
                     <date when="1514">1514</date>
-                    <biblScope unit="page" from="43" to="45">43-45</biblScope>
+                    <biblScope unit="page" from="43" to="46">43-46</biblScope>
                 </bibl>
                 <listWit>
                     <witness xml:id="ed">Editio princeps encodée</witness>
@@ -81,6 +82,8 @@
         </profileDesc> 
         <revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
+            <change type="update" resp="#RR"><date when="2020-03-15"/>Mise à jour du latin.</change>
+            <change type="update" resp="#EP"><date when="2020-03-16"/>Apparat critique.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -91,43 +94,96 @@
                 <head>Lichenor parasitus, loquitur.</head>
                 <stage>Lichenor</stage>
                 <sp>
-                <speaker>Lichenor</speaker>
-                <p>
-                    Ehodum Spectatores, quidnam est, quod adeo dispalescitis unius hominis inepta, &amp; nimis in levissima re gravi sententia saturi? 
-                    numquid &amp; vos quicquam estis bona Minerva, bonoque Genio his subjuncturi quae Nomothetes attulit? 
-                    State paullulum  <!-- 44 --> obsecro &amp; quantum in multorum cosiliis frugis extet perdiscite. 
-                    Vetus est sententia, Neminem unum omnia noscere, &amp; hoc itidem percelebratum. 
-                    Sape etiam est olitor valde oportuna locutus. 
-                    Parasitum me noscitis Lichenora, qui Parasitando multis iam annis ventrem pavi meum, &amp; alienum cibum ceu musculus quidam semper edi, nullorum edacitate unquam victus, vestibusque ut videtis non plane sumptuosis, nec plane sordidis amictus. 
-                    Qui consiliis haud quaquam malis, levi adolescentiae saepe suppetiatum affui. 
-                    En ego si nemo ex vobis aliud est dicturus, quid sentiam ipse eloquar, esto non multum amplius loci mea sententia, habitura sit, propterea quod absunt partes, dicam tamen quod dicturus antea fueram, quan quam me fortassis ut hominem semissem, nihil ad rem dicere posse, existiment non nulli. 
-                    Non enim barba, nec pallio, nec pallore in faciem inducto Cimino, prudentiam ostento, id quod solent multi, Sed Lichenora me &amp; ore &amp; habitu profiteor, quid mihi abscondita, intra calviciem, &amp; calvam hanc calvariam, mea mens, secum saepe mussitet, non omnibus est in aperto. 
-                    Idcirco Lichenora audite contendite, paulumque ipsi date morae, quo se a screatu liberet, ne raucus Orator appareat, Hem, hem, Ho, oho, Pfhui. 
-                    Ah male ex gutture habeo, ob hesternum acre &amp; immaturum vinum, quod mihi Saturio combibo &amp; convivator meus in coena dedit. 
-                    Verum vos spectatores non vocem sed verba pensabitis. 
-                    Audistis hodie, quid conductus donis animus possit, quantumque muneribus suscitatae, vires incrementi summant. 
-                    Philonicum ego his quatuor annis proximis, quibus mihi est familiaris, nunquam gravius loquentem audivi, &amp; eo viso primum an Philonicus esset dubitare occoepi, Cum enim una sumus in coena, salibus me &amp; lepore parasitico multo est urbanior, &amp; ea ludit, quae elegans solet Pantomimus. 
-                    Cum obaeratus praemiis loquitur, talis est quem audistis.  
-                    <!-- 45 --> Magnae primum artis esse mihi videtur, variare posse vultum &amp;, cum sapientia est opus, sapeintis pellem induere. 
-                    Euthymus ipse, paulo gravior cum domi est, &amp; si me amet, non tamen levitate superat, Ast animum exhilarat meis ineptiis suum, tu inde atratos &amp; bicolores codices minus moleste volvere queat, Quem heri fere hoc dicturum olfeci, quae hocide dixit, multum enim sudoris in chartis reliquerat, antequam potaret, quod si tot horis non dormiisset, perturbasset ordinem, &amp; susceptis donis nequaquam fecisset satis. 
-                    Nomothetes, qui legibus suis barbatorum hominum sapientiam adnexuit, idem in Gallorum Gallinarumque lite referendum putavit, quod refertur, dum maximi principis in maxima discordia sunt, nimis in frivolis rebus studiosus. 
-                    Verum quid ego hos imprudens enumero Spectatores? Si mihi non imputatum fuisset praecaeteris clamanti, hi haec verba, ut in animum venerant, pronunciassem. Gallos &amp; Gallinas cum Capis, quia mihil apud eos aeris est, quo litis sumptibus satis fieri possit, in coquinarium carcerem coniiciendos existimo, ibique retinendos donec rerum omnium ambiguitas excussa pateat, Sponsio enim in tam volucri genere non est tuta. 
-                    Quod si humanos animos, mendacibus ausis, &amp; insultu temerario, agitare &amp; ludibrio habere visi fuerint &amp; sapere velle in alieno genere videri, Censeo breviter ea poena puniendos, ut sensim eis, Pinna post pinnam, &amp; post plumam pluma, radicitus evellantur, prius ipsis jugulatis, &amp; in bulientem aquam immersis. 
-                    Post vero in omnium Spectatorum oblectationem assentur partim &amp; elixentur, partim comminutis ossibus &amp; pulpis, in sapidi iusculi liquorem conterantur, quod pro salute multorum fiat, foelixque sit &amp; faustum toti turbae, &amp; haec quidem sunt, quae dicta volui, Qua sententia Spectatores, Multum vobis accessisset commodi, Nihil enim praeter nugas &amp; nebulas Galli, Gal  <!-- 46 --> linaeque, garritidarunt, adauctas causidicorum versutia, latiore suco, quorum hodie tantus clamor fuit, ut adventans ego Pharmacopolas me audire putarim. 
-                    Et profecto credidi esse aliquem, qui vivum serpentem, aut lacertam viridem, aut Araneolum voraturus esset, sed clamore falsus sum, &amp; frustratus etiam ad finem meo voto, Dii perdant trepidos Parasitos, &amp; ubi res postulat ad loquendum Creperos. 
-                    Iam Gallis, Gallinis, &amp; Capis vesceremur. 
-                    Iam potaremus ex Symbolo, promptumque erat saginari nos maligni generis obitu. 
-                    Nec ullus nos Legirupas dicere fuisset ausus, quod rem civilem cruore clausissemus. 
-                    Nemo enim Pullis, Gallis, Gallinisque &amp; Capis enectis, libentius victitat, quam hi qui penes se summum legum arbitrium locatum esse autumant. 
-                    Videte quantum neglexerimus silendo commodum, Frustra iam labia tergitis, qui angimini fame, frustra vacuum deglutitis, desiderium vestrum latius hoc in loco exaturari non potest. 
-                    Consulat igitur sibi quisque domi, &amp; captivi generis faciat sibi quisque copiam, pro conditione. 
-                    Ego Euthymum adibo, quem Gallis suis domi male consulere habeo compertum, ut Philonicus quoque male Gallinis consulit. 
-                    Utrinque enim deplumantur iam, &amp; ad Culinam destinantur, laetitiam facturi avidis faucibus. 
-                    Illic ego viscera distendam, &amp; ut me pinguiorem Giggulirus faciat curabo. 
-                    Bibamque adeo, ut Veternosum me tota familia putet. VALETE vos. 
-                    Et post hac, si huc litigatum Galli, Gallinaeque pervenerint, quid censendum sit, me Iudice, memoriae commendate.
-                </p>
-            </sp> 
+                    <speaker>Lichenor</speaker>
+                    <p>
+                        Ehodum Spectatores, quidnam est, quod adeo dispalescitis unius hominis inepta, &amp; nimis in levissima re gravi sententia saturi? 
+                        numquid &amp; vos quicquam estis bona Minerva, bonoque Genio his subjuncturi quae Nomothetes attulit? 
+                        State paullulum  <!-- 44 --> obsecro &amp; quantum in multorum <app><lem wit="#Zimmel">consiliis</lem><rdg wit="#ed">cosiliis</rdg></app> frugis <app><lem wit="#ed">extet</lem><rdg wit="#Zimmel">exstet</rdg></app> perdiscite. 
+                        Vetus est sententia, Neminem unum omnia noscere, &amp; hoc itidem percelebratum. 
+                        Sape etiam est olitor valde <app><lem wit="#ed">oportuna</lem><rdg wit="#Zimmel">opportuna</rdg></app> locutus. 
+                        Parasitum me noscitis Lichenora, 
+                        qui Parasitando multis iam annis ventrem pavi meum, &amp; alienum cibum ceu musculus quidam semper edi, 
+                        nullorum edacitate <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> victus, 
+                        vestibusque ut videtis non plane sumptuosis, nec plane sordidis amictus. 
+                        Qui consiliis <app><lem wit="#Zimmel">haudquaquam</lem><rdg wit="#ed">haud quaquam</rdg></app> malis, levi adolescentiae saepe suppetiatum affui. 
+                        En ego si nemo ex vobis aliud est dicturus, 
+                        quid sentiam ipse eloquar, esto non multum amplius loci mea sententia, habitura sit, 
+                        propterea quod absunt partes, 
+                        dicam tamen 
+                        quod dicturus antea fueram, 
+                        <app><lem wit="#ed">quanquam</lem><rdg wit="#Zimmel">quamquam</rdg></app> me fortassis 
+                        ut hominem semissem, nihil ad rem dicere posse, existiment <app><lem wit="#ed">non nulli</lem><rdg wit="#Zimmel">nonnulli</rdg></app>. 
+                        Non enim barba, nec pallio, nec pallore in faciem inducto Cimino, prudentiam ostento, id quod solent multi, 
+                        Sed Lichenora me &amp; ore &amp; habitu profiteor, 
+                        quid mihi abscondita, intra calviciem, &amp; calvam hanc calvariam, mea mens, secum saepe mussitet, <app><lem wit="#Zimmel">quod</lem><rdg wit="#ed"></rdg></app>non omnibus est in aperto. 
+                        Idcirco Lichenora audite contendite, paulumque ipsi date morae, quo se a screatu liberet, 
+                        ne raucus Orator appareat, Hem, hem, Ho, oho, Pfhui. 
+                        Ah male ex gutture habeo, ob hesternum acre &amp; immaturum vinum, quod mihi Saturio combibo &amp; convivator meus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app> dedit. 
+                        Verum vos spectatores non vocem sed verba pensabitis. 
+                        Audistis hodie, 
+                        quid conductus donis animus possit, 
+                        quantumque muneribus suscitatae, vires incrementi <app><lem wit="#Zimmel">sumant</lem><rdg wit="#ed">summant</rdg></app>. 
+                        Philonicum ego his <app><lem wit="#Zimmel">quattuor</lem><rdg wit="#ed">quatuor</rdg></app> annis proximis, 
+                        quibus mihi est familiaris, <app><lem wit="ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> gravius loquentem audivi, &amp; eo viso primum an Philonicus esset dubitare <app><lem wit="#Zimmel">cocepi</lem><rdg wit="#ed">occoepi</rdg></app>, 
+                        Cum enim una sumus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app>, salibus me &amp; lepore parasitico multo est urbanior, &amp; ea ludit, 
+                        quae elegans solet Pantomimus. 
+                        Cum obaeratus praemiis loquitur, talis est quem audistis.  
+                        <!-- 45 --> Magnae primum artis esse mihi videtur, variare posse vultum &amp;, cum sapientia est opus, sapeintis pellem induere. 
+                        <app><lem wit="#Zimmel">Euthymus</lem><rdg wit="#ed">Ethymus</rdg></app> ipse, paulo gravior cum domi est, &amp; 
+                        si me amet, non tamen levitate superat, 
+                        Ast animum exhilarat meis ineptiis suum, tu inde atratos &amp; bicolores codices minus moleste volvere queat, 
+                        Quem heri fere <app><lem wit="#Zimmel">haec</lem><rdg wit="#ed">hac</rdg></app> dicturum olfeci, 
+                        quae hocide dixit, multum enim sudoris in chartis reliquerat, 
+                        antequam potaret, 
+                        quod si tot horis non <app><lem wit="#Zimmel">dormisset</lem><rdg wit="#ed">dormiisset</rdg></app>, 
+                        perturbasset ordinem &amp; susceptis donis nequaquam fecisset satis. 
+                        Nomothetes, 
+                        qui legibus suis barbatorum hominum sapientiam adnexuit, 
+                        idem in Gallorum Gallinarumque lite referendum putavit, 
+                        quod refertur, 
+                        dum maximi <app><lem wit="#ed">principis</lem><rdg wit="#Zimmel">principes</rdg></app> in maxima discordia sunt, nimis in frivolis rebus studiosus. 
+                        Verum quid ego hos imprudens enumero Spectatores? 
+                        Si mihi non imputatum fuisset <app><lem wit="#Zimmel">prae caeteris</lem><rdg wit="#ed">praecaeteris</rdg></app> clamanti, in haec verba, 
+                        ut in animum venerant, <app><lem wit="#Zimmel">pronuntiassem</lem><rdg wit="#ed">pronunciassem</rdg></app>. 
+                        Gallos &amp; Gallinas cum Capis, 
+                        quia nihil apud eos aeris est, 
+                        quo litis sumptibus satis fieri possit, 
+                        in coquinarium carcerem <app><lem wit="#ed">coniiciendos</lem><rdg wit="#Zimmel">coniciendos</rdg></app> existimo, 
+                        ibique retinendos donec rerum omnium ambiguitas excussa pateat. 
+                        Sponsio enim in tam volucri genere non est tuta. 
+                        Quod si humanos animos, mendacibus ausis, &amp; insultu temerario, agitare &amp; ludibrio habere visi fuerint &amp; sapere velle in alieno genere videri, 
+                        Censeo breviter ea poena puniendos, 
+                        ut sensim eis, Pinna post pinnam, &amp; post plumam pluma, radicitus evellantur, prius ipsis jugulatis, &amp; in <app><lem wit="#Zimmel">bullientem</lem><rdg wit="#ed">bulientem</rdg></app> aquam immersis. 
+                        Post vero in omnium Spectatorum oblectationem assentur partim &amp; elixentur, 
+                        partim comminutis ossibus &amp; pulpis, in sapidi iusculi liquorem conterantur, 
+                        quod pro salute multorum fiat, 
+                        <app><lem wit="#Zimmel">felixque</lem><rdg wit="#ed">foelixque</rdg></app> sit &amp; faustum toti turbae, &amp; haec quidem sunt, 
+                        quae dicta volui, 
+                        Qua sententia Spectatores, Multum vobis accessisset commodi, Nihil enim praeter nugas &amp; nebulas Galli, Gal  <!-- 46 --> linaeque, garritidarunt, adauctas causidicorum versutia, latiore suco, 
+                        quorum hodie tantus clamor fuit, 
+                        ut adventans ego Pharmacopolas me audire putarim. 
+                        Et profecto credidi esse aliquem, qui vivum serpentem, aut lacertam viridem, aut Araneolum voraturus esset, sed clamore falsus sum, &amp; frustratus etiam ad finem meo voto, Dii perdant trepidos Parasitos, &amp; ubi res postulat ad loquendum Creperos. 
+                        Iam Gallis, Gallinis, &amp; Capis vesceremur. 
+                        Iam potaremus ex Symbolo, promptumque erat saginari nos maligni generis obitu. 
+                        Nec ullus nos Legirupas dicere fuisset <app><lem wit="#Zimmel">ausus</lem><rdg wit="#ed">aufus</rdg></app>, 
+                        quod rem civilem cruore clausissemus. 
+                        Nemo enim Pullis, Gallis, Gallinisque &amp; Capis enectis, libentius victitat, 
+                        quam hi qui penes se summum legum arbitrium locatum esse autumant. 
+                        Videte quantum neglexerimus silendo commodum, 
+                        Frustra iam labia tergitis, qui angimini fame, frustra vacuum deglutitis, desiderium vestrum latius hoc in loco <app><lem wit="#Zimmel">exsaturari</lem><rdg wit="#ed">exaturari</rdg></app> non potest. 
+                        Consulat igitur sibi quisque domi, &amp; captivi generis faciat sibi quisque copiam, pro conditione. 
+                        Ego Euthymum adibo, 
+                        quem Gallis suis domi male consulere habeo compertum, 
+                        ut Philonicus quoque male Gallinis consulit. 
+                        <app><lem wit="#Zimmel">Utrimque</lem><rdg wit="#ed">Utrinque</rdg></app> enim deplumantur iam, &amp; ad Culinam destinantur, laetitiam facturi avidis faucibus. 
+                        Illic ego viscera distendam, &amp; ut me pinguiorem Giggulirus faciat curabo. 
+                        Bibamque adeo, 
+                        ut Veternosum me tota familia putet. 
+                        Valete vos. 
+                        Et <app><lem wit="#Zimmel">posthac</lem><rdg wit="#ed">post hac</rdg></app>, si huc litigatum Galli, Gallinaeque pervenerint, 
+                        quid censendum sit, me Iudice, memoriae commendate.
+                    </p>
+                </sp> 
             </div>
             <div type="traduction">
                 <head>Le parasite Lichenor prend la parole.</head>
