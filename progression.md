@@ -6,4 +6,4 @@
 |Défense|||||
 |Dialogue|ok||ok||
 |Arbitrage|ok||en cours||
-|Épilogue|||en cours||
+|Épilogue|ok||en cours||
