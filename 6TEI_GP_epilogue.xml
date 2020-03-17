@@ -84,6 +84,7 @@
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
             <change type="update" resp="#RR"><date when="2020-03-15"/>Mise à jour du latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-16"/>Apparat critique.</change>
+            <change type="update" resp="#EP"><date when="2020-03-17"/>Ponctuation et traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -96,16 +97,16 @@
                 <sp>
                     <speaker>Lichenor</speaker>
                     <p>
-                        Ehodum Spectatores, quidnam est, quod adeo dispalescitis unius hominis inepta, &amp; nimis in levissima re gravi sententia saturi? 
-                        numquid &amp; vos quicquam estis bona Minerva, bonoque Genio his subjuncturi quae Nomothetes attulit? 
-                        State paullulum  <!-- 44 --> obsecro &amp; quantum in multorum <app><lem wit="#Zimmel">consiliis</lem><rdg wit="#ed">cosiliis</rdg></app> frugis <app><lem wit="#ed">extet</lem><rdg wit="#Zimmel">exstet</rdg></app> perdiscite. 
-                        Vetus est sententia, Neminem unum omnia noscere, &amp; hoc itidem percelebratum. 
-                        Sape etiam est olitor valde <app><lem wit="#ed">oportuna</lem><rdg wit="#Zimmel">opportuna</rdg></app> locutus. 
-                        Parasitum me noscitis Lichenora, 
-                        qui Parasitando multis iam annis ventrem pavi meum, &amp; alienum cibum ceu musculus quidam semper edi, 
-                        nullorum edacitate <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> victus, 
-                        vestibusque ut videtis non plane sumptuosis, nec plane sordidis amictus. 
-                        Qui consiliis <app><lem wit="#Zimmel">haudquaquam</lem><rdg wit="#ed">haud quaquam</rdg></app> malis, levi adolescentiae saepe suppetiatum affui. 
+                        Ehodum Spectatores, quidnam est quod adeo dispalescitis unius hominis inepta &amp; nimis in levissima re gravi sententia saturi? 
+                        Numquid &amp; vos quicquam estis bona Minerva bonoque Genio his subjuncturi quae Nomothetes attulit? 
+                        State paululum, <!-- 44 -->obsecro, &amp; quantum in multorum <app><lem wit="#Zimmel">consiliis</lem><rdg wit="#ed">cosiliis</rdg></app> frugis <app><lem wit="#ed">extet</lem><rdg wit="#Zimmel">exstet</rdg></app> perdiscite. 
+                        Vetus est sententia: "Neminem unum omnia noscere" &amp; hoc itidem percelebratum: 
+                        "Saepe etiam est olitor valde <app><lem wit="#ed">oportuna</lem><rdg wit="#Zimmel">opportuna</rdg></app> locutus". 
+                        Parasitum me noscitis Lichenora 
+                        qui parasitando multis iam annis ventrem pavi meum &amp; alienum cibum ceu musculus quidam semper edi, 
+                        nullorum edacitate <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> victus 
+                        vestibusque, ut videtis, non plane sumptuosis nec plane sordidis amictus. 
+                        Qui consiliis <app><lem wit="#Zimmel">haudquaquam</lem><rdg wit="#ed">haud quaquam</rdg></app> malis levi adolescentiae saepe suppetiatum affui. 
                         En ego si nemo ex vobis aliud est dicturus, 
                         quid sentiam ipse eloquar, esto non multum amplius loci mea sententia, habitura sit, 
                         propterea quod absunt partes, 
@@ -191,7 +192,14 @@
                 <sp>
                     <speaker>Lichenor</speaker>
                     <p>
-                        traduction
+                        Eho, Spectateurs! 
+                        Qu'y a-t-il donc pour que vous vous vous répandiez à ce point dégoûtés de la sentence maladroite d’un seul homme et extrêmement sévère dans une affaire très légère?
+                        Et est-ce que vous allez ajouté quelque chose grâce à la bonne Minerve et grâce au bon Génie, à celles que Nomothetes a rapportées? 
+                        Restez, je vous prie, encore un peu et apprenez combien de fruits il y a dans les décisions prises par un grand nombre.
+                        Il y a un vieux proverbe qui dit que “personne ne sait seul toutes choses” et ce qui suit s’est répandu de la même manière: “Souvent, le maraîcher aussi a dit des choses grandement appropriées.” 
+                        Vous me connaissez, sous le nom de Lichenor le Parasite. J’ai nourri mon ventre depuis plusieures années en parasitant et ai sans cesse mangé la nourriture d’autrui comme un rat, jamais vêtu de la faim d’aucune chose et couvert de vêtement, comme vous le voyez, ni tout à fait somptueux ni tout à fait crasseux.
+                        Moi, Lichenor, je n’ai été présent à aucune des malheureuses assemblées pour porter souvent assistance à la jeunesse aux moeurs légères. 
+                        
                     </p>
                 </sp>
             </div>
