@@ -85,6 +85,7 @@
             <change type="update" resp="#RR"><date when="2020-03-15"/>Mise à jour du latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-16"/>Apparat critique.</change>
             <change type="update" resp="#EP"><date when="2020-03-17"/>Ponctuation et traduction.</change>
+            <change type="update" resp="#PJ"><date when="2020-03-17"/>Apparat critique correction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -124,7 +125,7 @@
                         Audistis hodie, 
                         quid conductus donis animus possit, 
                         quantumque muneribus suscitatae, vires incrementi <app><lem wit="#Zimmel">sumant</lem><rdg wit="#ed">summant</rdg></app>. 
-                        Philonicum ego his <app><lem wit="#Zimmel">quattuor</lem><rdg wit="#ed">quatuor</rdg></app> annis proximis, 
+                        Philonicum ego his <app><lem wit="#ed">quatuor</lem><rdg wit="#Zimmel">quattuor</rdg></app> annis proximis, 
                         quibus mihi est familiaris, <app><lem wit="ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> gravius loquentem audivi, &amp; eo viso primum an Philonicus esset dubitare <app><lem wit="#Zimmel">cocepi</lem><rdg wit="#ed">occoepi</rdg></app>, 
                         Cum enim una sumus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app>, salibus me &amp; lepore parasitico multo est urbanior, &amp; ea ludit, 
                         quae elegans solet Pantomimus. 
