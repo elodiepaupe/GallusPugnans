@@ -84,6 +84,7 @@
             <change type="update" resp="#EP"><date when="2020-03-09"/>Mise à jour de la traduction.</change>
             <change type="update" resp="#SM"><date when="2020-03-13"/>Modification du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-17"/>Mise à jour de la traduction et ponctuation latine.</change>
+            <change type="update" resp="#SM"><date when="2020-03-17"/>Modification du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -131,7 +132,7 @@
                         Nimis enim morosas Gallinas, Gallos vero nimis petulantes, saepe animadvertisse asserunt, nec morigerantes semper Gallinas, nec Gallos semper tuentes. 
                         Quae quidem, cum &amp; inter homines habeant libertatem impunem, quis gallis &amp; gallinis imputabit? 
                         At istud consilium quo per invidiam correptae Gallinae, eo dementiae pervenerunt, 
-                        ut Gallorum famam inter mortales illustrem admodum &amp; prespectam, 
+                        ut Gallorum famam inter mortales illustrem admodum &amp; perspectam, 
                         infringere atque infamem reddere, rebus non tam veris quam confictis &amp; perperam excogitatis conatae fuerint, adeo displicet, 
                         ut quod maxime. 
                         Nullo enim instituto major ruina, rei suae publicae parari poterat, si eo voto ad metam perventum esset, quo res coepta est. 
