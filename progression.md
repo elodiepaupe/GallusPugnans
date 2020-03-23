@@ -3,7 +3,7 @@
 |:-----|:-----------------------------|:--------------------------------|:-------------------|:-----------------|
 |Prologue|ok||(Paul-Philippe S.)||
 |Accusation|(Kevin)||en cours||
-|Défense|(Pauline)||(Maxime C.)||
+|Défense|ok||(Maxime C.)||
 |Dialogue|ok||ok||
 |Arbitrage|ok||en cours||
 |Épilogue|ok||en cours||
