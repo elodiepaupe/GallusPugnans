@@ -5,15 +5,16 @@
     <teiHeader xml:lang="fr">
         <fileDesc>
             <titleStmt>
-                <title>Joachim Vadianus, Gallus Pugnans</title>
+                <title>Partie II: accusation</title>
             </titleStmt>
             <editionStmt>
                 <edition>Version électronique TEI</edition>   
                 <respStmt> 
-                    <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
-                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
-                        <date type="creation" when="2020-02"/>
-                    </resp>    
+                    <resp><date type="creation" when="2020-02"/>Équipe de traduction pour le Groupe de Théâtre Antique composée de
+                        <name xml:id="PJ" type="participante">Pauline Jacsont</name>
+                        sous la direction de 
+                    </resp>  
+                    <name xml:id="EP" type="éditeur">Élodie Paupe</name>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
@@ -38,6 +39,7 @@
                     <publisher>?</publisher>
                     <placeName>Vienne</placeName>
                     <date when="1514">1514</date>
+                    <biblScope unit="page" from="?" to="?"></biblScope>
                 </bibl>
                 <listWit>
                     <witness xml:id="ed">Editio princeps encodée</witness>
@@ -49,8 +51,7 @@
         <encodingDesc>
             <editorialDecl>
                 <normalization>
-                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.
-                       Les graphies sont normalisées: diphtongues tardives supprimées, ci/ti, etc.</p>
+                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.</p>
                 </normalization>
                 <correction>
                     <p>Les corrections sont encodées.</p>
@@ -66,7 +67,7 @@
                     <p>Les éventuelles autres marques d'intertextualité du texte sont encodées.</p>
                 </quotation>
                 <segmentation>
-                    <p>La segmentation de la source est conservée.</p>
+                    <p>La segmentation de la source est conservée littéraire de la source est conservée, mais pas la segmentation par page.</p>
                 </segmentation>
             </editorialDecl>
             <variantEncoding location="internal" method="parallel-segmentation"></variantEncoding>
@@ -79,26 +80,39 @@
         </profileDesc> 
         <revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
+            <change type="update" resp="#EP"><date when="2020-02"/>Apparat critique.</change>
             <change type="update" resp="#PJ"><date when="2020-03-10"/>faute de frappe : Ludicem pour Iudicem</change>
+            <change type="update" resp="#EP"><date when="2020-03-23"/>Ponctuation, corrections du texte latin, ajout de la traduction partielle.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
         <body>
-            <head>Philonici, pro Gallinis adversus Gallos istituta oratio.<note>à définir</note></head>
-            
+            <div type="source">
+                <head>Philonici, pro Gallinis adversus Gallos istituta oratio.</head>
+                <stage>Philonicus</stage>
             <sp>
                 <speaker>Philonicus</speaker>
                 <p>
-                    Video ego, in ista spectatorum accurrentium multitudine, Iudicem etiam ignorans, multa graviter et Attente pro Gallinis dici oportere, 
-                    propterea quam Euthymum cerno virum facundum et agendarum rerum, mira praeditum <app><lem wit="#Zimmel">sollertia</lem><rdg wit="#ed">solertia</rdg></app>, 
-                    quem insolentissimam Gallorum turbam, patronum conduxisse audio, quasi aut purgare se tanto spectatorum assentiente numero superbissima gens aut vincere nos viri tam eruditi ingenio aliquo modo <app><lem wit="#Zimmel">posset</lem><rdg wit="#ed">possent</rdg></app>. 
-                    Cum penes nos victoriam fore usque adeo certum habeam, ut quantum in me est, nullum casae Nostrae destinatum Iudicem exoptem, 
-                    Sed vos omnes Spectatores, Aeque velim ita Veritatis esse Patronos, ut ego hodie Gallinarum ero, Auditis etiamnum quam aperta partis nostrae fit integritas, 
-                    quam magna fiducia. Sese ipsum videtur absolvere, olim consensu Qui suae causae optimos quosque vult esse Judices, 
-                    Nec te quidem Euthyme reformidarem, si modo nec precibus, ne praemiis illectibus verum dicere libere velles, nihil enim jam restaret, 
+                    Video ego in ista spectatorum accurrentium multitudine Iudicem etiam ignorans multa graviter et attente pro Gallinis dici oportere, 
+                    propterea quam Euthymum cerno virum facundum et agendarum rerum mira praeditum <app><lem wit="#Zimmel">sollertia</lem><rdg wit="#ed">solertia</rdg></app>, 
+                    quem insolentissimam Gallorum turbam patronum conduxisse audio, 
+                    quasi aut purgare se tanto spectatorum assentiente numero superbissima gens 
+                    aut vincere nos viri tam eruditi ingenio aliquo modo <app><lem wit="#Zimmel">posset</lem><rdg wit="#ed">possent</rdg></app>. 
+                    Cum penes nos victoriam fore usque adeo certum habeam ut, quantum in me est, nullum causae nostrae destinatum Iudicem exoptem 
+                    sed vos omnes, Spectatores, aeque velim ita veritatis esse patronos, 
+                    ut ego hodie Gallinarum ero.
+                    Auditis etiamnum quam aperta partis nostrae fit integritas 
+                    quam magna fiducia. 
+                    Sese ipsum videtur absolvere omnium consensu qui suae causae optimos quosque vult esse Judices. 
+                    Nec te quidem, Euthyme, reformidarem si modo nec precibus nec praemiis illectibus verum dicere libere velles. 
+                    Nihil enim jam restaret 
                     quin tuo te gladio confoderemus. 
-                    At quia eo discordiae perventum est, ut sine justae accusationis excursu Gallinarum fides &amp; simplicitas <app><lem wit="#Zimmel">dignosci</lem><rdg wit="#ed">dinosci</rdg></app> nequeant, Gallis <app><lem wit="#Zimmel">praesertim</lem><rdg wit="#ed">presertim</rdg></app> adeo obluctantibus, 
-                    Agam ego Spectatores ut quae hodie mihi addicendum commissa sunt, citra  <!-- 10 --> fastidium accipiatis. 
+                    At quia eo discordiae perventum est 
+                    ut sine justae accusationis excursu Gallinarum fides &amp; simplicitas <app><lem wit="#Zimmel">dignosci</lem><rdg wit="#ed">dinosci</rdg></app> nequeant Gallis <app><lem wit="#Zimmel">praesertim</lem><rdg wit="#ed">presertim</rdg></app> adeo obluctantibus, 
+                    agam ego, Spectatores, 
+                    ut quae hodie mihi addicendum commissa sunt citra  <!-- 10 --> fastidium accipiatis. 
+                </p>
+                <p>
                     Cum prima luce <app><lem wit="#Zimmel">diei</lem><rdg wit="#ed">die</rdg></app> huius, e lectulo <app><lem wit="#Zimmel"></lem><rdg wit="#ed">me</rdg></app> me rapuissem, pulsarunt fores Gallinae tres, insignes forma, quas ipso statim aspectu non plane rusticas et se judicabam eas 
                     ut videretis adduxi mecum, ne quis me nugas texere putaret, 
                     dum, quod factum est eloquor Harum maiuscula quae se Quaquerram nuncupat, ut me salutavit, quaerere <app><lem wit="#Zimmel">coepit</lem><rdg wit="#ed">cepit</rdg></app> perhumaniter, ut solent, an juris peritiam tenerem/ 
@@ -302,7 +316,25 @@
                     Sed iam satis superque dictum est, <app><lem wit="#Zimmel">quamquam</lem><rdg wit="#ed">quanquam</rdg></app> plura Quaquerra iusserat, quae ideo missa facio quod omnium animos in gallinarum favorem, 
                     id quod iustissimum est inclinatos video. DIXI.
                 </p>
-            </sp>   
+            </sp>
+            </div> 
+            <div type="traduction">
+                <head>Philonici, pro Gallinis adversus Gallos istituta oratio.</head>
+                <stage>Philonicus</stage>
+                <sp>
+                    <speaker>Philonicus</speaker>
+                    <p>
+                        Étant donné cette foule de spectateurs qui accourent, moi, je vois qu’il me faut, ignorant même le juge, plaider de nombreux points pour les poules avec sérieux et attention en faveur des poules, car je sais combien Euthymus est un homme éloquent et pourvu d’une habileté admirable pour mener ses affaires, or, j’ai entendu que la troupe extrêmement effrontée des coqs s’est offert ses services d’avocat, comme si ce sexe très orgueilleux pouvait soit se disculper par un si grand nombre favorable de spectateurs ou nous vaincre seulement par le certain talent d’un homme si érudit.
+                        Puisque j’ai la certitude que la victoire sera nôtre à tel point que, combien même cela m’incombe, je ne choisirai aucun juge fixé mais vous tous, spectateurs, je voudrais que vous soyez équitablement les avocats de la vérité comme moi je serai aujourd’hui celui des poules. 
+                        Vous entendez encore maintenant combien transparente apparaît l’honnêteté de notre parti, combien grande est notre confiance. De l’avis de tous, il semble qu’il s’acquitte lui-même celui qui veut que tous les juges de son affaire soient les meilleurs. 
+                        Et, je ne te craindrais pas du tout, Euthymus, si du moins tu voulais dire franchement la vérité sans supplications, sans récompenses séduisantes. 
+                        En effet, rien désormais ne s’opposerait à ce que nous ne t’abattions par ton glaive, mais, parce qu’on en est arrivé à un désaccord tel que, sans passer par une juste mise en accusation, la loyauté et la droiture des poules ne peuvent être distinguées par les coqs surtout qui luttent jusqu’à maintenant, moi, spectateurs, je ferai en sorte que vous receviez, sans aller jusqu’à la répugnance, les points qui ont été rassemblés pour que je vous les présente aujourd’hui. 
+                    </p>
+                    <p>
+                        test
+                    </p>
+                </sp>
+            </div>
         </body>
     </text>
 </TEI>
