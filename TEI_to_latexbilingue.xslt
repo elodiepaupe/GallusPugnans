@@ -59,7 +59,14 @@
     </xsl:text>
     </xsl:template>
     
-
+    
+    <xsl:template match="descendant-or-self::p">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="text()">
+        <xsl:value-of select="replace(., '&amp;', '﻿\\ampersand\\')"/>
+    </xsl:template>
     
     <xsl:template match="head">
         <xsl:text>\pstart\section*{</xsl:text><xsl:apply-templates/><xsl:text>}\pend</xsl:text>
@@ -82,12 +89,7 @@
     </xsl:template>
     
     <xsl:template match="app">
-        <xsl:text>\edtext{</xsl:text><xsl:value-of select="lem"/><xsl:text>}{\Afootnote{</xsl:text><xsl:value-of select="rdg"/><xsl:text>}}</xsl:text>
+        <xsl:text>\edtext{</xsl:text><xsl:apply-templates select="lem"/><xsl:text>}{\Afootnote{</xsl:text><xsl:value-of select="rdg"/><xsl:text>}}</xsl:text>
     </xsl:template>
-    
-    <xsl:template match="text()">
-        <xsl:value-of select="replace(., '&amp;', '﻿\\ampersand\\')"/>
-    </xsl:template>
-    
-
+   
 </xsl:stylesheet>
