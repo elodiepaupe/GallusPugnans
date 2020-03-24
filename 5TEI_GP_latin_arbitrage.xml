@@ -86,6 +86,7 @@
             <change type="update" resp="#EP"><date when="2020-03-17"/>Mise à jour de la traduction et ponctuation latine.</change>
             <change type="update" resp="#SM"><date when="2020-03-17"/>Modification du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-18"/>Ajout de la traduction.</change>
+            <change type="update" resp="#SM"><date when="2020-03-24"/>Modification du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -143,7 +144,7 @@
                         eam abolitam &amp; expunctam in amoris sui argumentum volvere. 
                         Novistis legem, quae Iudices in levioribus causis vult esse ad lenitatem proniores, 
                         In gravioribus autem poenis, severitatem legum cum aliquo temperamento benignitatis subsequi. 
-                        Capi causae nostra non judices sed Arbitri, poenam commissi, hercle non parui: 
+                        Capi causae nostrae non judices sed Arbitri, poenam commissi, hercle non parui: 
                         non temperare, sed non reminisci volverunt Eius loco munus <app><lem wit="#Zimmel">exspectantes</lem><rdg wit="#ed">expectantes</rdg></app> pulcherrimum, &amp; partibus commodissimum, 
                         Concordiam videlicet &amp; matrimonii perenni pace stabiliti mite comertium, 
                         ad quod praestandum, tu Philonice, tuque Euthyme, cum domum venietis, Gallos, Gallinasque, iterum atque iterum hortemini. 
