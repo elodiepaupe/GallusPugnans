@@ -81,8 +81,9 @@
         <revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
             <change type="update" resp="#EP"><date when="2020-02"/>Apparat critique.</change>
-            <change type="update" resp="#PJ"><date when="2020-03-10"/>faute de frappe : Ludicem pour Iudicem</change>
+            <change type="update" resp="#PJ"><date when="2020-03-10"/>Corrections du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-23"/>Ponctuation, corrections du texte latin, ajout de la traduction partielle.</change>
+            <change type="update" resp="#PJ"><date when="2020-03-24"/>Corrections du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -164,9 +165,9 @@
                     quamvis <app><lem wit="#Zimmel">mala patefacere solent</lem><rdg wit="#ed">mala in parte facere solent</rdg></app>, nec mirum, cum natura gallorum amantissimae essent gallinae, si sanctissimas inter eos conjugii &amp; fidei leges, libido atque insania non impedirent, 
                     Id quod inter nos homines quoque nimis frequenter locum habet. 
                     Multorum enim vel a natura institutam amicitiam, vel melior fortuna variat, vel peior invertit, &amp; gloriae crescentibus titulis, vetustae amicitiae necessitudinem adnexam itinere, 
-                    non nisi summae prudentiae viri solent, tantum est in multorum anios ambitionis &amp; ostentationis imperium. 
+                    non nisi summae prudentiae viri solent, tantum est in multorum animos ambitionis &amp; ostentationis imperium. 
                     Victores Gallos qui iam non credat Spectatores insolentissimos esse, si victis ea est, quam <app><lem wit="#Zimmel">rettuli</lem><rdg wit="#ed">retuli</rdg></app> insolentia. 
-                    Cum victoriae, proprium sit, inflare &amp; audentiores facere, quo circa &amp; inter nos paucissimi sunt, qui eam aequo anio serant, 
+                    Cum victoriae, proprium sit, inflare &amp; audentiores facere, quo circa &amp; inter nos paucissimi sunt, qui eam aequo animo serant, 
                     caveantque ne maximae victoria, maximus contemptus sit comes, Galli victores, inquit Quaquerra, 
                     cum Ornithoboscia repetunt, sola superbia saginant, &amp; memoria tumescunt rei viriliter actae adduntque 
                     quicquid est levitatis &amp; libidinis, nec adquisitae nos gloriae titulis faciunt, sed ferociae participes. 
