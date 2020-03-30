@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
+<?xml-stylesheet type="text/xsl" href="TEI_to_latex.xsl"?>
+<?xml-stylesheet type="text/xsl" href="TEI_to_latexbilingue.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="fr">
         <fileDesc>
             <titleStmt>
-                <title>Joachim Vadianus, Gallus Pugnans</title>
+                <title>Partie I: prologue</title>
             </titleStmt>
             <editionStmt>
                 <edition>Version électronique TEI</edition>   
-                <respStmt> 
-                    <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>  
-                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique
-                        <date type="creation" when="2020-02"/>
+                <respStmt>
+                    <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>
+                    <resp>Directrice de la traduction pour le Groupe de Théâtre Antique <date
+                        type="creation" when="2020-02"/>
                     </resp>    
                 </respStmt>
             </editionStmt>
@@ -38,6 +39,7 @@
                     <publisher>?</publisher>
                     <placeName>Vienne</placeName>
                     <date when="1514">1514</date>
+                    <biblScope unit="page" from="8" to="9">8-9</biblScope>
                 </bibl>
                 <listWit>
                     <witness xml:id="ed">Editio princeps encodée</witness>
@@ -49,8 +51,7 @@
         <encodingDesc>
             <editorialDecl>
                 <normalization>
-                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.
-                       Les graphies sont normalisées: diphtongues tardives supprimées, ci/ti, etc.</p>
+                    <p>Les graphies majuscules et abréviations de la source ne sont pas conservées.</p>
                 </normalization>
                 <correction>
                     <p>Les corrections sont encodées.</p>
@@ -66,7 +67,7 @@
                     <p>Les éventuelles autres marques d'intertextualité du texte sont encodées.</p>
                 </quotation>
                 <segmentation>
-                    <p>La segmentation de la source est conservée.</p>
+                    <p>La segmentation de la source est conservée littéraire de la source est conservée, mais pas la segmentation par page.</p>
                 </segmentation>
             </editorialDecl>
             <variantEncoding location="internal" method="parallel-segmentation"></variantEncoding>
@@ -78,22 +79,22 @@
             </langUsage>
         </profileDesc> 
         <revisionDesc>
-            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier: prologue p. 8-9 de la source.</change>
+            <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
+            <change type="update" resp="#EP"><date when="2020-02-19"></date>Apparat critique.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="1" type="prologue">
         <body>
-            <head>Prologium argumentum continens: Philolaus loquitur.<note>Pages 8-9 de la source
-            </note></head>
-            
+            <div type="source">
+                <head>Prologium argumentum continens: Philolaus loquitur.<note></note></head>
             <sp>
-                <speaker>Philolaus</speaker>
+                <speaker>Philolaus </speaker>
                 <p><!-- 8 -->Adverti saepe:  
-                    Spectatores <app><lem wit="#Zimmel">optumi</lem><rdg wit="#ed">optumi</rdg></app>, parvis initiis maxima inter mortales dissidia exoriri solere: 
+                    Spectatores <app><lem wit="#Zimmel">optimi</lem><rdg wit="#ed">optumi</rdg></app>, parvis initiis maxima inter mortales dissidia exoriri solere: 
             Et latentem invidiam vehementissimis irarum <app><lem wit="#Zimmer">flammis</lem><rdg wit="#ed">flaminis</rdg></app> erumpere. 
             Nec id solum nostro in genere qui rationalis creaturae gradum occupamus.  
             Id enim minus esset mirum, hoc <app><lem wit="#Zimmel">praesertim</lem><rdg wit="#ed">presertim</rdg></app> tempore quo omnes omnibus in locis dissentiunt, 
-            Verum et in Brutis quae a ratione aliena, solo naturae instinctu pergere creduntur, <app><lem wit="#Zimmel">pro</lem><rdg wit="#ed">proh</rdg></app> boni dii, quid invidia potest?  
+            Verum et in Brutis quae a ratione aliena, solo naturae instinctu pergere creduntur, <app><lem wit="#Zimmel">pro </lem><rdg wit="#ed">proh </rdg></app>boni dii, quid invidia potest?  
             quantum secum periculi honores trahunt?  
             Galli et Gallinae litigant.  
             Hae invident, Illi quod annui victores sunt lacessuntur.  
@@ -113,7 +114,7 @@
             Et <app><lem wit="#Zimmel">e vestigio</lem><rdg wit="#ed">evestigio</rdg></app>, 
             ne clamosae multitudini indulgendo (quod saepe evenit) dignitatis aliquid sibi aut <app><lem wit="#Zimmel">aestimationis</lem><rdg wit="#ed">estimationis</rdg></app> imminuatur, 
             suffarcinati optimis consiliis accelerant, seque et vellicando et propugnando vindicant, 
-            Philonicus illarum  <!-- 9 --> est Patronus, 
+            Philonicus illarum <!-- 9 --> est Patronus, 
             Horum <app><lem wit="#ed">dissertus</lem><rdg wit="#Zimmel">dissertor</rdg></app> Euthymus,  
             Accusat ille, Hic refutat,  
             Resque agitur gravi admodum certamine, 
@@ -125,8 +126,18 @@
             Lichenor tandem Parasitus, ridens factum, ridiculum <app><lem wit="#Zimmel">pronuntiat</lem><rdg wit="#ed">pronunciat</rdg></app> Audite obsecro placidis animis remque 
             ut partibus concepta est Silentes dijudicate, Gallosque et Gallinas amabitis. 
                 </p>
-            </sp> 
-            
+            </sp>
+            </div> 
+            <div type="traduction">
+                <head>Prologue contenant l'argument: Philolaus parle.</head>
+                
+                <sp>
+                    <speaker>Philolaus </speaker>
+                    <p>
+                        blabla...
+                    </p>
+                </sp>
+            </div>
         </body>
     </text>
 </TEI>
