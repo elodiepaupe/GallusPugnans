@@ -80,61 +80,128 @@
         </profileDesc> 
         <revisionDesc>
             <change type="creation" resp="#EP"><date when="2020-02-18"/>Création du fichier.</change>
-            <change type="update" resp="#EP"><date when="2020-02-19"></date>Apparat critique.</change>
+            <change type="update" resp="#EP"><date when="2020-02-19"/>Ajout de la première couche de l'apparat critique à partir de l'édition de Zimmel.</change>
+            <change type="update" resp="#EP"><date when="2020-03-31"/>Traduction littérale</change>
         </revisionDesc> 
     </teiHeader>
     <text n="1" type="prologue">
         <body>
             <div type="source">
-                <head>Prologium argumentum continens: Philolaus loquitur.<note></note></head>
+                <head>Prologium argumentum continens: Philolaus loquitur.</head>
+                <stage>Philolaus</stage>
             <sp>
                 <speaker>Philolaus </speaker>
-                <p><!-- 8 -->Adverti saepe:  
-                    Spectatores <app><lem wit="#Zimmel">optimi</lem><rdg wit="#ed">optumi</rdg></app>, parvis initiis maxima inter mortales dissidia exoriri solere: 
-            Et latentem invidiam vehementissimis irarum <app><lem wit="#Zimmer">flammis</lem><rdg wit="#ed">flaminis</rdg></app> erumpere. 
-            Nec id solum nostro in genere qui rationalis creaturae gradum occupamus.  
-            Id enim minus esset mirum, hoc <app><lem wit="#Zimmel">praesertim</lem><rdg wit="#ed">presertim</rdg></app> tempore quo omnes omnibus in locis dissentiunt, 
-            Verum et in Brutis quae a ratione aliena, solo naturae instinctu pergere creduntur, <app><lem wit="#Zimmel">pro </lem><rdg wit="#ed">proh </rdg></app>boni dii, quid invidia potest?  
-            quantum secum periculi honores trahunt?  
-            Galli et Gallinae litigant.  
-            Hae invident, Illi quod annui victores sunt lacessuntur.  
-            Video vos nutare Spectatores et negare fidem novae rei, 
-            Quam tunc ut credatis, obsecro animo auribusque arrecti paucis accipite.  
-            Postquam Gallinae, quotquot in hac nostra provincia sunt, audentes Gallos, celebribus ludis, annuoque Gymnasio depugnare, et victorem Regem institui, intellexerunt, 
-            Invidia magna, quae Crescentis semper gloriae comes est, 
-            succensae atque exagitatae quod domi negligi, 
-            et ingloriae degere sibi viderent, 
-            Pumiles <app><lem wit="#Zimmel">nuntias</lem><rdg wit="#ed">nuncias</rdg></app> per omnia passim Gallinaria atque Ornithoboscia consilii instituendi gratia emiserunt, 
-            Quibus rem omnem interpretantibus decretum est consulto, 
-            ut per Patronum justae postulationis causa agatur ne prorsus alioqui imbecilla gens non Gallis modo, 
-            sed et Anaticulis, et Anseribus despectui foret, 
-            Utque Gallis per alienae linguae subsidium, inter homines quoque invidiam suscitarent, 
-            Hi vero hoc diu ludicrum esse putantes, tam frequentibus Gallinarum conventiculis, 
-            <app><lem wit="#Zimmel">tamque</lem><rdg wit="#ed">tanque</rdg></app> insolito contemptu animadverso, rem agi serio acceperunt.  
+                <p><!-- 8 --> Adverti saepe,  
+                    Spectatores <app><lem wit="#Zimmel">optimi</lem><rdg wit="#ed">optumi</rdg></app>, 
+                    parvis initiis maxima inter mortales dissidia exoriri solere 
+                    et latentem invidiam vehementissimis irarum <app><lem wit="#Zimmer">flammis</lem><rdg wit="#ed">flaminis</rdg></app> erumpere. 
+                    Nec id solum nostro in genere qui rationalis creaturae gradum occupamus.  
+                    Id enim minus esset mirum hoc <app><lem wit="#Zimmel">praesertim</lem><rdg wit="#ed">presertim</rdg></app> tempore quo omnes omnibus in locis dissentiunt. 
+                    Verum et in Brutis 
+                    quae a ratione aliena solo naturae instinctu pergere creduntur, 
+                    <app><lem wit="#Zimmel">pro </lem><rdg wit="#ed">proh </rdg></app>boni dii, 
+                    quid invidia potest?  
+                    Quantum secum periculi honores trahunt?  
+                </p>
+                <p>
+                    Galli et Gallinae litigant.  
+                    Hae invident.
+                    Illi quod annui victores sunt lacessuntur.  
+                    Video vos nutare, Spectatores, et negare fidem novae rei. 
+                    Quam tamen ut credatis, obsecro, animo auribusque arrecti paucis accipite.  
+                    Postquam Gallinae, 
+                        quotquot in hac nostra provincia sunt, 
+                    audentes Gallos celebribus ludis annuoque gymnasio depugnare et victorem Regem institui intellexerunt, 
+                    invidia magna, 
+                        quae crescentis semper gloriae comes est, 
+                    succensae 
+                    atque exagitatae 
+                        quod domi negligi et ingloriae degere sibi viderent, 
+                    pumiles <app><lem wit="#Zimmel">nuntias</lem><rdg wit="#ed">nuncias</rdg></app> per omnia passim gallinaria atque ornithoboscia consilii instituendi gratia emiserunt. 
+                    Quibus rem omnem interpretantibus decretum est consulto 
+                        ut per patronum justae postulationis causa agatur 
+                            ne prorsus alioqui imbecilla gens non Gallis modo 
+                            sed et Anaticulis et Anseribus despectui foret 
+                            utque Gallis per alienae linguae subsidium inter homines quoque invidiam suscitarent. 
+                </p>
+                <p>
+                    Hi vero hoc diu ludicrum esse putantes 
+                        tam frequentibus Gallinarum conventiculis 
+                        <app><lem wit="#Zimmel">tamque</lem><rdg wit="#ed">tanque</rdg></app> insolito contemptu animadverso 
+                    rem agi serio acceperunt.  
             Et <app><lem wit="#Zimmel">e vestigio</lem><rdg wit="#ed">evestigio</rdg></app>, 
-            ne clamosae multitudini indulgendo (quod saepe evenit) dignitatis aliquid sibi aut <app><lem wit="#Zimmel">aestimationis</lem><rdg wit="#ed">estimationis</rdg></app> imminuatur, 
-            suffarcinati optimis consiliis accelerant, seque et vellicando et propugnando vindicant, 
-            Philonicus illarum <!-- 9 --> est Patronus, 
-            Horum <app><lem wit="#ed">dissertus</lem><rdg wit="#Zimmel">dissertor</rdg></app> Euthymus,  
-            Accusat ille, Hic refutat,  
-            Resque agitur gravi admodum certamine, 
+                ne clamosae multitudini indulgendo (quod saepe evenit) dignitatis aliquid sibi aut <app><lem wit="#Zimmel">aestimationis</lem><rdg wit="#ed">estimationis</rdg></app> imminuatur, 
+            suffarcinati optimis consiliis accelerant
+            seque et vellicando et propugnando vindicant. 
+            Philonicus illarum <!-- 9 --> est patronus, 
+            horum <app><lem wit="#ed">dissertus</lem><rdg wit="#Zimmel">dissertor</rdg></app> Euthymus,  
+            Accusat ille, hic refutat  
+            resque agitur gravi admodum certamine. 
+                </p>
+                <p>
             Capi tandem, neutrum genus nec suspectum partibus, 
-            Arbitrii nacti copiam, Gallis illatam esse injuriam <app><lem wit="#Zimmel">pronuntiant</lem><rdg wit="#ed">pronunciant</rdg></app>,  
-            interpres est Nomothetes  
-            qui ut sint concordes imperat, seque ament ut antea, Galli et Gallinae tum silentes abeunt, 
-            remque omnem ex Patronis ediscunt Domi,  
-            Lichenor tandem Parasitus, ridens factum, ridiculum <app><lem wit="#Zimmel">pronuntiat</lem><rdg wit="#ed">pronunciat</rdg></app> Audite obsecro placidis animis remque 
-            ut partibus concepta est Silentes dijudicate, Gallosque et Gallinas amabitis. 
+            arbitrii nacti copiam Gallis illatam esse injuriam <app><lem wit="#Zimmel">pronuntiant</lem><rdg wit="#ed">pronunciant</rdg></app>.  
+            Interpres est Nomothetes  
+            qui ut sint concordes imperat seque ament ut antea. 
+            Galli et Gallinae tum silentes abeunt 
+            remque omnem ex patronis ediscunt domi.  
+            Lichenor tandem Parasitus ridens factum ridiculum <app><lem wit="#Zimmel">pronuntiat</lem><rdg wit="#ed">pronunciat</rdg></app>. 
+            Audite, obsecro, placidis animis remque 
+                ut partibus concepta est
+            silentes dijudicate 
+            Gallosque et Gallinas amabitis. 
                 </p>
             </sp>
             </div> 
             <div type="traduction">
-                <head>Prologue contenant l'argument: Philolaus parle.</head>
+                <head>Prologue contenant l'argument: Philolaus parle.
                 
+                </head>
+                <stage>Philolaus</stage>
                 <sp>
                     <speaker>Philolaus </speaker>
                     <p>
-                        blabla...
+                        Je m’en suis aperçu souvent,
+                        spectateurs excellents, 
+                        c’est par de modestes débuts que les plus grandes dissensions entre mortels ont l’habitude de commencer et c’est des flammes véhémentes des colères que jaillit une jalousie latente et ceci n’est pas seulement le propre de l’espèce à laquelle nous appartenons, nous qui avons atteint les premiers le rang de créature rationnelle.
+                        Et cela ne serait guère étonnant, surtout en cette époque où tous en tous lieux sont en désaccord.  
+                        Cependant, chez les bêtes brutes aussi qu’une théorie déplacée considère comme mues par le seul instinct de la nature, au nom du ciel, que ne peut la jalousie !
+                        Que de danger les honneurs entraînent-ils à leur suite ?
+                    </p>
+                    <p>
+                        Coqs et poules se querellent. 
+                        Elles sont jalouses.
+                        Ils sont provoqués parce qu’ils sont chaque année vainqueurs. 
+                        Je vous vois hocher la tête, spectateurs, et nier le crédit de cette nouvelle affaire.
+                        Alors, pour que vous y croyiez, je vous en prie, tendez l’esprit et les oreilles, apprenez-la en quelques mots. 
+                        Après que les poules, 
+                        qui cotcotent en cette province qui est nôtre, 
+                        ont compris que les coqs audacieux luttent au cours de nombreux jeux et une fois par année dans un gymnase et qu’ils établissent comme roi le vainqueur de ces joutes,
+                        enflammées d’une grande haine, éternelle compagne d’une gloire grandissante,
+                        et exaspérées aussi de se voir être reléguées au foyer et passer leur temps sans gloire,
+                        elles ont envoyé de petites messagères dans toutes les directions dans tous les poulaillers et les maisons des coqs
+                        afin d’instaurer un conseil.
+                        Une fois qu’elles ont expliqué toute l’affaire, il a été tranché sur décret
+                        que la cause de cette juste plainte serait menée par un avocat
+                        afin que, directement et incidemment, le sexe faible ne soit plus méprisé non seulement chez les coqs, mais aussi chez les canards et les jars
+                        et afin que, par l’emploi d’une langue qui leur est étrangère, elles éveillent aussi la haine des coqs chez les hommes.
+                    </p>
+                    <p>
+                        Ces derniers 
+                        qui en vérité ont longtemps trouvé cela divertissant, en raison des si fréquents rassemblements des poules et du mépris si étrange qu’ils avaient remarqué,  
+                        ont accepté que l’affaire soit traitée sérieusement. 
+                        Et sur-le-champ, pour qu’en étant bienveillant avec la criarde multitude, ce qui arrive souvent, ils ne détruisent pas une part de leur dignité ou de leur estime d’eux-mêmes, chargés de leurs meilleurs conseils, ils se hâtent et revendiquent eux-mêmes en invectivant et en défendant.
+                        Philonicus de celles-là est l’avocat, de ceux-ci le disert Euthymus.
+                        L’un accuse, l’autre réfute et l’affaire est menée dans une joute tout ce qu’il y a de plus sérieuse.
+                    </p>
+                    <p>
+                        Pourtant les Chapons, sexe neutre et non suspect aux yeux des parties, arbitres tout trouvés, annoncent que le discours porté contre les coqs est une atteinte à l’honneur. 
+                        Nomothètes est l’intermédiaire qui leur ordonne de faire la paix et de s’aimer les uns les autres comme autrefois. 
+                        Alors coqs et poules se retirent en silence et toute l’affaire, c’est de leurs avocats qu’ils l’apprennent chez eux.
+                        Cependant, Lichenor le parasite en riant déclare la situation ridicule.
+                        Écoutez, je vous prie, avec des cœurs sereins,
+                        l’affaire telle que l’ont conçue les partis, jugez-la en silence, 
+                        et vous aimerez les coqs et les poules.
                     </p>
                 </sp>
             </div>
