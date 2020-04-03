@@ -84,6 +84,7 @@
             <change type="update" resp="#PJ"><date when="2020-03-10"/>Corrections du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-23"/>Ponctuation, corrections du texte latin, ajout de la traduction partielle.</change>
             <change type="update" resp="#PJ"><date when="2020-03-24"/>Corrections du texte latin.</change>
+            <change type="update" resp="#PJ"><date when="2020-04-03"/>Corrections du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -181,17 +182,17 @@
                     Non possum ego spectatores, aut memoria complecti, aut oratione consequi, eas injurias, quibus vel uno die gallinas illi sanguinarii Athletae afficiunt. 
                     Primum omnium cum Veneris comites Gratiae sint, ut ego cum adolescens poeticae <app><lem wit="#Zimmel">vacarem</lem><rdg wit="#ed">vacacarem</rdg></app>, saepe legi, gallorum Venus, non est Venus, cum eam non gratiae sed pro Charitibus fusiae comitentur: 
                     Nullus enim hodie est gallis sine sanguine concubitus, adeo miseras illas cristis deprehensas, mordent &amp; vellicant gallinas. 
-                    Videtis Spectatores quam altera comitum Quaquerrea secundum cristam &amp; oculos <app><lem wit="#Zimmel">sanguinolenta</lem><rdg wit="#ed">sanguniolenta</rdg></app> sit: 
+                    Videtis Spectatores quam altera comitum Quaquerrae secundum cristam &amp; oculos <app><lem wit="#Zimmel">sanguinolenta</lem><rdg wit="#ed">sanguniolenta</rdg></app> sit: 
                     putabam eam vepribus <app><lem wit="#Zimmel">laesam</lem><rdg wit="#ed">lesam</rdg></app> Verum: 
-                    ut mihi <app><lem wit="#Zimmel">rettulit</lem><rdg wit="#ed">retulit</rdg></app> Quaquerra, victor ea gallus ita torsit, pessumdedit: &amp; coinquinavit. 
+                    ut mihi <app><lem wit="#Zimmel">rettulit</lem><rdg wit="#ed">retulit</rdg></app> Quaquerra, victor eam gallus ita torsit, pessumdedit: &amp; coinquinavit. 
                     Estne haec blanda Venus? 
                     An non haec injuria est: Tales viros mulieres nostrae formidant, &amp; tamen gallinis sunt fortiores. 
                     Praeterea cum Quaquerra, nuper ad praecipitem vicini fluminis ripam, apricaretur, &amp; se pulvere ac harena molliori non nihil lavaret: 
                     nihil mali suspicans, gallus victor infestus ei, quam casta Veneris immodestiam contemneret, rostro &amp; calcaribus in <app><lem wit="#Zimmel">caeruleos</lem><rdg wit="#ed">coeruleos</rdg></app> eam fluctus <app><lem wit="#Zimmel">deicere</lem><rdg wit="#ed">dejicere</rdg></app> conatus est, &amp; deturbasset impius, 
                     ni prospero volatu in alteram se ripam praeterita corripuisset. 
-                    Adeo tamen morti vicina suit ut pedes &amp; ventrem imum summae undae madefecerint. 
+                    Adeo tamen morti vicina fuit ut pedes &amp; ventrem imum summae undae madefecerint. 
                     Quaero vos Spectatores an hoc factum parricidio non sit vicinius quam injuriae? 
-                    Hic Gallus mersili culeo dignos foret, qui tam audax ausus est facinus. 
+                    Hic Gallus mersili culeo dignus foret, qui tam audax ausus est facinus. 
                     Quod si quae iam loquor, Quaquerra nostra sine  <!-- 14 --> interprete acciperet abunde <app><lem wit="#Zimmel">lacrimaretur</lem><rdg wit="#ed">lachrymaretur</rdg></app>: 
                     Raro enim duros casus qui sustinuere retentis <app><lem wit="#Zimmel">lacrimis</lem><rdg wit="#ed">lachrymis</rdg></app> audire solent. 
                     Si vero quis inter vos Spectatores factum aliter putat quam dixerim: 
