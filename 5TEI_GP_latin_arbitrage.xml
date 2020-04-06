@@ -87,6 +87,7 @@
             <change type="update" resp="#SM"><date when="2020-03-17"/>Modification du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-18"/>Ajout de la traduction.</change>
             <change type="update" resp="#SM"><date when="2020-03-24"/>Modification du texte latin.</change>
+            <change type="update" resp="#EP"><date when="2020-04-06"/>Modification du texte latin et ajout de traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -108,12 +109,16 @@
                         visum est eo festinantius ad moderati arbitrii praescriptum contendendum esse quanto res in se plus habitura periculi est, 
                         si longius proteletur. 
                         Gratiasque agunt bonae sorti &amp; secundo fato quod arbitrii ad eos libertas vestro &amp; partium consensu pervenit. 
+                    </p>
+                    <p>
                         Si enim res cessisset aliter, timendum ipsis videbatur 
                         <app><lem wit="#Zimmel">ne quis</lem><rdg wit="#ed">nequis</rdg></app> immitius quam huiusmodi generis imbecilla securitas commeruisset agere fuerit ausus, quod hercle nemo in Capis animadvertet. 
                         Sunt enim hi qui &amp; Gallos &amp; Gallinas, par amoris moderamine <app><lem wit="#Zimmel">persequuntur</lem><rdg wit="#ed">prosecuntur</rdg></app> 
                         ac de gallis quidem non est quod dubitet quispiam, cum &amp; ipsi aliquando galli fuerint, 
                         quod tu Euthyme paulo ante dicebas. 
                         pro Gallinis vero haec indicia sunt quod olim mares eas communi instinctu dilexere. 
+                    </p>
+                    <p>
                         Et iam nunc cum excubatrix deficit, in amoris argumentum pullos fovent tactu subtus <app><lem wit="#Zimmel">iacentium</lem><rdg wit="#ed">iacentum</rdg></app> pullorum pruriente, quoque se oblectantes, 
                         semper deinceps, amant ducunt, pascunt, 
                         quod se expertum magnus naturae indagator asseruit. 
@@ -121,22 +126,38 @@
                         quam ego, ut jusserunt, breviter &amp; aperte vobis, Spectatores,
                         audientibus partium patronis effabor.  
                         <!-- 41 --> Gallinis enim &amp; Gallis plura a Capis ipsis iuste non nihil indignantibus 
-                        post sedatam hanc contentionem dicentur, maxime si ad aliorum nostrae provinciae aures haec res aperte pervenerit: 
+                        post sedatam hanc contentionem dicentur, 
+                        maxime si ad aliorum nostrae provinciae aures haec res aperte pervenerit 
                         ut certe perveniet. 
-                        Quod enim iam sum locuturus, ex horum animis defluxit praecipue, quos hic mihi assidere videtis, 
-                        qui nostri Ornithoboscii incolae, supremae <app><lem wit="#Zimmel">auctoritatis</lem><rdg wit="#ed">autoritatis</rdg></app> locum inter omnes obtinent, 
-                        idque tenent memoria, quod a longis annis inter eos actum est, &amp; per exercitam illam prudentiam facile quid futurum sit, 
-                        odorari potuerunt, semper, ex longa &amp; honestissima consuetudine, &amp; libero provinciae suae decreto, 
-                        in difficillimarum rerum <app><lem wit="#Zimmel">aestimatione</lem><rdg wit="#ed">estimatione</rdg></app> omnium consensu, primores. 
-                        Hi igitur acclamantibus qui domi nostrae sunt reliquis, ingenue fatentur, fere omnia ab Gallis, 
-                        Gallinisque gnaviter &amp; attente agi, remque rusticam &amp; villaticas divitias, per eos levissimis impensis augeri, 
-                        Esse tamen, quod in utroque (ut imbecillitas fert mortalium) <app><lem wit="#Zimmel">vitio</lem><rdg wit="#ed">vicio</rdg></app> dare quis possit. 
-                        Nimis enim morosas Gallinas, Gallos vero nimis petulantes, saepe animadvertisse asserunt, nec morigerantes semper Gallinas, nec Gallos semper tuentes. 
-                        Quae quidem, cum &amp; inter homines habeant libertatem impunem, quis gallis &amp; gallinis imputabit? 
-                        At istud consilium quo per invidiam correptae Gallinae, eo dementiae pervenerunt, 
+                    </p>
+                    <p>
+                        Quod enim iam sum locuturus, ex horum animis defluxit praecipue 
+                        quos hic mihi assidere videtis 
+                        qui nostri Ornithoboscii incolae, supremae <app><lem wit="#Zimmel">auctoritatis</lem><rdg wit="#ed">autoritatis</rdg></app> locum inter omnes obtinent 
+                        idque tenent memoria quod a longis annis inter eos actum est &amp; per exercitam illam prudentiam facile quid futurum sit 
+                        odorari potuerunt, semper ex longa &amp; honestissima consuetudine &amp; libero provinciae suae decreto, 
+                        in difficillimarum rerum <app><lem wit="#Zimmel">aestimatione</lem><rdg wit="#ed">estimatione</rdg></app> omnium consensu primores. 
+                    </p>
+                    <p>
+                        Hi igitur acclamantibus qui domi nostrae sunt reliquis ingenue fatentur fere omnia ab Gallis 
+                        Gallinisque gnaviter &amp; attente agi remque rusticam &amp; villaticas divitias per eos levissimis impensis augeri 
+                        esse tamen quod in utroque (ut imbecillitas fert mortalium) <app><lem wit="#Zimmel">vitio</lem><rdg wit="#ed">vicio</rdg></app> dare quis possit. 
+                    </p>
+                    <p>
+                        Nimis enim morosas Gallinas Gallos vero nimis petulantes saepe animadvertisse asserunt, 
+                        nec morigerantes semper Gallinas, nec Gallos semper tuentes. 
+                        Quae quidem cum &amp; inter homines habeant libertatem impunem, quis gallis &amp; gallinis imputabit? 
+                    </p>
+                    <p>
+                        At istud consilium, 
+                        quo per invidiam correptae Gallinae eo dementiae pervenerunt 
                         ut Gallorum famam inter mortales illustrem admodum &amp; perspectam, 
-                        infringere atque infamem reddere, rebus non tam veris quam confictis &amp; perperam excogitatis conatae fuerint, adeo displicet, 
-                        ut quod maxime. 
+                        infringere atque infamem reddere
+                        rebus non tam veris quam confictis &amp; perperam excogitatis conatae fuerint, 
+                        adeo displicet 
+                        ut quod maxime.
+                    </p>
+                    <p>
                         Nullo enim instituto major ruina, rei suae publicae parari poterat, si eo voto ad metam perventum esset, quo res coepta est. 
                         Idcirco partium consiliis diligenter perpensis, cognitoque universo <app><lem wit="#Zimmel">negotii</lem><rdg wit="#ed">negocii</rdg></app> excursu, non possunt non asserere, Gallis strenuis illatam esse injuriam. 
                         Quod tu Philonice, ubi Gallinis dixeris ne <app><lem wit="#Zimmel">aegre ferant</lem><rdg wit="#ed">aegreferant</rdg></app>, oratas habeto, 
@@ -191,11 +212,30 @@
                         Comme vous me l’avez ordonné, toi Philonique et toi Euthyme, j’ai exposé brièvement et sans artifice toute l’affaire aux chapons dont j’ignore s’ils ont jamais été aussi ébahis dans une autre affaire qu’ils ne l’ont été aujourd’hui après qu’ils ont entendu le désaccord des coqs et des poules.
                         Ils savent évidemment que rien n’est plus funeste que des guerres intestines et que les fondements de la république dont les membres sont en désaccord avec la tête ne pourront pas tenir longtemps. Par ailleurs, l’historien amoureux de la vérité a dit que les petites choses croissent grâce à l’harmonie et que les grandes s’évanouissent à cause de la discorde. Vous le savez mieux que personne. 
                         À cause de cela, après qu’on leur a brièvement résumé l’affaire, il leur a semblé qu’il fallait tendre d’autant plus rapidement vers l’arrêté d’une décision modérée que l’affaire va porter en elle plus de danger à force d’être plus longtemps différée et ils remercient la bonne fortune et le destin favorable parce que la liberté de décision leur revient selon votre accord et celui des partis. 
+                    </p>
+                    <p>
                         Si en effet l’affaire en était allée autrement, il leur semblait qu’il aurait fallu craindre que quelqu’un osât agir plus sévèrement que ne l’aurait mérité la sotte insouciance de cette sorte, ce que, par Hercule! personne ne reproche aux chapons.
                         En effet ce sont eux qui poursuivent aussi bien les coqs que les poules d’une même conduite amoureuse. Et même en ce qui concerne les coqs, il n’y a pas de doute à avoir pour quiconque puisque les chapons ont eux-mêmes été des coqs autrefois, ce que toi, Euthymus, tu me rappelais un peu auparavant. D’un autre côté, pour les poules, les preuves sont le fait qu’autrefois les chapons les ont jadis aimées selon l’instinct ordinaire comme des mâles.
+                    </p>
+                    <p>
                         Et déjà maintenant lorsque la couveuse meurt, ils réchauffent les petits dans une preuve d’amour alors que le contact des petits qui sont couchés sous eux les démange, en y prenant du plaisir aussi. Ensuite, toujours, ils les aiment, les guident, les nourrissent, comme un grand chercheur de la nature a affirmé en avoir fait lui-même l’expérience.
                         Et puisque que c’est un fait établi que ces choses sont vraies, personne ne tiendra raisonnablement pour suspects les chapons dans leur arbitrage, quelle que soit la sentence que moi, comme ils l’ont décidé, je rapporterai aux avocats des partis, Spectateurs, brièvement et devant vous qui m’écoutez.
-                        Aux poules et aux coqs, beaucoup de choses seront dites une fois ce conflit réglé par les chapons eux-mêmes qui ne s’indignent justement pas pour rien. 
+                        Aux poules et aux coqs, beaucoup de choses seront dites une fois ce conflit réglé par les chapons eux-mêmes qui ne s’indignent justement pas pour rien, principalement si cette affaire parvient clairement aux oreilles des autres chapons de notre région, comme elle leur parviendra certainement.
+                    </p>
+                    <p>
+                        En effet, ce que je suis déjà sur le point dire s’est principalement répandu hors de l’âme de ceux-ci que vous voyez s’asseoir ici pour moi. Comme habitants de notre poulailler, ils tiennent la place de l’autorité souveraine entre tous, se souviennent de ce qui, depuis de longues années, s’est passé entre eux et, grâce à cette prévoyance exercée, peuvent facilement sentir ce qui va se passer: ils sont toujours, de l’avis de tous, en raison d’une longue et très honorable habitude et à cause d’une libre décision de notre région les premiers pour juger les causes les plus difficiles.
+                    </p>
+                    <p>
+                        Ceux-ci avouent donc sincèrement sous les applaudissements de ceux qui restent dans notre maison que presque tout est fait avec zèle et application par les coqs et les poules et  que l’affaire rustique et les richesses de la campagne sont augmentées à travers eux grâce à des charges très légères, mais qu’il y a ce qui pourrait selon certains donner à l’un et l’autre parti l’apparence d’un crime, comme le montre la faiblesse des hommes.
+                    </p>
+                    <p>
+                        Ils soutiennent en effet qu’ils ont souvent remarqué que les poules étaient trop capricieuses et les coqs trop effrontés, que les poules ne sont pas toujours faciles à vivre alors que les coqs ne les protègent pas toujours. Comme ces choses ont évidemment cours librement sans sanction parmi les hommes, qui les imputera aux poules et aux coqs ?
+                    </p>
+                    <p>
+                        Mais ce plan suivant lequel, par la jalousie, les poules se faisant accusatrices sont parvenues à un tel point de folie qu’elles avaient entrepris de briser et de rendre mal famée la réputation des coqs, célèbre et tout à fait évidente chez les hommes avec des déclarations bien plus fausses que vraies et montées de toutes pièces, déplaît tout à fait. 
+                    </p>
+                    <p>
+                        à continuer
                     </p>
                 </sp>
             </div>  
