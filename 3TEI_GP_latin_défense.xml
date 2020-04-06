@@ -10,10 +10,12 @@
          <editionStmt>
             <edition>Version électronique TEI</edition>
             <respStmt>
-               <persName xml:id="EP" type="éditeur">Élodie Paupe</persName>
-               <resp>Directrice de la traduction pour le Groupe de Théâtre Antique <date
-                     type="creation" when="2020-02"/>
-               </resp>
+               <resp><date type="creation" when="2020-02"/>Équipe de traduction pour le Groupe de Théâtre Antique composée de
+                  <name xml:id="PJ" type="participante">Pauline Jacsont</name>
+                  <name xml:id="RR" type="participante">Rania Richard</name>
+                  sous la direction de 
+               </resp>  
+               <name xml:id="EP" type="éditeur">Élodie Paupe</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
