@@ -14,6 +14,7 @@
                 <respStmt> 
                     <resp><date type="creation" when="2020-02"/>Équipe de traduction pour le Groupe de Théâtre Antique composée de
                         <name xml:id="RR" type="participante">Rania Richard</name>
+                        <name xml:id="PJ" type="participante">Pauline Jacsont</name>
                         sous la direction de 
                     </resp>  
                     <name xml:id="EP" type="éditeur">Élodie Paupe</name>
@@ -121,43 +122,66 @@
                         ut hominem semissem nihil ad rem dicere posse existiment <app><lem wit="#ed">non nulli</lem><rdg wit="#Zimmel">nonnulli</rdg></app>.
                     </p>
                     <p>
-                        Non enim barba, nec pallio, nec pallore in faciem inducto Cimino, prudentiam ostento, id quod solent multi, 
-                        Sed Lichenora me &amp; ore &amp; habitu profiteor, 
-                        quid mihi abscondita, intra calviciem, &amp; calvam hanc calvariam, mea mens, secum saepe mussitet, <app><lem wit="#Zimmel">quod</lem><rdg wit="#ed"></rdg></app>non omnibus est in aperto. 
-                        Idcirco Lichenora audire contendite, paulumque ipsi date morae, quo se a screatu liberet, 
-                        ne raucus Orator appareat, Hem, hem, Ho, oho, Pfhui. 
-                        Ah male ex gutture habeo, ob hesternum acre &amp; immaturum vinum, quod mihi Saturio combibo &amp; convivator meus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app> dedit. 
-                        Verum vos spectatores non vocem sed verba pensabitis. 
-                        Audistis hodie, 
-                        quid conductus donis animus possit, 
-                        quantumque muneribus suscitatae, vires incrementi <app><lem wit="#Zimmel">sumant</lem><rdg wit="#ed">summant</rdg></app>. 
-                        Philonicum ego his <app><lem wit="#ed">quatuor</lem><rdg wit="#Zimmel">quattuor</rdg></app> annis proximis, 
-                        quibus mihi est familiaris, <app><lem wit="ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> gravius loquentem audivi, &amp; eo viso primum an Philonicus esset dubitare <app><lem wit="#Zimmel">cocepi</lem><rdg wit="#ed">occoepi</rdg></app>, 
-                        Cum enim una sumus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app>, salibus me &amp; lepore parasitico multo est urbanior, &amp; ea ludit, 
+                        Non enim barba nec pallio nec pallore in faciem inducto Cimino prudentiam ostento, id quod solent multi, 
+                        sed Lichenora me &amp; ore &amp; habitu profiteor, 
+                        quid mihi abscondita intra calviciem &amp; calvam hanc calvariam, mea mens secum saepe mussitet, 
+                        <app><lem wit="#Zimmel">quod</lem><rdg wit="#ed">om.</rdg></app> non omnibus est in aperto. 
+                    </p>
+                    <p>
+                        Idcirco Lichenora audire contendite 
+                        paulumque ipsi date morae, quo se a screatu liberet, 
+                        ne raucus Orator appareat. 
+                        Hem, hem! Ho, oho! Pfhui... 
+                        Ah male ex gutture habeo ob hesternum acre &amp; immaturum vinum quod mihi Saturio combibo &amp; convivator meus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app> dedit. 
+                        Verum vos, spectatores, non vocem sed verba pensabitis. 
+                    </p>
+                    <p>
+                        Audistis hodie 
+                        quid conductus donis animus possit 
+                        quantumque muneribus suscitatae vires incrementi <app><lem wit="#Zimmel">sumant</lem><rdg wit="#ed">summant</rdg></app>. 
+                        Philonicum ego his <app><lem wit="#ed">quatuor</lem><rdg wit="#Zimmel">quattuor</rdg></app> annis proximis 
+                        quibus mihi est familiaris <app><lem wit="ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> gravius loquentem audivi 
+                        &amp; eo viso primum an Philonicus esset dubitare <app><lem wit="#Zimmel">cocepi</lem><rdg wit="#ed">occoepi</rdg></app>. 
+                    </p>
+                    <p>
+                        Cum enim una sumus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app>, 
+                        salibus me &amp; lepore parasitico multo est urbanior &amp; ea ludit 
                         quae elegans solet Pantomimus. 
                         Cum obaeratus praemiis loquitur, talis est quem audistis.  
-                        <!-- 45 --> Magnae primum artis esse mihi videtur, variare posse vultum &amp;, cum sapientia est opus, sapeintis pellem induere. 
-                        <app><lem wit="#Zimmel">Euthymus</lem><rdg wit="#ed">Ethymus</rdg></app> ipse, paulo gravior cum domi est, &amp; 
+                        <!-- 45 --> Magnae primum artis esse mihi videtur variare posse vultum &amp;, cum sapientia est opus, sapientis pellem induere. 
+                    </p>
+                    <p>
+                        <app><lem wit="#Zimmel">Euthymus</lem><rdg wit="#ed">Ethymus</rdg></app> ipse paulo gravior cum domi est &amp;, 
                         si me amet, non tamen levitate superat, 
-                        Ast animum exhilarat meis ineptiis suum, tu inde atratos &amp; bicolores codices minus moleste volvere queat, 
+                        ast animum exhilarat meis ineptiis suum 
+                        ut inde atratos &amp; bicolores codices minus moleste volvere queat. 
                         Quem heri fere <app><lem wit="#Zimmel">haec</lem><rdg wit="#ed">hac</rdg></app> dicturum olfeci, 
-                        quae hocide dixit, multum enim sudoris in chartis reliquerat, 
-                        antequam potaret, 
-                        quod si tot horis non <app><lem wit="#Zimmel">dormisset</lem><rdg wit="#ed">dormiisset</rdg></app>, 
+                        quae hodie dixit. 
+                        Multum enim sudoris in chartis reliquerat 
+                        antequam potaret 
+                        quod, si tot horis non <app><lem wit="#Zimmel">dormisset</lem><rdg wit="#ed">dormiisset</rdg></app>, 
                         perturbasset ordinem &amp; susceptis donis nequaquam fecisset satis. 
-                        Nomothetes, 
-                        qui legibus suis barbatorum hominum sapientiam adnexuit, 
+                    </p>
+                    <p>
+                        Nomothetes 
+                        qui legibus suis barbatorum hominum sapientiam adnexuit 
                         idem in Gallorum Gallinarumque lite referendum putavit, 
                         quod refertur, 
-                        dum maximi <app><lem wit="#ed">principis</lem><rdg wit="#Zimmel">principes</rdg></app> in maxima discordia sunt, nimis in frivolis rebus studiosus. 
-                        Verum quid ego hos imprudens enumero Spectatores? 
+                        dum maximi <app><lem wit="#ed">principis</lem><rdg wit="#Zimmel">principes</rdg></app> in maxima discordia sunt, 
+                        nimis in frivolis rebus studiosus. 
+                    </p>
+                    <p>
+                        Verum quid ego hos imprudens enumero, Spectatores? 
                         Si mihi non imputatum fuisset <app><lem wit="#Zimmel">prae caeteris</lem><rdg wit="#ed">praecaeteris</rdg></app> clamanti, in haec verba, 
                         ut in animum venerant, <app><lem wit="#Zimmel">pronuntiassem</lem><rdg wit="#ed">pronunciassem</rdg></app>. 
-                        Gallos &amp; Gallinas cum Capis, 
-                        quia nihil apud eos aeris est, 
-                        quo litis sumptibus satis fieri possit, 
-                        in coquinarium carcerem <app><lem wit="#ed">coniiciendos</lem><rdg wit="#Zimmel">coniciendos</rdg></app> existimo, 
-                        ibique retinendos donec rerum omnium ambiguitas excussa pateat. 
+                        Gallos &amp; Gallinas cum Capis 
+                        quia nihil apud eos aeris est 
+                        quo litis sumptibus satis fieri possit 
+                        in coquinarium carcerem <app><lem wit="#ed">coniiciendos</lem><rdg wit="#Zimmel">coniciendos</rdg></app> existimo 
+                        ibique retinendos 
+                        donec rerum omnium ambiguitas excussa pateat.
+                    </p>
+                    <p>
                         Sponsio enim in tam volucri genere non est tuta. 
                         Quod si humanos animos, mendacibus ausis, &amp; insultu temerario, agitare &amp; ludibrio habere visi fuerint &amp; sapere velle in alieno genere videri, 
                         Censeo breviter ea poena puniendos, 
@@ -214,7 +238,30 @@
                         Je dirai pourtant ce que j’aurais dit auparavant bien que, peut-être, quelques-uns me considèrent comme un demi-homme et estiment que je ne peux rien dire à propos de cette affaire.                 
                     </p>
                     <p>
-                        test
+                        Non, en effet, ce n’est  ni grâce à une barbe, ni grâce à un manteau, ni grâce à la pâleur sur mon visage obtenue par du cumin, que je fais étalage de mon savoir, ce que beaucoup de gens ont coutume de faire, mais, moi, Lichenor, je déclare ouvertement par ma face et mon allure ce que mon esprit qui se cache de moi-même sous une calvitie et ce crâne chauve se murmure à lui-même, ce qui n’est pas accessible à tous.
+                    </p>
+                    <p>
+                        Pour cette raison, évertuez-vous à écouter Lichenor, accordez-lui un peu de temps pour qu'il se délivre par une expectoration , pour qu’il ne passe pas pour un orator enroué. 
+                        Hem! Hem! Ho! Hoho! Pfhui! 
+                        Ah! J'ai mal à la gorge à cause du vin acide et trop jeune d’hier soir que Saturion, mon compagnon de beuverie et hôte, m’a servi durant le souper. Cependant vous, Spectateurs, vous ne examinerez non pas ma voix, mais mes propos.  
+                    </p>
+                    <p>
+                        Aujourd'hui, vous avez entendu ce qu’un esprit guidé par les présent pouvait et combien les forces de l’accroissement animées par des cadeaux se développent. Philonicus, alors que depuis quatre ans je suis son ami, moi, je ne l’ai jamais entendu parler si sérieusement et, voyant cela, j'ai d'abord commencé à douter: est-ce que c'était Philonicus?  
+                    </p>
+                    <p>
+                        En effet, quand nous soupons ensemble, il est plus spirituel que moi par son esprit piquant et que beaucoups de parasite par son humour par son charme que moi et beaucoup de parasites et il joue avec les mots tel un pantomime. Quand l'endetté parle de ses gratifications, il est tel que vous l’avez entendu. Il me semble que la première règle de ce grand art est de pouvoir changer son visage et, quand on a besoin de jouer la sagesse, de revêtir la peau d’un sage.  
+                    </p>
+                    <p>
+                        Euthymus lui-même est un plus sérieux quand il est chez lui et cependant, même s'il m'aime, il ne triomphe pas par sa frivolité, mais il déride son esprit avec mes impertinences si bien qu’il peut méditer ses livres noircis et sans images avec moins de peine. Hier, j'ai presque senti ici ce qu'il était sur le point de dire ce qu'aujourd'hui il a dit. En effet, il avait laissé beaucoup de sueur sur les papiers avant de boire parce que, s’il n’avait pas dormi tant d’heures, il aurait bouleversé l’organisation de son discours et, alors qu’il avait accepté ses gages, n’en aurait pas du tout fait assez.
+                    </p>
+                    <p>
+                        Nomothetes qui a attaché la sagesse des hommes barbus à ses propres lois a pensé que, dans le procès des coqs et des poules, il fallait reproduire la même chose que ce qui est rapporté tandis que les plus grands princes sont dans les plus grandes querelles: il est trop zélé dan les affaires légères.
+                    </p>
+                    <p>
+                        Mais en fait, spectateurs, pourquoi moi, l’ignorant, je passe en revue ces personnages? Si on ne m’avait pas reprocher de parler avant tous les autres, j’aurais discouru en ces mots commes ils m’étaient venus à l’esprit. Je suis d’avis que les coqs et les poules avec les chapons, parce qu’ils n’ont pas d’argent pour pouvoir satisfaire suffisamment aux dépenses du procès, doivent être jetés et enfermés dans la cuisine et retenus là jusqu’à ce que lumière soit faite sur l’obscurité de toutes ces affaires, après qu’on l’a examinée.
+                    </p>
+                    <p>
+                        traduction à venir.
                     </p>
                 </sp>
             </div>
