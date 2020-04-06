@@ -86,6 +86,7 @@
             <change type="update" resp="#EP"><date when="2020-03-16"/>Apparat critique.</change>
             <change type="update" resp="#EP"><date when="2020-03-17"/>Ponctuation et traduction.</change>
             <change type="update" resp="#PJ"><date when="2020-03-17"/>Apparat critique correction.</change>
+            <change type="update" resp="#RR"><date when="2020-03-31"/>Texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -123,7 +124,7 @@
                         Non enim barba, nec pallio, nec pallore in faciem inducto Cimino, prudentiam ostento, id quod solent multi, 
                         Sed Lichenora me &amp; ore &amp; habitu profiteor, 
                         quid mihi abscondita, intra calviciem, &amp; calvam hanc calvariam, mea mens, secum saepe mussitet, <app><lem wit="#Zimmel">quod</lem><rdg wit="#ed"></rdg></app>non omnibus est in aperto. 
-                        Idcirco Lichenora audite contendite, paulumque ipsi date morae, quo se a screatu liberet, 
+                        Idcirco Lichenora audire contendite, paulumque ipsi date morae, quo se a screatu liberet, 
                         ne raucus Orator appareat, Hem, hem, Ho, oho, Pfhui. 
                         Ah male ex gutture habeo, ob hesternum acre &amp; immaturum vinum, quod mihi Saturio combibo &amp; convivator meus in <app><lem wit="#ed">coena</lem><rdg wit="#Zimmel">cena</rdg></app> dedit. 
                         Verum vos spectatores non vocem sed verba pensabitis. 
