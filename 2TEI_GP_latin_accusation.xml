@@ -84,6 +84,7 @@
             <change type="update" resp="#PJ"><date when="2020-03-10"/>Corrections du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-03-23"/>Ponctuation, corrections du texte latin, ajout de la traduction partielle.</change>
             <change type="update" resp="#PJ"><date when="2020-03-24"/>Corrections du texte latin.</change>
+            <change type="update" resp="#PJ"><date when="2020-04-07"/>Corrections du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -144,7 +145,7 @@
                     <app><lem wit="#Zimmel">Atquis</lem><rdg wit="#ed">At quis</rdg></app> iste, dicet Euthymnus, Contemptus adeo magnus? 
                     ubi ista nondum intellecta Gallorum Insolentia ? 
                     Attendite <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app> Specta auresque arrigite, res agitur non Sane <app><lem wit="#Zimmel">ludicra</lem><rdg wit="#ed">ludrica</rdg></app>. 
-                    Tota gallorum hodie cura in eo versatur, tu firmiores in harena pugiles appareant quam ad Gallinaria custodes, 
+                    Tota gallorum hodie cura in eo versatur, ut firmiores in harena pugiles appareant quam ad Gallinaria custodes, 
                     cum eos Tamen gallinarum custodes esse natura voverit, Et abominabiles Pugnas non nisi luxibus instituerit &amp; petulantissima quaedam libido, 
                     Quid enim a mortalium salute plus alienum esse deberet, 
                     quam dissensio &amp; Pugna, quae maximorum scelerum incitabula sunt, non in externos Tantum virorum etiam in cognatos, &amp; necessitudine arctissima junctos, 
