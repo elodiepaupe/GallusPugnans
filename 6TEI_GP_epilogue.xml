@@ -88,6 +88,7 @@
             <change type="update" resp="#EP"><date when="2020-03-17"/>Ponctuation et traduction.</change>
             <change type="update" resp="#PJ"><date when="2020-03-17"/>Apparat critique correction.</change>
             <change type="update" resp="#RR"><date when="2020-03-31"/>Texte latin.</change>
+            <change type="update" resp="#PJ"><date when="2020-04-11"/>Correctios du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -155,7 +156,7 @@
                         si me amet, non tamen levitate superat, 
                         ast animum exhilarat meis ineptiis suum 
                         ut inde atratos &amp; bicolores codices minus moleste volvere queat. 
-                        Quem heri fere <app><lem wit="#Zimmel">haec</lem><rdg wit="#ed">hac</rdg></app> dicturum olfeci, 
+                        Quem heri fere <app><lem wit="#Zimmel">haec</lem><rdg wit="#ed">hoc</rdg></app> dicturum olfeci, 
                         quae hodie dixit. 
                         Multum enim sudoris in chartis reliquerat 
                         antequam potaret 
