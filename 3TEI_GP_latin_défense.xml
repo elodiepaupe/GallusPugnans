@@ -87,6 +87,7 @@
             latin.</change>
          <change type="update" resp="#PJ"><date when="2020-03-16"/>Apparat critique.</change>
          <change type="update" resp="#RR"><date when="2020-04-02"/>Mise à jour du texte latin</change>
+         <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
       </revisionDesc>
    </teiHeader>
    <text n="3" type="discours">
@@ -225,7 +226,7 @@
                   quod si quis est, qui aliud asserit,quemadmodum Bactrianum quendam regulum asseruisse ferunt. Ridiculus sane est &amp; cum experientia tum maximorum philosophorum <app><lem wit="#Zimmel">auctoritate</lem><rdg wit="#ed">autoritate</rdg></app>, convincitur, 
                   qui haec in universum fabulosa esse contendunt. Cum enim senes gallos habeamus &amp; decrepitos, quis <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> apud nos Basiliscum e Galli ovo natum vidit, 
                   aut ovum saltem e Gallo. Si haec monstra Philonice tibi terrori sunt, Europam non deseres, nec Gallos decrepitos insequeris, Sed Africam cuius harenosis desertis, 
-                  quibus paucissimi aut omnino nulli Galli agunt, Basilisci conplures, irrepunt. Quod autem causam affers cur fastigiis templorum infigantur Galli, rideo levitatem tuam, &amp; hoc addo. Nequitia est quae te non finit esse senem, 
+                  quibus paucissimi aut omnino nulli Galli agunt, Basilisci conplures, irrepunt. Quod autem causam affers cur fastigiis templorum infigantur Galli, rideo levitatem tuam, &amp; hoc addo. Nequitia est quae te non sinit esse senem, 
                   Mallem te pro Iovem lapideum, gallinam esse, credere, quam Philonicum, <app><lem wit="#ed">si</lem><rdg wit="#Zimmel">sinit?</rdg></app> solum plumis pinnisque involutus reperes, nihil enim ab his animo differs. 
                   Longe alia causa est Spectatores <app><lem wit="#ed">Quandoquidem</lem><rdg wit="#Zimmel">quando quidem</rdg></app>, cum hoc animal horarum observatione &amp; perpetuis vigiliis,
                   curaque rerum suarum diligentissima omnibus fere aliis antecellat. Voluit studiosa illa patrum &amp; consulta sedulitas, earum aedium, apices Gallo insigniri quibus multorum salus curatur, 
