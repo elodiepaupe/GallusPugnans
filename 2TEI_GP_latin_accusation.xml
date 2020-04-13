@@ -86,6 +86,7 @@
             <change type="update" resp="#PJ"><date when="2020-03-24"/>Corrections du texte latin.</change>
             <change type="update" resp="#PJ"><date when="2020-04-07"/>Corrections du texte latin.</change>
             <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
+            <change type="update" resp="#EP"><date when="2020-04-13"/>Corrections du texte latin et traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -116,38 +117,80 @@
                     ut quae hodie mihi addicendum commissa sunt citra  <!-- 10 --> fastidium accipiatis. 
                 </p>
                 <p>
-                    Cum prima luce <app><lem wit="#Zimmel">diei</lem><rdg wit="#ed">die</rdg></app> huius, e lectulo <app><lem wit="#Zimmel"></lem><rdg wit="#ed">me</rdg></app> me rapuissem, pulsarunt fores Gallinae tres, insignes forma, quas ipso statim aspectu non plane rusticas et se judicabam eas 
-                    ut videretis adduxi mecum, ne quis me nugas texere putaret, 
-                    dum, quod factum est eloquor Harum maiuscula quae se Quaquerram nuncupat, ut me salutavit, quaerere <app><lem wit="#Zimmel">coepit</lem><rdg wit="#ed">cepit</rdg></app> perhumaniter, ut solent, an juris peritiam tenerem/ 
-                    Ego linguae fere omnibus ignotae novitate oblectatus, tenere me respondi. 
-                    Coepit hinc precari me ut gallinarum hoc die patronus essem, bonamque operam in re decentissima navarem. 
-                    Quod cum me facturum essem pollicitus, demisso vultu ac humentibus ocellis, generis sui &amp; sexus inprimis contemptum, 
-                    tum vero injurias prope infinitas quae contemptum sequi solent, cum laude &amp; commendatione gallinarum omnium tam prudenter tamque distincte narrare coepit, 
-                    ut mihi eius mi serto &amp; singultienti, fere <app><lem wit="“#Zimmel">lacrimas</lem><rdg wit="#ed">lachrymas</rdg></app> extorsisset, ni eas virilis officii firmitas repressisset. 
+                    Cum prima luce <app><lem wit="#Zimmel">diei</lem><rdg wit="#ed">die</rdg></app> huius e lectulo <app><lem wit="#Zimmel"></lem><rdg wit="#ed">me</rdg></app> me rapuissem 
+                    pulsarunt fores Gallinae tres insignes forma 
+                    quas ipso statim aspectu non plane rusticas esse judicabam eas 
+                    ut videretis adduxi mecum 
+                    ne quis me nugas texere putaret 
+                    dum quod factum est eloquor.
+                </p>
+                <p>
+                    Harum maiuscula 
+                    quae se Quaquerram nuncupat 
+                    ut me salutavit quaerere <app><lem wit="#Zimmel">coepit</lem><rdg wit="#ed">cepit</rdg></app> perhumaniter, ut solent, 
+                    an juris peritiam tenerem. 
+                    Ego linguae fere omnibus ignotae novitate oblectatus tenere me respondi. 
+                    Coepit hinc precari me ut gallinarum hoc die patronus essem 
+                    bonamque operam in re decentissima navarem. 
+                </p>
+                <p>
+                    Quod cum me facturum essem pollicitus demisso vultu ac humentibus ocellis generis sui &amp; sexus inprimis contemptum 
+                    tum vero injurias prope infinitas 
+                    quae contemptum sequi solent 
+                    cum laude &amp; commendatione gallinarum omnium tam prudenter tamque distincte narrare coepit 
+                    ut mihi eius miserto &amp; singultienti fere <app><lem wit="“#Zimmel">lacrimas</lem><rdg wit="#ed">lachrymas</rdg></app> extorsisset 
+                    ni eas virilis officii firmitas repressisset.
+                </p>
+                <p>
                     Tum primum eam ut gallinarum nostrae provinciae prudentissimam ex ingenti aliquo coetu ad me comitibus duabus destinatam animadverti. 
-                    Videtis quam sit ampli pectoris, quam capitis exacti/ 
-                    Corpus certe conspicuum Quaquerrae nostrae fidem facit verbis meis Spectatores, Quod si itineris longitudine lassato non esset, 
-                    nec raucam fecisset tam abundans vecturae pulvis, rem omnem ore suo ut mihi explicata est enarrasset coram, 
-                    proinde ipsa non firmorum laterum ad rei exitum Oratrix stare non potuisset: 
-                    cum iam sedeat: 
-                    Et timuit hercle suam linguam a vobis non teneri, quam ego non didici dico sed deglutivi penitus. 
-                    Itaque negotium meis humeris impositum est, 
-                    Qui conjugali commertio tot inesse aerumnas <app><lem wit="#Zimmel">numquam</lem><rdg wit="#ed">nunquam</rdg></app> antea credidissem. Spectatores Quanquam ego <app><lem wit="Zimmel">nonnullas</lem><rdg wit="#ed">non nullas</rdg></app> &amp; meo conjugio expertus eram 
-                    At nunc ut credam Gallinarum faciunt <app><lem wit="#Zimmel">lacrimae</lem><rdg wit="#ed">lachrymae</rdg></app>, perpetuis jurgiis, &amp; intolerabili Gallorum insolentia citatae, 
-                    <app><lem wit="#Zimmel">quod</lem><rdg wit="#ed">qui</rdg></app> dum se maritos &amp; esse &amp; nominari volunt ea  <!-- 11 --> agunt, 
-                    quae ne <app><lem wit="#Zimmel">tigres</lem><rdg wit="#ed">Tygres</rdg></app> quidem si miscerent ovibus unquam agerent PRIMUM omnium, quamvis inclitae genere sint Gallinae &amp; cum Aliis virtutibus, 
-                    tum vero maxime humilitate insignes, Gallorum contemptum tamen, 
-                    si moderatior esset aequo animo ferre possent, propterea quod <app><lem wit="#Zimmel">patientiae</lem><rdg wit="#ed">pacientiae</rdg></app> mater est humilitas, 
-                    ut insolentiae superbia. Quia vero asperitas &amp; ista Gallorum contumacia adeo <app><lem wit="#ed">increbuit</lem><rdg wit="#Zimmel">increbruit</rdg></app> 
-                    Ut sui generis partem, quae ipsae sunt, tam audenter <app><lem wit="#Zimmel">neglegere et exsibilare</lem><rdg wit="#ed">negligere et exibilare</rdg></app> audeant non, humiles amplius <app><lem wit="#Zimmel">gallinae</lem><rdg wit="#ed">Galline</rdg></app> sed <app><lem wit="#Zimmel">ignavae</lem><rdg wit="#ed">ignave</rdg></app> videri Potuissent si tacerent, 
-                    Omnia enim pati, &amp; obstare nullis, non iam humilitas censenda est, sed ignavia, 
-                    Et naturae suae profecto injuriam Faciunt, qui eam ludibrio esse malunt quam modeste tutari 
-                    Recte igitur Non minus quam <app><lem wit="#Zimmel">opportune</lem><rdg wit="#ed">oportune</rdg></app> quidam dixit poeta veterem nos ferendo injuriam novam invitare. 
-                    <app><lem wit="#Zimmel">Atquis</lem><rdg wit="#ed">At quis</rdg></app> iste, dicet Euthymnus, Contemptus adeo magnus? 
-                    ubi ista nondum intellecta Gallorum Insolentia ? 
-                    Attendite <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app> Specta auresque arrigite, res agitur non Sane <app><lem wit="#Zimmel">ludicra</lem><rdg wit="#ed">ludrica</rdg></app>. 
-                    Tota gallorum hodie cura in eo versatur, ut firmiores in harena pugiles appareant quam ad Gallinaria custodes, 
-                    cum eos Tamen gallinarum custodes esse natura voverit, Et abominabiles Pugnas non nisi luxibus instituerit &amp; petulantissima quaedam libido, 
+                    Videtis quam sit ampli pectoris quam capitis exacti. 
+                    Corpus certe conspicuum Quaquerrae nostrae fidem facit verbis meis, Spectatores, 
+                    quod si itineris longitudine lassato non esset 
+                    nec raucam fecisset tam abundans vecturae pulvis, 
+                    rem omnem ore suo ut mihi explicata est enarrasset coram, 
+                    proinde ipsa non firmorum laterum ad rei exitum Oratrix stare non potuisset 
+                    cum iam sedeat.
+                </p>
+                <p>
+                    Et timuit hercle suam linguam a vobis non teneri 
+                    quam ego non didici, dico, sed deglutivi penitus. 
+                    Itaque negotium meis humeris impositum est 
+                    qui conjugali commertio tot inesse aerumnas <app><lem wit="#Zimmel">numquam</lem><rdg wit="#ed">nunquam</rdg></app> antea credidissem, Spectatores
+                    quanquam ego <app><lem wit="Zimmel">nonnullas</lem><rdg wit="#ed">non nullas</rdg></app> &amp; meo conjugio expertus eram.
+                </p>
+                <p>
+                    At nunc, ut credam, Gallinarum faciunt <app><lem wit="#Zimmel">lacrimae</lem><rdg wit="#ed">lachrymae</rdg></app> perpetuis jurgiis &amp; intolerabili Gallorum insolentia citatae 
+                    <app><lem wit="#Zimmel">quod</lem><rdg wit="#ed">qui</rdg></app> dum se maritos &amp; esse &amp; nominari volunt ea  <!-- 11 --> agunt 
+                    quae ne <app><lem wit="#Zimmel">tigres</lem><rdg wit="#ed">Tygres</rdg></app> quidem si miscerent ovibus unquam agerent.
+                </p>
+                <p>
+                    Primum omnium 
+                    quamvis inclitae genere sint Gallinae &amp; cum aliis virtutibus 
+                    tum vero maxime humilitate insignes Gallorum contemptum tamen, 
+                    si moderatior esset, aequo animo ferre possent 
+                    propterea quod <app><lem wit="#Zimmel">patientiae</lem><rdg wit="#ed">pacientiae</rdg></app> mater est humilitas ut insolentiae superbia. 
+                </p>
+                <p>
+                    Quia vero asperitas &amp; ista Gallorum contumacia adeo <app><lem wit="#ed">increbuit</lem><rdg wit="#Zimmel">increbruit</rdg></app> 
+                    ut sui generis partem, quae ipsae sunt, tam audenter <app><lem wit="#Zimmel">neglegere et exsibilare</lem><rdg wit="#ed">negligere et exibilare</rdg></app> audeant, 
+                    non humiles amplius <app><lem wit="#Zimmel">gallinae</lem><rdg wit="#ed">Galline</rdg></app> sed <app><lem wit="#Zimmel">ignavae</lem><rdg wit="#ed">ignave</rdg></app> videri potuissent 
+                    si tacerent. 
+                    Omnia enim pati &amp; obstare nullis non iam humilitas censenda est sed ignavia 
+                    et naturae suae profecto injuriam faciunt qui eam ludibrio esse malunt quam modeste tutari. 
+                    Recte igitur non minus quam <app><lem wit="#Zimmel">opportune</lem><rdg wit="#ed">oportune</rdg></app> quidam dixit poeta veterem nos ferendo injuriam novam invitare.
+                </p>
+                <p>
+                    <app><lem wit="#Zimmel">Atquis</lem><rdg wit="#ed">At quis</rdg></app> iste dicet Euthymnus: 
+                    "Contemptus adeo magnus? 
+                    Ubi ista nondum intellecta Gallorum insolentia?" 
+                    Attendite, <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app>. Spectoresque arrigite: 
+                    res agitur non sane <app><lem wit="#Zimmel">ludicra</lem><rdg wit="#ed">ludrica</rdg></app>. 
+                    Tota gallorum hodie cura in eo versatur 
+                    ut firmiores in harena pugiles appareant quam ad Gallinaria custodes 
+                    cum eos tamen gallinarum custodes esse natura voluerit 
+                    et abominabiles pugnas non nisi luxus instituerit &amp; petulantissima quaedam libido.
+                </p>
+                <p>
                     Quid enim a mortalium salute plus alienum esse deberet, 
                     quam dissensio &amp; Pugna, quae maximorum scelerum incitabula sunt, non in externos Tantum virorum etiam in cognatos, &amp; necessitudine arctissima junctos, 
                     Id quod hi videre possunt, 
@@ -332,6 +375,39 @@
                         Vous entendez encore maintenant combien transparente apparaît l’honnêteté de notre parti, combien grande est notre confiance. De l’avis de tous, il semble qu’il s’acquitte lui-même celui qui veut que tous les juges de son affaire soient les meilleurs. 
                         Et, je ne te craindrais pas du tout, Euthymus, si du moins tu voulais dire franchement la vérité sans supplications, sans récompenses séduisantes. 
                         En effet, rien désormais ne s’opposerait à ce que nous ne t’abattions par ton glaive, mais, parce qu’on en est arrivé à un désaccord tel que, sans passer par une juste mise en accusation, la loyauté et la droiture des poules ne peuvent être distinguées par les coqs surtout qui luttent jusqu’à maintenant, moi, spectateurs, je ferai en sorte que vous receviez, sans aller jusqu’à la répugnance, les points qui ont été rassemblés pour que je vous les présente aujourd’hui. 
+                    </p>
+                    <p>
+                        A la première lumière de ce jour, alors que j’étais sorti de mon lit, trois poules ont frappé à ma porte, remarquables par leur beauté, que je ne pensais pas être de la campagne au premier coup d’oeil. Je les ai amenées avec moi pour que vous les voyiez afin que personne ne pense que je raconte des blagues alors que j’énonce des faits.
+                    </p>
+                    <p>
+                        La plus âgée d’entre elles, qui s’appelle Quaquerra, lorsqu’elle m’a salué, a cherché à savoir, avec beaucoup d’obligeance, comme elles ont l’habitude, si j’avais l’expérience du droit. Moi, amusé par la nouveauté d’une langue inconnue presque de tous, j’ai répondu que j’en avais. De là, elle a commencé à me supplier d’être l’avocat des poules le jour même de les servir avec zèle dans une affaire très décente.  
+                    </p>
+                    <p>
+                        Alors que j’avais promis que j’allais le faire, la tête basse et les yeux brillants de larmes, c’est le mépris de son espèce et surtout de son sexe, mais aussi les injustices presques sans fin qui ont l’habitude d’accompagner ce mépris qu’elle a entrepris de me raconter avec la louange et la recommandation de toutes les poules de manière si avisée et si claire qu’elle m’aurait presque arraché des larmes à qui était malheureux pour elle et hoquetais si la solidité de mon devoir d’homme ne les avait pas retenues.
+                    </p>
+                    <p>
+                        Alors, j’ai constaté d’abord qu’elle était comme la plus sagace des poules de notre région, elle qui m’avait été envoyée avec deux compagnes des suites d’une certaine assemblée. Vous voyez combien son coeur est grand et sa tête bien faite.
+                        Le corps ici présent de notre Quaquerra donne foi à mes paroles, spectateurs. S’il n’y avait pas eu la longue fatigue de la route et si l’abondante poussière du voyage ne l’avait rendue aphone, elle aurait raconté toute l’affaire de son bec devant vous comme elle me l’a racontée en détail à moi, d’un autre côté, elle qui n’est pas solide sur ses jambes n’aurait pas pu se tenir debout comme oratrice jusqu’à la fin de l’affaire puisqu’elle s’est déjà assise.
+                    </p>
+                    <p>
+                        Et, par Hercule, elle a craint que sa langue ne soit pas comprise par vous, cette langue que moi, je vous le dis, je n’ai pas apprise, mais engloutie au plus profond de mon être. C’est pourquoi cette charge a été imposée à mes épaules alors qu’avant je n’aurais jamais cru qu’il y avait tant de peines dans l’union conjugale, Spectateurs, même si j’en avais moi-même expérimenté quelques-unes aussi dans mon mariage. 
+                        
+                    </p>
+                    <p>
+                        Mais maintenant, à ce que je crois, les larmes de poules causées par d’éternelles disputes et l’intolérable insolence des coqs font que, tandis qu’ils veulent être et être appelés maris, ils se comportent d’une telle manière que pas même les tigres, s’ils se mélangeaient aux brebis, n’oseraient jamais se comporter ainsi. 
+                        
+                    </p>
+                    <p>
+                        Avant toute chose, bien que les poules soient estimées en raison de leur sexe et, entre autres vertus, en vérité, surtout remarquables par leur humilité, elles ne pourraient pourtant pas supporter d’un esprit égal le mépris des coqs, même s’il était plus modéré, parce que la mère de la patience est l’humilité comme l’orgueil est celle de l’insolence.
+                        
+                    </p>
+                    <p>
+                        En effet, en vérité, la dureté et cette fierté des coqs sont devenues si grandes qu’ils osent négliger et siffler avec tant de hardiesse cette partie de leur race c’est-à-dire celles-ci. Les poules auraient pu paraître non pas tout à fait humble, mais plutôt lâches si elles s’étaient tues. 
+                        En effet, tout supporter et ne s’opposer à rien ne doit pas être considéré comme de l’humilité, mais comme de la lâcheté et ils font vraiment injure à leur propre nature ceux qui préfèrent s’en moquer que de la protéger avec sagesse. Un certain poète a donc dit avec pas moins de raison que d’à propos qu’en supportant une ancienne injustice, on ouvre la porte à une nouvelle.
+                        
+                    </p>
+                    <p>
+                        Eh bien voilà, Euthymus dira : « Le mépris est-il à ce point grand ? Où est cette insolence des coqs qu’on n’a pas encore entendue ? ». Spectateurs, je vous en prie, concentrez-vous et tendez l’oreille: cette affaire n’est absolument pas un jeu. Tout le souci des coqs aujourd’hui tourne autour du fait qu’ils ont plutôt l’air de boxeurs courageux dans une arène que de protecteurs pour des poulaillers, alors que la nature cependant a voulu qu’ils soient les protecteurs des poules et un certain désir très effronté a provoqué des combats abominables si ce n’est des excès.
                     </p>
                     <p>
                         test
