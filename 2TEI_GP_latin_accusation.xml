@@ -85,6 +85,7 @@
             <change type="update" resp="#EP"><date when="2020-03-23"/>Ponctuation, corrections du texte latin, ajout de la traduction partielle.</change>
             <change type="update" resp="#PJ"><date when="2020-03-24"/>Corrections du texte latin.</change>
             <change type="update" resp="#PJ"><date when="2020-04-07"/>Corrections du texte latin.</change>
+            <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -199,24 +200,24 @@
                     semimares Capos, <app><lem wit="#Zimmel">Quaquerra</lem><rdg wit="#ed">quaquerra</rdg></app> nostra producet, quibus &amp; confidit optime, &amp; multarum injuriarum testes fore perquam sperat, sunt enim haec omnia die ipso clariora, quodque in agello Quaquerrae contigit, fieri alibi frequentius, publici Gallinarum conventus testimonio, compertum est. 
                     Haec sunt Spectatores pugnarum praemia, hac munera videlicet, quae victores galli conjugibus suis domum referunt: 
                     <app><lem wit="#Zimmel">Eheu</lem><rdg wit="#ed">E heu</rdg></app> insignia spolia, quibus ornatae, non his tantum, verum etiam Anseribus &amp; anatibus despectui sunt. 
-                    Vides Euthyme, qui gallorum partes defensurus es, quam iuste accusari pro me videantur, quam iniuste autem per te defendi, si defenderis, Videre enim videor, a propugnando te desiturorum, &amp; sensurum mecum: 
+                    Vides Euthyme, qui gallorum partes defensurus es, quam iuste accusari pro me videantur, quam iniuste autem per te defendi, si defenderis, Videre enim videor, a propugnando te desiturum, &amp; sensurum mecum: 
                     Quid daretis Galli? 
                     ut tantum ab hac lite abessetis, quantum Hypanis ab Eridano abest: 
                     Qua <app><lem wit="#Zimmel">multa</lem><rdg wit="#ed">mulcta</rdg></app> vos obligaretis, ut a gravissimae censurae sententia essetis hac tota nostra provincia liberi? 
-                    credo ego, aliquos tandem repertum iri, qui hoc saxum ad metam usque volvant, ut vestra vos aliquando: 
+                    credo ego, aliquos tandem repertum iri, qui hoc saxum ad metam usque volvant, ut vestrae vos aliquando: 
                     luctae <app><lem wit="#Zimmel">paeniteat</lem><rdg wit="#ed">peniteat</rdg></app>, Verum quod haec eloquor, cum non <app><lem wit="#Zimmel">intellegant</lem><rdg wit="#ed">intelligant</rdg></app> Galli.
                     Tu <app><lem wit="#Zimmel">Euthyme</lem><rdg wit="#ed">Euthynme</rdg></app> qui gallicinium nosti, haec ipsis si lubet, interpretare, reperient forsan, quo se tutentur. 
                     Multa enim excogitat <app><lem wit="#Zimmel">metus</lem><rdg wit="#ed">moetus</rdg></app>. 
                     Sed ad rem redeo. 
                     Gallinae Spectatores, Gallos &amp; pariunt &amp; enutriunt, eosque persequuntur amore, quo matres filios decet, Gallorum amor &amp; impar est &amp; impius, Indulgeretur enim hoc ipsis, ut plures una amarent, sexus huius ita natura postulante, 
                     Verum postquam victores fuere &amp; audentes morsus imbuerunt sanguine, Nulla amatur verius, quam quae &amp; libidine &amp; <app><lem wit="#Zimmel">superbia</lem><rdg wit="#ed">suberbia</rdg></app> Gallis proxime accedit. 
-                    Harum aunt, &amp; in sexus huius fragilitate ut ingenue fassa est Quaquerra, <app><lem wit="#Zimmel">nonnullae</lem><rdg wit="#ed">non nullae</rdg></app> sunt, ita forte natura sive fato instituente, ut nihil ab omni parte perfectum atque absolutum <!-- 15 --> lutum sit. 
+                    Harum autem, &amp; in sexus huius fragilitate ut ingenue fassa est Quaquerra, <app><lem wit="#Zimmel">nonnullae</lem><rdg wit="#ed">non nullae</rdg></app> sunt, ita forte natura sive fato instituente, ut nihil ab omni parte perfectum atque absolutum <!-- 15 --> sit. 
                     <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app>, ne cassum omnino &amp; elumbe genus galliae tibi Euthyme &amp; tui similibus videantur, 
                     qui nihil <app><lem wit="#Zimmel">praeter</lem><rdg wit="#ed">preter</rdg></app> Gallos ex merito laudari posse dudum vobis persuasistis, paucis quae ad earum nobilitatem attinere videntur, perstringam, seu vivas respicis, seu mortuas. 
                     Et ea quidem in re, quod optimum patronum decet, agam, 
                     qui clientis causam non semper ut proposita est, <app><lem wit="#Zimmel">enuntiat</lem><rdg wit="#ed">enunciat</rdg></app> &amp; instituit, 
                     verum addit, ubi addendum est, minuitque, ubi minuendum: 
-                    Ne aperta simplicitas (quod alique saepe evenit) versutia tergiversantis fraudulentiae superata, iniquitatis titulum subite cogatur. 
+                    Ne aperta simplicitas (quod alioqui saepe evenit) versutia tergiversantis fraudulentiae superata, iniquitatis titulum subite cogatur. 
                     Gallinae <app><lem wit="#Zimmel">frugiferum</lem><rdg wit="#ed">frugivorum</rdg></app> &amp; humile genus, non fere superbiunt, nemini nocent, quod verae nobilitatis vestigium est, nec in bellum <app><lem wit="#Zimmel">quemquam</lem><rdg wit="#ed">quenquam</rdg></app> provocant, 
                     Sed agmine cohortali pastae, ova pariunt, quae, ut in humani generis usum emergant, clamore ostendunt, 
                     Si quae vero eis sobolis iuvandae gratia relinquuntur, excubant, maresque &amp; <app><lem>feminas</lem><rdg wit="#ed">foeminas</rdg></app> edunt, educantque, 
@@ -240,12 +241,12 @@
                     Quod nostrum quoque multi faciunt, qui cum ad pugnam proventum est, postremos cohortari ut audeant, malumus quam primi esse. 
                     Ab rapacibus avibus gallinae conspicuae saepe rapiuntur gallo interea ad saepem occultato. 
                     Ridendum est profecto ibi pugnaces esse Gallos, ubi res non postulat, 
-                    Ubi autem esset opus horrere &amp; intremiscere, ac stertendo <app><lem wit="#Zimmel">nonnumquam neglegere</lem><rdg wit="#ed">nonnunquam negligere</rdg></app>, Perperam certe nobis omibus, gallorum vigilias quae tantae non sunt admirantibus.
+                    Ubi autem esset opus horrere &amp; intremiscere, ac stertendo <app><lem wit="#Zimmel">nonnumquam neglegere</lem><rdg wit="#ed">nonnunquam negligere</rdg></app>, Perperam certe nobis omnibus, gallorum vigilias quae tantae non sunt admirantibus.
                     Qui enim fiere potest? 
                     ut ex <app><lem wit="#Zimmel">effeminato</lem><rdg wit="#ed">effoeminato</rdg></app> &amp; in summis deliciis enutrito adulescente, vigil gallus oriatur? 
                     Bonum ego degenerare posse saepe <app><lem wit="#Zimmel">accepi</lem><rdg wit="#ed">accoepi</rdg></app>. 
                     Malum autem ita adcrescere ut bonum sit aut fiat, fere <app><lem wit="#Zimmel">numquam</lem><rdg wit="#ed">nunquam</rdg></app>. 
-                    Ferunt autem non Poetae solum sed &amp; philosophi, Adulescentem oli fuisse Gallum nomine, Marti adamatum, pisumque Deo compotasse &amp; collusitasse, 
+                    Ferunt autem non Poetae solum sed &amp; philosophi, Adulescentem olim fuisse Gallum nomine, Marti adamatum, pisumque Deo compotasse &amp; collusitasse, 
                     Itaque eum cum Venerem adiret cum ea cubiturus, hunc quoque gallum una secum adduxisse, &amp; cubiculi foribus praefecisse, ut intus Venere &amp; Marte secure dormientibus 
                     Ipse solis adventum vigilans <app><lem wit="#Zimmel">exspectaret</lem><rdg wit="#ed">expectaret</rdg></app>, eumque <app><lem wit="#Zimmel">mature</lem><rdg wit="#ed">maturae</rdg></app> Marti, ne adulterio <app><lem wit="#Zimmel">deprehenderetur</lem><rdg wit="#ed">depraehenderetur</rdg></app> indicaret. 
                     Semel autem is puer somno corruptus excubias deseruit, inscius, Solemque <app><lem wit="#Zimmel">exsurgentem</lem><rdg wit="#ed">exurgentem</rdg></app> torpidus ad Divae thalamum admisit. 
