@@ -88,6 +88,7 @@
             <change type="update" resp="#EP"><date when="2020-03-17"/>Ponctuation et traduction.</change>
             <change type="update" resp="#PJ"><date when="2020-03-17"/>Apparat critique correction.</change>
             <change type="update" resp="#RR"><date when="2020-03-31"/>Texte latin.</change>
+            <change type="update" resp="#EP"><date when="2020-04-13"/>Ajout de la traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -183,9 +184,12 @@
                     </p>
                     <p>
                         Sponsio enim in tam volucri genere non est tuta. 
-                        Quod si humanos animos, mendacibus ausis, &amp; insultu temerario, agitare &amp; ludibrio habere visi fuerint &amp; sapere velle in alieno genere videri, 
-                        Censeo breviter ea poena puniendos, 
-                        ut sensim eis, Pinna post pinnam, &amp; post plumam pluma, radicitus evellantur, prius ipsis jugulatis, &amp; in <app><lem wit="#Zimmel">bullientem</lem><rdg wit="#ed">bulientem</rdg></app> aquam immersis. 
+                        Quod si humanos animos mendacibus ausis &amp; insultu temerario agitare &amp; ludibrio habere visi fuerint &amp; sapere velle in alieno genere videri 
+                        censeo breviter ea poena puniendos 
+                        ut sensim eis pinna post pinnam &amp; post plumam pluma radicitus evellantur 
+                        prius ipsis jugulatis &amp; in <app><lem wit="#Zimmel">bullientem</lem><rdg wit="#ed">bulientem</rdg></app> aquam immersis. 
+                    </p>
+                    <p>
                         Post vero in omnium Spectatorum oblectationem assentur partim &amp; elixentur, 
                         partim comminutis ossibus &amp; pulpis, in sapidi iusculi liquorem conterantur, 
                         quod pro salute multorum fiat, 
@@ -261,8 +265,10 @@
                         Mais en fait, spectateurs, pourquoi moi, l’ignorant, je passe en revue ces personnages? Si on ne m’avait pas reprocher de parler avant tous les autres, j’aurais discouru en ces mots commes ils m’étaient venus à l’esprit. Je suis d’avis que les coqs et les poules avec les chapons, parce qu’ils n’ont pas d’argent pour pouvoir satisfaire suffisamment aux dépenses du procès, doivent être jetés et enfermés dans la cuisine et retenus là jusqu’à ce que lumière soit faite sur l’obscurité de toutes ces affaires, après qu’on l’a examinée.
                     </p>
                     <p>
-                        traduction à venir.
+                        En effet, une promesse n’est pas sûre chez cette race si volage. S’ils ont semblé agiter les esprits humains avec des crimes mensongers et une insulte irréfléchie, y avoir pris du plaisir et vouloir sembler sage à une autre race, je pense qu’ils doivent simplement être puni par cette peine: que lentement plume après plume, plumette après plumette leur soit arrachées jusqu’à ce qu’il n’en reste plus, avant de les égorger et de les plonger dans l’eau bouillante!
+                        
                     </p>
+                    <p>traduction à venir</p>
                 </sp>
             </div>
             
