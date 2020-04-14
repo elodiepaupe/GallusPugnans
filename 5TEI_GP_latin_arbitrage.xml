@@ -45,6 +45,7 @@
                     <witness xml:id="ed">Editio princeps encodée</witness>
                     <witness xml:id="Zimmel">Édition du texte avec traduction</witness>
                     <witness xml:id="MS">Copie manuscrite de 1514</witness>
+                    <witness xml:id="CLAM">Propositions du cours.</witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -158,17 +159,28 @@
                         ut quod maxime.
                     </p>
                     <p>
-                        Nullo enim instituto major ruina, rei suae publicae parari poterat, si eo voto ad metam perventum esset, quo res coepta est. 
-                        Idcirco partium consiliis diligenter perpensis, cognitoque universo <app><lem wit="#Zimmel">negotii</lem><rdg wit="#ed">negocii</rdg></app> excursu, non possunt non asserere, Gallis strenuis illatam esse injuriam. 
-                        Quod tu Philonice, ubi Gallinis dixeris ne <app><lem wit="#Zimmel">aegre ferant</lem><rdg wit="#ed">aegreferant</rdg></app>, oratas habeto, 
-                        Apertae enim <app><lem wit="#Zimmel">justitiae</lem><rdg wit="#ed">justiciae</rdg></app> nemo commode pro  <!-- 42 --> amicis etiam amicissimis, refragari potest, cumque justae poenae non nihil loci in Gallinis esse videretur, 
-                        eam abolitam &amp; expunctam in amoris sui argumentum volvere. 
-                        Novistis legem, quae Iudices in levioribus causis vult esse ad lenitatem proniores, 
-                        In gravioribus autem poenis, severitatem legum cum aliquo temperamento benignitatis subsequi. 
-                        Capi causae nostrae non judices sed Arbitri, poenam commissi, hercle non parui: 
-                        non temperare, sed non reminisci volverunt Eius loco munus <app><lem wit="#Zimmel">exspectantes</lem><rdg wit="#ed">expectantes</rdg></app> pulcherrimum, &amp; partibus commodissimum, 
-                        Concordiam videlicet &amp; matrimonii perenni pace stabiliti mite comertium, 
-                        ad quod praestandum, tu Philonice, tuque Euthyme, cum domum venietis, Gallos, Gallinasque, iterum atque iterum hortemini. 
+                        Nullo enim instituto major ruina rei suae publicae parari poterat 
+                        si eo voto ad metam perventum esset 
+                        quo res coepta est. 
+                        Idcirco partium consiliis diligenter perpensis cognitoque universo <app><lem wit="#Zimmel">negotii</lem><rdg wit="#ed">negocii</rdg></app> excursu non possunt 
+                        non asserere Gallis strenuis illatam esse injuriam. 
+                    </p>
+                    <p>
+                        Quod tu Philonice ubi Gallinis dixeris ne <app><lem wit="#Zimmel">aegre ferant</lem><rdg wit="#ed">aegreferant</rdg></app> oratas habeto. 
+                        Apertae enim <app><lem wit="#Zimmel">justitiae</lem><rdg wit="#ed">justiciae</rdg></app> nemo commode pro  <!-- 42 --> amicis etiam amicissimis refragari potest 
+                        cumque justae poenae non nihil loci in Gallinis esse videretur, 
+                        eam abolitam &amp; expunctam in amoris sui argumentum voluere.
+                    </p>
+                    <p>
+                        Novistis legem quae Iudices in levioribus causis vult esse ad lenitatem proniores 
+                        in gravioribus autem poenis severitatem legum cum aliquo temperamento benignitatis subsequi. 
+                        Capi causae nostrae non judices sed arbitri poenam commissi hercle non parui 
+                        non temperare sed non reminisci volverunt 
+                        eius loco munus <app><lem wit="#Zimmel">exspectantes</lem><rdg wit="#ed">expectantes</rdg></app> pulcherrimum &amp; partibus commodissimum 
+                        concordiam videlicet &amp; matrimonii perenni pace stabiliti mite <app><lem wit="#CLAM">comercium</lem><rdg wit="#ed">comertium</rdg></app> 
+                        ad quod praestandum tu Philonice tuque Euthyme cum domum venietis Gallos Gallinasque iterum atque iterum hortemini. 
+                    </p>
+                    <p>
                         QUID est enim, Dii boni, in ea familia, qua vir &amp; uxor rerum habent administrationem, divinius? 
                         Quid utilius pace &amp; amore? 
                         Magnum legislatorem dixisse ferunt, Vitam reliquam minime videndam esse, quando uxor cum viro in discordia est. 
@@ -232,7 +244,18 @@
                         Ils soutiennent en effet qu’ils ont souvent remarqué que les poules étaient trop capricieuses et les coqs trop effrontés, que les poules ne sont pas toujours faciles à vivre alors que les coqs ne les protègent pas toujours. Comme ces choses ont évidemment cours librement sans sanction parmi les hommes, qui les imputera aux poules et aux coqs ?
                     </p>
                     <p>
-                        Mais ce plan suivant lequel, par la jalousie, les poules se faisant accusatrices sont parvenues à un tel point de folie qu’elles avaient entrepris de briser et de rendre mal famée la réputation des coqs, célèbre et tout à fait évidente chez les hommes avec des déclarations bien plus fausses que vraies et montées de toutes pièces, déplaît tout à fait. 
+                        Mais ce plan suivant lequel, par la jalousie, les poules se faisant accusatrices sont parvenues à un tel point de folie qu’elles avaient entrepris de briser et de rendre mal famée la réputation des coqs, célèbre et tout à fait évidente chez les hommes avec des déclarations bien plus fausses que vraies et montées de toutes pièces, ce plan est tout à fait déplaisant. 
+                    </p>
+                    <p>
+                        En effet, rien de ce qu’elle aurait pu organisé n’aurait pu préparer une ruine plus grande pour leur communauté, si cela s’était passé jusqu’au bout selon le voeu par lequel l’affaire a été commencé. Pour cette raison, après avoir évalué consciencieusement les résolutions des partis et une fois le cours entier de l’affaire connu, ils ne peuvent pas ne pas soutenir que l’injustice a été portée contre les coqs turbulents.
+                    </p>
+                    <p>
+                        Toi Philonicus, lorsque tu auras communiqué cela aux poules, fais en sorte de les prier de ne pas le supporter avec peine. En effet, personne ne peut décemment s’opposer à la justice déclarée au grand jour pour ses amis, même de très bons amis et, alors que rien d’autre qu’une juste peine contre les poules ne semblait se trouver en ce lieu, ils ont voulu que celle-ci soit abolie et réduite en raison de leur amour.
+                    </p>
+                    <p>
+                        Vous connaissez la loi qui veut que les juges, dans les causes plus légères, soient enclins à la douceur, mais que, dans les peines plus sévères, ils suivent la sévérité des lois avec une certaine mesure de bienveillance.
+                        Les chapons qui ne sont pas les juges, mais les arbitres de notre cause ont voulu non pas modérer la peine d’un délit qui n’a rien de petit, par Hercule, mais ne pas s’en souvenir, espérant à la place de cela un faveur très belle et très agréable aux partis, la concorde évidemment et le doux commerce d’un mariage rendu solide par une paix affermie. Pour le garantir, toi Philonicus et toi Euthymus, lorsque vous rentrerez à la maison, exhortez les coqs et les poules encore et encore.
+                        
                     </p>
                     <p>
                         à continuer
