@@ -307,7 +307,7 @@
                   Ova pariunt, inquis, gallinae 
                   &amp; ea clamore 
                   ubi sint indicant.
-                  <app><lem wit="#Zimmel">Estne</lem><redg wit="#ed">Est ne</redg></app> hoc, Spectatores, pium <app><lem wit="#ed">foetum</lem><rdg wit="#Zimmel">fetum</rdg></app> prodere 
+                  <app><lem wit="#Zimmel">Estne</lem><rdg wit="#ed">Est ne</rdg></app> hoc, Spectatores, pium <app><lem wit="#ed">foetum</lem><rdg wit="#Zimmel">fetum</rdg></app> prodere 
                   ut abortus fiat 
                   ut sui generis extinguatur soboles? 
                   Prave Philonice, Gallinas a scelere laudas <!-- 29 --> 
@@ -407,23 +407,80 @@
                   Pythagoras sapiens vel ob id praecipue putatus, quod sapientis se nomine dignum <app><lem wit="#ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> existimavit, praecipere solebat, tu gallum nutriremus, quo quemadmodum doctissimorum
                   interpretatio est, divi nam animae nostrae partem, quae divinarum rerum cognitione, quasi solido cibo &amp; <app><lem wit="#ed">coelesti</lem><rdg wit="#Zimmel">caelesti</rdg></app> ambrosia pascit <app><lem wit="#ed">intelligimus</lem><rdg wit="#Zimmel">intellegimus</rdg></app>, 
                   Et hic quidem Gallus est, cujus aspectum Leo id est omnis terrena potestas formidat &amp; reveretur. Cui singularem intelligentiam datam esse propheta testatus est, singulare patientiae &amp; veritatis exemplar. 
-                  Auditis, Spectatores, an non Galli vocabulo &amp; natura veneranda admodum <app><lem>mysteria</lem><rdg wit="#ed">mysteria</rdg></app> Philosophi <!-- 35 --> &amp; Theologi <app><lem wit="#Zimmel">celarint</lem><rdg wit="#ed">coelarint</rdg></app>, 
-                  quae quidem hoc in loco minus <app><lem wit="#ed">retulissem</lem><rdg wit="#Zimmel">rettulissem</rdg></app>, nisi mihi persuasissem, Gallorum gloriam &amp; nobilitatem, hisce non parum auctum iri quae attuli.
-                  Et hercle nescio, an id satis de se galli <app><lem wit="#ed">intelligant</lem><rdg wit="#Zimmel">intellegant</rdg></app>, cum sint multi mortalium, quibus haec ut mystica, &amp; aenigmatica ignorantur. 
-                  Sed ad institutum redeo. Hunc Gallum, Socrates cum divinitatem animi sui divinitati majoris mundi copulaturum se speraret, Aesculapio <app><lem wit="#Zimmel">illo</lem><rdg wit="#ed">i</rdg></app> animarum medico debere se dixit;
-                  <app><lem wit="#ed">quanquam</lem><rdg wit="#Zimmel">quamquam</rdg></app> magnus quidam inter Christianos poetas fidei propugnator, cum Socraticum gallum minus forte decenter,
-                  quam oportuit, ludicro esset insecturus, eum Gallinam appellavit, ut mollis &amp; <app><lem wit="#ed">effoemiatae</lem><rdg wit="#Zimmel">effeminatae</rdg></app> rei vocabulo, 
-                  quod te nolui latere,Philonice, qui tam augustum &amp; auspicatum hactenus extollere satis &amp; laudare non potuisti. Quis vero nescit gentis &amp; amplissimae 
-                  &amp; vetustissima bellorum memoria apud scriptores notae, nomen a gallis gallinaceis sumpsisse. Tum multi alias et docti Galli nomine et sancti fuerunt: Ceu Cor. Gallus poeta, Ceu Gallus <app><lem wit="#Zimmel">Abbas</lem><rdg wit="#ed">Abas</rdg></app> 
-                  quem apud eos Helvetios sepultum audivimus qui secundum militarem peritiam in texendo lino &amp; poliendo, omnium sunt famigeratissimi. Quid plura, Spectatores? 
-                  Tanta etiam defunctis Gallis vis &amp; nobilitas inest (ne gallinarum demortuarum pulpamenta omnia posse Philonicus putet) ut perunctos galli cerebro nec Pantherea nec Leones attingant: 
-                  hoc plagis recentibus prodest, hoc venenatorum morsus, &amp; serpentum incommoda mortalibus perdomat, contraque morbos innumeros valet. Quod si tam pinguis tam sapida eorum caro non est quam gallinarum, non est mirum, 
-                  Siquidem tot curae, tot Veneres, totque vigiliae, pinguescere eos non  sinunt: <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app> si in <app><lem wit="#ed">pinguedine </lem><rdg wit="#Zimmel">pinguidine</rdg></app>
-                  sita est <app><lem wit="#Zimmel">aestimatio</lem><rdg wit="#ed">estimatio</rdg></app> ut quisquam pinguissimus esset, ita optimus foret, quod profecto pauci vestrum <app><lem wit="#ed">admittunt</lem><rdg wit="#Zimmel">admittuntur</rdg></app>.
-                  Non enim semper pondus, sed virtutem ipsam attendimus, hincque est ut ego in <app><lem wit="#Zimmel">cena</lem><rdg wit="#ed">coena</rdg></app> una turdum bovi praeferam, &amp; anseri Phasianum. 
-                  Ferunt medici in galli vesica lapidem <!-- 36 -->reperiri, qui vesicae nostrae incommodis medeatur. Item testes Gallinaceorum, perinde si a conceptu edat mulier, mares in utero fieri dicuntur, 
-                  Non possum ego &amp; hoc in loco praeterire, quod magnis viris persuasum est,Pedem dextrum videlicet Galli gallina cei tantam vim habere, ut adversarii victor futurus sit, 
-                  <app><lem wit="#Zimmel">quicumque</lem><rdg wit="#ed">quicunque</rdg></app> hunc eo animo secum gesserit: quod si ego fraude potius, aut potius naturae subsidio, 
+               </p>
+               <p>
+                  Auditis, Spectatores, 
+                  an non Galli vocabulo &amp; natura veneranda admodum <app><lem>mysteria</lem><rdg wit="#ed">mysteria</rdg></app> Philosophi <!-- 35 --> &amp; Theologi <app><lem wit="#Zimmel">celarint</lem><rdg wit="#ed">coelarint</rdg></app> 
+                  quae quidem hoc in loco minus <app><lem wit="#ed">retulissem</lem><rdg wit="#Zimmel">rettulissem</rdg></app> 
+                  nisi mihi persuasissem 
+                  Gallorum gloriam &amp; nobilitatem hisce non parum auctum iri
+                  quae attuli.
+               </p>
+               <p>
+                  Et hercle nescio 
+                  an id satis de se galli <app><lem wit="#ed">intelligant</lem><rdg wit="#Zimmel">intellegant</rdg></app> 
+                  cum sint multi mortalium 
+                  quibus haec ut mystica &amp; aenigmatica ignorantur. 
+                  Sed ad institutum redeo. 
+               </p>
+               <p>
+                  Hunc Gallum Socrates 
+                  cum divinitatem animi sui divinitati majoris mundi copulaturum se speraret 
+                  Aesculapio <app><lem wit="#Zimmel">illo</lem><rdg wit="#ed">i.</rdg></app> animarum medico debere se dixit
+                  <app><lem wit="#ed">quanquam</lem><rdg wit="#Zimmel">quamquam</rdg></app> magnus quidam inter Christianos poetas fidei propugnator, 
+                  cum Socraticum gallum minus forte decenter
+                  quam oportuit 
+                  ludicro esset insecturus, 
+                  eum Gallinam appellavit 
+                  ut mollis &amp; <app><lem wit="#ed">effoemiatae</lem><rdg wit="#Zimmel">effeminatae</rdg></app> rei vocabulo. 
+                  Quod te nolui latere, Philonice, 
+                  qui tam augustum &amp; auspicatum hactenus extollere satis &amp; laudare non potuisti.
+               </p>
+               <p>
+                  Quis vero nescit gentis 
+                  &amp; amplissimae 
+                  &amp; vetustissima bellorum memoria apud scriptores notae 
+                  nomen a gallis gallinaceis sumpsisse? 
+                  Tum multi alias et docti Galli nomine et sancti fuerunt: 
+                  ceu Cor. Gallus poeta, ceu Gallus <app><lem wit="#Zimmel">Abbas</lem><rdg wit="#ed">Abas</rdg></app> 
+                  quem apud eos Helvetios sepultum audivimus 
+                  qui secundum militarem peritiam in texendo lino &amp; poliendo omnium sunt famigeratissimi. 
+               </p>
+               <p>
+                  Quid plura, Spectatores? 
+                  Tanta etiam defunctis Gallis vis &amp; nobilitas inest 
+                  (ne gallinarum demortuarum pulpamenta omnia posse Philonicus putet) 
+                  ut perunctos galli cerebro nec Pantherae nec Leones attingant: 
+                  hoc plagis recentibus prodest, 
+                  hoc venenatorum morsus &amp; serpentum incommoda mortalibus perdomat 
+                  contraque morbos innumeros valet.
+               </p>
+               <p>
+                  Quod si tam pinguis tam sapida eorum caro non est quam gallinarum, 
+                  non est mirum. 
+                  Siquidem tot curae, tot Veneres totque vigiliae pinguescere eos non sinunt. 
+                  <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app> si in <app><lem wit="#ed">pinguedine </lem><rdg wit="#Zimmel">pinguidine</rdg></app>
+                  sita est <app><lem wit="#Zimmel">aestimatio</lem><rdg wit="#ed">estimatio</rdg></app> 
+                  ut quisquam pinguissimus esset 
+                  ita optimus foret 
+                  quod profecto pauci vestrum <app><lem wit="#ed">admittunt</lem><rdg wit="#Zimmel">admittuntur</rdg></app>.
+                  Non enim semper pondus sed virtutem ipsam attendimus 
+                  hincque est 
+                  ut ego in <app><lem wit="#Zimmel">cena</lem><rdg wit="#ed">coena</rdg></app> una turdum bovi praeferam &amp; anseri phasianum.
+               </p>
+               <p>
+                  Ferunt medici in galli vesica lapidem <!-- 36 -->reperiri 
+                  qui vesicae nostrae incommodis medeatur. 
+                  Item testes Gallinaceorum 
+                  perinde si a conceptu edat mulier, mares in utero fieri dicuntur. 
+                  Non possum ego &amp; hoc in loco praeterire 
+                  quod magnis viris persuasum est 
+                  pedem dextrum videlicet Galli gallinacei tantam vim habere 
+                  ut adversarii victor futurus sit 
+                  <app><lem wit="#Zimmel">quicumque</lem><rdg wit="#ed">quicunque</rdg></app> hunc eo animo secum gesserit.
+               </p>
+               <p>
+                  Quod si ego fraude potius, aut potius naturae subsidio, 
                   quod a multis in fraudis aut superstitionis infamiam deturbatur, Philonicum hoc in loco vincere, quam rei a gallis propositae <app><lem wit="#Zimmel">efficacia</lem><rdg wit="#ed">efficatia</rdg></app>
                   voluissem, certe vel dextro unius galli pede vicissem, tam acria gallorum calcaria sunt. Nunc <app><lem wit="#ed">dinoscite</lem><rdg wit="#Zimmel">dignoscite</rdg></app>, Spectatores, dum alius iudex non est,
                   &amp; vobis omnibus censendi &amp; <app><lem wit="#ed">dinoscendi</lem><rdg wit="#Zimmel">dignoscendi</rdg></app> copia facta est, quam inique accusati sint galli quamque petulans &amp; impetuosum genus sit gallinarum, 
@@ -495,6 +552,41 @@
                <p>
                   Un coq décrépit pond un œuf duquel sort un basilic. Qui pourrait croire cela ? Grands dieux! Ô combien effrontée est la gent féminine! Combien elles préfèrent suivre les fables plutôt que la vérité! J'aime le poète qui dit “quiconque fait confiance à une femme s’accroche au feuillage” [Hésiode, quisquis confidit mulieri frondibus haeret]. Jamais je n'aurais pensé que ces histoires de vieilles femmes allaient être exposé aux yeux de tous. Mais la jalousie ne renonce à rien.
                   
+               </p>
+               <p>
+                  à traduire
+               </p>
+               <p><!-- Reprise de la traduction de Rania à la ligne 379 selon l'édition de mars 2020. -->
+                  Vous entendez, Spectateurs, dans le mot et la nature du coq les philosophes et les théologiens n’ont-ils pas caché des mystères tout à fait vénérables?
+                  Je les aurais certainement moins précisément rapportés en ce lieu, si je n’avais pas été persuadé que la gloire et de la réputation des coqs allaient être augmentées, et pas qu’un peu, par ces éléments que j’ai apportés. 
+                  
+               </p>
+               <p>
+                  Et, par Hercule! je ne sais pas si les coqs comprennent assez cela à leur propre sujet puisqu’il y a beaucoup de mortels qui ignorent ces faits mystiques et énigmatiques. 
+                  Mais je reviens à notre sujet.
+               </p>
+               <p>
+                  Alors que Socrates espérait qu’il allait unir la perfection de son esprit à la perfection d’un monde plus grand, il a dit qu’il devait ce coq à Esculape, le médecins des âmes.
+                  D’ailleurs, un certain grand défenseur de la foi parmi les poètes chrétiens, alors qu’il allait couper par jeu le coq socratique peut-être moins décemment qu’il ne le fallait, l’a appelé “poule”, comme avec un mot destiné à une chose molle et efféminée,
+                  Je n’ai pas voulu te cacher cela, Philonicus, toi qui n’as pas pu exalter ni louer jusqu’à maintenant quelque chose d’aussi majestueux et favorable.
+               </p>
+               <p>
+                  Mais qui ne sait pas que le nom d’un très grand peuple également célèbre chez les historiens pour le souvenir très ancien de ses guerres a été tiré des coqs?
+                  Alors, à d’autres époques, beaucoup d’hommes, des savants et des saints ont pris le nom de “coq”: comme le poète Cornelius Gallus, comme l’abbé Gall dont nous avons entendu dire qu’il a été enterré chez les Helvètes qui sont très célébrés, après leur connaissance militaire, pour le tissage et l’ornementation du tissu. 
+               </p>
+               <p>
+                  Quoi de plus, Spectateurs? 
+                  Si grandes sont la force et la noblesse présentes dans les coqs morts (pour que Philonicus ne pense pas que les morceaux de poules qui s’en sont allées peuvent tout) que ni le lion ni la panthère ne touchent pas à ceux qui ont été enduits par l’esprit d’un coq: il sert aux blessures fraîches, chez les hommes il soulage les morsures des animaux venimeux et les affections dues aux serpents et est efficace contre d’innombrables maladies.
+               </p>
+               <p>
+                  Si leur chair n’est pas autant grasse, autant savoureuse que celle des poules, ce n’est pas surprenant puisque tant de soucis, d’amour charnel et de veilles ne leur permettent pas d’engraisser. 
+                  Par ailleurs, si l’estimation a été basée sur la graisse si bien que plus quelqu’un serait gras meilleur il serait, peu d’entre vous l’admettent vraiment. 
+                  Mais, en effet, nous ne sommes pas toujours attentif au poids, mais à la qualité intrinsèque et pour cette raison, moi, lors d’un repas, je préfère le tourd au boeuf et le faisan à l’oie.
+               </p>
+               <p>
+                  Les médecins rapportent qu’on a retrouvé dans la vessie du coq une pierre qui guérit les affections de notre vessie. 
+                  De même, si une femme mange des testicules de coqs après la conception, il se dit que son utérus produit des mâles. 
+                  Moi, à ce stade, je ne peux pas également passer outre le fait qu’il a été décidé par de grands hommes que la patte droite du coq naturellement a une si grande force qu’il sera victorieux contre son ennemi quelle que soit l’intention de celui qui l’aura porté avec lui.
                </p>
                <p>
                   à traduire
