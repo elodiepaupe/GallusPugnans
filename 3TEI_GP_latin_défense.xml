@@ -88,6 +88,7 @@
          <change type="update" resp="#PJ"><date when="2020-03-16"/>Apparat critique.</change>
          <change type="update" resp="#RR"><date when="2020-04-02"/>Mise à jour du texte latin</change>
          <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
+         <change type="update" resp="#EP"><date when="2020-04-15"/>Correction du texte latin, modification de l'apparat critique, ajout de la traduction.</change>
       </revisionDesc>
    </teiHeader>
    <text n="3" type="discours">
@@ -97,25 +98,82 @@
             <stage>Euthymus</stage>
             <sp>
                <speaker>Euthymus</speaker>
-               <p> Nulla est penitus inter mortales labes, Spectatores quae virtuti, &amp; ex ea natis gloriae &amp; <app><lem wit="#Zimmel">felicitati</lem><rdg wit="ed">foelicitati</rdg></app>, 
-                  plus sit adversaria quam invidia, quae aliquando (ut scitis) infandis exiliis, &amp; iniquissimis repulsis, eos viros agitavit, qui &amp; de Diis &amp;
-                  de hominibus, quam optime meriti videbantur, post hos autem plerosque tanta insolentia adorta est, ut sustinere insontes molestissimas accusationes fuerint coacti.
-                  Id si hodie gallis contigit, eo est aequius ferendum,quod &amp; primum talis rei exemplum non sunt, &amp; ab his accusantur, in quibus iustissimae poenae plus loci est quam querelae.
-                  Audistis sane Philonici nostri copiosam &amp; disertam postulationem, quam ego commendarem magis si tanto liberioris maledicentiae tabo illita non esset,
-                  quod enim est dictum, quod gallos non taxet, elevet, alliciat? cum solae gallinae commendentur, &amp; ab his rebus etiam laus sumatur, que fere laudari nec possint, nec debeant. 
-                  Laudanda est certe sedulitas &amp; eloquentia Philonici, qui more suo, non tam verum &amp; justum tuetur, quam etiam ita falsum &amp; excogitatum instituit, ita obumbrat,
-                  Ut veri &amp; justi loco ab auditoribus accipi debeat, tanta est in eo eloquentiae potentia, Quae certe alioqui, sine malo consilio non male meretur, Verum, unde Philonico tam consilium malum?
-                  Unde illa pertinax rei non satis intellectae defensio ?
-                  <!-- 21 --> Nempe si verum dicere fas est, ut certe est, a solis gallinis, id quod tu Philonice fassus es. Quae te adeo precibus praemiisque induxere, &amp; mercati sunt: 
-                  ut falsum pro vero tutari fueris ausus, eoque, audaciae mens tua processerit, ut victoriam ipse tibi, nondum cognito Iudice promiseris, meque quem tibi ex officio novisti adversarium, de veritate dicenda interrogaveris, 
-                  quasi ego eius animo quo sunt gallinae dicere verum libere non audeam. Constantiores estis Spectatores quam ut simplici querelae totque anilibus sabellis adauctae, fidem illico adhibeatis: 
-                  Nullum est hodie <app><lem wit="#Zimmel">vitium</lem><rdg wit="#ed">vicium</rdg></app> quod suum patronum non habeat, &amp; iniquis rebus eloquentia si vultu multum affert, ac fere non minus ornatus
-                  quam recte <app><lem wit="#ed">factis</lem><rdg wit="#Zimmel">facti</rdg></app>, tanta est, <app><lem wit="#Zimmel">delinitae</lem><rdg wit="#ed">delinitae</rdg></app> illecebris orationis efficacia. Aperte ego vobiscum agam &amp; simpliciter.
-                  Sunt enim vetusti <app><lem wit="#Zimmel">auctoris</lem><rdg wit="#ed">autoris</rdg></app> testimonio, simplicia verba veritatis, 
-
-                  Nec fuco vos aut orationis <app><lem wit="#Zimmel">delenimentis</lem><rdg wit="#ed">delinimentis</rdg></app> suspendam Iusta enim lingua robur immensum habet, &amp; viribus eloquentiae adeo certe non eget,
-                  quam haec, quae cum rei candore diffidit, ad obductae tectoriis <app><lem wit="#Zimmel">blanditias</lem><rdg wit="#ed">blandicias</rdg></app> linguae, &amp; ostentosam verorum iactantiam refugium habet. 
-                  Scitis Cerneadem philosophum, Romae, cum legatus venisset, Catonis sententia, a Senatus conspectu amoveri iussum, quod vir gravis &amp; veritatis amans, hominis eloquentiam suspectam habebat.
+               <p> Nulla est penitus inter mortales labes, 
+                  Spectatores, 
+                  quae virtuti &amp; ex ea natis gloriae &amp; <app><lem wit="#Zimmel">felicitati</lem><rdg wit="ed">foelicitati</rdg></app> 
+                  plus sit adversaria quam invidia 
+                  quae aliquando (ut scitis) infandis exiliis &amp; iniquissimis repulsis eos viros agitavit 
+                  qui &amp; de Diis &amp;
+                  de hominibus 
+                  quam optime meriti videbantur. 
+                  Post hos autem plerosque tanta insolentia adorta est 
+                  ut sustinere insontes molestissimas accusationes fuerint coacti.
+               </p>
+               <p>
+                  Id si hodie gallis contigit 
+                  eo est aequius ferendum 
+                  quod &amp; primum talis rei exemplum non sunt 
+                  &amp; ab his accusantur 
+                  in quibus iustissimae poenae plus loci est quam querelae.
+               </p>
+               <p>
+                  Audistis sane Philonici nostri copiosam &amp; disertam postulationem 
+                  quam ego commendarem magis 
+                  si tanto liberioris maledicentiae tabo illita non esset.
+                  Quid enim est dictum 
+                  quod gallos non taxet, elevet, alliciat 
+                  cum solae gallinae commendentur &amp; ab his rebus etiam laus sumatur 
+                  quae fere laudari nec possint nec debeant?
+               </p>
+               <p>
+                  Laudanda est certe sedulitas &amp; eloquentia Philonici 
+                  qui more suo non tam verum &amp; justum tuetur 
+                  quam etiam ita falsum &amp; excogitatum instituit, ita obumbrat,
+                  Ut veri &amp; justi loco ab auditoribus accipi debeat. 
+                  Tanta est in eo eloquentiae potentia 
+                  quae certe alioqui sine malo consilio non male meretur.
+               </p>
+               <p>
+                  Verum unde Philonico tam consilium malum?
+                  Unde illa pertinax rei non satis intellectae defensio?
+                  <!-- 21 --> Nempe si verum dicere fas est, ut certe est, a solis gallinis 
+                  id quod tu Philonice fassus es 
+                  quae te adeo precibus praemiisque induxere &amp; mercati sunt 
+                  ut falsum pro vero tutari fueris ausus 
+                  eoque audaciae mens tua processerit 
+                  ut victoriam ipse tibi nondum cognito Iudice promiseris 
+                  meque quem tibi ex officio novisti adversarium de veritate dicenda interrogaveris 
+                  quasi ego eius animi 
+                  quo sunt gallinae 
+                  dicere verum libere non audeam.
+               </p>
+               <p>
+                  Constantiores estis, Spectatores, 
+                  quam ut simplici querelae totque anilibus sabellis adauctae fidem illico adhibeatis. 
+                  Nullum est hodie <app><lem wit="#Zimmel">vitium</lem><rdg wit="#ed">vicium</rdg></app> 
+                  quod suum patronum non habeat &amp; iniquis rebus eloquentia 
+                  si vult 
+                  multum affert 
+                  ac fere non minus ornatus quam recte <app><lem wit="#Zimmel">facti</lem><rdg wit="#ed">factis</rdg></app>. 
+                  Tanta est, <app><lem wit="#Zimmel">delinitae</lem><rdg wit="#ed">delinitae</rdg></app> illecebris orationis efficacia. 
+                  Aperte ego vobiscum agam &amp; simpliciter.
+                  Sunt enim vetusti <app><lem wit="#Zimmel">auctoris</lem><rdg wit="#ed">autoris</rdg></app> testimonio simplicia verba veritatis 
+                  nec fuco vos aut orationis <app><lem wit="#Zimmel">delenimentis</lem><rdg wit="#ed">delinimentis</rdg></app> suspendam. 
+               </p>
+               <p>
+                  Iusta enim lingua robur immensum habet &amp; viribus eloquentiae adeo certe non eget
+                  quam haec quae cum rei candore diffidit ad obductae tectoriis <app><lem wit="#Zimmel">blanditias</lem><rdg wit="#ed">blandicias</rdg></app> linguae 
+                  &amp; ostentosam verborum iactantiam refugium habet. 
+               </p>
+               <p>
+                  Scitis 
+                  Cerneadem philosophum Romae 
+                  cum legatus venisset
+                  Catonis sententia 
+                  a Senatus conspectu amoveri iussum 
+                  quod vir gravis &amp; veritatis amans hominis eloquentiam suspectam habebat.
+               </p>
+               <p>
                   Te autem Philonice, ut ad instituta perveniam, oratum volo, ut quantum gallinarum invidia seductus fueris, quidve aut quantum defenderis ex hisce quae iam sum dicturus patiente accipias.
                   <app><lem wit="#ed">Intelliges</lem><rdg wit="#Zimmel">Intelleges</rdg></app> enim sane omnia &amp; mecum senties, Quamquam quod tu paulo ante non fecisti, nihil asserere temere velim,
                   nec polliceri mihi victoriam, Sed id solum conari, ut quod est verum in aperto sit, Reliquum in eius manibus erit qui causae futurus est Iudex, rem enim nostram ad unum, aut pauciores saltem relatum iri existimo,
@@ -329,7 +387,36 @@
             <stage>Euthymus</stage>
             <sp>
                <speaker>Euthymus</speaker>
-               <p> traduction </p>
+               <p>
+                  Il n’y a pas chez les mortels de souillure morale, Spectateurs, qui ne soient plus opposées au courage, à la gloire et au bonheur qui en sont nés, que la jalousie qui parfois (comme vous le savez) par des exils abominables et des répercussions très injustes a persécuté ces hommes qui semblaient être oh! combien méritants aux yeux des dieux et des hommes. Cependant, après ceux-ci, l’arrogance s’est attaquée à la plupart des hommes, arrogance si grande qu’ils ont forcé des innocents à supporter des accusations très fâcheuses.
+               </p>
+               <p>
+                  Si cela touche aujourd’hui les coqs, ils doivent le supporter d’autant plus calmement qu’ils ne sont pas le premier exemple d’une telle affaire et qu’ils sont accusés par celles pour qui c’est le lieu d’une très juste peine plutôt que celui d’une plainte.
+               </p>
+               <p>
+                  Vous avez entendu en entier l’abondante et habile plainte de notre Philonicus, à laquelle, pour ma part, je reconnaîtrais plus de valeur si elle n’avait pas été suscitée par le flot de pus d’une médisance trop libre.
+                  En effet, qu’est-ce qui a été dit qui ne blâme pas les coqs, ne les rabaisse pas, ne les attire pas, puisque seules les poules sont recommandées et que la louange est saisie par des choses qui ne pourraient ni ne devraient d’ordinaire être louée?
+               </p>
+               <p>
+                  Le zèle et l’éloquence de Philonicus sont certainement dignes d’éloges, lequel, à son habitude, ne défend pas tant la vérité et la justice qu’il n’enseigne aussi du même coup ce qui est faux et inventé, le dissimule de sorte que les auditoires doivent le recevoir en lieu et place de la vérité et de la justice.
+                  Si grande est chez lui la puissance de l’éloquence qui certainement du reste ne serait pas méritante à tort si n’était la mauvaise intention.
+               </p>
+               <p>
+                  Mais en fait pourquoi Philonicus a-t-il si mauvaise intention?  Pourquoi cette défense entêtée d’une affaire insuffisamment comprise?
+                  À condition, n’est-ce pas, qu’il soit permis aux poules seules de dire la vérité, comme c’est certainement le cas, ce que tu as avoué, Philonicus, poules qui t’ont couvert de tant de prières et de présents et si bien acheté que tu as osé défendre le faux à la place du vrai et que ton esprit d’audace s’est avancé jusqu’à ce point-ci : tu t’es toi-même promis la victoire avant la nomination du juge et moi que tu savais être ton adversaire selon devoir, tu m’as interrogé sur la vérité à dire comme si moi je n’osais pas dire librement la vérité de mon de mon coeur dans lequel se trouvent les poules.
+               </p>
+               <p>
+                  Vous êtes trop conséquents, Spectateurs, pour ajouter foi sur le champ à une simple plainte enrobée de tant de fables de vieilles femmes.
+                  Il n’est aujourd’hui aucun vice qui n’ait pas son avocat et dans les affaires défavorables, si on veut, l’éloquence apporte beaucoup et même, la plupart du temps, l’ornementation pas moins que les faits, si grande est l’efficacité d’un discours. Pour ma part, je plaiderai avec vous ouvertement et simplement. En effet, selon le témoignage d’un auteur ancien “les paroles de vérité sont simples” et je ne vous tiendrai pas suspendus à des apparences trompeuses ni aux enjolivements de mon discours.
+               </p>
+               <p>
+                  En effet, la langue juste a une force immense et elle ne manque certainement pas des forces de l’éloquence dans la mesure où cette langue, quand elle ne fait pas confiance à la clarté de l’affaire, trouve refuge auprès des séductions d’une langue recouverte d’effets de style et de l’étalage ostentatoire des paroles.
+               </p>
+               <p>
+                  Vous savez qu’alors que le philosophe Carnéade était venu à Rome comme ambassadeur, suivant l’opinion de Caton, il a été ordonné qu’il soit éloigné de la vue du Sénat, parce qu’en homme sérieux et aimant la vérité, Caton tenait pour suspecte l’éloquence du philosophe.
+               </p>
+               <p> à traduire </p>
+               
             </sp>
          </div>
       </body>
