@@ -89,6 +89,7 @@
             <change type="update" resp="#PJ"><date when="2020-03-17"/>Apparat critique correction.</change>
             <change type="update" resp="#RR"><date when="2020-03-31"/>Texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-13"/>Ajout de la traduction.</change>
+            <change type="update" resp="#EP"><date when="2020-04-16"/>Ajout de la traduction et modifications du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -190,19 +191,33 @@
                         prius ipsis jugulatis &amp; in <app><lem wit="#Zimmel">bullientem</lem><rdg wit="#ed">bulientem</rdg></app> aquam immersis. 
                     </p>
                     <p>
-                        Post vero in omnium Spectatorum oblectationem assentur partim &amp; elixentur, 
-                        partim comminutis ossibus &amp; pulpis, in sapidi iusculi liquorem conterantur, 
-                        quod pro salute multorum fiat, 
-                        <app><lem wit="#Zimmel">felixque</lem><rdg wit="#ed">foelixque</rdg></app> sit &amp; faustum toti turbae, &amp; haec quidem sunt, 
-                        quae dicta volui, 
-                        Qua sententia Spectatores, Multum vobis accessisset commodi, Nihil enim praeter nugas &amp; nebulas Galli, Gal  <!-- 46 --> linaeque, garritidarunt, adauctas causidicorum versutia, latiore suco, 
-                        quorum hodie tantus clamor fuit, 
-                        ut adventans ego Pharmacopolas me audire putarim. 
-                        Et profecto credidi esse aliquem, qui vivum serpentem, aut lacertam viridem, aut Araneolum voraturus esset, sed clamore falsus sum, &amp; frustratus etiam ad finem meo voto, Dii perdant trepidos Parasitos, &amp; ubi res postulat ad loquendum Creperos. 
-                        Iam Gallis, Gallinis, &amp; Capis vesceremur. 
-                        Iam potaremus ex Symbolo, promptumque erat saginari nos maligni generis obitu. 
-                        Nec ullus nos Legirupas dicere fuisset <app><lem wit="#Zimmel">ausus</lem><rdg wit="#ed">aufus</rdg></app>, 
+                        Post vero in omnium Spectatorum oblectationem assentur partim &amp; elixentur 
+                        partim comminutis ossibus &amp; pulpis in sapidi iusculi liquorem conterantur 
+                        quod pro salute multorum fiat 
+                        <app><lem wit="#Zimmel">felixque</lem><rdg wit="#ed">foelixque</rdg></app> sit &amp; faustum toti turbae 
+                        &amp; haec quidem sunt 
+                        quae dicta volui. 
+                        Qua sententia, Spectatores, multum vobis accessisset commodi!
+                    </p>
+                    <p>
+                        Nihil enim praeter nugas &amp; nebulas Galli Gallinaeque  <!-- 46 -->  garritidarunt 
+                        adauctas causidicorum versutia latiore suco 
+                        quorum hodie tantus clamor fuit 
+                        ut adventans ego pharmacopolas me audire putarim. 
+                        Et profecto credidi esse aliquem 
+                        qui vivum serpentem aut lacertam viridem aut Araneolum voraturus esset 
+                        sed clamore falsus sum 
+                        &amp; frustratus etiam ad finem meo voto: 
+                        Dii perdant trepidos Parasitos &amp; ubi res postulat ad loquendum creperos.
+                    </p>
+                    <p>
+                        Iam Gallis, Gallinis &amp; Capis vesceremur. 
+                        Iam potaremus ex Symbolo 
+                        promptumque erat saginari nos maligni generis obitu. 
+                        Nec ullus nos legirupas dicere fuisset <app><lem wit="#Zimmel">ausus</lem><rdg wit="#ed">aufus</rdg></app> 
                         quod rem civilem cruore clausissemus. 
+                    </p>
+                    <p>
                         Nemo enim Pullis, Gallis, Gallinisque &amp; Capis enectis, libentius victitat, 
                         quam hi qui penes se summum legum arbitrium locatum esse autumant. 
                         Videte quantum neglexerimus silendo commodum. 
@@ -267,6 +282,17 @@
                     <p>
                         En effet, une promesse n’est pas sûre chez cette race si volage. S’ils ont semblé agiter les esprits humains avec des crimes mensongers et une insulte irréfléchie, y avoir pris du plaisir et vouloir sembler sage à une autre race, je pense qu’ils doivent simplement être puni par cette peine: que lentement plume après plume, plumette après plumette leur soit arrachées jusqu’à ce qu’il n’en reste plus, avant de les égorger et de les plonger dans l’eau bouillante!
                         
+                    </p>
+                    <p>
+                        Mais après, pour le divertissement de tous les spectateurs, qu’ils soient rôtis et bouillis en partie et qu’ils soient, une fois réduits en morceaux leurs os et leur chaires, en partie broyés pour réaliser un savoureux bouillon, comme on le fait pour la santé de beaucoup de gens et comme il est heureux et favorable à la totalité de la multitude: et voilà donc les paroles dont j’ai voulu qu’elles aient été dites.
+                        Avec ce jugement, Spectateurs, que d’avantages pour vous!
+                    </p>
+                    <p>
+                        En effet, les coqs et les poules n’ont gazouillé de rien excepté de bagatelles et du brouillard accrus par le fard largement répandu par la fourberie d’avocaillons, dont les cris ont été si grands aujourd’hui qu’en approchant, moi, j’ai pensé que j’entendais des pharmaciens.
+                        Et j’ai cru, assurément, que c’était quelqu’un qui était sur le point de dévorer un serpent vivant ou un lézard vert ou une petite araignée, mais j’ai été induit en erreur par les cris et frustrés encore jusqu’au bout à cause de mon voeu: que les Dieux anéantissent les parasites qui s’agitent et sont incertains quand l’affaire demande à être plaider.  
+                    </p>
+                    <p>
+                        Maintenant, nous devrions nous nourrir de coqs, de poules et de chapons ! Maintenant, nous devrions boire conformément au symbole des Apôtres et il était manifeste que nous étions engraissés par la mort d’un genre mauvais. Aucun individu n’aurait osé nous traiter de violeur de lois parce que nous aurions achevé cette affaire civile dans le sang.
                     </p>
                     <p>
                         traduction à venir
