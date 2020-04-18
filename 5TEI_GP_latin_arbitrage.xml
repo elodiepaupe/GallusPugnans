@@ -89,6 +89,7 @@
             <change type="update" resp="#EP"><date when="2020-03-18"/>Ajout de la traduction.</change>
             <change type="update" resp="#SM"><date when="2020-03-24"/>Modification du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-06"/>Modification du texte latin et ajout de traduction.</change>
+            <change type="update" resp="#SM"><date when="2020-04-18"/>Modification du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -186,7 +187,7 @@
                         Magnum legislatorem dixisse ferunt, Vitam reliquam minime videndam esse, quando uxor cum viro in discordia est. 
                         Ubi enim illa est morosa &amp; jurgiosa invidia, Ubi irae &amp; molestiae, per dies perque noctes scatent, 
                         Ibi de vita <app><lem wit="#ed">quotidie</lem><rdg wit="#ed">cotidie</rdg></app> plus amittitur, adeo, ut mortuum esse satius esset, quam ad mortem tam lento &amp; molesto passu pervenire. 
-                        Monendae igitur Philonice sunt Gallinae, ut se suosque maritos ament, remque domesticam current, &amp; invidiae errore conceptae stimulos, 
+                        Monendae igitur Philonice sunt Gallinae, ut se suosque maritos ament, remque domesticam curent, &amp; invidiae errore conceptae stimulos, 
                         ex animis suis procul eliminent, sintque probae (Conjuge, namque proba nihil <app><lem wit="#Zimmel">exstat</lem><rdg wit="#ed">extat</rdg></app> dulcius usquam) &amp; apertae, 
                         ut virorum suorum major per haec salus, majorque quies astruatur. 
                         Non frustra diligens quidam rei domesticae praeceptor dixit, 
