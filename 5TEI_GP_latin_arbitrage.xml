@@ -90,6 +90,7 @@
             <change type="update" resp="#SM"><date when="2020-03-24"/>Modification du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-06"/>Modification du texte latin et ajout de traduction.</change>
             <change type="update" resp="#SM"><date when="2020-04-18"/>Modification du texte latin.</change>
+            <change type="update" resp="#EP"><date when="2020-04-20"/>Modificaiton du texte latin, de l'apparat critique et ajout de la traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -182,18 +183,35 @@
                         ad quod praestandum tu Philonice tuque Euthyme cum domum venietis Gallos Gallinasque iterum atque iterum hortemini. 
                     </p>
                     <p>
-                        QUID est enim, Dii boni, in ea familia, qua vir &amp; uxor rerum habent administrationem, divinius? 
+                        Quid est enim, Dii boni, in ea familia qua vir &amp; uxor rerum habent administrationem divinius? 
                         Quid utilius pace &amp; amore? 
-                        Magnum legislatorem dixisse ferunt, Vitam reliquam minime vivendam esse, quando uxor cum viro in discordia est. 
-                        Ubi enim illa est morosa &amp; jurgiosa invidia, Ubi irae &amp; molestiae, per dies perque noctes scatent, 
-                        Ibi de vita <app><lem wit="#ed">quotidie</lem><rdg wit="#ed">cotidie</rdg></app> plus amittitur, adeo, ut mortuum esse satius esset, quam ad mortem tam lento &amp; molesto passu pervenire. 
-                        Monendae igitur Philonice sunt Gallinae, ut se suosque maritos ament, remque domesticam curent, &amp; invidiae errore conceptae stimulos, 
-                        ex animis suis procul eliminent, sintque probae (Conjuge, namque proba nihil <app><lem wit="#Zimmel">exstat</lem><rdg wit="#ed">extat</rdg></app> dulcius usquam) &amp; apertae, 
-                        ut virorum suorum major per haec salus, majorque quies astruatur. 
-                        Non frustra diligens quidam rei domesticae praeceptor dixit, 
-                        Existimo probam conjugem, sociam domus esse, magnumque momentum ad viri <app><lem wit="#Zimmel">felicitatem</lem><rdg wit="#ed">foelicitatem</rdg></app>. 
-                        Natura siquidem, quam primus ille mundi genitor perpetua <app><lem wit="#Zimmel">fecunditate</lem><rdg wit="#ed">foecunditate</rdg></app> donavit, operam mulieris ad domesticam diligentiam comparavit, 
-                        Viri vero ad exercitationem extraneam, 
+                        Magnum legislatorem dixisse ferunt vitam reliquam minime vivendam esse quando uxor cum viro in discordia est. 
+                    </p>
+                    <p>
+                        Ubi enim illa est morosa &amp; jurgiosa invidia, 
+                        ubi irae &amp; molestiae per dies perque noctes scatent, 
+                        ibi de vita <app><lem wit="#ed">quotidie</lem><rdg wit="#ed">cotidie</rdg></app> plus amittitur 
+                        adeo ut mortuum esse satius esset quam ad mortem tam lento &amp; molesto passu pervenire. 
+                    </p>
+                    <p>
+                        Monendae igitur, Philonice, sunt Gallinae 
+                        ut se suosque maritos ament remque domesticam curent 
+                        &amp; invidiae errore conceptae stimulos ex animis suis procul eliminent 
+                        sintque probae 
+                        (Conjuge, namque proba nihil <app><lem wit="#Zimmel">exstat</lem><rdg wit="#ed">extat</rdg></app> dulcius usquam) 
+                        &amp; apertae 
+                        ut virorum suorum major per haec salus 
+                        majorque quies <app><lem wit="#CLAM">adstruatur</lem><rdg wit="#ed">astruatur</rdg></app>.
+                    </p>
+                    <p>
+                        Non frustra diligens quidam rei domesticae praeceptor dixit: 
+                        "existimo probam conjugem sociam domus esse 
+                        magnumque momentum ad viri <app><lem wit="#Zimmel">felicitatem</lem><rdg wit="#ed">foelicitatem</rdg></app>." 
+                        Natura siquidem quam primus ille mundi genitor perpetua <app><lem wit="#Zimmel">fecunditate</lem><rdg wit="#ed">foecunditate</rdg></app> donavit 
+                        operam mulieris ad domesticam diligentiam comparavit 
+                        viri vero ad exercitationem extraneam.
+                    </p>
+                    <p>
                         Itaque viro calores &amp; frigora perpetienda, 
                         tum  <!-- 43 --> etiam laborem pacis &amp; belli distribuit, mulieri autem domestica <app><lem wit="#Zimmel">negotia</lem><rdg wit="#ed">negocia</rdg></app> curanda tradidit, 
                         quae ut curaret diligentius, viro timidiorem esse voluit. 
@@ -257,6 +275,18 @@
                         Vous connaissez la loi qui veut que les juges, dans les causes plus légères, soient enclins à la douceur, mais que, dans les peines plus sévères, ils suivent la sévérité des lois avec une certaine mesure de bienveillance.
                         Les chapons qui ne sont pas les juges, mais les arbitres de notre cause ont voulu non pas modérer la peine d’un délit qui n’a rien de petit, par Hercule, mais ne pas s’en souvenir, espérant à la place de cela un faveur très belle et très agréable aux partis, la concorde évidemment et le doux commerce d’un mariage rendu solide par une paix affermie. Pour le garantir, toi Philonicus et toi Euthymus, lorsque vous rentrerez à la maison, exhortez les coqs et les poules encore et encore.
                         
+                    </p>
+                    <p>
+                        En effet, qu’y a-t-il, bons dieux, dans cette famille dans laquelle le mari et la femme assurent la gestion des affaires avec assez d’excellence? Quoi de plus utile que la paix et l’amour?  On raconte qu’un grand législateur a dit que la vie qui reste ne vaut pas du tout la peine d’être vécu, lorsque la femme est en désaccord avec son mari.
+                    </p>
+                    <p>
+                        En effet, quand la femme est d’une humeur morose et d’une hostilité propice à la querelle, quand ses colères et inquiétudes prolifèrent pendant des jours et pendant des nuits, alors on perd quotidiennement davantage en tranquillité de la vie, à tel point qu’il serait préférable d’être mort plutôt que d’attendre que la mort vienne d’un pas si lent et embarrassant. 
+                    </p>
+                    <p>
+                        Donc, Philonique, les poules doivent être engagées à s'aimer et aimer leurs maris, à s'occuper de ce qui touche au foyer, à éliminer les encouragements d’une hostilité née d’une erreur loin de leurs âmes et à être honnêtes (il n’y a, en aucun cas, rien de plus doux qu’une épouse honnête) et transparente pour que, grâce à cela, la condition physique de leurs maris soit meilleure et qu’un repos meilleur leur soit garanti.
+                    </p>
+                    <p>
+                        Ce n’est donc pas en vain qu’un scrupuleux maître de ce qui touche au foyer a dit: “Je considère qu’une femme honnête est une alliée à la maison et d’une grande importance en ce qui concerne le bonheur de son mari.” Si vraiment la nature, que le premier père de ce monde a gratifié d’une fécondité ininterrompue, a établi que le travail de la femme était d’être vouée au souci domestique, mais celui de l’homme à l’exercice en extérieur.
                     </p>
                     <p>
                         à continuer
