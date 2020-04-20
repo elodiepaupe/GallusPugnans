@@ -6,4 +6,4 @@
 |Défense|ok|en cours (PJ)|en cours||
 |Dialogue|ok||ok||
 |Arbitrage|ok||en cours||
-|Épilogue|ok||en cours||
+|Épilogue|ok||ok||
