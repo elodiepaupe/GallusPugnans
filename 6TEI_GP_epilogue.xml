@@ -90,6 +90,7 @@
             <change type="update" resp="#RR"><date when="2020-03-31"/>Texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-13"/>Ajout de la traduction.</change>
             <change type="update" resp="#EP"><date when="2020-04-16"/>Ajout de la traduction et modifications du texte latin.</change>
+            <change type="update" resp="#EP"><date when="2020-04-20"/>Ajout de la traduction et modifications du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="6" type="discours">
@@ -216,23 +217,30 @@
                         promptumque erat saginari nos maligni generis obitu. 
                         Nec ullus nos legirupas dicere fuisset <app><lem wit="#Zimmel">ausus</lem><rdg wit="#ed">aufus</rdg></app> 
                         quod rem civilem cruore clausissemus. 
+                        Nemo enim Pullis, Gallis Gallinisque &amp; Capis enectis libentius victitat 
+                        quam hi qui penes se summum legum arbitrium locatum esse autumant. 
                     </p>
                     <p>
-                        Nemo enim Pullis, Gallis, Gallinisque &amp; Capis enectis, libentius victitat, 
-                        quam hi qui penes se summum legum arbitrium locatum esse autumant. 
                         Videte quantum neglexerimus silendo commodum. 
-                        Frustra iam labia tergitis, qui angimini fame, frustra vacuum deglutitis, desiderium vestrum latius hoc in loco <app><lem wit="#Zimmel">exsaturari</lem><rdg wit="#ed">exaturari</rdg></app> non potest. 
-                        Consulat igitur sibi quisque domi, &amp; captivi generis faciat sibi quisque copiam, pro conditione. 
-                        Ego Euthymum adibo, 
-                        quem Gallis suis domi male consulere habeo compertum, 
+                        Frustra iam labia tergitis qui angimini fame, frustra vacuum deglutitis: 
+                        desiderium vestrum latius hoc in loco <app><lem wit="#Zimmel">exsaturari</lem><rdg wit="#ed">exaturari</rdg></app> non potest. 
+                        Consulat igitur sibi quisque domi &amp; captivi generis faciat sibi quisque copiam pro conditione.
+                    </p>
+                    <p>
+                        Ego Euthymum adibo 
+                        quem Gallis suis domi male consulere habeo compertum 
                         ut Philonicus quoque male Gallinis consulit. 
-                        <app><lem wit="#Zimmel">Utrimque</lem><rdg wit="#ed">Utrinque</rdg></app> enim deplumantur iam, &amp; ad Culinam destinantur, laetitiam facturi avidis faucibus. 
-                        Illic ego viscera distendam, &amp; ut me pinguiorem Giggulirus faciat curabo. 
-                        Bibamque adeo, 
+                        <app><lem wit="#Zimmel">Utrimque</lem><rdg wit="#ed">Utrinque</rdg></app> enim deplumantur iam &amp; ad Culinam destinantur laetitiam facturi avidis faucibus. 
+                    </p>
+                    <p>
+                        Illic ego viscera distendam 
+                        &amp; ut me pinguiorem Giggulirus faciat curabo. 
+                        Bibamque adeo 
                         ut Veternosum me tota familia putet. 
                         Valete vos. 
-                        Et <app><lem wit="#Zimmel">posthac</lem><rdg wit="#ed">post hac</rdg></app>, si huc litigatum Galli, Gallinaeque pervenerint, 
-                        quid censendum sit, me Iudice, memoriae commendate.
+                        Et <app><lem wit="#Zimmel">posthac</lem><rdg wit="#ed">post hac</rdg></app> si huc litigatum Galli Gallinaeque pervenerint, 
+                        quid censendum sit 
+                        me Iudice memoriae commendate.
                     </p>
                 </sp> 
             </div>
@@ -293,9 +301,18 @@
                     </p>
                     <p>
                         Maintenant, nous devrions nous nourrir de coqs, de poules et de chapons ! Maintenant, nous devrions boire conformément au symbole des Apôtres et il était manifeste que nous étions engraissés par la mort d’un genre mauvais. Aucun individu n’aurait osé nous traiter de violeur de lois parce que nous aurions achevé cette affaire civile dans le sang.
+                        Personne, en effet, personne en se nourrit volontiers de poussins, de coqs, de poules et les de chapons mis à mort comme ceux qui pensent avoir établi entre leurs mains le plus haut jugement des lois.
                     </p>
                     <p>
-                        traduction à venir
+                        Voyez combien nous avons négligé, par notre silence, notre avantage. Vous léchez désormais en vain vos babines,  vous qui êtes étranglés par la faim, vous avalez le vide en vain. Votre trop grand besoin ne peut pas être assouvie en ce lieu. Que chacun prenne donc soin de lui à la maison et que chacun se mette à disposition de la race captive pour la préparation.
+                    </p>
+                    <p>
+                        Moi, j’irai trouver Euthymus: je sais qu’il s’occupe mal avec ses coqs chez lui, de même que Philonicus s’occupe aussi mal avec les poules. En effet, des deux côtés, ils sont déjà déplumés et destinés à cuisine, où ils sont  sur le point de faire la joie des gosiers affamés. 
+                        
+                    </p>
+                    <p>
+                        À partir de là, moi, je remplirai ma panse en ce lieu et je prendrai soin à ce que Giggulirus m’engraisse. Je boirai tellement que toute ma famille me pensera dans le coma. Portez-vous bien! Et dorénavant si les coqs et les poules en reviennent ici à un litige, souvenez-vous de ce qui sera décidé lorsque j’officie comme juge.
+                        
                     </p>
                 </sp>
             </div>
