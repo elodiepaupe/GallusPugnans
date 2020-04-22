@@ -87,6 +87,7 @@
             <change type="update" resp="#PJ"><date when="2020-04-07"/>Corrections du texte latin.</change>
             <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-13"/>Corrections du texte latin et traduction.</change>
+            <change type="update" resp="#PJ"><date when="2020-04-22"/>Corrections du texte latin.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -198,7 +199,7 @@
                     Ex quo tandem quid sequi Gallinae miserrimae Queruntur ? 
                     Nempe nihil nisi hoc, <app><lem wit="#Zimmel">quod ulli</lem><rdg wit="#ed">quod ubi</rdg></app> illorum opera qui signate <app><lem wit="#Zimmel">rixosarum</lem><rdg wit="#ed">rixosarrum</rdg></app> avidium lanistae vocantur, vel allio, vel pipere, sive alio quopiam Ad luctam exacerbati, praeparantur, 
                     Et vincit alteruter non minus molestus est victor cum domum repedat, 
-                    quam qui victus est Hic enim ut a victo prius ordiar invidia &amp; <app><lem wit="#Zimmel">maerore</lem><rdg wit="#ed">moerore</rdg></app> absumitur, &amp; indignatio perpetua invidiosus est, nec satis administrat,  <!-- 12 --> 
+                    quam qui victus est Hic enim ut a victo prius ordiar invidia &amp; <app><lem wit="#Zimmel">maerore</lem><rdg wit="#ed">moerore</rdg></app> absumitur, &amp; indignatione perpetua invidiosus est, nec satis administrat,  <!-- 12 --> 
                     Ut antea officium, qui potius ubi rogatur, ut agat, quod agere est Opus, collum incuruat minans, caput <app><lem wit="#Zimmel">gyrat</lem><rdg wit="#ed">girat</rdg></app>, rostrumque &amp; calcaria tendit mordendo &amp; scalpuriendo, 
                     quasi par sibi cum Gallinis pugna futura sit, 
                     quae ante cum gallis fuit. 
@@ -266,7 +267,7 @@
                     Si quae vero eis sobolis iuvandae gratia relinquuntur, excubant, maresque &amp; <app><lem>feminas</lem><rdg wit="#ed">foeminas</rdg></app> edunt, educantque, 
                     quorum in numero Galli, cum se fortissimos jactant, 
                     fortiora nesciunt <app><lem wit="#Zimmel">quam</lem><rdg wit="#ed"></rdg></app> ova ex quibus <app><lem wit="#Zimmel">gignuntur</lem><rdg wit="#ed">gingnuntur</rdg></app>, suae nimis temere, 
-                    ne stulte <app><lem wit="#Zimmel">imbecillitatis</lem><rdg wit="#ed">imbecillitasis</rdg></app> praecones, illorum enim putaminis tanta firmitas est, 
+                    ne dicam stulte <app><lem wit="#Zimmel">imbecillitatis</lem><rdg wit="#ed">imbecillitasis</rdg></app> praecones, illorum enim putaminis tanta firmitas est, 
                     ne nec vi nec pondere ullo frangatur, 
                     nisi paululum inflexa rotunditate. 
                     Proinde nullum esse alium cibum, Medici aiunt, 
@@ -274,7 +275,7 @@
                     Simulque &amp; cibi &amp; potus vim habeat, quam ovorum, 
                     Quorum candido calci vivae admixto, vitri fragmenta glutinari magni <app><lem wit="#Zimmel">auctores</lem><rdg wit="#ed">autores</rdg></app> asserverunt, <app><lem wit="#Zimmel">idem</lem><rdg wit="#ed">iidem</rdg></app> contacta eodem ligna, vestesque nequaquam aduri. 
                     Gallus decrepitus Ovum parit durissimae pellis, quod fimi calore <app><lem wit="#Zimmel">fecundatum</lem><rdg wit="#ed">foecundatum</rdg></app> Basiliscum edit, animal vel solo visu ferale, 
-                    Attendite Spectatores quam venenata &amp; hominum saluti contraria gallorum ova sint, quae (tu mihi videtur) rectius excrementa esset 
+                    Attendite Spectatores quam venenata &amp; hominum saluti contraria gallorum ova sint, quae (ut mihi videtur) rectius excrementa essent 
                     Bene ergo sapientes aliquando homines instituisse, Quaquerra Inquit quod senes galli Templorum, Turriumque fastigiis affiguntur, 
                     Ita enim ova parta per tecta, perque fornices decidunt &amp; rumpuntur,  <!-- 16 --> 
                     ne toties crudeles Basiliscos videre cogamur, Galliae illuc non destinantur, frangerentur enim bona ova, &amp; saluti nostrae conducentia, multumque in re parva periculi foret. 
@@ -289,7 +290,7 @@
                     ut ex <app><lem wit="#Zimmel">effeminato</lem><rdg wit="#ed">effoeminato</rdg></app> &amp; in summis deliciis enutrito adulescente, vigil gallus oriatur? 
                     Bonum ego degenerare posse saepe <app><lem wit="#Zimmel">accepi</lem><rdg wit="#ed">accoepi</rdg></app>. 
                     Malum autem ita adcrescere ut bonum sit aut fiat, fere <app><lem wit="#Zimmel">numquam</lem><rdg wit="#ed">nunquam</rdg></app>. 
-                    Ferunt autem non Poetae solum sed &amp; philosophi, Adulescentem olim fuisse Gallum nomine, Marti adamatum, pisumque Deo compotasse &amp; collusitasse, 
+                    Ferunt autem non Poetae solum sed &amp; philosophi, Adulescentem olim fuisse Gallum nomine, Marti adamatum, ipsumque Deo compotasse &amp; collusitasse, 
                     Itaque eum cum Venerem adiret cum ea cubiturus, hunc quoque gallum una secum adduxisse, &amp; cubiculi foribus praefecisse, ut intus Venere &amp; Marte secure dormientibus 
                     Ipse solis adventum vigilans <app><lem wit="#Zimmel">exspectaret</lem><rdg wit="#ed">expectaret</rdg></app>, eumque <app><lem wit="#Zimmel">mature</lem><rdg wit="#ed">maturae</rdg></app> Marti, ne adulterio <app><lem wit="#Zimmel">deprehenderetur</lem><rdg wit="#ed">depraehenderetur</rdg></app> indicaret. 
                     Semel autem is puer somno corruptus excubias deseruit, inscius, Solemque <app><lem wit="#Zimmel">exsurgentem</lem><rdg wit="#ed">exurgentem</rdg></app> torpidus ad Divae thalamum admisit. 
@@ -298,7 +299,7 @@
                     adversus Gallum indignatus eum in avem transformavit, iisdem armis, ut in capite pro Galea Cristam obtineret. 
                     Haec est Spectatores Gallorum origo, quae an aliquam nobis in eis vigiliarum spem praestare possit, ipsi perpendite. 
                     <app><lem wit="#Zimmel">Numquam</lem><rdg wit="#ed">Nunquam</rdg></app> ego hunc <app><lem wit="#Zimmel">prae ceteris</lem><rdg wit="#ed">praecaeteris</rdg></app> vigilem dixero, qui pro insigni desidia insignes poenas dedit. 
-                    Quamobrem male mihi de veritate meriti videntur, quam gallis, ceui rationali quodam discerniculo praeditis, horarum pro cantum observationem &amp; discrimen attribuunt. 
+                    Quamobrem male mihi de veritate meriti videntur, quam gallis, ceu rationali quodam discerniculo praeditis, horarum pro cantum observationem &amp; discrimen attribuunt. 
                     Hoc enim quod certis canunt <app><lem wit="#Zimmel">interstitiis</lem><rdg wit="#ed">intersticiis</rdg></app>, ex salacitate potius &amp; Veneris suae imaginatione, provenire, vel ex hoc constat, 
                     quod Castrati non canunt, eadem ipsis alioqui manente natura, &amp; priusquam quam ineundis Gallinis maturi sint, silent. 
                     Gallus ergo (ut magni in philosophia viri opinio est) dilabente iam pro viscera cibo, somnoque: 
@@ -313,7 +314,7 @@
                     Aiunt Astronomi, Gallinam in caelo esse, &amp; Gallum nullum qui esset famigeratus, 
                     licet eam nonnulli, nomine perperam inducto, <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cygnum</rdg></app> dici velint, quos certe lippos fuisse existimo &amp; caelos providere non potuisse. 
                     Inter gallinam enim &amp; <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cignum</rdg></app> multum interest, 
-                    Pro Gallinae nomine etiam Arabes, ut au  <!-- 18 --> dio, accedunt, 
+                    Pro Gallinae nomine etiam Arabes, ut au<!-- 18 -->dio, accedunt, 
                     Pro Gallo nemo in universum, Quis autem non asserat maximi meriti causa in lucentium stellarum effigies, Gallinam evectam fuisse? 
                     Cum caelum eorum sit expers, 
                     qui aut de diis aut de hominibus male sunt meriti, Galli autem, haud scio quo suo merito, locum habent, 
