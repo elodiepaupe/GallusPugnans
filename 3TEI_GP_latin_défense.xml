@@ -89,6 +89,7 @@
          <change type="update" resp="#RR"><date when="2020-04-02"/>Mise à jour du texte latin</change>
          <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
          <change type="update" resp="#EP"><date when="2020-04-15"/>Correction du texte latin, modification de l'apparat critique, ajout de la traduction.</change>
+         <change type="update" resp="#PJ"><date when="2020-04-22"/>Correction de l'apparat critique.</change>
       </revisionDesc>
    </teiHeader>
    <text n="3" type="discours">
@@ -334,12 +335,12 @@
                   quod si quis est, qui aliud asserit,quemadmodum Bactrianum quendam regulum asseruisse ferunt. Ridiculus sane est &amp; cum experientia tum maximorum philosophorum <app><lem wit="#Zimmel">auctoritate</lem><rdg wit="#ed">autoritate</rdg></app>, convincitur, 
                   qui haec in universum fabulosa esse contendunt. Cum enim senes gallos habeamus &amp; decrepitos, quis <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> apud nos Basiliscum e Galli ovo natum vidit, 
                   aut ovum saltem e Gallo. Si haec monstra Philonice tibi terrori sunt, Europam non deseres, nec Gallos decrepitos insequeris, Sed Africam cuius harenosis desertis, 
-                  quibus paucissimi aut omnino nulli Galli agunt, Basilisci conplures, irrepunt. Quod autem causam affers cur fastigiis templorum infigantur Galli, rideo levitatem tuam, &amp; hoc addo. Nequitia est quae te non sinit esse senem, 
-                  Mallem te pro Iovem lapideum, gallinam esse, credere, quam Philonicum, <app><lem wit="#ed">si</lem><rdg wit="#Zimmel">sinit?</rdg></app> solum plumis pinnisque involutus reperes, nihil enim ab his animo differs. 
+                  quibus paucissimi aut omnino nulli Galli agunt, Basilisci conplures, irrepunt. Quod autem causam affers cur fastigiis templorum infigantur Galli, rideo levitatem tuam, &amp; hoc addo. Nequitia est quae te non <app><lem wit="#ed">sinit</lem><rdg wit="#Zimmel">finit</rdg></app> esse senem, 
+                  Mallem te pro Iovem lapideum, gallinam esse, credere, quam Philonicum, si solum plumis pinnisque involutus reperes, nihil enim ab his animo differs. 
                   Longe alia causa est Spectatores <app><lem wit="#ed">Quandoquidem</lem><rdg wit="#Zimmel">quando quidem</rdg></app>, cum hoc animal horarum observatione &amp; perpetuis vigiliis,
                   curaque rerum suarum diligentissima omnibus fere aliis antecellat. Voluit studiosa illa patrum &amp; consulta sedulitas, earum aedium, apices Gallo insigniri quibus multorum salus curatur, 
                   Quibus precibus per horarum interstitia distributis, placatur deus <app><lem wit="#Zimmel">optimus maximus</lem><rdg wit="#ed">optu. Maxu.</rdg></app> 
-                  Ut enim gallis vigilia est, ab omne errore aliena, si modo naturae <!-- 30 -->copiam relinquimus, Ita eos vigiliis insignes esse decet, quibus nostri pars melior curanda &amp; tuenda <app><lem wit="#Zimmel">committitur</lem><rdg wit="#ed">comittitur</rdg></app>.
+                  Ut enim gallis vigilia est, ab omne errore aliena, si modo naturae <!-- 30 -->copiam relinquimus, Ita eos vigiliis insignes esse decet, quibus nostri pars melior curanda &amp; tuenda <app><lem wit="#Zimmel">committitur</lem><rdg witt="#ed">comittitur</rdg></app>.
                   Gaudete Galli, tuque <app><lem wit="#ed">Giggurile</lem><rdg wit="#Zimmel">Giggulire</rdg></app>, <app><lem wit="#ed">exulta</lem><rdg wit="#Zimmel">exsulta</rdg></app>, pulchri enim mysterii aenigmaticam imaginem praebetis
                   &amp; si nullo allias, hoc tamen praecipue vigilantissimi &amp; optimi probamini, Nec terrebit vos Gallos in universum Philonicus: quod gallinam in <app><lem wit="#ed">coelo</lem><rdg wit="#Zimmel">caelo</rdg></app> esse asserit, 
                   &amp; gallum nullum: Nescitur an gallus sit an gallina, quis enim per tam altum intervallum cristam, quis calcaria videat? <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app> 
