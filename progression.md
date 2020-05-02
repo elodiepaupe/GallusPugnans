@@ -5,5 +5,5 @@
 |Accusation|ok||en cours||
 |Défense|ok|en cours (PJ)|en cours||
 |Dialogue|ok||ok||
-|Arbitrage|ok||en cours||
+|Arbitrage|ok||ok||
 |Épilogue|ok||ok||
