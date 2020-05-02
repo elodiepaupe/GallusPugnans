@@ -90,7 +90,8 @@
             <change type="update" resp="#SM"><date when="2020-03-24"/>Modification du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-06"/>Modification du texte latin et ajout de traduction.</change>
             <change type="update" resp="#SM"><date when="2020-04-18"/>Modification du texte latin.</change>
-            <change type="update" resp="#EP"><date when="2020-04-20"/>Modificaiton du texte latin, de l'apparat critique et ajout de la traduction.</change>
+            <change type="update" resp="#EP"><date when="2020-04-20"/>Modification du texte latin, de l'apparat critique et ajout de la traduction.</change>
+            <change type="update" resp="#EP"><date when="2020-04-28"/>Modification du texte latin et ajout de traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="5" type="discours">
@@ -312,7 +313,11 @@
                         Il est vrai qu’un amour pur et fidèle ne peut exister ici quand la jalousie, par de secrètes étincelles, nourrit le souvenir de ces torts. Or si, à la faveur d’une ancienne sympathie, les poules repenties et les coqs amant se mettent d’accord, ils seront sauvés, mèneront une vie heureuse et très avantageuse pour ceux chez qui ils auront installé leur propre bien. 
                     </p>
                     <p>
-                        Cet avis revient au noble poète. Il ne pourrait y avoir ni richesses, ni quelque chose d’autre, ni autant de satisfaction que pourraient avoir un bon mari et une bonne femme. Si vous-mêmes vous mettez en ordre la chose pour les poules et les coqs de votre demeure, ils s’aimeront; puisqu’auparavant ils passaient leur temps avec les Chapons, et comme ils leur doivent certainement des remerciements sans limites, alors allez donc aussitôt à la la maison et veillez à la concorde, dont une seule demeure reste en bon état. Votre salut dépend des poules et des coqs, comme je l’ai dit.
+                        La phrase suivante est d’un célèbre poète: “ni les richesses ni quoi que ce soit d’autre n’apporte autant de plaisir  qu’un homme et une femme de bien.”
+                        Si vous développez cette pensée dans vos demeures pour les poules et les coqs, ils s’aimeront les uns les autres comme avant et ils remercieront infiniment les chapons, comme ils le doivent assurément. 
+                        Allez donc sur le champ à la la maison et veillez à la concorde dans la conservation de laquelle seule se trouve établi le salut des poules et des coqs.
+                        J’ai dit.
+                        
                     </p>
                 </sp>
             </div>  
