@@ -87,7 +87,7 @@
             <change type="update" resp="#PJ"><date when="2020-04-07"/>Corrections du texte latin.</change>
             <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-13"/>Corrections du texte latin et traduction.</change>
-            <change type="update" resp="#PJ"><date when="2020-04-22"/>Corrections du texte latin.</change>
+            <change type="update" resp="#EP"><date when="2020-05-02"/>Corrections du texte latin et traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -199,7 +199,7 @@
                     Ex quo tandem quid sequi Gallinae miserrimae Queruntur ? 
                     Nempe nihil nisi hoc, <app><lem wit="#Zimmel">quod ulli</lem><rdg wit="#ed">quod ubi</rdg></app> illorum opera qui signate <app><lem wit="#Zimmel">rixosarum</lem><rdg wit="#ed">rixosarrum</rdg></app> avidium lanistae vocantur, vel allio, vel pipere, sive alio quopiam Ad luctam exacerbati, praeparantur, 
                     Et vincit alteruter non minus molestus est victor cum domum repedat, 
-                    quam qui victus est Hic enim ut a victo prius ordiar invidia &amp; <app><lem wit="#Zimmel">maerore</lem><rdg wit="#ed">moerore</rdg></app> absumitur, &amp; indignatione perpetua invidiosus est, nec satis administrat,  <!-- 12 --> 
+                    quam qui victus est Hic enim ut a victo prius ordiar invidia &amp; <app><lem wit="#Zimmel">maerore</lem><rdg wit="#ed">moerore</rdg></app> absumitur, &amp; indignatio perpetua invidiosus est, nec satis administrat,  <!-- 12 --> 
                     Ut antea officium, qui potius ubi rogatur, ut agat, quod agere est Opus, collum incuruat minans, caput <app><lem wit="#Zimmel">gyrat</lem><rdg wit="#ed">girat</rdg></app>, rostrumque &amp; calcaria tendit mordendo &amp; scalpuriendo, 
                     quasi par sibi cum Gallinis pugna futura sit, 
                     quae ante cum gallis fuit. 
@@ -258,48 +258,118 @@
                     Harum autem, &amp; in sexus huius fragilitate ut ingenue fassa est Quaquerra, <app><lem wit="#Zimmel">nonnullae</lem><rdg wit="#ed">non nullae</rdg></app> sunt, ita forte natura sive fato instituente, ut nihil ab omni parte perfectum atque absolutum <!-- 15 --> sit. 
                     <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app>, ne cassum omnino &amp; elumbe genus galliae tibi Euthyme &amp; tui similibus videantur, 
                     qui nihil <app><lem wit="#Zimmel">praeter</lem><rdg wit="#ed">preter</rdg></app> Gallos ex merito laudari posse dudum vobis persuasistis, paucis quae ad earum nobilitatem attinere videntur, perstringam, seu vivas respicis, seu mortuas. 
-                    Et ea quidem in re, quod optimum patronum decet, agam, 
-                    qui clientis causam non semper ut proposita est, <app><lem wit="#Zimmel">enuntiat</lem><rdg wit="#ed">enunciat</rdg></app> &amp; instituit, 
-                    verum addit, ubi addendum est, minuitque, ubi minuendum: 
-                    Ne aperta simplicitas (quod alioqui saepe evenit) versutia tergiversantis fraudulentiae superata, iniquitatis titulum subite cogatur. 
-                    Gallinae <app><lem wit="#Zimmel">frugiferum</lem><rdg wit="#ed">frugivorum</rdg></app> &amp; humile genus, non fere superbiunt, nemini nocent, quod verae nobilitatis vestigium est, nec in bellum <app><lem wit="#Zimmel">quemquam</lem><rdg wit="#ed">quenquam</rdg></app> provocant, 
-                    Sed agmine cohortali pastae, ova pariunt, quae, ut in humani generis usum emergant, clamore ostendunt, 
-                    Si quae vero eis sobolis iuvandae gratia relinquuntur, excubant, maresque &amp; <app><lem>feminas</lem><rdg wit="#ed">foeminas</rdg></app> edunt, educantque, 
+                </p>
+                <p>
+                    Et ea quidem in re quod optimum patronum decet agam 
+                    qui clientis causam non semper, 
+                    ut proposita est, 
+                    <app><lem wit="#Zimmel">enuntiat</lem><rdg wit="#ed">enunciat</rdg></app> 
+                    &amp; instituit 
+                    verum addit ubi addendum est 
+                    minuitque ubi minuendum, 
+                    ne aperta simplicitas (quod alioqui saepe evenit) versutia tergiversantis fraudulentiae superata 
+                    iniquitatis titulum subite cogatur. 
+                </p>
+                <p>
+                    Gallinae, 
+                    <app><lem wit="#Zimmel">frugiferum</lem><rdg wit="#ed">frugivorum</rdg></app> &amp; humile genus, 
+                    non fere superbiunt, nemini nocent, quod verae nobilitatis vestigium est 
+                    nec in bellum <app><lem wit="#Zimmel">quemquam</lem><rdg wit="#ed">quenquam</rdg></app> provocant, 
+                    sed agmine cohortali pastae ova pariunt quae ut in humani generis usum emergant clamore ostendunt, 
+                </p>
+                <p>
+                    Si quae vero eis sobolis iuvandae gratia relinquuntur, excubant
+                    maresque &amp; <app><lem>feminas</lem><rdg wit="#ed">foeminas</rdg></app> edunt educantque 
                     quorum in numero Galli, cum se fortissimos jactant, 
-                    fortiora nesciunt <app><lem wit="#Zimmel">quam</lem><rdg wit="#ed"></rdg></app> ova ex quibus <app><lem wit="#Zimmel">gignuntur</lem><rdg wit="#ed">gingnuntur</rdg></app>, suae nimis temere, 
-                    ne dicam stulte <app><lem wit="#Zimmel">imbecillitatis</lem><rdg wit="#ed">imbecillitasis</rdg></app> praecones, illorum enim putaminis tanta firmitas est, 
-                    ne nec vi nec pondere ullo frangatur, 
+                    fortiora nesciunt <app><lem wit="#Zimmel">quam</lem><rdg wit="#ed"></rdg></app> ova ex quibus <app><lem wit="#Zimmel">gignuntur</lem><rdg wit="#ed">gingnuntur</rdg></app> suae nimis temere 
+                    ne dicam stulte <app><lem wit="#Zimmel">imbecillitatis</lem><rdg wit="#ed">imbecillitasis</rdg></app> praecones. 
+                    Illorum enim putaminis tanta firmitas est 
+                    ut nec vi nec pondere ullo frangatur, 
                     nisi paululum inflexa rotunditate. 
-                    Proinde nullum esse alium cibum, Medici aiunt, 
-                    qui in aegritudine plus alat, &amp; minus oneret, 
-                    Simulque &amp; cibi &amp; potus vim habeat, quam ovorum, 
-                    Quorum candido calci vivae admixto, vitri fragmenta glutinari magni <app><lem wit="#Zimmel">auctores</lem><rdg wit="#ed">autores</rdg></app> asserverunt, <app><lem wit="#Zimmel">idem</lem><rdg wit="#ed">iidem</rdg></app> contacta eodem ligna, vestesque nequaquam aduri. 
-                    Gallus decrepitus Ovum parit durissimae pellis, quod fimi calore <app><lem wit="#Zimmel">fecundatum</lem><rdg wit="#ed">foecundatum</rdg></app> Basiliscum edit, animal vel solo visu ferale, 
-                    Attendite Spectatores quam venenata &amp; hominum saluti contraria gallorum ova sint, quae (ut mihi videtur) rectius excrementa essent 
-                    Bene ergo sapientes aliquando homines instituisse, Quaquerra Inquit quod senes galli Templorum, Turriumque fastigiis affiguntur, 
-                    Ita enim ova parta per tecta, perque fornices decidunt &amp; rumpuntur,  <!-- 16 --> 
-                    ne toties crudeles Basiliscos videre cogamur, Galliae illuc non destinantur, frangerentur enim bona ova, &amp; saluti nostrae conducentia, multumque in re parva periculi foret. 
-                    Ideo ut inter frutices obrepant, natura instituit, &amp; pacatas ac cohortales volvit (de Numidicis enim &amp; his quae Meleagrides vocantur iam non loquor) ipsisque gallos praefecit tutores, olim adprime fortes, 
-                    iam vero non tam fortes quam <app><lem wit="#Zimmel">elemosos</lem><rdg wit="#ed">clcmosos</rdg></app>. 
-                    Saepe enim ut ex Quaquerra accepi dum Accipitrem vident, clamant quidem, sed clamando interim fugiunt. 
-                    Quod nostrum quoque multi faciunt, qui cum ad pugnam proventum est, postremos cohortari ut audeant, malumus quam primi esse. 
+                </p>
+                <p>
+                    Proinde nullum esse alium cibum Medici aiunt 
+                    qui in aegritudine plus alat &amp; minus oneret 
+                    simulque &amp; cibi &amp; potus vim habeat quam ovorum. 
+                    Quorum candido calci vivae admixto 
+                    vitri fragmenta glutinari magni <app><lem wit="#Zimmel">auctores</lem><rdg wit="#ed">autores</rdg></app> asserverunt 
+                    <app><lem wit="#Zimmel">idem</lem><rdg wit="#ed">iidem</rdg></app> contacta eodem ligna vestesque nequaquam aduri. 
+                </p>
+                <p>
+                    Gallus decrepitus ovum parit durissimae pellis 
+                    quod fimi calore <app><lem wit="#Zimmel">fecundatum</lem><rdg wit="#ed">foecundatum</rdg></app> basiliscum edit, 
+                    animal vel solo visu ferale. 
+                    Attendite, Spectatores, quam venenata &amp; hominum saluti contraria gallorum ova sint 
+                    quae (tu mihi videtur) rectius excrementa esset. 
+                </p>
+                <p>
+                    Bene ergo sapientes aliquando homines instituisse Quaquerra inquit 
+                    quod senes galli templorum turriumque fastigiis affiguntur. 
+                    Ita enim ova parta per tecta perque fornices decidunt &amp; rumpuntur  <!-- 16 --> 
+                    ne toties crudeles basiliscos videre cogamur. 
+                    Galliae illuc non destinantur. 
+                    frangerentur enim bona ova &amp; saluti nostrae conducentia 
+                    multumque in re parva periculi foret. 
+                </p>
+                <p>
+                    Ideo ut inter frutices obrepant, 
+                    natura instituit 
+                    &amp; pacatas ac cohortales volvit 
+                    (de Numidicis enim &amp; his quae Meleagrides vocantur iam non loquor) 
+                    ipsisque gallos praefecit tutores 
+                    olim adprime fortes 
+                    iam vero non tam fortes quam <app><lem wit="#Zimmel">elemosos</lem><rdg wit="#ed">clcmosos</rdg></app>.
+                </p>
+                <p>
+                    Saepe enim ut ex Quaquerra accepi 
+                    dum accipitrem vident 
+                    clamant quidem 
+                    sed clamando interim fugiunt. 
+                    Quod nostrum quoque multi faciunt 
+                    qui cum ad pugnam proventum est 
+                    postremos cohortari ut audeant malumus quam primi esse.
+                </p>
+                <p>
                     Ab rapacibus avibus gallinae conspicuae saepe rapiuntur gallo interea ad saepem occultato. 
-                    Ridendum est profecto ibi pugnaces esse Gallos, ubi res non postulat, 
-                    Ubi autem esset opus horrere &amp; intremiscere, ac stertendo <app><lem wit="#Zimmel">nonnumquam neglegere</lem><rdg wit="#ed">nonnunquam negligere</rdg></app>, Perperam certe nobis omnibus, gallorum vigilias quae tantae non sunt admirantibus.
-                    Qui enim fiere potest? 
-                    ut ex <app><lem wit="#Zimmel">effeminato</lem><rdg wit="#ed">effoeminato</rdg></app> &amp; in summis deliciis enutrito adulescente, vigil gallus oriatur? 
-                    Bonum ego degenerare posse saepe <app><lem wit="#Zimmel">accepi</lem><rdg wit="#ed">accoepi</rdg></app>. 
-                    Malum autem ita adcrescere ut bonum sit aut fiat, fere <app><lem wit="#Zimmel">numquam</lem><rdg wit="#ed">nunquam</rdg></app>. 
-                    Ferunt autem non Poetae solum sed &amp; philosophi, Adulescentem olim fuisse Gallum nomine, Marti adamatum, ipsumque Deo compotasse &amp; collusitasse, 
-                    Itaque eum cum Venerem adiret cum ea cubiturus, hunc quoque gallum una secum adduxisse, &amp; cubiculi foribus praefecisse, ut intus Venere &amp; Marte secure dormientibus 
-                    Ipse solis adventum vigilans <app><lem wit="#Zimmel">exspectaret</lem><rdg wit="#ed">expectaret</rdg></app>, eumque <app><lem wit="#Zimmel">mature</lem><rdg wit="#ed">maturae</rdg></app> Marti, ne adulterio <app><lem wit="#Zimmel">deprehenderetur</lem><rdg wit="#ed">depraehenderetur</rdg></app> indicaret. 
-                    Semel autem is puer somno corruptus excubias deseruit, inscius, Solemque <app><lem wit="#Zimmel">exsurgentem</lem><rdg wit="#ed">exurgentem</rdg></app> torpidus ad Divae thalamum admisit. 
-                    Quo postea factum est ut ab eodem certior factus Vulcanus voluptarios in lectulo minutissimis vinculis, quae iam olim in illos fabricatus fuerat implicuerit, summo utrisque numis pudore, summaque ignominia.  
-                    <!-- 17 --> Mars igitur simul atque dimissus est; 
-                    adversus Gallum indignatus eum in avem transformavit, iisdem armis, ut in capite pro Galea Cristam obtineret. 
-                    Haec est Spectatores Gallorum origo, quae an aliquam nobis in eis vigiliarum spem praestare possit, ipsi perpendite. 
-                    <app><lem wit="#Zimmel">Numquam</lem><rdg wit="#ed">Nunquam</rdg></app> ego hunc <app><lem wit="#Zimmel">prae ceteris</lem><rdg wit="#ed">praecaeteris</rdg></app> vigilem dixero, qui pro insigni desidia insignes poenas dedit. 
-                    Quamobrem male mihi de veritate meriti videntur, quam gallis, ceu rationali quodam discerniculo praeditis, horarum pro cantum observationem &amp; discrimen attribuunt. 
+                    Ridendum est profecto ibi pugnaces esse Gallos 
+                    ubi res non postulat, 
+                    ubi autem esset opus horrere &amp; intremiscere 
+                    ac stertendo <app><lem wit="#Zimmel">nonnumquam neglegere</lem><rdg wit="#ed">nonnunquam negligere</rdg></app> perperam certe nobis omnibus gallorum vigilias 
+                    quae tantae non sunt admirantibus.
+                </p>
+                <p>
+                    Qui enim fieri potest 
+                    ut ex <app><lem wit="#Zimmel">effeminato</lem><rdg wit="#ed">effoeminato</rdg></app> &amp; in summis deliciis enutrito adulescente vigil gallus oriatur? 
+                    Bonum ego degenerare posse saepe <app><lem wit="#Zimmel">accepi</lem><rdg wit="#ed">accoepi</rdg></app> 
+                    malum autem ita adcrescere ut bonum sit aut fiat fere <app><lem wit="#Zimmel">numquam</lem><rdg wit="#ed">nunquam</rdg></app>. 
+                </p>
+                <p>
+                    Ferunt autem non poetae solum sed &amp; philosophi 
+                    adulescentem olim fuisse Gallum nomine Marti adamatum ipsumque Deo compotasse &amp; collusitasse, 
+                    itaque eum, cum Venerem adiret cum ea cubiturus, hunc quoque Gallum una secum adduxisse 
+                    &amp; cubiculi foribus praefecisse ut intus Venere &amp; Marte secure dormientibus 
+                    ipse solis adventum vigilans <app><lem wit="#Zimmel">exspectaret</lem><rdg wit="#ed">expectaret</rdg></app> 
+                    eumque <app><lem wit="#Zimmel">mature</lem><rdg wit="#ed">maturae</rdg></app> Marti ne adulterio <app><lem wit="#Zimmel">deprehenderetur</lem><rdg wit="#ed">depraehenderetur</rdg></app> indicaret. 
+                    Semel autem is puer somno corruptus excubias deseruit inscius Solemque <app><lem wit="#Zimmel">exsurgentem</lem><rdg wit="#ed">exurgentem</rdg></app> torpidus ad Divae thalamum admisit. 
+                    Quo postea factum est 
+                    ut ab eodem certior factus Vulcanus voluptarios in lectulo minutissimis vinculis 
+                    quae iam olim in illos fabricatus fuerat 
+                    implicuerit 
+                    summo utriusque numis pudore 
+                    summaque ignominia.  
+                    <!-- 17 --> Mars igitur simul atque dimissus est 
+                    adversus Gallum indignatus eum in avem transformavit iisdem armis 
+                    ut in capite pro galea cristam obtineret. 
+                </p>
+                <p>
+                    Haec est, Spectatores, Gallorum origo. 
+                    Quae an aliquam nobis in eis vigiliarum spem praestare possit, 
+                    ipsi perpendite. 
+                    <app><lem wit="#Zimmel">Numquam</lem><rdg wit="#ed">Nunquam</rdg></app> ego hunc <app><lem wit="#Zimmel">prae ceteris</lem><rdg wit="#ed">praecaeteris</rdg></app> vigilem dixero 
+                    qui pro insigni desidia insignes poenas dedit. 
+                </p>
+                <p>
+                    Quamobrem male mihi de veritate meriti videntur, quam gallis, ceui rationali quodam discerniculo praeditis, horarum pro cantum observationem &amp; discrimen attribuunt. 
                     Hoc enim quod certis canunt <app><lem wit="#Zimmel">interstitiis</lem><rdg wit="#ed">intersticiis</rdg></app>, ex salacitate potius &amp; Veneris suae imaginatione, provenire, vel ex hoc constat, 
                     quod Castrati non canunt, eadem ipsis alioqui manente natura, &amp; priusquam quam ineundis Gallinis maturi sint, silent. 
                     Gallus ergo (ut magni in philosophia viri opinio est) dilabente iam pro viscera cibo, somnoque: 
@@ -314,7 +384,7 @@
                     Aiunt Astronomi, Gallinam in caelo esse, &amp; Gallum nullum qui esset famigeratus, 
                     licet eam nonnulli, nomine perperam inducto, <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cygnum</rdg></app> dici velint, quos certe lippos fuisse existimo &amp; caelos providere non potuisse. 
                     Inter gallinam enim &amp; <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cignum</rdg></app> multum interest, 
-                    Pro Gallinae nomine etiam Arabes, ut au<!-- 18 -->dio, accedunt, 
+                    Pro Gallinae nomine etiam Arabes, ut au  <!-- 18 --> dio, accedunt, 
                     Pro Gallo nemo in universum, Quis autem non asserat maximi meriti causa in lucentium stellarum effigies, Gallinam evectam fuisse? 
                     Cum caelum eorum sit expers, 
                     qui aut de diis aut de hominibus male sunt meriti, Galli autem, haud scio quo suo merito, locum habent, 
@@ -412,6 +482,54 @@
                     </p>
                     <p>
                         test
+                    </p>
+                    <p> <!-- l. 155 sq. -->
+                        Et dans cette affaire en tout cas, je ferai ce qu’il convient de faire au meilleur avocat qui ne présente et n’établit pas toujours l’affaire comme elle a été proposée, mais ajoute là où il faut ajouter et en dit moins là où il faut en dire moins, pour qu’une simplicité évidente (ce qui arrive souvent ailleurs) l’ayant emporté sur la ruse d’une malice versatile ne soit pas contrainte de subir l’étiquette de l’iniquité.
+                    </p>
+                    <p>
+                        Les poules, sexe fécond et humble, ne s’enorgueillissent presque pas, ne nuisent à personne, ce qui est une preuve de la vraie noblesse, et ne provoquent qui que ce soit en guerre, mais nourries par l’armée du poulailler, elles pondent les œufs qu’elles annoncent par leur cri pour qu’ils servent à la consommation du genre humain.
+                    </p>
+                    <p>
+                        Mais si quelques-uns sont laissés pour l’amour de servir la descendance, elles en prennent soin, nourrissent les mâles comme les femelles, les élèvent. Parmi eux les coqs, comme ils se vantent d’être les plus courageux, ne connaissent rien de plus solide que les oeufs dont ils sont nés, messagers de leur propre bêtise non par hasard mais par stupidité, dirais-je. La dureté de leur coquille est en effet si grande qu’on ne peut la briser ni par la force ni par aucune masse, à moins que la rondeur ait été un peu pliée.
+                    </p>
+                    <p>
+                        De même, les médecins disent qu’il n’y a aucun autre mets qui nourrisse plus dans la maladie, qui soit moins lourd et qui ait en même temps la force de la nourriture et de la boisson que celui des œufs. 
+                        Une fois leur partie blanche mélangée à de la chaux vive, les grands auteurs ont affirmé qu’on pouvait recoller des bouts de verre et de même, au contact de celle-ci, le bois et les vêtements ne brûlent pas du tout. 
+                        
+                    </p>
+                    <p>
+                        Un coq d’âge décrépit pond un œuf d’une coquille très dure, lequel, fécondé par la chaleur du fumier, met au monde un basilic, animal qui tue par sa vue seule. Voyez, spectateurs, combien les œufs des coqs sont venimeux et combien ils s’opposent à la santé des hommes: à mon avis, ce sont juste des excréments. 
+                    </p>
+                    <p>
+                        Les hommes sages ont bien établi un jour, dit Quaquerra, que les vieux coqs soient attachés aux faîtes des temples et des tours. Ainsi, les œufs pondus tombent à travers les toits et les passages couverts et se cassent pour qu’on ne soit pas forcés de voir si souvent les cruels basilics. Les poules ne sont pas fixées là, car les bons œufs utiles à notre santé se briseraient et il y aurait beaucoup de danger dans cette petite chose. 
+                        
+                    </p>
+                    <p>
+                        C’est pourquoi la nature a décidé qu’elles se traînent entre les arbrisseaux et a voulu qu’elles soient en paix et dans les poulaillers (je ne parle pas maintenant de poules numidiques et de celles qu’on appelle les poules de Méléagre) et a mis à leur tête les coqs comme leurs protecteurs, autrefois courageux avant tout autre, mais maintenant pas aussi courageux que pitoyables. 
+                        
+                    </p>
+                    <p>
+                        Souvent, en effet, comme je l’ai appris de Quaquerra, lorsqu’ils voient un rapaces, ils poussent certes des cris, mais pendant qu’ils crient, ils s’enfuient. Nombreux parmi nous font aussi cela: lorsqu’on en est venu au combat, nous préférons encourager les derniers pour qu’ils aient du courage plutôt qu’être les premiers.
+                    </p>
+                    <p>
+                        Les admirables poules sont fréquemment emportés par des rapaces ailés, tandis que le coq, pendant ce temps, s’est caché au pied d’une haie. 
+                        En vérité, il faut rire ici des coqs qui sont belliqueux lorsque la circonstance ne le demande pas, mais qui, lorsqu’il le faudrait, frissonnent et tremblent de peur et qui, en dormant profondément, parfois négligent, certainement par mégarde, les veilles des coqs qui ne sont pas si grandes alors que nous tous nous en étonnons.
+                    </p>
+                    <p>
+                        Comment peut-il arriver que d’un jeune animal mou et élevé avec les plus grandes douceurs naisse un coq vigilant? Moi, j’ai appris que souvent ce qui est bon peut dégénérer, mais que ce qui mal peut tellement grandir qu’il n’est ou ne devient presque plus jamais bien.
+                    </p>
+                    <p>
+                        Or, non seulement les poètes mais aussi les philosophes rapportent qu’autrefois un adolescent du nom de Gallus a été aimé de Mars et que lui-même buvait avec le dieu et jouait avec lui. 
+                        Ainsi, alors que qu’il s’était approché de Vénus pour passer la nuit avec elle,  il amenait ensemble avec lui ce Gallus et le mettait à la tête des portes de la chambre pour que, tandis qu’à l’intérieur Vénus et Mars dormaient paisiblement, lui-même en veillant attende la venue du soleil et l’annonce au bon moment à Mars pour que l’adultère ne soit pas surpris. 
+                        Or, une fois, cet enfant perclu de fatigue abandonne sa garde sans s’en rendre compte. Engourdi de sommeil, il laisse accéder le soleil qui se lève à la chambre de la déesse. Après que cela a été fait, Vulcanus, qui ne doutait pas de l’affaire rapportée par le soleil, a emprisonné les amants sur lit grâce à de minuscules chaînes qu’il avait déjà autrefois fabriquées pour eux, pour la plus grande honte de l’une et l’autre divinité et leur plus grand ignominie.
+                        Alors, aussitôt que Mars a été libéré, s’étant indigné contre Gallus, il l’a transformé en oiseau aux même armes, si bien que sur sa tête il porte, à la place d’un casque, un panache. 
+                        
+                    </p>
+                    <p>
+                        Voici, Spectateurs, l’origine des coqs. Si elle peut si elle peut nous fournir un certain espoir en ce qui concerne les veillées chez ceux-ci, examinez-le vous-même. Jamais moi, je ne l’aurai appelé veilleur devant tous les autres, celui qui a causé une peine remarquable pour une paresse remarquable.
+                    </p>
+                    <p>
+                        suite
                     </p>
                 </sp>
             </div>
