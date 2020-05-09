@@ -88,6 +88,7 @@
             <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-13"/>Corrections du texte latin et traduction.</change>
             <change type="update" resp="#EP"><date when="2020-05-02"/>Corrections du texte latin et traduction.</change>
+            <change type="update" resp="#EP"><date when="2020-05-09"/>Corrections du texte latin et traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -369,29 +370,68 @@
                     qui pro insigni desidia insignes poenas dedit. 
                 </p>
                 <p>
-                    Quamobrem male mihi de veritate meriti videntur, quam gallis, ceui rationali quodam discerniculo praeditis, horarum pro cantum observationem &amp; discrimen attribuunt. 
-                    Hoc enim quod certis canunt <app><lem wit="#Zimmel">interstitiis</lem><rdg wit="#ed">intersticiis</rdg></app>, ex salacitate potius &amp; Veneris suae imaginatione, provenire, vel ex hoc constat, 
-                    quod Castrati non canunt, eadem ipsis alioqui manente natura, &amp; priusquam quam ineundis Gallinis maturi sint, silent. 
-                    Gallus ergo (ut magni in philosophia viri opinio est) dilabente iam pro viscera cibo, somnoque: 
-                    discedente, quo tempore corpora, sua sponte, concitantur ad Venerem, statim Gallinarum meminit, 
-                    quoque copiosior sit <app><lem wit="#Zimmel">fetura</lem><rdg wit="#ed">foetura</rdg></app>, Cantus illecebra provocat, &amp; haec perpetui clamoris pro intervalla in singulas noctes, paria, suscitati: 
-                    causa est, Sed video Quaquerram allicere me, nutante capitulo, 
-                    Eho, videor videre, quod velit, rei forte unius oblita est, 
-                    Sinite <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app> Spectatores, Ut eam paulisper audiam. 
-                    Ago gratias tibi mi Quaquerra, &amp; habebo, prudentis sima certe es &amp; digna, quam omnes audirent si modo <app><lem wit="#Zimmel">intellegerent</lem><rdg wit="#ed">intelligerent</rdg></app>, 
-                    Susurravit mihi ad auriculam, gallinas celebrem habere in <app><lem wit="#Zimmel">caelo</lem><rdg wit="#ed">coelo</rdg></app> imaginem, &amp; hanc se saepe vidisse (nullum enim animal est, quod <app><lem wit="#Zimmel">caelum</lem><rdg wit="#ed">coelum</rdg></app> frequentius aspiciat) 
-                    Hoc ego, <app><lem wit="#Zimmel">quamquam</lem><rdg wit="#ed">quanquam</rdg></app> non ignoravi, <app><lem wit="#Zimmel">praeterissem</lem><rdg wit="#ed">praeteriissem</rdg></app> tamen ex oblivione, non enim omnium una memoriam habere possumus. 
-                    Aiunt Astronomi, Gallinam in caelo esse, &amp; Gallum nullum qui esset famigeratus, 
-                    licet eam nonnulli, nomine perperam inducto, <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cygnum</rdg></app> dici velint, quos certe lippos fuisse existimo &amp; caelos providere non potuisse. 
-                    Inter gallinam enim &amp; <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cignum</rdg></app> multum interest, 
-                    Pro Gallinae nomine etiam Arabes, ut au  <!-- 18 --> dio, accedunt, 
-                    Pro Gallo nemo in universum, Quis autem non asserat maximi meriti causa in lucentium stellarum effigies, Gallinam evectam fuisse? 
-                    Cum caelum eorum sit expers, 
-                    qui aut de diis aut de hominibus male sunt meriti, Galli autem, haud scio quo suo merito, locum habent, 
-                    quod equidem sciam, <app><lem wit="#Zimmel">percelebrem</lem><rdg wit="#ed">per celebrem</rdg></app> in Codice Iustiniani, ubi de his agitur, qui parentes vel liberos occiderunt, 
-                    Ea lege cuius initium est, 
-                    Si quis Parentis (possum equidem ea citare quae mihi per officii rationem comperta sunt) 
-                    Qua iubetur, Specta. ut Parricidio convictis, consuatur, praeter serpentem canem &amp; simiam gallus <app><lem wit="#Zimmel">gallinaceus</lem><rdg wit="#ed">gallinacius</rdg></app>, 
+                    Quamobrem male mihi de veritate meriti videntur 
+                    qui gallis, ceu rationali quodam discerniculo praeditis, horarum pro cantum observationem &amp; discrimen attribuunt. 
+                    Hoc enim quod certis canunt <app><lem wit="#Zimmel">interstitiis</lem><rdg wit="#ed">intersticiis</rdg></app> ex salacitate potius &amp; veneris suae imaginatione provenire 
+                    vel ex hoc constat 
+                    quod castrati non canunt 
+                    eadem ipsis alioqui manente natura &amp; 
+                    priusquam quam ineundis Gallinis maturi sint silent. 
+                </p>
+                <p>
+                    Gallus ergo (ut magni in philosophia viri opinio est) 
+                    dilabente iam pro viscera cibo 
+                    somnoque discedente 
+                    quo tempore corpora sua sponte concitantur ad venerem 
+                    statim Gallinarum meminit 
+                    quoque copiosior sit <app><lem wit="#Zimmel">fetura</lem><rdg wit="#ed">foetura</rdg></app> 
+                    cantus illecebra provocat 
+                    &amp; haec perpetui clamoris pro intervalla in singulas noctes paria suscitati causa est. 
+                </p>
+                <p>
+                    Sed video Quaquerram allicere me 
+                    nutante capitulo. 
+                    Eho, videor videre quod velit rei forte unius oblita est. 
+                    Sinite <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app> Spectatores, tt eam paulisper audiam.
+                </p>
+                <p>
+                    Ago gratias tibi, mi Quaquerra, &amp; habebo. 
+                    Prudentissima certe es &amp; digna 
+                    quam omnes audirent si modo <app><lem wit="#Zimmel">intellegerent</lem><rdg wit="#ed">intelligerent</rdg></app>. 
+                    Susurravit mihi ad auriculam 
+                    gallinas celebrem habere in <app><lem wit="#Zimmel">caelo</lem><rdg wit="#ed">coelo</rdg></app> imaginem 
+                    &amp; hanc se saepe vidisse 
+                    (nullum enim animal est quod <app><lem wit="#Zimmel">caelum</lem><rdg wit="#ed">coelum</rdg></app> frequentius aspiciat).
+                </p>
+                <p>
+                    Hoc ego 
+                    <app><lem wit="#Zimmel">quamquam</lem><rdg wit="#ed">quanquam</rdg></app> non ignoravi 
+                    <app><lem wit="#Zimmel">praeterissem</lem><rdg wit="#ed">praeteriissem</rdg></app> tamen ex oblivione. 
+                    Non enim omnium una memoriam habere possumus. 
+                </p>
+                <p>
+                    Aiunt astronomi 
+                    Gallinam in caelo esse 
+                    &amp; Gallum nullum qui esset famigeratus 
+                    licet eam nonnulli nomine perperam inducto <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cygnum</rdg></app> dici velint 
+                    quos certe lippos fuisse existimo 
+                    &amp; caelos providere non potuisse. 
+                </p>
+                <p>
+                    Inter gallinam enim &amp; <app><lem wit="#Zimmel">cycnum</lem><rdg wit="#ed">Cignum</rdg></app> multum interest. 
+                    Pro Gallinae nomine etiam Arabes, ut audio,<!-- 18 --> accedunt, 
+                    pro Gallo nemo in universum. 
+                    Quis autem non asserat maximi meriti causa in lucentium stellarum effigies Gallinam evectam fuisse 
+                    cum caelum eorum sit expers 
+                    qui aut de diis aut de hominibus male sunt meriti? 
+                    Galli autem, haud scio quo suo merito, locum habent 
+                    quod equidem sciam, <app><lem wit="#Zimmel">percelebrem</lem><rdg wit="#ed">per celebrem</rdg></app> in Codice Iustiniani 
+                    ubi de his agitur qui parentes vel liberos occiderunt 
+                    ea lege cuius initium est 
+                    "Si quis parentis" (possum equidem ea citare quae mihi per officii rationem comperta sunt).
+                </p>
+                <p>
+                    Qua iubetur, Spectatores, ut parricidio convictis, consuatur, praeter serpentem canem &amp; simiam gallus <app><lem wit="#Zimmel">gallinaceus</lem><rdg wit="#ed">gallinacius</rdg></app>, 
                     qui Parricidae in lubricos fluctus, comes eat, atque una moriatur, infami culeo. 
                     Id quod &amp; institutionibus repetitum est, eo titulo quo de publicis iudiciis agitur, Quid Cachinnaris Euthyme? 
                     An non confessa profero, nisi salsum scripserint hi, 
@@ -522,13 +562,45 @@
                         Or, non seulement les poètes mais aussi les philosophes rapportent qu’autrefois un adolescent du nom de Gallus a été aimé de Mars et que lui-même buvait avec le dieu et jouait avec lui. 
                         Ainsi, alors que qu’il s’était approché de Vénus pour passer la nuit avec elle,  il amenait ensemble avec lui ce Gallus et le mettait à la tête des portes de la chambre pour que, tandis qu’à l’intérieur Vénus et Mars dormaient paisiblement, lui-même en veillant attende la venue du soleil et l’annonce au bon moment à Mars pour que l’adultère ne soit pas surpris. 
                         Or, une fois, cet enfant perclu de fatigue abandonne sa garde sans s’en rendre compte. Engourdi de sommeil, il laisse accéder le soleil qui se lève à la chambre de la déesse. Après que cela a été fait, Vulcanus, qui ne doutait pas de l’affaire rapportée par le soleil, a emprisonné les amants sur lit grâce à de minuscules chaînes qu’il avait déjà autrefois fabriquées pour eux, pour la plus grande honte de l’une et l’autre divinité et leur plus grand ignominie.
-                        Alors, aussitôt que Mars a été libéré, s’étant indigné contre Gallus, il l’a transformé en oiseau aux même armes, si bien que sur sa tête il porte, à la place d’un casque, un panache. 
+                        Alors, aussitôt que Mars a été libéré, s’étant indigné contre Gallus, il l’a transformé en oiseau aux même armes, si bien que sur sa tête il porte, à la place d’un casque, une crête. 
                         
                     </p>
                     <p>
-                        Voici, Spectateurs, l’origine des coqs. Si elle peut si elle peut nous fournir un certain espoir en ce qui concerne les veillées chez ceux-ci, examinez-le vous-même. Jamais moi, je ne l’aurai appelé veilleur devant tous les autres, celui qui a causé une peine remarquable pour une paresse remarquable.
+                        Voici, Spectateurs, l’origine des coqs. Si elle peut si elle peut nous fournir un certain espoir en ce qui concerne leur capacité à veiller, examinez-le vous-même. 
+                        Jamais moi, je ne l’aurai appelé veilleur devant tous les autres, celui qui a causé une peine remarquable pour une paresse remarquable.
+                    </p>
+                    <p><!-- l. 203 -->
+                        C’est pourquoi ils me semblent bien mal agir envers la vérité ceux qu’ils attribuent aux coqs comme étant pourvus d’une certaine capacité de distinction rationnelle l’attention et la décision en ce qui concerne le chant des heures. 
+                        En effet, le fait qu’ils chantent lors d’intervalles fixes provient de la lascivité plutôt et de la vision de leur Vénus, même il résulte de cela que les coqs castrés ne chantent pas, alors que cette capacité naturelle leur demeure du reste, et avant qu’ils ne soient prêts à saillir les poules, ils se taisent.
                     </p>
                     <p>
+                        Le coq donc (comme c’est l’opinion d’un grand homme dans la philosophie) tandis que la nourriture s’écoule dans ses entrailles et que le sommeil s’en va (au moment où les corps sont spontanément portés vers l’amour), les coqs se souviennent aussitôt des poules et, tandis que des produits assez abondants apparaissent, ce charme provoque le chant du coq. 
+                        Voici la cause du cri perpétuel qui se dresse à intervalle régulier chaque nuit.
+                    </p>
+                    <p>
+                        Mais je vois que Quaquerram m’attire à elle en faisant signe de la tête. 
+                        Oh! il me semble voir ce qu’elle souhaite, elle a peut-être oublié une affaire. 
+                        Spectateurs, s’il vous plait, permettez que je l’écoute quelques instants. 
+                        
+                    </p>
+                    <p>
+                        Ma Quaquerra, je te remercie et te donnerai ma reconnaissance, tu es certainement la plus avisée et digne des poules que tous écouteraient si seulement ils te comprenaient. 
+                        Elle m’a chuchoté à l’oreille que les poules ont une représentation célèbre dans le ciel et qu’elles l’ont souvent regardée (en effet, il n’y a aucun animal qui examine le ciel si fréquemment). 
+                    </p>
+                    <p>
+                        Ce fait, d’ailleurs je ne l’ai ignoré, mais je l’aurais passé sous silence par oubli, car nous ne pouvons pas nous souvenir de tout à la fois. 
+                        Les astronomes disent qu’il y a une poule dans le ciel et qu’il n’y aucun coq qui ne devait être célébré, bien que quelques-uns veulent qu’elle soit appelée “cygne” comme le nom a été faussement appliqué. Ceux-là, je pense qu’ils ont été aveuglés qu’ils n’ont pas pu voir les cieux. 
+                        
+                    </p>
+                    <p>
+                        En effet, il y a beaucoup de différence entre la poule et le cygne. En faveur du nom de “poule”, même les arabes, comme je l’entend, donnent leur adhésion; pour “coq”, il n’y a personne dans l’univers.
+                        Qui ne défendra pas que la poule a été élevée jusqu’à former une constellation d’étoiles brillantes pour son mérite suprême puisque le ciel est vide de ceux qui parmi les dieux et parmi les hommes se sont mal comportés?
+                        
+                    </p>
+                    <p>
+                        Quand aux coqs, je ne sais par quel mérite, occupent une place, mérite que je voudrais savoir assurément, très célèbre dans le code Justinien, où il est question de ceux qui ont tué leurs parents ou leurs enfants, dans une loi qui commence ainsi « Si quelqu’un de son parent…” (je peux assurément citer ces mots que j’ai appris par la nature de mon devoir).
+                    </p>
+                        <p>
                         suite
                     </p>
                 </sp>
