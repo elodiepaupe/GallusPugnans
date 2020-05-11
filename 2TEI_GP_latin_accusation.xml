@@ -88,7 +88,7 @@
             <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
             <change type="update" resp="#EP"><date when="2020-04-13"/>Corrections du texte latin et traduction.</change>
             <change type="update" resp="#EP"><date when="2020-05-02"/>Corrections du texte latin et traduction.</change>
-            <change type="update" resp="#EP"><date when="2020-05-09"/>Corrections du texte latin et traduction.</change>
+            <change type="update" resp="#EP"><date when="2020-05-11"/>Corrections du texte latin et traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -461,36 +461,85 @@
                     ac subinde proditores <app><lem wit="#Zimmel">appellari</lem><rdg wit="#ed">adpellari</rdg></app> possunt.
                 </p>
                 <p>
-                    Petrum equidem ut scitis, &amp; singulis auditis annis, peierantem Gallus prodidit, &amp; ter negantem, non die dico sed gliscentibus tenebris, aperto cavillo persecutus est. 
+                    Petrum equidem ut scitis 
+                    &amp; singulis auditis annis peierantem Gallus prodidit &amp; ter negantem, 
+                    non die dico sed gliscentibus tenebris, aperto cavillo persecutus est. 
+                </p>
+                <p>
                     Nonne ferox hic gallus fuit? 
-                    qui viro piissimo &amp; fidentissimo, illa in re deesse quam adesse maluit, 
-                    Non potest laudari, illa ad garriendum proclivitas, anius enim incautus, aut oppressus metu, id saepe agit, quod cum dignoscit, non vult propalari. 
-                    Recte igitur unus ex sapientibus, in haec verba, Non quodcumque noveris dicas, sed  <!-- 19 --> plane cognoscens tace. 
-                    At quid ago? Rapuit me Spectatores <app><lem wit="#Zimmel">iustitiae</lem><rdg wit="#ed">iusticiae</rdg></app> &amp; simplicitatis amor, 
-                    ut maledicere gallis, male audire merentibus, hactenus perrexi. 
-                    Iam ego mortuas laudare recte incipiam, cum vivae se suae causae certitudine &amp; sinceritate satis tueantur. 
+                    Qui viro piissimo &amp; fidentissimo illa in re deesse quam adesse maluit. 
+                    Non potest laudari illa ad garriendum proclivitas. 
+                    Animaux enim incautus aut oppressus metu id saepe agit quod cum dignoscit non vult propalari. 
+                    Recte igitur unus ex sapientibus in haec verba: 
+                    "Non quodcumque noveris dicas sed  <!-- 19 --> plane cognoscens tace."
+                </p>
+                <p>
+                    At quid ago? 
+                    Rapuit me, Spectatores, <app><lem wit="#Zimmel">iustitiae</lem><rdg wit="#ed">iusticiae</rdg></app> &amp; simplicitatis amor 
+                    ut maledicere gallis male audire merentibus hactenus perrexerim. 
+                    Iam ego mortuas laudare recte incipiam 
+                    cum vivae se suae causae certitudine &amp; sinceritate satis tueantur.
+                </p>
+                <p>
                     Quis nescit defunctas vita gallinas &amp; rurestrium &amp; urbanorum familiares focos abunde opulentare? 
-                    prandium nulla <app><lem wit="#Zimmel">cena</lem><rdg wit="#ed">caena</rdg></app> satis opipara videtur, cui fato functae gallinae desunt, Macilentos libidine gallos nemo concupiscit, nisi pulli sint, aut juvenes: 
-                    Habet enim in omne fere genere animantum juventus gratiam, Senectus rarius, nisi gallinas dixeris senes, optime elixatas, 
-                    Quarum caro tam est efficax, ut aurum liquescens mixtum sibi, <app><lem wit="#Zimmel">consumat</lem><rdg wit="#ed">consummat</rdg></app>. 
-                    Quod nulla flammarum vehementia potest, nulla ars, quae tamen reliquorum metallorum aut minuit aut omnino resolvit naturam, hoc verum esse magni harum rerum scriptores asserunt. 
-                    Postremo si Medicam respicimus eam, quam omnes hac in re compertam habent, quae caro salubrior? 
-                    quis melior adeps? 
-                    Parthi ut audio, gallinarum cerebrum, plagis imponunt, &amp; subinde sanantur. 
-                    Avicennam ferunt gallinarum carnem laudare, quod vocem clarificet, 
-                    qua a reliquis brutis nos distamus, Haec veneratorum morsibus adligata mire prodest. 
-                    Id Habeo compertum: 
-                    Fel Gallinae maculas in corpore sanctas auferre, eiusque sanguinem faciem mundificare, &amp; decenti exornare colore, 
-                    Proinde <app><lem wit="#Zimmel">ne quid</lem><rdg wit="#ed">nequid</rdg></app>, quod sciam, omittatur: 
-                    Gallinarum excrementa macerrimis vineis, &amp; omni surculo atque arvo mederi saepe legi &amp; venena pellere. 
-                    <app><lem wit="#Zimmel">Vultisne</lem><rdg wit="#ed">Vultis ne</rdg></app> Spectatores aut pati possetis hoc genus avium, iniqua sententia deleri? 
-                    quod adeo in vita nobile &amp; commodum est, ut etiam ea extincta nobilitatis in se prioris vestigia relinquat, 
-                    Delete potius gallos quos mortuos esse, in hac praesertim provincia, commodius est quam vivere, 
-                    Aliunde tandem accersiri possunt, qui gallinis officium faciunt. 
-                    Institutas enim nuper tam  <!-- 20 --> malo more injurias, &amp; hunc aspernabilem pugnandi usum nisi capite plectantur non <app><lem wit="#Zimmel">eliminabunt</lem><rdg wit="#ed">elimabunt</rdg></app>, 
-                    obduruit equidem cervix &amp; in scelere ipsis supremae gloriae tituli quaeruntur. 
-                    Sed iam satis superque dictum est, <app><lem wit="#Zimmel">quamquam</lem><rdg wit="#ed">quanquam</rdg></app> plura Quaquerra iusserat, quae ideo missa facio quod omnium animos in gallinarum favorem, 
-                    id quod iustissimum est inclinatos video. DIXI.
+                    Prandium nulla <app><lem wit="#Zimmel">cena</lem><rdg wit="#ed">caena</rdg></app> satis opipara videtur 
+                    cui fato functae gallinae desunt. 
+                    Macilentos libidine gallos nemo concupiscit nisi pulli sint aut juvenes. 
+                    Habet enim in omne fere genere animantum juventus gratiam, senectus rarius, nisi gallinas dixeris senes optime elixatas 
+                    quarum caro tam est efficax 
+                    ut aurum liquescens mixtum sibi <app><lem wit="#Zimmel">consumat</lem><rdg wit="#ed">consummat</rdg></app>. 
+                    Quod nulla flammarum vehementia potest 
+                    nulla ars 
+                    quae tamen reliquorum metallorum aut minuit aut omnino resolvit naturam. 
+                    Hoc verum esse magni harum rerum scriptores asserunt.
+                </p>
+                <p>
+                    Postremo si medicam respicimus eam 
+                    quam omnes hac in re compertam habent. 
+                    Quae caro salubrior? 
+                    Quis melior adeps? 
+                    Parthi, ut audio, gallinarum cerebrum plagis imponunt 
+                    &amp; subinde sanantur. 
+                </p>
+                <p>
+                    Avicennam ferunt gallinarum carnem laudare 
+                    quod vocem clarificet 
+                    qua a reliquis brutis nos distamus. 
+                    Haec venenatorum morsibus adligata mire prodest. 
+                    Id habeo compertum 
+                    fel Gallinae maculas in corpore factas auferre 
+                    eiusque sanguinem faciem mundificare 
+                    &amp; decenti exornare colore.
+                </p>
+                <p>
+                    Proinde <app><lem wit="#Zimmel">ne quid</lem><rdg wit="#ed">nequid</rdg></app> quod sciam omittatur: 
+                    Gallinarum excrementa macerrimis vineis &amp; omni surculo atque arvo mederi 
+                    saepe legi 
+                    &amp; venena pellere. 
+                </p>
+                <p>
+                    <app><lem wit="#Zimmel">Vultisne</lem><rdg wit="#ed">Vultis ne</rdg></app>, Spectatores, 
+                    aut pati possetis 
+                    hoc genus avium iniqua sententia deleri 
+                    quod adeo in vita nobile &amp; commodum est 
+                    ut etiam ea extincta nobilitatis in se prioris vestigia relinquat?
+                </p>
+                <p>
+                    Delete potius gallos 
+                    quos mortuos esse in hac praesertim provincia commodius est quam vivere. 
+                    Aliunde tandem accersiri possunt 
+                    qui gallinis officium faciunt. 
+                    Institutas enim nuper tam  <!-- 20 --> malo more injurias &amp; hunc aspernabilem pugnandi usum 
+                    nisi capite plectantur 
+                    non <app><lem wit="#Zimmel">eliminabunt</lem><rdg wit="#ed">elimabunt</rdg></app>. 
+                    Pbduruit equidem cervix &amp; in scelere ipsis supremae gloriae tituli quaeruntur. 
+                </p>
+                <p>
+                    Sed iam satis superque dictum est 
+                    <app><lem wit="#Zimmel">quamquam</lem><rdg wit="#ed">quanquam</rdg></app> plura Quaquerra iusserat 
+                    quae ideo missa facio quod omnium animos in gallinarum favorem 
+                    id quod iustissimum est inclinatos video. 
+                    Dixi.
                 </p>
             </sp>
             </div> 
@@ -634,8 +683,50 @@
                         En outre, alors que les poules soit toujours se taisent soit indiquent le lieu où ont été placés les œufs que les hommes mangent, elles ne dévoilent certainement rien que les hommes ne devraient savoir. 
                         Les coqs en revanche, étant donné qu’ils avertissent parfois en criant, trahissent aussi et peuvent de fait être qualifiés de traîtres.
                     </p>
-                        <p>
-                        suite
+                    <p>
+                        Pierre, comme vous le savez sans doute et l'entendez année après année, le coq l’a révélé comme il se parjurait et reniait trois fois, non pas de jour, je le dis, mais par les ténèbres croissantes. Il l’a poursuivi par une plaisanterie au grand jour.
+                    </p>
+                    <p>
+                        N’a-t-il pas été féroce, ce coq? lui qui a préféré en cette occasion faire défaut à un homme chargé de piété et de foi plutôt qu’être présent pour lui?
+                        On ne peut pas louer ce penchant au gazouillement, car un esprit imprudent ou accablé par la peur fait souvent ce qu’il ne veut pas être rendu public quand il le distingue.
+                        L'un des sages a donc bien parlé par ces mots: “quoi que tu saches, ne le dis pas, mais en pleine connaissance de cause, tais-toi.”
+                    </p>
+                    <p> 
+                        Alors que faire? Spectateurs, l'amour de la justice et de la simplicité m'entraîne à continuer, jusqu'à maintenant, de parler en mal des coqs qui méritent d’entendre du mal à leur sujet.
+                        Moi déjà je commencerai à juste titre de louer les mortes alors que les vivantes se protègent par la certitude et la sincérité de leur cause.
+                    </p>
+                    <p><!--(l. 253)-->
+                        Qui ne sait pas que les poules acquittées de leur vie enrichissent en abondance les cuisines domestiques aussi bien rurales qu’urbaines?
+                        Le midi, aucun repas ne parait assez copieux, lorsque les poules qui ont accompli leur destin y manquent.
+                        Les maigres coqs, personne ne les convoite avec envie s'ils ne sont poussins ou coquelets.
+                        Il y a dans presque toute espèce animale une reconnaissance de la jeunesse des êtres vivants, plus rarement de la vieillesse si ce n'est, dirais-tu, que les vieilles poules sont excellentes, bouillies.
+                        Leur chair est tellement efficace qu’elle absorbe l'or liquide mélangé avec elle.
+                        Ce que ne peut aucune véhémence des flammes, ni aucune technique qui diminue ou dissout complètement la substance des restes de métaux. Que ceci soit vrai, les grands auteurs sur ces sujets l'affirment.
+                    </p>
+                    <p><!--(l. 261)-->
+                        En définitive, si nous prenons en considération cette femme médecin que tous dans cette affaire tienne pour reconnue: quelle chair plus saine, quelle meilleure graisse? Les Parthes, à ce que j'entends, appliquent la cervelle de poules sur les plaies et ils sont aussitôt soignés.
+                   </p>
+                    <p><!--(l. 264)-->
+                        On rapporte qu'Avicenne loue la chair des poules parce qu'elle rend la voix claire, ce qui nous différencie du reste des être vivants. 
+                        Contre les morsures des animaux venimeux, elle est comme bandage merveilleusement utile.
+                        Ceci je le tiens pour certain que le fiel des poules enlève les taches faites sur le corps et leur sang de purifie le visage et le parer d'une couleur décente. 
+                     </p>
+                    <p><!--(l. 267)-->
+                        Ainsi donc, pour que rien ne soit omis de ce que je sais. J’ai souvent lu que les fientes des poules soignent les ceps les plus minces ainsi que chaque arbrisseau ou terre en labour et repousser les poisons.
+                   </p>
+                    <p><!--(L. 269)-->
+                        Voulez-vous, spectateurs, ou pourriez-vous souffrir que cette race d'oiseaux par une sentence inique soit détruite?
+                        Une race qui, dans la vie, est à ce point noble et accommodante qu’elle abandonne ces traces mortes de sa première renommée en elle.
+                    </p>
+                    <p><!--l. 272)-->
+                        Détruisez plutôt ceux des coqs qu’il est plus commode de voir morts dans cette région surtout plutôt que vivants.
+                        D'ailleurs, cependant peuvent être appelés ceux qui accomplissent le devoir pour les poules.
+                        En effet, ils ne chasseront pas les injustices établies récemment par une si mauvaise habitude et cet usage méprisable de se battre à moins qu’ils ne soient châtiés de leur tête
+                        Sans doute leur nuque se raidit et par ce crime pour eux-mêmes ils cherchent les titres de la gloire suprême.
+                    </p>
+                    <p><!--(l. 275)-->
+                        Il en a déjà été dit assez précédemment, quoique Quaquerra m’ait ordonné de dire plusieurs choses encore que, pour cette raison, j’écarte, parce que les esprits de tous, c'est en faveur des poules, ce qui est des plus justes, que je les vois s'incliner.
+                        J’ai dit.    
                     </p>
                 </sp>
             </div>
