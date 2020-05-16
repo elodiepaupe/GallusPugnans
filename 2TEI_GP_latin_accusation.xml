@@ -89,6 +89,7 @@
             <change type="update" resp="#EP"><date when="2020-04-13"/>Corrections du texte latin et traduction.</change>
             <change type="update" resp="#EP"><date when="2020-05-02"/>Corrections du texte latin et traduction.</change>
             <change type="update" resp="#EP"><date when="2020-05-11"/>Corrections du texte latin et traduction.</change>
+            <change type="update" resp="#EP"><date when="2020-05-16"/>Corrections du texte latin et traduction.</change>
         </revisionDesc> 
     </teiHeader>
     <text n="2" type="discours">
@@ -193,72 +194,232 @@
                     et abominabiles pugnas non nisi luxus instituerit &amp; petulantissima quaedam libido.
                 </p>
                 <p>
-                    Quid enim a mortalium salute plus alienum esse deberet, 
-                    quam dissensio &amp; Pugna, quae maximorum scelerum incitabula sunt, non in externos Tantum virorum etiam in cognatos, &amp; necessitudine arctissima junctos, 
-                    Id quod hi videre possunt, 
-                    nil miserantibus oculis, qui Gallos ut Pungent instituunt. 
-                    Ex quo tandem quid sequi Gallinae miserrimae Queruntur ? 
-                    Nempe nihil nisi hoc, <app><lem wit="#Zimmel">quod ulli</lem><rdg wit="#ed">quod ubi</rdg></app> illorum opera qui signate <app><lem wit="#Zimmel">rixosarum</lem><rdg wit="#ed">rixosarrum</rdg></app> avidium lanistae vocantur, vel allio, vel pipere, sive alio quopiam Ad luctam exacerbati, praeparantur, 
-                    Et vincit alteruter non minus molestus est victor cum domum repedat, 
-                    quam qui victus est Hic enim ut a victo prius ordiar invidia &amp; <app><lem wit="#Zimmel">maerore</lem><rdg wit="#ed">moerore</rdg></app> absumitur, &amp; indignatio perpetua invidiosus est, nec satis administrat,  <!-- 12 --> 
-                    Ut antea officium, qui potius ubi rogatur, ut agat, quod agere est Opus, collum incuruat minans, caput <app><lem wit="#Zimmel">gyrat</lem><rdg wit="#ed">girat</rdg></app>, rostrumque &amp; calcaria tendit mordendo &amp; scalpuriendo, 
-                    quasi par sibi cum Gallinis pugna futura sit, 
+                    Quod enim a mortalium salute plus alienum esse deberet 
+                    quam dissensio &amp; pugna 
+                    quae maximorum scelerum incitabula sunt non in externos tantum 
+                    verum etiam in cognatos &amp; necessitudine arctissima junctos.
+                </p>
+                <p>
+                    Id quod hi videre possunt 
+                    nil miserantibus oculis 
+                    qui Gallos ut pungent instituunt. 
+                    Ex quo tandem quid sequi Gallinae miserrimae queruntur? 
+                    Nempe nihil nisi hoc 
+                    <app><lem wit="#Zimmel">quod ulli</lem><rdg wit="#ed">quod ubi</rdg></app> illorum opera 
+                    qui signate <app><lem wit="#Zimmel">rixosarum</lem><rdg wit="#ed">rixosarrum</rdg></app> avium lanistae vocantur 
+                    vel allio vel pipere sive alio quopiam ad luctam exacerbati praeparantur 
+                    et vincit alteruter 
+                    non minus molestus est victor 
+                    cum domum repedat 
+                    quam qui victus est. 
+                </p>
+                <p>
+                    Hic enim, ut a victo prius ordiar, 
+                    invidia &amp; <app><lem wit="#Zimmel">maerore</lem><rdg wit="#ed">moerore</rdg></app> absumitur 
+                    &amp; indignatione perpetua invidiosus est 
+                    nec satis administrat, <!-- 12 --> 
+                    ut antea officium 
+                    qui potius 
+                    ubi rogatur ut agat quod agere est opus 
+                    collum incuruat minans, 
+                    caput <app><lem wit="#Zimmel">gyrat</lem><rdg wit="#ed">girat</rdg></app> 
+                    rostrumque &amp; calcaria tendit mordendo &amp; scalpuriendo 
+                    quasi par sibi cum Gallinis pugna futura sit 
                     quae ante cum gallis fuit. 
-                    Proinde nec canit ut solet, alias, nec protegit, sed ita raucit ut galli solent, qui <app><lem wit="#Zimmel">gallulascunt</lem><rdg wit="#ed">gallascunt</rdg></app>, 
-                    Odio praeterea sui ipse marcescit, &amp; quasi vitae <app><lem wit="#Zimmel">ingloriosus</lem><rdg wit="#ed">inglorium</rdg></app> taedeat calcaribus obvius pugnam saepe repetit, &amp; pugnando commoritur 
-                    Hinc miser crebro, Spectatores Gallinis terror, hinc ingens evenit anxietas, qua cum se viduas esse in animum inducunt suum, luctu obteruntur, &amp; miseria: 
-                    Sunt enim re vera miserae mulieres, <app><lem wit="#Zimmel">cum</lem><rdg wit="#ed">quum</rdg></app> a viris quos adamarunt, deseruntur. 
-                    <app><lem wit="#Zimmel">Lacrimis</lem><rdg wit="#ed">Lachrymis</rdg></app> igitur &amp; vexantibus animum vigiliis aperta sui amoris indicia, 
-                    quamvis <app><lem wit="#Zimmel">mala patefacere solent</lem><rdg wit="#ed">mala in parte facere solent</rdg></app>, nec mirum, cum natura gallorum amantissimae essent gallinae, si sanctissimas inter eos conjugii &amp; fidei leges, libido atque insania non impedirent, 
-                    Id quod inter nos homines quoque nimis frequenter locum habet. 
-                    Multorum enim vel a natura institutam amicitiam, vel melior fortuna variat, vel peior invertit, &amp; gloriae crescentibus titulis, vetustae amicitiae necessitudinem adnexam itinere, 
-                    non nisi summae prudentiae viri solent, tantum est in multorum animos ambitionis &amp; ostentationis imperium. 
-                    Victores Gallos qui iam non credat Spectatores insolentissimos esse, si victis ea est, quam <app><lem wit="#Zimmel">rettuli</lem><rdg wit="#ed">retuli</rdg></app> insolentia. 
-                    Cum victoriae, proprium sit, inflare &amp; audentiores facere, quo circa &amp; inter nos paucissimi sunt, qui eam aequo animo serant, 
-                    caveantque ne maximae victoria, maximus contemptus sit comes, Galli victores, inquit Quaquerra, 
-                    cum Ornithoboscia repetunt, sola superbia saginant, &amp; memoria tumescunt rei viriliter actae adduntque 
-                    quicquid est levitatis &amp; libidinis, nec adquisitae nos gloriae titulis faciunt, sed ferociae participes. 
-                    Videres inquit Philonice, si nobis Hospes esses vel biduo, ostentatae fortitudinis iactantiam, &amp; eum corporis cultum, 
-                    qui vis <app><lem wit="#Zimmel">feminas</lem><rdg wit="#ed">foemias</rdg></app> deceat, minusque &amp; amoris  <!-- 13 --> &amp; custodiae, quam ante <app><lem wit="#Zimmel">umquam</lem><rdg wit="#ed">unquam</rdg></app>: 
-                    E quibus nos aperti contemptus evidentissima vestigia annotare necesse est, ac deinde <app><lem wit="#Zimmel">nonnulla</lem><rdg wit="#ed">non nulla</rdg></app> occultiora quae intra fibras resident: odorari. 
-                    Quod certe a vero non est alienum: 
-                    Ex manifestis enim, ut nostri inquiunt philosophi, quae occulta sunt <app><lem wit="#Zimmel">deprehenduntur</lem><rdg wit="#ed">depraehenduntur</rdg></app>. 
-                    Licet mihi hoc in loco exclamare, miserandam esse gallinarum conditionem, quarum mariti galli victores evadunt: 
-                    <app><lem wit="#Zimmel">cetera</lem><rdg wit="#ed">Caeteros</rdg></app> enim asserit victoria, gallinas mancipat, &amp; graviori servitutis jugo coercet. 
-                    Non possum ego spectatores, aut memoria complecti, aut oratione consequi, eas injurias, quibus vel uno die gallinas illi sanguinarii Athletae afficiunt. 
-                    Primum omnium cum Veneris comites Gratiae sint, ut ego cum adolescens poeticae <app><lem wit="#Zimmel">vacarem</lem><rdg wit="#ed">vacacarem</rdg></app>, saepe legi, gallorum Venus, non est Venus, cum eam non gratiae sed pro Charitibus fusiae comitentur: 
-                    Nullus enim hodie est gallis sine sanguine concubitus, adeo miseras illas cristis deprehensas, mordent &amp; vellicant gallinas. 
-                    Videtis Spectatores quam altera comitum Quaquerrea secundum cristam &amp; oculos <app><lem wit="#Zimmel">sanguinolenta</lem><rdg wit="#ed">sanguniolenta</rdg></app> sit: 
-                    putabam eam vepribus <app><lem wit="#Zimmel">laesam</lem><rdg wit="#ed">lesam</rdg></app> Verum: 
-                    ut mihi <app><lem wit="#Zimmel">rettulit</lem><rdg wit="#ed">retulit</rdg></app> Quaquerra, victor ea gallus ita torsit, pessumdedit: &amp; coinquinavit. 
+                </p>
+                <p>
+                    Proinde nec canit ut solet 
+                    alias nec protegit 
+                    sed ita raucit 
+                    ut galli solent 
+                    qui <app><lem wit="#Zimmel">gallulascunt</lem><rdg wit="#ed">gallascunt</rdg></app>. 
+                    Odio praeterea sui ipse marcescit 
+                    &amp; quasi vitae <app><lem wit="#Zimmel">ingloriosus</lem><rdg wit="#ed">inglorium</rdg></app> taedeat 
+                    calcaribus obvius pugnam saepe repetit &amp; pugnando commoritur.
+                </p>
+                <p>
+                    Hinc miser crebro, Spectatores, Gallinis terror, 
+                    hinc ingens evenit anxietas 
+                    qua cum se viduas esse in animum inducunt suum 
+                    luctu obteruntur &amp; miseria.
+                </p>
+                <p>
+                    Sunt enim re vera miserae mulieres 
+                    <app><lem wit="#Zimmel">cum</lem><rdg wit="#ed">quum</rdg></app> a viris quos adamarunt deseruntur. 
+                    <app><lem wit="#Zimmel">Lacrimis</lem><rdg wit="#ed">Lachrymis</rdg></app> igitur &amp; vexantibus animum vigiliis aperta sui amoris indicia 
+                    quamvis <app><lem wit="#ed">mala in parte facere</lem><rdg wit="#Zimmel">mala patefacere</rdg></app> solent 
+                    nec mirum cum natura gallorum amantissimae essent gallinae 
+                    si sanctissimas inter eos conjugii &amp; fidei leges libido atque insania non impedirent 
+                    id quod inter nos homines quoque nimis frequenter locum habet. 
+                </p>
+                <p>
+                    Multorum enim vel a natura institutam amicitiam 
+                    vel melior fortuna variat 
+                    vel peior invertit 
+                    &amp; gloriae crescentibus titulis 
+                    vetustae amicitiae necessitudinem adnexam retinere 
+                    non nisi summae prudentiae viri solent 
+                    tantum est in multorum animos ambitionis &amp; ostentationis imperium. 
+                </p>
+                <p>
+                    Victores Gallos quis iam non credat, Spectatores, insolentissimos esse 
+                    si victis ea est quam <app><lem wit="#Zimmel">rettuli</lem><rdg wit="#ed">retuli</rdg></app> insolentia? 
+                    Cum victoriae proprium sit inflare &amp; audentiores facere 
+                    quo circa &amp; inter nos paucissimi sunt 
+                    qui eam aequo animo ferant, 
+                    caveantque ne maximae victoria maximus contemptus sit comes. 
+                </p>
+                <p>
+                    "Galli victores, inquit Quaquerra, 
+                    cum ornithoboscia repetunt, 
+                    sola superbia saginant 
+                    &amp; memoria tumescunt rei viriliter actae 
+                    adduntque 
+                    quicquid est levitatis &amp; libidinis 
+                    nec adquisitae nos gloriae titulis faciunt sed ferociae participes. 
+                </p>
+                <p>
+                    Videres, inquit Philonice, si nobis hospes esses vel biduo 
+                    ostentatae fortitudinis iactantiam 
+                    &amp; eum corporis cultum, 
+                    qui vix <app><lem wit="#Zimmel">feminas</lem><rdg wit="#ed">foemias</rdg></app> deceat 
+                    minusque &amp; amoris  <!-- 13 --> &amp; custodiae quam ante <app><lem wit="#Zimmel">umquam</lem><rdg wit="#ed">unquam</rdg></app>.
+                </p>
+                <p>
+                    E quibus nos aperti contemptus evidentissima vestigia annotare necesse est 
+                    ac deinde <app><lem wit="#Zimmel">nonnulla</lem><rdg wit="#ed">non nulla</rdg></app> occultiora 
+                    quae intra fibras resident odorari.
+                    Quod certe a vero non est alienum. 
+                    Ex manifestis enim, ut nostri inquiunt philosophi, 
+                    quae occulta sunt 
+                    <app><lem wit="#Zimmel">deprehenduntur</lem><rdg wit="#ed">depraehenduntur</rdg></app>. 
+                    Licet mihi hoc in loco exclamare 
+                    miserandam esse gallinarum conditionem 
+                    quarum mariti galli victores evadunt. 
+                    <app><lem wit="#Zimmel">Cetera</lem><rdg wit="#ed">Caeteros</rdg></app> enim asserit victoria, 
+                    gallinas mancipat &amp; graviori servitutis jugo coercet.
+                </p>
+                <p>
+                    Non possum ego, Spectatores, 
+                    aut memoria complecti 
+                    aut oratione consequi eas injurias 
+                    quibus vel uno die gallinas illi sanguinarii athletae afficiunt. 
+                    Primum omnium cum Veneris comites Gratiae sint 
+                    ut ego cum adolescens poeticae <app><lem wit="#Zimmel">vacarem</lem><rdg wit="#ed">vacacarem</rdg></app> saepe legi 
+                    gallorum Venus non est Venus 
+                    cum eam non Gratiae sed pro Charitibus Furiae comitentur.
+                </p>
+                <p>
+                    Nullus enim hodie est gallis sine sanguine concubitus 
+                    adeo miseras illas cristis deprehensas mordent 
+                    &amp; vellicant gallinas. 
+                </p>
+                <p>
+                    Videtis, Spectatores, 
+                    quam altera comitum Quaquerrae secundum cristam &amp; oculos <app><lem wit="#Zimmel">sanguinolenta</lem><rdg wit="#ed">sanguniolenta</rdg></app> sit! 
+                    Putabam 
+                    eam vepribus <app><lem wit="#Zimmel">laesam</lem><rdg wit="#ed">lesam</rdg></app> 
+                    verum, 
+                    ut mihi <app><lem wit="#Zimmel">rettulit</lem><rdg wit="#ed">retulit</rdg></app> Quaquerra, 
+                    victor eam Gallus ita torsit, 
+                    pessumdedit &amp; coinquinavit. 
                     Estne haec blanda Venus? 
-                    An non haec injuria est: Tales viros mulieres nostrae formidant, &amp; tamen gallinis sunt fortiores. 
-                    Praeterea cum Quaquerra, nuper ad praecipitem vicini fluminis ripam, apricaretur, &amp; se pulvere ac harena molliori non nihil lavaret: 
-                    nihil mali suspicans, gallus victor infestus ei, quam casta Veneris immodestiam contemneret, rostro &amp; calcaribus in <app><lem wit="#Zimmel">caeruleos</lem><rdg wit="#ed">coeruleos</rdg></app> eam fluctus <app><lem wit="#Zimmel">deicere</lem><rdg wit="#ed">dejicere</rdg></app> conatus est, &amp; deturbasset impius, 
-                    ni prospero volatu in alteram se ripam praeterita corripuisset. 
-                    Adeo tamen morti vicina suit ut pedes &amp; ventrem imum summae undae madefecerint. 
-                    Quaero vos Spectatores an hoc factum parricidio non sit vicinius quam injuriae? 
-                    Hic Gallus mersili culeo dignos foret, qui tam audax ausus est facinus. 
-                    Quod si quae iam loquor, Quaquerra nostra sine  <!-- 14 --> interprete acciperet abunde <app><lem wit="#Zimmel">lacrimaretur</lem><rdg wit="#ed">lachrymaretur</rdg></app>: 
+                    An non haec injuria est?
+                </p>
+                <p>
+                    Tales viros mulieres nostrae formidant 
+                    &amp; tamen Gallinis sunt fortiores. 
+                    Praeterea 
+                    cum Quaquerra nuper ad praecipitem vicini fluminis ripam apricaretur 
+                    &amp; se pulvere ac harena molliori non nihil lavaret 
+                    nihil mali suspicans, 
+                    Gallus victor infestus ei 
+                    quam casta Veneris immodestiam contemneret 
+                    rostro &amp; calcaribus in <app><lem wit="#Zimmel">caeruleos</lem><rdg wit="#ed">coeruleos</rdg></app> eam fluctus <app><lem wit="#Zimmel">deicere</lem><rdg wit="#ed">dejicere</rdg></app> conatus est 
+                    &amp; deturbasset impius 
+                    ni prospero volatu in alteram se ripam perterrita corripuisset.
+                </p>
+                <p>
+                    Adeo tamen morti vicina fuit 
+                    ut pedes &amp; ventrem imum summae undae madefecerint. 
+                    Quaero vos, Spectatores, an hoc factum parricidio non sit vicinius quam injuriae? 
+                    Hic Gallus mersili culeo dignos foret 
+                    qui tam audax ausus est facinus. 
+                    Quod si quae iam loquor Quaquerra nostra sine  <!-- 14 --> interprete acciperet 
+                    abunde <app><lem wit="#Zimmel">lacrimaretur</lem><rdg wit="#ed">lachrymaretur</rdg></app>. 
                     Raro enim duros casus qui sustinuere retentis <app><lem wit="#Zimmel">lacrimis</lem><rdg wit="#ed">lachrymis</rdg></app> audire solent. 
-                    Si vero quis inter vos Spectatores factum aliter putat quam dixerim: 
-                    semimares Capos, <app><lem wit="#Zimmel">Quaquerra</lem><rdg wit="#ed">quaquerra</rdg></app> nostra producet, quibus &amp; confidit optime, &amp; multarum injuriarum testes fore perquam sperat, sunt enim haec omnia die ipso clariora, quodque in agello Quaquerrae contigit, fieri alibi frequentius, publici Gallinarum conventus testimonio, compertum est. 
-                    Haec sunt Spectatores pugnarum praemia, hac munera videlicet, quae victores galli conjugibus suis domum referunt: 
-                    <app><lem wit="#Zimmel">Eheu</lem><rdg wit="#ed">E heu</rdg></app> insignia spolia, quibus ornatae, non his tantum, verum etiam Anseribus &amp; anatibus despectui sunt. 
-                    Vides Euthyme, qui gallorum partes defensurus es, quam iuste accusari pro me videantur, quam iniuste autem per te defendi, si defenderis, Videre enim videor, a propugnando te desiturum, &amp; sensurum mecum: 
-                    Quid daretis Galli? 
-                    ut tantum ab hac lite abessetis, quantum Hypanis ab Eridano abest: 
-                    Qua <app><lem wit="#Zimmel">multa</lem><rdg wit="#ed">mulcta</rdg></app> vos obligaretis, ut a gravissimae censurae sententia essetis hac tota nostra provincia liberi? 
-                    credo ego, aliquos tandem repertum iri, qui hoc saxum ad metam usque volvant, ut vestrae vos aliquando: 
-                    luctae <app><lem wit="#Zimmel">paeniteat</lem><rdg wit="#ed">peniteat</rdg></app>, Verum quod haec eloquor, cum non <app><lem wit="#Zimmel">intellegant</lem><rdg wit="#ed">intelligant</rdg></app> Galli.
-                    Tu <app><lem wit="#Zimmel">Euthyme</lem><rdg wit="#ed">Euthynme</rdg></app> qui gallicinium nosti, haec ipsis si lubet, interpretare, reperient forsan, quo se tutentur. 
+                </p>
+                <p>
+                    Si vero quis inter vos, Spectatores, factum aliter putat 
+                    quam dixerim 
+                    semimares Capos <app><lem wit="#Zimmel">Quaquerra</lem><rdg wit="#ed">quaquerra</rdg></app> nostra producet 
+                    quibus &amp; confidit optime 
+                    &amp; multarum injuriarum testes fore perquam sperat. 
+                </p>
+                <p>
+                    Sunt enim haec omnia die ipso clariora 
+                    quodque in agello Quaquerrae contigit fieri alibi frequentius publici Gallinarum conventus testimonio compertum est. 
+                </p>
+                <p>
+                    Haec sunt, Spectatores, pugnarum praemia, haec munera videlicet 
+                    quae victores Galli conjugibus suis domum referunt. 
+                    <app><lem wit="#Zimmel">Eheu</lem><rdg wit="#ed">E heu</rdg></app> insignia spolia 
+                    quibus ornatae non his tantum verum etiam Anseribus &amp; Anatibus despectui sunt.
+                </p>
+                <p>
+                    Vides, Euthyme, 
+                    qui gallorum partes defensurus es 
+                    quam iuste accusari pro me videantur 
+                    quam iniuste autem per te defendi, si defenderis. 
+                </p>
+                <p>
+                    Videre enim videor a propugnando te desiturum 
+                    &amp; sensurum mecum. 
+                    Quid daretis, Galli, 
+                    ut tantum ab hac lite abessetis 
+                    quantum Hypanis ab Eridano abest? 
+                    Qua <app><lem wit="#Zimmel">multa</lem><rdg wit="#ed">mulcta</rdg></app> vos obligaretis 
+                    ut a gravissimae censurae sententia essetis hac tota nostra provincia liberi? 
+                </p>
+                <p>
+                    Credo ego aliquos tandem repertum iri 
+                    qui hoc saxum ad metam usque volvant 
+                    ut vestrae vos aliquando luctae <app><lem wit="#Zimmel">paeniteat</lem><rdg wit="#ed">peniteat</rdg></app>. 
+                    Verum quid haec eloquor 
+                    cum non <app><lem wit="#Zimmel">intellegant</lem><rdg wit="#ed">intelligant</rdg></app> Galli?
+                </p>
+                <p>
+                    Tu, <app><lem wit="#Zimmel">Euthyme</lem><rdg wit="#ed">Euthynme</rdg></app>, qui gallicinium nosti 
+                    haec ipsis, si lubet, interpretare, 
+                    reperient forsan quo se tutentur. 
                     Multa enim excogitat <app><lem wit="#Zimmel">metus</lem><rdg wit="#ed">moetus</rdg></app>. 
-                    Sed ad rem redeo. 
-                    Gallinae Spectatores, Gallos &amp; pariunt &amp; enutriunt, eosque persequuntur amore, quo matres filios decet, Gallorum amor &amp; impar est &amp; impius, Indulgeretur enim hoc ipsis, ut plures una amarent, sexus huius ita natura postulante, 
-                    Verum postquam victores fuere &amp; audentes morsus imbuerunt sanguine, Nulla amatur verius, quam quae &amp; libidine &amp; <app><lem wit="#Zimmel">superbia</lem><rdg wit="#ed">suberbia</rdg></app> Gallis proxime accedit. 
-                    Harum autem, &amp; in sexus huius fragilitate ut ingenue fassa est Quaquerra, <app><lem wit="#Zimmel">nonnullae</lem><rdg wit="#ed">non nullae</rdg></app> sunt, ita forte natura sive fato instituente, ut nihil ab omni parte perfectum atque absolutum <!-- 15 --> sit. 
-                    <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app>, ne cassum omnino &amp; elumbe genus galliae tibi Euthyme &amp; tui similibus videantur, 
-                    qui nihil <app><lem wit="#Zimmel">praeter</lem><rdg wit="#ed">preter</rdg></app> Gallos ex merito laudari posse dudum vobis persuasistis, paucis quae ad earum nobilitatem attinere videntur, perstringam, seu vivas respicis, seu mortuas. 
+                    Sed ad rem redeo.
+                </p>
+                <p>
+                    Gallinae, Spectatores, Gallos &amp; pariunt 
+                    &amp; enutriunt 
+                    eosque persequuntur amore 
+                    quo matres filios decet. 
+                    Gallorum amor &amp; impar est &amp; impius. 
+                    Indulgeretur enim hoc ipsis 
+                    ut plures una amarent, sexus huius ita natura postulante. 
+                    Verum postquam victores fuere 
+                    &amp; audentes morsus imbuerunt sanguine, 
+                    nulla amatur verius 
+                    quam quae &amp; libidine &amp; <app><lem wit="#Zimmel">superbia</lem><rdg wit="#ed">suberbia</rdg></app> Gallis proxime accedit.
+                </p>
+                <p>
+                    Harum autem &amp; in sexus huius fragilitate, 
+                    ut ingenue fassa est Quaquerra, 
+                    <app><lem wit="#Zimmel">nonnullae</lem><rdg wit="#ed">non nullae</rdg></app> sunt 
+                    ita forte natura sive fato instituente 
+                    ut nihil ab omni parte perfectum atque absolutum <!-- 15 --> sit. 
+                </p>
+                <p>
+                    <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app> 
+                    ne cassum omnino &amp; elumbe genus gallinae tibi, Euthyme, &amp; tui similibus videantur 
+                    qui nihil <app><lem wit="#Zimmel">praeter</lem><rdg wit="#ed">preter</rdg></app> Gallos ex merito laudari posse dudum vobis persuasistis 
+                    paucis, quae ad earum nobilitatem attinere videntur, perstringam seu vivas respicis seu mortuas. 
                 </p>
                 <p>
                     Et ea quidem in re quod optimum patronum decet agam 
@@ -588,8 +749,117 @@
                     <p>
                         Eh bien voilà, Euthymus dira : « Le mépris est-il à ce point grand ? Où est cette insolence des coqs qu’on n’a pas encore entendue ? ». Spectateurs, je vous en prie, concentrez-vous et tendez l’oreille: cette affaire n’est absolument pas un jeu. Tout le souci des coqs aujourd’hui tourne autour du fait qu’ils ont plutôt l’air de boxeurs courageux dans une arène que de protecteurs pour des poulaillers, alors que la nature cependant a voulu qu’ils soient les protecteurs des poules et un certain désir très effronté a provoqué des combats abominables si ce n’est des excès.
                     </p>
+                    <p><!-- l.62 -->
+                        En effet, qu’est-ce qui devrait plus être étranger au salut des mortels que la discorde et la lutte qui sont les causes des plus grands crimes non seulement envers ceux qui nous sont inconnus mais aussi envers nos parents et ceux qui nous sont aussi liés par le plus fort des liens? 
+                    </p>
+                    <p><!-- l. 64 -->
+                        Ce qu’ils ne peuvent en rien voir avec des yeux compatissants, ceux qui décident que les coqs se battent.
+                        Enfin, à partir de là, pourquoi les très malheureuses poules se plaindraient-elles de (les) suivre? 
+                        Evidemment, en rien, si ce n’est parce qu’excités à la lutte par l’activité de ceux qui sont appelés “laniste des rixes d’oiseaux”, un nom tout trouvé, soit avec de l’ail, soit avec du poivre, soit avec n’importe quoi d’autre, ils sont préparés et l’un des deux l’emporte, qui n’est pas moins désagréable le victorieux quand rentre chez lui que celui qui a été vaincu.
+                    </p>
+                    <p><!-- l.69 -->
+                        Celui-ci, en effet, comme je commence d’abord par le vaincu, est emporté par la jalousie et la tristesse, il est odieux par son indignation constante et ne remplit pas son devoir de manière aussi satisfaisante qu’avant. 
+                        Lorsqu’on lui demande ce qu’il fait qu’il doit accomplir, il tord plutôt son cou en menaçant, tourne la tête, avance ses éperons et son bec, en mordant et en griffant, comme si, pour eux, un combat allait être mené contre les poules identique à celui qu’il y a eu avec les coqs.                
+                    </p> 
+                    <p><!-- l.74 -->
+                        Puis, il ne chante plus comme il en a l’habitude, il ne les protègent pas, mais ainsi s’enroue, comme en ont l’habitude les coqs qui muent. 
+                        De plus, lui-même se morfond dans la haine de lui-même et comme si, privé de gloire, il était dégoûté de la vie, sortant ses éperons, il retourne souvent au combat et meurt en combattant.
+                    </p>
+                    <p><!-- l. 77 -->
+                        De là, spectateurs, les poules éprouvent souvent une épouvante misérable. De là vient une très grande inquiétude par laquelle lorsqu’elles s’imaginent en pensées qu’elles sont veuves, elles sont anéanties par la douleur et la misère.
+                    </p>
+                    <p><!-- l. 79 -->
+                        En effet, c’est à cause d’une véritable raison, que les femmes sont malheureuses lorsqu’elles se trouvent abandonnées par des hommes qu’elles aiment passionnément. 
+                        Dans les larmes donc et dans des insomnies qui tourmentent l’âme, elles ont l’habitude de faire ces indices de leur amour manifestes autant que détestables en partie.
+                        Et ce n’est pas étonnant, puisque, à cause de leur nature, les poules aimeraient davantage les coqs, si le désir et la folie n’empêchaient pas les lois les plus sacrées de l’union et de la fidélité entre eux, ce qui, entre nous les hommes, arrive de manière bien trop fréquente. 
+                    </p>
+                    <p><!-- l. 84 -->
+                        En effet, cette amitié établie seulement par la nature de beaucoup, soit un destin meilleur la nuancera, soit la changera en quelque chose de pire et, alors que les titres de gloire augmentent, les hommes, exception faite de ceux d’une grand sagesse, n’ont pas l’habitude de conserver le lien noué d’une amitié ancienne, tant est grand le pouvoir de l’ambition et de l’étalage des attributs de les âmes de beaucoup d’entre eux. 
+                    </p>
+                    <p><!-- l. 87 -->
+                        Qui déjà, Spectateurs, ne croirait pas désormais que les coqs victorieux sont tout à fait excessif, s’il n’y a pas contre les vaincus cette insolence que j’ai évoquée?
+                        Puisque c’est le propre de la victoire de rendre orgueilleux et plus audacieux. 
+                        Face à cette situation, autour et parmi nous, il y en a très peu qui supportent cette victoire avec équité d’âme et prennent garde que le compagnon de la plus grande victoire ne soit le plus grand mépris
+                    </p>
+                    <p><!-- l.91 -->
+                        “Les coqs victorieux, dit Quaquerra, lorsqu’ils reviennent au poulailler, grossissent de leur seul orgueil, se gonflent au rappel d’une action menée virilement et y ajoutent tout ce qu’il y a d’inconstance et de débauche et ne nous font pas complices de gloire acquise par leur titres mais de leur férocité.” 
+                    </p>
+                    <p><!-- l. 94 -->
+                        « Tu verrais, Philonicus, a-t-elle dit, si tu étais notre hôte pendant deux jours, la vantardise d’une force ostentatoire et un soin de corps qui conviendrait à peine aux femmes et moins à l’amour et à la protection que jamais auparavant.”
+                    </p>
+                    <p> <!-- l. 97 -->
+                        Pour ces raisons, il est nécessaire que nous notions les preuves les plus évidentes d’un mépris clair et qu’ensuite nous nous mettions en quête de celles qui sont cachés au plus profond de la chair.
+                        Cela n’est vraiment pas éloigné de la vérité. 
+                        À partir des preuves manifestes, comme le disent nos philosophes, on découvre celles qui sont cachées. Je me permets de dire à ce stade que la condition des poules dont les coqs maris ressortent vainqueurs est misérable. En effet, la victoire revendique tout, aliène les poules et les force à porter le joug trop lourd à la servitude.
+                    </p>
+                    <p><!-- l. 103 -->
+                        Je ne peux, spectateurs, ni retenir en mémoire, ni exprimer dans mon discours ces torts que ces athlètes sanguinaires ont causé aux poules en un seul jour. 
+                        Avant toute chose, puisque les Grâces sont les compagnes de Vénus, comme je l’ai souvent lu dans ma jeunesse, alors que j’avais à loisir la poésie, la Vénus des coqs n’est pas Vénus, puisque ce ne sont pas les Grâces qui l’accompagnent, mais à la place des Charites, les Furies.
+                    </p>
                     <p>
-                        test
+                        En effet, aucune vie conjugale n’est aujourd’hui possible pour les coqs sans verser du sang, tellement ils mordent ces malheureuses saisies à la crête et becquetent les poules. 
+                    </p>
+                    <p><!-- l. 109 -->
+                        Vous voyez, spectateurs, combien la seconde des compagnes de Quaquerra est en sang à la crête et aux yeux! 
+                        Je pensais, à vrai dire, qu’elle s’était blessée dans les épines. 
+                        Cependant, comme me l’a raconté Quaquerra, un coq victorieux l’a torturée, ruinée et l’a souillée. 
+                        Cet amour/Vénus n’est-il pas aveugle? 
+                        Ou ceci n’est pas une injustice?
+                    </p>
+                    <p><!-- l. 113 -->
+                        Nos femmes craignent de tels hommes et, cependant, elles ont plus de force que les poules. 
+                        En plus, il y a peu de temps, alors que Quaquerra se chauffait au soleil sur la rive en pente d’une rivière proche et qu’elle ne faisait rien d’autre que de se laver dans la poussière et le sable assez tendre, 
+                        ne se doutant de rien de mal, un coq victorieux, animé contre elle 
+                        parce que, pleine de vertus, elle méprisait l’excès d’amour, de son bec et de ses éperons a essayé de la jeter dans la rivière bleu sombre 
+                        et l’impie l’aurait renversée si d’un vol chanceux elle ne s’était pas arrachée pour l’autre rive, glacée d’épouvante. 
+                    </p>
+                    <p><!-- l. 118 -->
+                        Cependant, elle s’est trouvée si près de la mort que la surface de l’eau mouillait ses pieds et le bas de son ventre. 
+                        Je vous demande, spectateurs, si ce fait n’est pas plus proche du parricide que d’un simple tort. 
+                        Ce coq serait digne du sac d’immersion, lui qui a osé un crime si audacieux. 
+                        Si, ce que je dis désormais, notre Quaquerra le recevait sans interprète, elle pleurerait abondamment. 
+                        En effet, ceux qui ont vécu de grands malheurs arrivent rarement à les entendre en retenant leurs larmes. 
+                    </p>
+                    <p><!-- l. 123 -->
+                        Si, en vérité, quelqu’un parmi vous, spectateurs, pense que cela s’est fait autrement que ce que j’ai dit, notre Quaquerra fera avancer les chapons châtrés en qui elle a une extrême confiance et en qui elle espère tout à fait trouver des témoins de ces nombreuses injustices. 
+                    </p>
+                    <p><!-- l. 126 -->
+                        Tout ceci est plus clair que le jour lui-même.
+                        Ce qui est arrivé à Quaquerra dans le petit champ, on a découvert que cela se produit ailleurs fréquemment grâce au témoignage du rassemblement public des poules.
+                    </p>
+                    <p><!-- l. 128 -->
+                        Voici, spectateurs, les prix des combats, les récompenses, évidemment, que les coqs victorieux rapportent à leurs épouses à la maison. 
+                        Eh bien, ce sont de curieux butins dont une fois ornées, elle sont méprisées non seulement par ceux-ci, mais également par les canards et les oies. 
+                        
+                    </p>
+                    <p> <!-- l. 131 -->
+                        Tu vois, Euthymus, toi qui vas défendre la cause des coqs, combien il semble juste pour moi de les accuser, mais combien il semble injuste que tu les défendes, si tu les défends.
+                    </p>
+                    <p><!-- l. 133 -->
+                        En effet, je crois bien voir que tu abandonneras le combat et que tu seras de mon avis. 
+                        Les coqs, qu’est-ce que vous donneriez pour être aussi loin de ce différend que Hypanis n’est loin d’Eridanus? 
+                        Combien vous engageriez-vous pour être libérés de la sentence d’un jugement très sévère dans tout notre pays?
+                    </p>
+                    <p><!-- l. 136 -->
+                        Moi, je crois cependant qu’on va trouver des personnes pour rouler ce rocher jusqu’au sommet pour qu’un jour vous regrettiez votre lutte. 
+                        Mais pourquoi dirai-je ces choses puisque les coqs ne les comprennent pas? 
+                    </p>
+                    <p> <!-- l. 138 -->
+                        Euthymus, toi qui connais la langue des coqs, si cela leur convient mieux, donne-leur une traduction. Ils trouveront peut-être un moyen par lequel se défendre. 
+                        En effet, la crainte fait imaginer beaucoup de choses. Mais je reviens à l’affaire. 
+                    </p>
+                    <p><!-- l. 140 -->
+                        Les poules, spectateurs, donnent la vie aux coqs et les nourrissent. Elles les accompagnent de l’amour par lequel il convient aux mères d’accompagner leurs fils. 
+                        L’amour des coqs est inférieur et il est sacrilège. 
+                        En effet, on pourrait leur reconnaître que plusieurs aiment ensemble comme la nature de leur sexe est si réclamante. 
+                        Cependant, après qu’ils ont été victorieux et qu’audacieux, ils ont imbibé de sang les morsures, aucune n’est plus vraiment aimée que celle qui, de désir et d’orgueil, s’approche très près des coqs. 
+                    </p>
+                    <p> <!-- l. 145 -->
+                        Or certaines de celles-ci dans la faiblesse de leur sexe, comme l’a franchement avoué Quaquerra, sont d’une telle nature établie par hasard ou par le destin que rien n’est entièrement fini ni achevé dans le détail.
+                    </p>
+                    <p><!-- l. 148 -->
+                        D’ailleurs, pour que la race de la poule ne semble pas, à toi, Euthymus et à ceux qui te sont semblables, inutile et faible, vous qui êtes persuadés il y a peu, que rien excepté les coqs ne peut être loué avec mérite, je raconterai en peu de mots les choses qui semblent toucher leur noblesse, soit que tu considères les vivantes ou les mortes. 
+                        
                     </p>
                     <p> <!-- l. 155 sq. -->
                         Et dans cette affaire en tout cas, je ferai ce qu’il convient de faire au meilleur avocat qui ne présente et n’établit pas toujours l’affaire comme elle a été proposée, mais ajoute là où il faut ajouter et en dit moins là où il faut en dire moins, pour qu’une simplicité évidente (ce qui arrive souvent ailleurs) l’ayant emporté sur la ruse d’une malice versatile ne soit pas contrainte de subir l’étiquette de l’iniquité.
