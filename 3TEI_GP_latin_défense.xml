@@ -90,6 +90,7 @@
          <change type="update" resp="#PJ"><date when="2020-04-11"/>Corrections du texte latin.</change>
          <change type="update" resp="#EP"><date when="2020-04-15"/>Correction du texte latin, modification de l'apparat critique, ajout de la traduction.</change>
          <change type="update" resp="#PJ"><date when="2020-04-22"/>Correction de l'apparat critique.</change>
+         <change type="update" resp="#EP"><date when="2020-05-22"/>Correction du texte latin, modification de l'apparat critique, ajout de la traduction.</change>
       </revisionDesc>
    </teiHeader>
    <text n="3" type="discours">
@@ -101,10 +102,10 @@
                <speaker>Euthymus</speaker>
                <p> Nulla est penitus inter mortales labes, 
                   Spectatores, 
-                  quae virtuti &amp; ex ea natis gloriae &amp; <app><lem wit="#Zimmel">felicitati</lem><rdg wit="ed">foelicitati</rdg></app> 
+                  quae virtuti et ex ea natis gloriae et <app><lem wit="#Zimmel">felicitati</lem><rdg wit="ed">foelicitati</rdg></app> 
                   plus sit adversaria quam invidia 
-                  quae aliquando (ut scitis) infandis exiliis &amp; iniquissimis repulsis eos viros agitavit 
-                  qui &amp; de Diis &amp;
+                  quae aliquando (ut scitis) infandis exiliis et iniquissimis repulsis eos viros agitavit 
+                  qui et de Diis et
                   de hominibus 
                   quam optime meriti videbantur. 
                   Post hos autem plerosque tanta insolentia adorta est 
@@ -113,24 +114,24 @@
                <p>
                   Id si hodie gallis contigit 
                   eo est aequius ferendum 
-                  quod &amp; primum talis rei exemplum non sunt 
-                  &amp; ab his accusantur 
+                  quod et primum talis rei exemplum non sunt 
+                  et ab his accusantur 
                   in quibus iustissimae poenae plus loci est quam querelae.
                </p>
                <p>
-                  Audistis sane Philonici nostri copiosam &amp; disertam postulationem 
+                  Audistis sane Philonici nostri copiosam et disertam postulationem 
                   quam ego commendarem magis 
                   si tanto liberioris maledicentiae tabo illita non esset.
                   Quid enim est dictum 
                   quod gallos non taxet, elevet, alliciat 
-                  cum solae gallinae commendentur &amp; ab his rebus etiam laus sumatur 
+                  cum solae gallinae commendentur et ab his rebus etiam laus sumatur 
                   quae fere laudari nec possint nec debeant?
                </p>
                <p>
-                  Laudanda est certe sedulitas &amp; eloquentia Philonici 
-                  qui more suo non tam verum &amp; justum tuetur 
-                  quam etiam ita falsum &amp; excogitatum instituit, ita obumbrat,
-                  Ut veri &amp; justi loco ab auditoribus accipi debeat. 
+                  Laudanda est certe sedulitas et eloquentia Philonici 
+                  qui more suo non tam verum et justum tuetur 
+                  quam etiam ita falsum et excogitatum instituit, ita obumbrat,
+                  Ut veri et justi loco ab auditoribus accipi debeat. 
                   Tanta est in eo eloquentiae potentia 
                   quae certe alioqui sine malo consilio non male meretur.
                </p>
@@ -139,7 +140,7 @@
                   Unde illa pertinax rei non satis intellectae defensio?
                   <!-- 21 --> Nempe si verum dicere fas est, ut certe est, a solis gallinis 
                   id quod tu Philonice fassus es 
-                  quae te adeo precibus praemiisque induxere &amp; mercati sunt 
+                  quae te adeo precibus praemiisque induxere et mercati sunt 
                   ut falsum pro vero tutari fueris ausus 
                   eoque audaciae mens tua processerit 
                   ut victoriam ipse tibi nondum cognito Iudice promiseris 
@@ -152,19 +153,19 @@
                   Constantiores estis, Spectatores, 
                   quam ut simplici querelae totque anilibus sabellis adauctae fidem illico adhibeatis. 
                   Nullum est hodie <app><lem wit="#Zimmel">vitium</lem><rdg wit="#ed">vicium</rdg></app> 
-                  quod suum patronum non habeat &amp; iniquis rebus eloquentia 
+                  quod suum patronum non habeat et iniquis rebus eloquentia 
                   si vult 
                   multum affert 
                   ac fere non minus ornatus quam recte <app><lem wit="#Zimmel">facti</lem><rdg wit="#ed">factis</rdg></app>. 
                   Tanta est, <app><lem wit="#Zimmel">delinitae</lem><rdg wit="#ed">delinitae</rdg></app> illecebris orationis efficacia. 
-                  Aperte ego vobiscum agam &amp; simpliciter.
+                  Aperte ego vobiscum agam et simpliciter.
                   Sunt enim vetusti <app><lem wit="#Zimmel">auctoris</lem><rdg wit="#ed">autoris</rdg></app> testimonio simplicia verba veritatis 
                   nec fuco vos aut orationis <app><lem wit="#Zimmel">delenimentis</lem><rdg wit="#ed">delinimentis</rdg></app> suspendam. 
                </p>
                <p>
-                  Iusta enim lingua robur immensum habet &amp; viribus eloquentiae adeo certe non eget
+                  Iusta enim lingua robur immensum habet et viribus eloquentiae adeo certe non eget
                   quam haec quae cum rei candore diffidit ad obductae tectoriis <app><lem wit="#Zimmel">blanditias</lem><rdg wit="#ed">blandicias</rdg></app> linguae 
-                  &amp; ostentosam verborum iactantiam refugium habet. 
+                  et ostentosam verborum iactantiam refugium habet. 
                </p>
                <p>
                   Scitis 
@@ -172,112 +173,266 @@
                   cum legatus venisset
                   Catonis sententia 
                   a Senatus conspectu amoveri iussum 
-                  quod vir gravis &amp; veritatis amans hominis eloquentiam suspectam habebat.
+                  quod vir gravis et veritatis amans hominis eloquentiam suspectam habebat.
                </p>
                <p>
-                  Te autem Philonice, ut ad instituta perveniam, oratum volo, ut quantum gallinarum invidia seductus fueris, quidve aut quantum defenderis ex hisce quae iam sum dicturus patiente accipias.
-                  <app><lem wit="#ed">Intelliges</lem><rdg wit="#Zimmel">Intelleges</rdg></app> enim sane omnia &amp; mecum senties, Quamquam quod tu paulo ante non fecisti, nihil asserere temere velim,
-                  nec polliceri mihi victoriam, Sed id solum conari, ut quod est verum in aperto sit, Reliquum in eius manibus erit qui causae futurus est Iudex, rem enim nostram ad unum, aut pauciores saltem relatum iri existimo,
-                  quod si non fit, aeque mihi vos omnes spectatores, in judices eligo, ac Philonicus fecit. Veritas etenim multorum diligentia <!-- 22 -->rectius deprehenditur, quam unius opinione,
-                  &amp; <app><lem wit="#Zimmel">praeceps</lem><rdg wit="#ed">preceps</rdg></app> admodum est consilium, quod non multorum trutinato judicio elucidatur Dignemini igitur si modo vobis masculi Galli, 
-                  cordi <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> fuere, veritatis &amp; <app><lem wit="#Zimmel"></lem><rdg wit="#ed">justiciae</rdg></app> juvandae gratia, me hoc in loco
-                  qui Gallos sum defensurus, patienter audire, ut nostris litibus iudicio, provocato verum <app><lem wit="#ed">dinoscatis</lem><rdg wit="#Zimmel">dignoscatis</rdg></app>.
-                  Venere ad me pridie Galli <app><lem wit="#ed">quatuor</lem><rdg wit="#Zimmel">quattuor</rdg></app>, quos assidere mihi hic videtis, ut forma praestantes, ita Hercle anio acutissimi &amp; vigilantissimi,
-                  quorum senior, Giggulirus nomine, postquam hospitii sibi copia facta est, clamare coepit, Euthyme (Novit enim me iam a teneris annis, Parenti suo, itidem prudenti saepe comes cum me de rebus
-                  gravioribus <app><lem wit="#Zimmel">rei publicae</lem><rdg wit="#ed">R. P.</rdg></app> suae consulturus advolavit) Euthyme inquit, qui Gallicinium <app><lem wit="#ed">intelligis</lem><rdg wit="#Zimmel">intellegis</rdg></app>
-                  &amp; patrocinio tuo strenuos Gallos, multis iam annis fidelissie iuuisti, causisque gravissimis saepe tutatus es, Nos ingenti Gallorum conventu publicae legationes muneri praefecti, ad te mittimur,
-                  qui <app><lem wit="#Zimmel">ceteris</lem><rdg wit="#ed">caeteris</rdg></app> &amp; prudentia praestas, &amp; eo in loco <app><lem wit="#ed">oportune</lem><rdg wit="#Zimmel">opportune</rdg></app> agis, 
-                  quo conjuges nostras, si modo conjuges dici merentur, longa excogitatam invidia postulationem pro Patronum habituras intelleximus, eo nervos animi tendes, &amp; duce veritate retundes, 
-                  quicquid nobis, falso plebs illa mobilis impegerit. Ego postquam conjugis audivi nomen adeo quidem <app><lem wit="#Zimmel">obstupui</lem><rdg>odstupui</rdg></app> ut fere, 
-                  quasi <app><lem wit="#Zimmel">ecstasi</lem><rdg wit="#ed">estasi</rdg></app> correptus, decubuerim, &amp; in animo volvere <app><lem wit="#Zimmel">incepi</lem><rdg wit="#ed">incoepi</rdg></app> id jam adesse,
-                  quod saepe cito nimis affuturum timueram, Novi enim mulieres, quae cum natura sint invidae &amp; ad iram propensae, dum offenduntur, sive potius castigantur, ex festuca trabem, ex stupa Magnetem suo clamore facere.
-                  Tum quae belli causa foret, inquirenti, solam gloriam Gallorum esse Giggulirus respondit, quam decentissimis pugnis adquisitam, sibi non esse dividuam, Gallinae quererentur, &amp; dolerent,
-                  quid mares quid <app><lem wit="#Zimmel">feminas</lem><rdg wit="#ed">foeminas</rdg></app> deceat, sane non <app><lem wit="#ed">intelligentes</lem><rdg wit="#Zimmel">intellegentes</rdg></app>.
-                  Deinde nonnullarum rerum me prudenter &amp; diserte admonens, rem inquit, tenes Euthyme, <!-- 23 --> nosti Gallos, nosti Gallinas, omnia prudentiae tuae committimus
-                  Nec, si commode hoc in loco verba facere possemus, faceremus tamen, male enim propositis, &amp; dolose excogitatis, adeo in Galli nas possemus accendi,
-                  ut ea in medium adduceremus, quorum nos posthac forsan <app><lem wit="#Zimmel">paeniteret</lem><rdg wit="#ed">peniteret</rdg></app>. Fama enim nostra plus nobis curae est quam Gallinarum infamia.
-                  Loquenti tamen tibi assistemus, ut verbis tuis nostra praesentia fides fiat. Haec cum audissem, Gallos me Hercule, ut apertos &amp; paucorum verborum viros miseratus cogitare omnia 
-                  &amp; inquirere diligentissime <app><lem wit="#ed">cepi</lem><rdg wit="#Zimmel">coepi</rdg></app>, &amp; brevi sum expiscatus Gallinas adesse
-                  &amp; Philonicum conductum patronum, Cumque paulo ante, domum egrediens, tot hunc in locum homines confluere animadverti, forte subsecutus sum, animus enim mihi, nescio quid praesagiverat,
-                  nec frustra, Philonicum siquidem ita anhelantem vidi, ut folles mihi sub pectore premere videret, Cui me locuturo opposui, ut omnia quibus respondendum esse videretur ex eius ore colligerem.
-                  Collegi igitur non parum multa, quibus ut serie, respondeam est opus. Dixti Philonice Gallorum curam  in eo versari, ut in harena pugiles sint potius, quam ad Gallinaria custodes,
-                  &amp; ex eo quidem omnis dissensionis &amp; controversiae fundamentum, derivas, nimis certe temere, ne dicam imprudenter, non enim hoc <app><lem wit="#ed">revera</lem><rdg wit="#Zimmel">re vera</rdg></app>
-                  Gallinis dolori est, quod pugnant galli, sed longe aliud, Invidia siquidem succensae <app><lem wit="#Zimmel">aegre ferunt</lem><rdg wit="#ed">aegreferunt</rdg></app> extolli gallos, 
-                  dum interim <app><lem wit="#ed">ipse</lem><rdg wit="#Zimmel">ipsae</rdg></app> sibi domi quasi ingloriae degere videntur, Debebas igitur ex Gallinarum immensa invidia rem duxisse, non pugna gallorum,
-                  quam ego hoc in loco, non modo decentem sed &amp; necessariam esse assero. <app><lem wit="#ed">Quandoquidem</lem><rdg wit="#Zimmel">quando quidem</rdg></app> ugnaces 
-                  &amp; cordatos oportet esse gallos, si toto gallinarum custodes gloriosi esse &amp; videre volunt, &amp; quae noxia insurgunt, eliminare. 
-                  Nemo autem Spectatores aut cordatus <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app>, aut ad pugnam idoneus fuit, a quo pugnae ratio
-                  &amp; truculenti hostis aspectus ignoratur. Miserum exercitum vetustas putavit, quem inexpertus <!-- 24 -->&amp; nullis assuetus vulneribus, imperator duceret.
-                  Proinde ut ex pugna reversus, per immensos terrores, variumque armorum strepitum  &amp; dubios Martis vultus, miles audentior sit. Id quod vere L. Sicinius Dentatus, Manlius Capitolinus, M. Sergius saepe vulnerati, docuere.
-                  Ita &amp; ex lucta ad pugnandum, animosiores ubi res postulat fiunt galli. Dicite mihi Spectatores an <app><lem wit="#ed">tironi</lem><rdg wit="#ed">Tyroni</rdg></app> Veteranus praeferendus sit? 
-                  Hercle praeferendum dicetis, Idque solius fortitudinis gratia, quae longo usu &amp; diutinis castris <app><lem wit="#Zimmel">comparatur</lem><rdg wit="#ed">comperatur</rdg></app>. 
-                  Non advertisti Philonice, quam tecum dissenseris. Vis gallos a pugna esse alienos? &amp; noxiis avibus visis non fugere? cum fuga pugnandi nescios maxime deceat.
-                  Erras tu quidem, quod aiunt, toto coelo, &amp; anilibus galliarum nugis, quo volunt flecteris. Gallos mares, ut audistis Spectatores pugna decet, non tam honoris aucupandi gratia,
-                  quam galliarum tutelae, &amp; salutis, id quod istae vitilitigatrices non advertunt. Neque sunt hi <app><lem wit="#ed">per celebres</lem><rdg wit="#Zimmel">percelebres</rdg></app> ludi cruenti per celebres semper,
-                  nec <app><lem wit="#Zimmel">letiferi</lem><rdg wit="#ed">laetiferi</rdg></app> quod gallinae ingerunt, Quotus enim quisque illic perit ubi ugnatur?
-                  Nec praetereundum est, quod hoc instituto maximis civitatibus sempiternae gloriae galli fuerunt. Postquam enim gallorum certamen Pergami <app><lem wit="#ed">increbuit</lem><rdg wit="#Zimmel">increbruit</rdg></app>, 
-                  &amp; thenis post Themistoclis cum Xerse pugnam, die in singulos annos decreto;  inceptum est, Nobilitata est, Rhodos, Tanagra, &amp; media regio, Rhodii enim &amp;, Tanagrici, omnium pugnacissimi fuere,
-                  secundum hos autem, ut accepi Chalcidici &amp; <app><lem wit="#ed">Melici</lem><rdg wit="#Zimmel">Melii</rdg></app>. Videtis, Spectatores multos gallos, ex lucta, sibi &amp;
-                  patriae selectae reportasse, quasi aut Olympiis, aut Isthimicis ludis Athletae suissent victores. Vetustissimum igitur morem &amp; longa annorum serie inductum,nostri galli si aemulantur, 
-                  quis vituperat? Estis certe morsum genus gallinae estis invidissimae: non amatis maritos, quos contra viri officium pastoralis custodiae inertia domi obtorpere mavultis, 
-                  quam ex celebribus Gymnasiis, desideratis gloriae titulis insignitos redire, <!-- 25 --> Vos subinde fingendo,quid prodestis? Quid iuvat inserere ea vestris <app><lem wit="#Zimmel">lachrymis</lem><rdg wit="#ed">lachrymis</rdg></app>, 
-                  quae ne hili quidem facienda sunt, Augetur <app><lem wit="#Zimmel">aestimatio</lem><rdg wit="#ed">estimatio</rdg></app> generis vestri, si viri Galli pugna fatigantur,Romanae matronae, 
-                  quorum viri conjuges,<app><lem wit="#Zimmel">rei publicae</lem><rdg wit="#ed">R. P.</rdg></app> externorum casu pro virili iuverunt, e victoriis, triumphis, 
-                  &amp; omnino honoribus, non parvam sibi gloriae partem ascripserunt. Putatis non laetatam Hersiliam non etiam elatam, Romulo non semel tam gloriose vincente? 
-                  Cincinnati uxorem <app><lem wit="#ed">&amp; si</lem><rdg wit="#Zimmel">etsi</rdg></app> trepidam Raciliam, Dictatura tamen in mediis arvis oblata viro, gavisam quis dubitat? 
-                  Quid alias recenseam Spectatores immensi ordinis <app><lem wit="#Zimmel">feminas</lem><rdg wit="#ed">faeminas</rdg></app>, quas maritorum virtus <app><lem wit="#ed">adfecti</lem><rdg wit="#Zimmel">affecti</rdg></app>, 
-                  Participem habetis gloriam gallinae, &amp; eam vobis participem esse non <app><lem wit="#ed">intelligitis</lem><rdg wit="#Zimmel">intellegitis</rdg></app>. Verum est, mulieres fere omnes in malam partem, pertinacioris animi esse quam in bonam, 
-                  Hinc tot <app><lem wit="#Zimmel">lachrymis</lem><rdg wit="#ed">lachrymis</rdg></app> illitae querelae, tot curae astutia etiam simulatae, et irritante invidia, clamosae injuriarum &amp; ampullatae obiectiones, 
-                  quas gallinarum credo municeps, Philonicus, Linguae blandimentis accurate satis &amp; vigilanter iuvit, Sed frustra, Nam &amp; in hoc honestissimae pugnae decore, 
-                  multiformis hominibus voluptas accidit, &amp; viris interim maximis nulla in re propius accedunt galli, quam lucta exercitio. Nestorem ego Triseclem, &amp; consultissimi pectoris Heroem, 
+                  Te autem, Philonice, ut ad instituta perveniam oratum volo 
+                  ut quantum gallinarum invidia seductus fueris 
+                  quidve 
+                  aut quantum defenderis ex hisce 
+                  quae iam sum dicturus patiente accipias.
+                  <app><lem wit="#ed">Intelliges</lem><rdg wit="#Zimmel">Intelleges</rdg></app> enim sane omnia et mecum senties, 
+                  quamquam 
+                  quod tu paulo ante non fecisti 
+                  nihil asserere temere velim
+                  nec polliceri mihi victoriam 
+                  sed id solum conari 
+                  ut quod est verum in aperto sit. 
+                  Reliquum in eius manibus erit 
+                  qui causae futurus est judex 
+               </p>
+               <p>
+                  Rem enim nostram ad unum aut pauciores saltem relatum iri existimo
+                  quod si non fit aeque mihi vos omnes, Spectatores, in judices eligo 
+                  ac Philonicus fecit. 
+                  Veritas etenim multorum diligentia <!-- 22 -->rectius deprehenditur quam unius opinione
+                  et <app><lem wit="#Zimmel">praeceps</lem><rdg wit="#ed">preceps</rdg></app> admodum est consilium 
+                  quod non multorum trutinato judicio elucidatur. 
+               </p>
+               <p>
+                  Dignemini igitur 
+                  si modo vobis masculi Galli cordi <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> fuere veritatis 
+                  et <app><lem wit="#Zimmel"></lem><rdg wit="#ed">justiciae</rdg></app> justitiae gratia 
+                  me hoc in loco
+                  qui Gallos sum defensurus 
+                  patienter audire 
+                  ut nostris litibus iudicio provocato verum <app><lem wit="#ed">dinoscatis</lem><rdg wit="#Zimmel">dignoscatis</rdg></app>.
+               </p>
+               <p>
+                  Venere ad me pridie Galli <app><lem wit="#ed">quatuor</lem><rdg wit="#Zimmel">quattuor</rdg></app> 
+                  quos assidere mihi hic videtis 
+                  ut forma praestantes ita Hercle animo acutissimi et vigilantissimi
+                  quorum senior, Giggulirus nomine, postquam hospitii sibi copia facta est clamare coepit. 
+               </p>
+               <p>
+                  "Euthyme!" 
+                  (Novit enim me iam a teneris annis 
+                  parenti suo itidem prudenti saepe comes 
+                  cum me de rebus gravioribus <app><lem wit="#Zimmel">rei publicae</lem><rdg wit="#ed">R. P.</rdg></app> suae consulturus advolavit) 
+                  "Euthyme, inquit, qui Gallicinium <app><lem wit="#ed">intelligis</lem><rdg wit="#Zimmel">intellegis</rdg></app>
+                  et patrocinio tuo strenuos Gallos multis iam annis fidelissime iuuisti 
+                  causisque gravissimis saepe tutatus es, 
+                  nos ingenti Gallorum conventu publicae legationis muneri praefecti ad te mittimur
+                  qui <app><lem wit="#Zimmel">ceteris</lem><rdg wit="#ed">caeteris</rdg></app> et prudentia praestas 
+                  et eo in loco <app><lem wit="#ed">oportune</lem><rdg wit="#Zimmel">opportune</rdg></app> agis 
+                  quo conjuges nostras, si modo conjuges dici merentur, longa excogitatam invidia postulationem pro patronum habituras intelleximus 
+                  eo nervos animi tendes 
+                  et duce veritate retundes 
+                  quicquid nobis falso plebs illa mobilis impegerit." 
+               </p>
+               <p>
+                  Ego 
+                  postquam conjugis audivi nomen 
+                  adeo quidem <app><lem wit="#Zimmel">obstupui</lem><rdg>odstupui</rdg></app> 
+                  ut fere 
+                  quasi <app><lem wit="#Zimmel">ecstasi</lem><rdg wit="#ed">estasi</rdg></app> correptus 
+                  decubuerim 
+                  et in animo volvere <app><lem wit="#Zimmel">incepi</lem><rdg wit="#ed">incoepi</rdg></app> 
+                  id jam adesse
+                  quod saepe cito nimis affuturum timueram. 
+               </p>
+               <p>
+                  Novi enim mulieres 
+                  quae cum natura sint invidae et ad iram propensae 
+                  dum offenduntur sive potius castigantur 
+                  ex festuca trabem 
+                  ex stupa magnetem suo clamore facere.
+               </p>
+               <p>
+                  Tum quae belli causa foret inquirenti 
+                  solam gloriam Gallorum esse Giggulirus respondit 
+                  quam decentissimis pugnis adquisitam sibi non esse dividuam Gallinae quererentur et dolerent,
+                  quid mares quid <app><lem wit="#Zimmel">feminas</lem><rdg wit="#ed">foeminas</rdg></app> deceat 
+                  sane non <app><lem wit="#ed">intelligentes</lem><rdg wit="#Zimmel">intellegentes</rdg></app>.
+               </p>
+               <p>
+                  Deinde nonnullarum rerum me prudenter et diserte admonens: 
+                  "Rem, inquit, tenes, Euthyme! 
+                  <!-- 23 -->Nosti Gallos, 
+                  nosti Gallinas, 
+                  omnia prudentiae tuae committimus
+                  nec, 
+                  si commode hoc in loco verba facere possemus 
+                  faceremus tamen. 
+                  Male enim propositis et dolose excogitatis 
+                  adeo in Gallinas possemus accendi
+                  ut ea in medium adduceremus 
+                  quorum nos posthac forsan <app><lem wit="#Zimmel">paeniteret</lem><rdg wit="#ed">peniteret</rdg></app>. 
+                  Fama enim nostra plus nobis curae est quam Gallinarum infamia.
+                  Loquenti tamen tibi assistemus ut verbis tuis nostra praesentia fides fiat. 
+               </p>
+               <p>
+                  Haec cum audissem Gallos me, Hercule, ut apertos et paucorum verborum viros miseratus 
+                  cogitare omnia et inquirere diligentissime <app><lem wit="#Zimmel">coepi</lem><rdg wit="#ed">cepi</rdg></app> 
+                  et brevi sum expiscatus Gallinas adesse
+                  et Philonicum conductum patronum. 
+                  Cumque paulo ante domum egrediens tot hunc in locum homines confluere animadverti, 
+                  forte subsecutus sum. 
+               </p>
+               <p>
+                  Animus enim mihi, nescio quid praesagiverat,
+                  nec frustra Philonicum siquidem ita anhelantem vidi 
+                  ut folles mihi sub pectore premere videret. 
+                  Cui me locuturo opposui 
+                  ut omnia quibus respondendum esse videretur ex eius ore colligerem.
+                  Collegi igitur non parum multa quibus ut serie respondeam est opus. 
+               </p>
+               <p>
+                  Dixti, Philonice, Gallorum curam in eo versari 
+                  ut in harena pugiles sint potius quam ad Gallinaria custodes
+                  et ex eo quidem omnis dissensionis et controversiae fundamentum derivas 
+                  nimis certe temere ne dicam imprudenter. 
+                  Non enim hoc <app><lem wit="#ed">revera</lem><rdg wit="#Zimmel">re vera</rdg></app> Gallinis dolori est 
+                  quod pugnant galli sed longe aliud 
+                  invidia siquidem succensae <app><lem wit="#Zimmel">aegre ferunt</lem><rdg wit="#ed">aegreferunt</rdg></app> extolli gallos 
+                  dum interim <app><lem wit="#Zimmel">ipsae</lem><rdg wit="#ed">ipse</rdg></app> sibi domi quasi ingloriae degere videntur. 
+               </p>
+               <p>
+                  Debebas igitur 
+                  ex Gallinarum immensa invidia rem duxisse non pugna gallorum
+                  quam ego hoc in loco non modo decentem sed et necessariam esse assero.
+                  <app><lem wit="#ed">Quandoquidem</lem><rdg wit="#Zimmel">quando quidem</rdg></app> pugnaces et cordatos oportet esse gallos 
+                  si toto gallinarum custodes gloriosi esse et videri volunt 
+                  et quae noxia insurgunt eliminare.
+               </p>
+               <p>
+                  Nemo autem, Spectatores, aut cordatus <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> 
+                  aut ad pugnam idoneus fuit 
+                  a quo pugnae ratio et truculenti hostis aspectus ignoratur. 
+                  Miserum exercitum vetustas putavit 
+                  quem inexpertus <!-- 24 -->et nullis assuetus vulneribus imperator duceret
+                  proinde ut ex pugna reversus per immensos terrores variumque armorum strepitum et dubios Martis vultus miles audentior sit. 
+                  Id quod vere L. Sicinius Dentatus, Manlius Capitolinus, M. Sergius saepe vulnerati docuere.
+                  Ita et ex lucta ad pugnandum animosiores ubi res postulat fiunt galli. 
+               </p>
+               <p>
+                  Dicite mihi, Spectatores, 
+                  an <app><lem wit="#ed">tironi</lem><rdg wit="#ed">Tyroni</rdg></app> veteranus praeferendus sit? 
+                  Hercle, praeferendum dicetis idque solius fortitudinis gratia 
+                  quae longo usu et diutinis castris <app><lem wit="#Zimmel">comparatur</lem><rdg wit="#ed">comperatur</rdg></app>. 
+               </p>
+               <p>
+                  Non advertisti, Philonice, quam tecum dissenseris? 
+                  Vis gallos a pugna esse alienos 
+                  et noxiis avibus visis non fugere 
+                  cum fuga pugnandi nescios maxime deceat?
+                  Erras tu quidem, quod aiunt, toto coelo 
+                  et anilibus galliarum nugis quo volunt flecteris. 
+               </p>
+               <p>
+                  Gallos mares, ut audistis, Spectatores, pugna decet non tam honoris aucupandi gratia
+                  quam galliarum tutelae et salutis 
+                  id quod istae vitilitigatrices non advertunt 
+                  neque sunt hi <app><lem wit="#Zimmel">percelebres</lem><rdg wit="#ed">per celebres</rdg></app> ludi cruenti semper
+                  nec <app><lem wit="#Zimmel">letiferi</lem><rdg wit="#ed">laetiferi</rdg></app> 
+                  quod gallinae ingerunt. 
+                  Quotus enim quisque illic perit ubi pugnatur?
+               </p>
+               <p>
+                  Nec praetereundum est 
+                  quod hoc instituto maximis civitatibus sempiternae gloriae galli fuerunt. 
+                  Postquam enim gallorum certamen Pergami <app><lem wit="#ed">increbuit</lem><rdg wit="#Zimmel">increbruit</rdg></app> 
+                  et Athenis post Themistoclis cum Xerse pugnam 
+                  die in singulos annos decreto  inceptum est. 
+                  Nobilitata est Rhodos, Tanagra et media regio. 
+                  Rhodii enim et Tanagrici omnium pugnacissimi fuere
+                  secundum hos autem, ut accepi, Chalcidici et <app><lem wit="#ed">Melici</lem><rdg wit="#Zimmel">Melii</rdg></app>. 
+               </p>
+               <p>
+                  Videtis, Spectatores, 
+                  multos gallos ex lucta sibi et patriae selectae reportasse 
+                  quasi aut Olympiis aut Isthimicis ludis Athletae fuissent victores. 
+                  Vetustissimum igitur morem et longa annorum serie inductum nostri galli si aemulantur 
+                  quis vituperat? 
+               </p>
+               <p>
+                  Estis certe morosum genus, gallinae. 
+                  estis invidissimae, 
+                  non amatis maritos 
+                  quos contra viri officium pastoralis custodiae inertia domi obtorpere mavultis, 
+                  quam ex celebribus gymnasiis desideratis gloriae titulis insignitos redire. <!-- 25 -->
+               </p>
+               <p>
+                  Vos subinde fingendo quid prodestis? 
+                  Quid iuvat inserere ea vestris <app><lem wit="#Zimmel">lachrymis</lem><rdg wit="#ed">lachrymis</rdg></app> 
+                  quae ne hili quidem facienda sunt? 
+                  Augetur <app><lem wit="#Zimmel">aestimatio</lem><rdg wit="#ed">estimatio</rdg></app> generis vestri 
+                  si viri Galli pugna fatigantur.
+               </p>
+               <p>
+                  Romanae matronae 
+                  quorum viri conjuges <app><lem wit="#Zimmel">rei publicae</lem><rdg wit="#ed">R. P.</rdg></app> externorum casu pro virili iuverunt 
+                  e victoriis, triumphis et omnino honoribus 
+                  non parvam sibi gloriae partem ascripserunt. 
+                  Putatis non laetatam Hersiliam, non etiam elatam, Romulo non semel tam gloriose vincente? 
+                  Cincinnati uxorem, <app><lem wit="#ed">et si</lem><rdg wit="#Zimmel">etsi</rdg></app> trepidam Raciliam, 
+                  dictatura tamen in mediis arvis oblata viro, gavisam quis dubitat? 
+                  Quid alias recenseam, Spectatores, immensi ordinis <app><lem wit="#Zimmel">feminas</lem><rdg wit="#ed">faeminas</rdg></app> 
+                  quas maritorum virtus <app><lem wit="#Zimmel">affecit</lem><rdg wit="#ed">adfecit</rdg></app>? 
+               </p>
+               <p>
+                  Participem habetis gloriam gallinae, et eam vobis participem esse non <app><lem wit="#ed">intelligitis</lem><rdg wit="#Zimmel">intellegitis</rdg></app>. Verum est, mulieres fere omnes in malam partem, pertinacioris animi esse quam in bonam, 
+                  Hinc tot <app><lem wit="#Zimmel">lachrymis</lem><rdg wit="#ed">lachrymis</rdg></app> illitae querelae, tot curae astutia etiam simulatae, et irritante invidia, clamosae injuriarum et ampullatae obiectiones, 
+                  quas gallinarum credo municeps, Philonicus, Linguae blandimentis accurate satis et vigilanter iuvit, Sed frustra, Nam et in hoc honestissimae pugnae decore, 
+                  multiformis hominibus voluptas accidit, et viris interim maximis nulla in re propius accedunt galli, quam lucta exercitio. Nestorem ego Triseclem, et consultissimi pectoris Heroem, 
                   legi multis Gymnicis certaminibus exercitatum, in rei militaris tandem experientiam venisse, unde sibi dubio, procul senilis illa prudentia incalluit, Alios praetero qui sunt innumeri. 
                   <app><lem wit="#ed">Intelliges</lem><rdg wit="#Zimmel">Intelleges</rdg></app> ex his Philonice, quam indecenter, lanistae nomine lacessantur, qua Gallos ad pugnam instituunt, non enim in his crudelitas: 
                   sed amoenitas, non periculum sed incrementum, inest, Nec rixosi sunt subito galli cum vicere, verum in eam, quae pro gallinis <app><lem wit="#ed">sumenda</lem><rdg wit="#ed">summenda</rdg></app> est pugnam, plus animosi,
                   Quod si unus aut alter, qua victoria temere abutatur, reperitur, non stati in omnes culpam <app><lem wit="#ed">reiicies</lem><rdg wit="#Zimmel">reicies</rdg></app>, 
-                  Summae enim petulantiae est, ne dicam insaniae, quod pauci commisere, in omnes referre,Proinde cum lanistae nomen odiosum admodum <!-- 26 -->&amp; et infestum sit, eos ita nominabimus, 
+                  Summae enim petulantiae est, ne dicam insaniae, quod pauci commisere, in omnes referre,Proinde cum lanistae nomen odiosum admodum <!-- 26 -->et et infestum sit, eos ita nominabimus, 
                   qui humanis oculis, humani cruoris, profluvio, spectaculum ex <app><lem wit="#Zimmel">digladiatione</lem><rdg wit="#ed">diglatiatione</rdg></app>, summo scelere instituunt, 
                   Is horror, haec immanitas longe Philonice ab gallis aliena est, Quod si aliquando Spectatores quasi gravissimo aliquo incommodo agitati galli post luctam tacent, victi, non est quod miremur,
-                  nusquam enim vinci amoenum est, minimos etiam &amp; pueris idoneos percensentibus ludos, <app><lem wit="#ed">Non nullius</lem><rdg wit="#Zimmel">Nonnullius</rdg></app> ergo <app><lem wit="#ed">moeroris</lem><rdg wit="#Zimmel">moreris</rdg></app> ratio id efficit, 
+                  nusquam enim vinci amoenum est, minimos etiam et pueris idoneos percensentibus ludos, <app><lem wit="#ed">Non nullius</lem><rdg wit="#Zimmel">Nonnullius</rdg></app> ergo <app><lem wit="#ed">moeroris</lem><rdg wit="#Zimmel">moreris</rdg></app> ratio id efficit, 
                   quod a cantu abstinet victus gallus, qua pro gloria, per honoris incolumi perennitate, luctam instituerat. Eam sortem si indignatio sequetur, aequo animo ferre debent Gallinae, 
                   cum interim non minus amentur quam antea, aliter Philonico somniante quam res habeat. Praeterea, ut victoriam adeptis clamor est peculiaris in nostra etiam fragilitate, 
-                  ita &amp; eandem amittentibus silentium praecipuum, Romanus olim miles post Cannensem cladem certe non cecinit, verum summo silentio Romam est amplexus si forte quis Romam
-                  tunc, non Italiam deserturus pervenit, At Scipionis triumpho, qui Carthaginis superatae &amp; Italiae vindicatae index fuit, multiplex cantus, multiplexque
-                  <app><lem wit="#Zimmel">exsultatio</lem><rdg wit="#ed">exultatio</rdg></app>, Punicis immixta ferculis, dubio procul audita &amp; visa est Croesus 
+                  ita et eandem amittentibus silentium praecipuum, Romanus olim miles post Cannensem cladem certe non cecinit, verum summo silentio Romam est amplexus si forte quis Romam
+                  tunc, non Italiam deserturus pervenit, At Scipionis triumpho, qui Carthaginis superatae et Italiae vindicatae index fuit, multiplex cantus, multiplexque
+                  <app><lem wit="#Zimmel">exsultatio</lem><rdg wit="#ed">exultatio</rdg></app>, Punicis immixta ferculis, dubio procul audita et visa est Croesus 
                   quem omnes, fama variae fortunae novistis, suam <app><lem wit="#Zimmel">felicitatem</lem><rdg wit="#ed">foelicitatem</rdg></app> non semel blando risu admiratus, 
                   non Hercle risit cum pyram illam fatalem ascendit moriturus, Verum quid  morae in re tam aperta facio? Galli Spectatores ut Philonice nugas continenter eliminem, 
                   seu victi sunt seu victores evadunt, officium faciunt, gallinas amant, fovent, tutantur, Nec ullam <app><lem wit="#Zimmel">escam</lem><rdg wit="#ed">aescam</rdg></app> soli comedunt, 
-                  nisi longissime absint gallinae, Nostis etenim quam coczysent familiariter quam blando has murmure invitent. Ova caperat? Gallinas ego certe bardas &amp; insipidas appellare ausim si aliud
+                  nisi longissime absint gallinae, Nostis etenim quam coczysent familiariter quam blando has murmure invitent. Ova caperat? Gallinas ego certe bardas et insipidas appellare ausim si aliud
                   sentiant ita enim res habet ut dico, Nec aliud nuganti Quaquerrea fidem habebunt qui verum amant, Sed pergo, Galli pervigiles, paucissima sibi ad quietem <!-- 27 --> momenta deligunt,
-                  perspiciuntque omnia, nec minus clamore interim monent, &amp; quae gallinis nocent animalia, non solum non pertimescunt, sed etiam pro conjugibus propugnant.
+                  perspiciuntque omnia, nec minus clamore interim monent, et quae gallinis nocent animalia, non solum non pertimescunt, sed etiam pro conjugibus propugnant.
                   Fertiles praeterea eas faciunt idefesso accubitu, cumque modestiori Veneris voluptate perfrui possent, amore tamen conpulsi, sese omnibus communicant, omnibusque miscent,
-                  Quo minus tibi Philonice, gallorum macilentia taxanda fuit, cum adeo vigilent, &amp; ardentis <app><lem wit="#ed">thori</lem><rdg wit="#Zimmel">tori</rdg></app> officium adeo <app><lem wit="#ed">exequantur</lem><rdg wit="#Zimmel">exsequantur</rdg></app>, 
+                  Quo minus tibi Philonice, gallorum macilentia taxanda fuit, cum adeo vigilent, et ardentis <app><lem wit="#ed">thori</lem><rdg wit="#Zimmel">tori</rdg></app> officium adeo <app><lem wit="#ed">exequantur</lem><rdg wit="#Zimmel">exsequantur</rdg></app>, 
                   non quidem sui gratia, sed gallinarum potius quibus optime esse volunt. Nec faciunt in sua <app><lem wit="#Zimmel">re publica</lem><rdg wit="#ed">R. P.</rdg></app> quicquam dividuum,
                   quod aut ma ritus aut <app><lem wit="#Zimmel">femina</lem><rdg wit="#ed">foemina</rdg></app> proprium dicere posset, sed in commune promptissime conspirant, 
                   Puto vos Spectatores agnoscere, posse, <app><lem wit="#ed">sint ne</lem><rdg wit="#Zimmel">sintne</rdg></app> vera? quae ex Quaquerrae ore profatus est Philonicus? 
-                  Omnia mansuetissimus gallorum amor efficaciter evincit, &amp; <app><lem wit="#Zimmel">anhelat</lem><rdg wit="#ed">anihilat</rdg></app>, quo sibi conjuges praeferunt,testibus,
+                  Omnia mansuetissimus gallorum amor efficaciter evincit, et <app><lem wit="#Zimmel">anhelat</lem><rdg wit="#ed">anihilat</rdg></app>, quo sibi conjuges praeferunt,testibus,
                   cum omnibus his qui aut gallos aut gallinaria <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> curarunt, tum maxime castratis Capis,
-                  qui rem hominem satis compertam habent, Gigguliro nostro id asserente, fuerunt enim &amp; ipsi galli, &amp; gallinas etiamnum amant, ne quis me suspecto teste uti velle existimet.
-                  Facesse igitur Philonice, cum ista tua delirante <app><lem wit="#Zimmel">lamia</lem><rdg wit="#ed">Lamiga</rdg></app>, facessant illa injuriarum praestigia quae ut relatu ita &amp;
+                  qui rem hominem satis compertam habent, Gigguliro nostro id asserente, fuerunt enim et ipsi galli, et gallinas etiamnum amant, ne quis me suspecto teste uti velle existimet.
+                  Facesse igitur Philonice, cum ista tua delirante <app><lem wit="#Zimmel">lamia</lem><rdg wit="#ed">Lamiga</rdg></app>, facessant illa injuriarum praestigia quae ut relatu ita et
                   oppugnatione magna experte indigna sunt, Nihil enim fere est, quod non rideri potius quam oppugnari debeat. Et tu Giggulire cachinnaberis, postquam ego tibi domi rem tam futilem,
                   tam muliebribus commentis quadrantem <app><lem wit="#Zimmel">interpretatus</lem><rdg wit="#ed">interpraetatus</rdg></app> fuero, Certe iam nunc ridere videtur, trementibus ocellis, 
-                  Spectatores &amp; omnia capite concusso <app><lem wit="#Zimmel">flocci pendere</lem><rdg wit="#ed">floccipendere</rdg></app>, partim siquidem sermonis mei excursum <app><lem wit="#ed">intelligit</lem><rdg wit="#Zimmel">intellegit</rdg></app>, 
-                  &amp; latinum addidicit, quando eas regiones iuvenis pervagatus est, quibus Galli latine loquuntur, <app><lem wit="#ed">&amp; si</lem><rdg wit="#Zimmel">etsi</rdg></app> latine loqui exacte nesciat, 
+                  Spectatores et omnia capite concusso <app><lem wit="#Zimmel">flocci pendere</lem><rdg wit="#ed">floccipendere</rdg></app>, partim siquidem sermonis mei excursum <app><lem wit="#ed">intelligit</lem><rdg wit="#Zimmel">intellegit</rdg></app>, 
+                  et latinum addidicit, quando eas regiones iuvenis pervagatus est, quibus Galli latine loquuntur, <app><lem wit="#ed">et si</lem><rdg wit="#Zimmel">etsi</rdg></app> latine loqui exacte nesciat, 
                   Id quod inter nos quoque evenit. Saepe enim exoticae linguae sententiam subodorari videmur, nobis interim ea ipsa nihil que potentibus, Age Giggulire, 
-                  cum rem ad unguem accipies, propensius ridebis, &amp; <!-- 28 --> anilium technarum involucra demiraberis, Nimis <app><lem wit="#ed">medius</lem><rdg wit="#Zimmel">me dius</rdg></app> fidius lingulaca fuit haec tua susurratrix Quaquerra, Philonice,
-                  &amp; tu plus quam decebat temerarius, ignorans quam fallas res sit temeritas Si enim quicquam gallinis commisisse galli videbantur, hoc secreto coram his quibus fama utrisque curae est, tractari,
-                  &amp; prudentissime placari redigique poterat. Amicorum enim errata secreto debent censeri, virtus vero laudari palam, ut vetusta est philosophorum sententia, 
+                  cum rem ad unguem accipies, propensius ridebis, et <!-- 28 --> anilium technarum involucra demiraberis, Nimis <app><lem wit="#ed">medius</lem><rdg wit="#Zimmel">me dius</rdg></app> fidius lingulaca fuit haec tua susurratrix Quaquerra, Philonice,
+                  et tu plus quam decebat temerarius, ignorans quam fallas res sit temeritas Si enim quicquam gallinis commisisse galli videbantur, hoc secreto coram his quibus fama utrisque curae est, tractari,
+                  et prudentissime placari redigique poterat. Amicorum enim errata secreto debent censeri, virtus vero laudari palam, ut vetusta est philosophorum sententia, 
                   Idque Hercle galli fecissent hac in re, si effrenis gallinarum invidia ullo modo aut placari, aut cohiberi potuerit, <app><lem wit="#ed">quo minus</lem><rdg wit="#Zimmel">quominus</rdg></app> res
                   ipsa in omnium oculos dijudicanda pervenisset. Quis agger tamen huic torrenti, quod vallum <app><lem wit="#ed">objiciatur</lem><rdg wit="#Zimmel">obiciatur</rdg></app>? 
                   quo gallinae perstrepunt, Philonicus vero ita furit, ut Achelous cum Hercule certans esse videatur. 
                </p>
                <p>
-                  Cui ego iam eruam alterum cornu, Spectatores, &amp; diis iuvantibus 
-                  qui judices &amp; testes actionum nostrarum sunt 
+                  Cui ego iam eruam alterum cornu, Spectatores, et diis iuvantibus 
+                  qui judices et testes actionum nostrarum sunt 
                   illam suam <app><lem wit="#Zimmel">ebullientem</lem><rdg wit="#ed">ebulientem</rdg></app> petulantiam <app><lem wit="#Zimmel">comminuam</lem><rdg wit="#ed">cominuam</rdg></app>.
                   <app><lem wit="#ed">Nunquam ne</lem><rdg wit="#Zimmel">Numquamne</rdg></app> hoc legisti Philonice? 
                </p>
                <p>
-                  Vir iracundus provocat rixas &amp; qui ad indignandum facilis est erit ad peccandum proclivior.
+                  Vir iracundus provocat rixas et qui ad indignandum facilis est erit ad peccandum proclivior.
                   Peccasse hodie nimirum recte te omnes <app><lem wit="#Zimmel">aestimant</lem><rdg wit="#ed">estimant</rdg></app> 
                   quod adeo credulus <app><lem wit="#Zimmel">caecam</lem><rdg wit="#ed">coecam</rdg></app> gallinarum <app><lem wit="#Zimmel">insaniam</lem><rdg wit="#ed">insaniem</rdg></app> evomuisti 
                   ut furiis quibusdam agitari videri potueris. 
@@ -293,7 +448,7 @@
                </p>
                <p>
                   Potuisses tu quidem Gallinas laudare pulchre magno spectatorum applausu 
-                  sed accusare voluisti &amp; iniuriari gallis multorum sane qui eos amant nauseante molestia. 
+                  sed accusare voluisti et iniuriari gallis multorum sane qui eos amant nauseante molestia. 
                </p>
                <p>
                   <app><lem wit="#ed">Quo circa</lem><rdg wit="#Zimmel">quocirca</rdg></app> 
@@ -306,7 +461,7 @@
                </p>
                <p>
                   Ova pariunt, inquis, gallinae 
-                  &amp; ea clamore 
+                  et ea clamore 
                   ubi sint indicant.
                   <app><lem wit="#Zimmel">Estne</lem><rdg wit="#ed">Est ne</rdg></app> hoc, Spectatores, pium <app><lem wit="#ed">foetum</lem><rdg wit="#Zimmel">fetum</rdg></app> prodere 
                   ut abortus fiat 
@@ -331,19 +486,19 @@
                   At nihil omittit invidia. 
                </p>
                <p>
-                  Gallos senes Spectatores (quamquam senectus malorum omnium portus est) officiosissimos esse omnes scitis, &amp; a monstriferis <app><lem wit="#ed">foeturis</lem><rdg wit="#Zimmel">feturis</rdg></app> longe alienos, 
-                  quod si quis est, qui aliud asserit,quemadmodum Bactrianum quendam regulum asseruisse ferunt. Ridiculus sane est &amp; cum experientia tum maximorum philosophorum <app><lem wit="#Zimmel">auctoritate</lem><rdg wit="#ed">autoritate</rdg></app>, convincitur, 
-                  qui haec in universum fabulosa esse contendunt. Cum enim senes gallos habeamus &amp; decrepitos, quis <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> apud nos Basiliscum e Galli ovo natum vidit, 
+                  Gallos senes Spectatores (quamquam senectus malorum omnium portus est) officiosissimos esse omnes scitis, et a monstriferis <app><lem wit="#ed">foeturis</lem><rdg wit="#Zimmel">feturis</rdg></app> longe alienos, 
+                  quod si quis est, qui aliud asserit,quemadmodum Bactrianum quendam regulum asseruisse ferunt. Ridiculus sane est et cum experientia tum maximorum philosophorum <app><lem wit="#Zimmel">auctoritate</lem><rdg wit="#ed">autoritate</rdg></app>, convincitur, 
+                  qui haec in universum fabulosa esse contendunt. Cum enim senes gallos habeamus et decrepitos, quis <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> apud nos Basiliscum e Galli ovo natum vidit, 
                   aut ovum saltem e Gallo. Si haec monstra Philonice tibi terrori sunt, Europam non deseres, nec Gallos decrepitos insequeris, Sed Africam cuius harenosis desertis, 
-                  quibus paucissimi aut omnino nulli Galli agunt, Basilisci conplures, irrepunt. Quod autem causam affers cur fastigiis templorum infigantur Galli, rideo levitatem tuam, &amp; hoc addo. Nequitia est quae te non <app><lem wit="#ed">sinit</lem><rdg wit="#Zimmel">finit</rdg></app> esse senem, 
+                  quibus paucissimi aut omnino nulli Galli agunt, Basilisci conplures, irrepunt. Quod autem causam affers cur fastigiis templorum infigantur Galli, rideo levitatem tuam, et hoc addo. Nequitia est quae te non <app><lem wit="#ed">sinit</lem><rdg wit="#Zimmel">finit</rdg></app> esse senem, 
                   Mallem te pro Iovem lapideum, gallinam esse, credere, quam Philonicum, si solum plumis pinnisque involutus reperes, nihil enim ab his animo differs. 
-                  Longe alia causa est Spectatores <app><lem wit="#ed">Quandoquidem</lem><rdg wit="#Zimmel">quando quidem</rdg></app>, cum hoc animal horarum observatione &amp; perpetuis vigiliis,
-                  curaque rerum suarum diligentissima omnibus fere aliis antecellat. Voluit studiosa illa patrum &amp; consulta sedulitas, earum aedium, apices Gallo insigniri quibus multorum salus curatur, 
+                  Longe alia causa est Spectatores <app><lem wit="#ed">Quandoquidem</lem><rdg wit="#Zimmel">quando quidem</rdg></app>, cum hoc animal horarum observatione et perpetuis vigiliis,
+                  curaque rerum suarum diligentissima omnibus fere aliis antecellat. Voluit studiosa illa patrum et consulta sedulitas, earum aedium, apices Gallo insigniri quibus multorum salus curatur, 
                   Quibus precibus per horarum interstitia distributis, placatur deus <app><lem wit="#Zimmel">optimus maximus</lem><rdg wit="#ed">optu. Maxu.</rdg></app> 
-                  Ut enim gallis vigilia est, ab omne errore aliena, si modo naturae <!-- 30 -->copiam relinquimus, Ita eos vigiliis insignes esse decet, quibus nostri pars melior curanda &amp; tuenda <app><lem wit="#Zimmel">committitur</lem><rdg witt="#ed">comittitur</rdg></app>.
+                  Ut enim gallis vigilia est, ab omne errore aliena, si modo naturae <!-- 30 -->copiam relinquimus, Ita eos vigiliis insignes esse decet, quibus nostri pars melior curanda et tuenda <app><lem wit="#Zimmel">committitur</lem><rdg wit="#ed">comittitur</rdg></app>.
                   Gaudete Galli, tuque <app><lem wit="#ed">Giggurile</lem><rdg wit="#Zimmel">Giggulire</rdg></app>, <app><lem wit="#ed">exulta</lem><rdg wit="#Zimmel">exsulta</rdg></app>, pulchri enim mysterii aenigmaticam imaginem praebetis
-                  &amp; si nullo allias, hoc tamen praecipue vigilantissimi &amp; optimi probamini, Nec terrebit vos Gallos in universum Philonicus: quod gallinam in <app><lem wit="#ed">coelo</lem><rdg wit="#Zimmel">caelo</rdg></app> esse asserit, 
-                  &amp; gallum nullum: Nescitur an gallus sit an gallina, quis enim per tam altum intervallum cristam, quis calcaria videat? <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app> 
+                  et si nullo allias, hoc tamen praecipue vigilantissimi et optimi probamini, Nec terrebit vos Gallos in universum Philonicus: quod gallinam in <app><lem wit="#ed">coelo</lem><rdg wit="#Zimmel">caelo</rdg></app> esse asserit, 
+                  et gallum nullum: Nescitur an gallus sit an gallina, quis enim per tam altum intervallum cristam, quis calcaria videat? <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app> 
                   ipse Quaquerrae credit caecutienti idque gallinis tribuit quod gallorum est potius, Nemo enim gallis <app><lem wit="#ed">coelum</lem><rdg wit="#Zimmel">caelum</rdg></app> frequentius aspicit,
                   magnus inquit naturae historicus. Proinde ego <app><lem wit="#ed">Cygnum</lem><rdg wit="#Zimmel">cycnum</rdg></app> esse credere mallem Apollinis nato, 
                   quando <app><lem wit="#Zimmel">Stheneleia</lem><rdg wit="#ed">Steneleia</rdg></app> proles fuit, summo amore <app><lem wit="#ed">junctam</lem><rdg wit="#Zimmel">junctum</rdg></app>, 
@@ -351,77 +506,77 @@
                   quo nec gallum, Philonice, nec gallinam neque etiam <app><lem wit="#ed">Cygnum</lem><rdg wit="#Zimmel">Cycnum</rdg></app> recte <app><lem wit="#ed">intelliges</lem><rdg wit="#Zimmel">intelleges</rdg></app>; 
                   aliae etenim complures in illa voce ut communi continentur. Potuissem ego, Spectatores, si ex praemeditato rem agere mihi contigisset, ut Philonico, multa adducere 
                   quae certe his quae hactenus pro bene meritis gallis in medium attuli, <app><lem wit="#Zimmel">efficaciora</lem><rdg wit="#ed">efficatiora</rdg></app> forent. 
-                  scitis enim exactius refutari posse, quae sibi objecta esse sciunt accusati, aut objectum iri praesagiunt, quam ea quae subito &amp; nil tale suspicantibus ingeruntur, 
+                  scitis enim exactius refutari posse, quae sibi objecta esse sciunt accusati, aut objectum iri praesagiunt, quam ea quae subito et nil tale suspicantibus ingeruntur, 
                   Diis tamen interim ago gratias quod ea quae mihi dicenda obiter videbantur tam prompte hactenus in mentem venere, Sed pergo, Parricidarum comites esse gallos laetari videris Philonice,
-                  quasi &amp; ipsi eo genere poenae digni videantur, quo sceleratissimi puniuntur. Cum tamen ipsi Parricidarum ultores sint, &amp; summorum principum voluntate instituti vindices, perpende, 
+                  quasi et ipsi eo genere poenae digni videantur, quo sceleratissimi puniuntur. Cum tamen ipsi Parricidarum ultores sint, et summorum principum voluntate instituti vindices, perpende, 
                   <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app>, injuriam, Philonice, non possunt haec praeteriri sine retaxatione, nec debent, maior siquidem deinceps vobis, tibi dico
-                  &amp; gallinis <app><lem wit="#Zimmel">lasciviendi</lem><rdg wit="#ed">lascivendi</rdg></app> &amp; blatterandi daretur occasio, Sapienter 
-                  &amp; <app><lem wit="#ed">oportune</lem><rdg wit="#Zimmel">opportune</rdg></app> <!-- 31 --> quidam ex magnis Oratoribus dixit. Occurrere oportere injuriae, 
-                  quasi inveteraverit quemadmodum connutritum morbum vix quispiam extinxerit. scio quidem &amp; in Codice Iustiniani, &amp; eiusdem rudmentis quas institutiones vocamus, id scriptum esse 
-                  quod tu <app><lem wit="#ed">tetulisti</lem><rdg wit="#Zimmel">detulisti</rdg></app> : &amp; legem ex Modestino depromptam, ad legem Pompeiam de Parricidis <app><lem wit="#Zimmel">librorum</lem><rdg wit="#ed">li</rdg></app>. 
-                  digestorum quadragesimo octavo addo, a te praeteritam &amp; neglectam, qui praesentibus obsoniis plus uteris quam antiquis legibus: qua quidem &amp; culei &amp; Galli mentio sit &amp;
-                  <app><lem wit="#ed">praeterea</lem><rdg wit="#ed">preterea</rdg></app> virgarum sanguinearum, id quod a te inducti non habent Verum omnia non ea procacitate &amp; insolentia, qua tu tumescis, 
+                  et gallinis <app><lem wit="#Zimmel">lasciviendi</lem><rdg wit="#ed">lascivendi</rdg></app> et blatterandi daretur occasio, Sapienter 
+                  et <app><lem wit="#ed">oportune</lem><rdg wit="#Zimmel">opportune</rdg></app> <!-- 31 --> quidam ex magnis Oratoribus dixit. Occurrere oportere injuriae, 
+                  quasi inveteraverit quemadmodum connutritum morbum vix quispiam extinxerit. scio quidem et in Codice Iustiniani, et eiusdem rudmentis quas institutiones vocamus, id scriptum esse 
+                  quod tu <app><lem wit="#ed">tetulisti</lem><rdg wit="#Zimmel">detulisti</rdg></app> : et legem ex Modestino depromptam, ad legem Pompeiam de Parricidis <app><lem wit="#Zimmel">librorum</lem><rdg wit="#ed">li</rdg></app>. 
+                  digestorum quadragesimo octavo addo, a te praeteritam et neglectam, qui praesentibus obsoniis plus uteris quam antiquis legibus: qua quidem et culei et Galli mentio sit et
+                  <app><lem wit="#ed">praeterea</lem><rdg wit="#ed">preterea</rdg></app> virgarum sanguinearum, id quod a te inducti non habent Verum omnia non ea procacitate et insolentia, qua tu tumescis, 
                   sed per modestinum modestissime in haec verba. Poena Parricidii more majorum haec instituta est, ut Parricida virgis sanguineis verberatus, dein in culeo insuatur, 
-                  cum cane, Gallo <app><lem wit="#Zimmel">Gallinaceo</lem><rdg wit="#ed">Gallinacio</rdg></app> &amp; vipera &amp; simia, dein in mare profundum culeus jactetur, 
+                  cum cane, Gallo <app><lem wit="#Zimmel">Gallinaceo</lem><rdg wit="#ed">Gallinacio</rdg></app> et vipera et simia, dein in mare profundum culeus jactetur, 
                   hoc ita si mare proximum sit, alioquin bestiis <app><lem wit="#ed">subiiciatur</lem><rdg wit="#Zimmel">subiciatur</rdg></app>, Secundum Divi Hadriani constitutionem. 
                   Haec, Spectatores, parricidii vetustis legibus expressa poena est: qua Gallos adfui ob commissum parricidis quis vestrum est qui credat? Causas ignorantibus, proximum est errare.
                   Audite igitur causam ut a Philonici explodenda caecitate longe absitis. Credidere vetusti, qui naturae per experientiam, proprietatem non una in re observarunt, Canem Simiae odiosum esse, Simiam vero Gallo, 
                   hunc autem Serpenti, qua ex re, factum est, ut in nefandissimi sceleris poena <app><lem wit="#ed">a qua</lem><rdg wit="#Zimmel">aqua</rdg></app> etiam elementa abessent: 
                   haec animalia jungenda legum latores parricidae volvere ut simia a cane agitata Gallum, Gallus serpentem urgeret, quae se in hominem maleficum mergeret, 
-                  ita ut vivus Parricida, viva nocentis animalis sepultura fieret. hoc aequi &amp; veri <app><lem wit="#Zimmel">interpretes</lem><rdg wit="#ed">interpraetes</rdg></app> asserunt, Quid tu igitur? 
-                  Cur insontissimam illam animalium nil male hoc in scelere meritorum turbarum contemnis &amp; taxas, Philonice? Annon potius Gallos laudabimus, quod vitam in mediis undis deferere <!-- 32 --> ferere non timent,
-                  ut ex hominum commertio pessimi &amp; scelestissimi tollantur. Poeta unus, cum Simiae meminit in culeum sutae eam innoxiam dicit hoc versu, Clauditur adversis innoxia Simia fatis.
-                  Audis Philonice innoxiam Simiam, vel a mordaci &amp; <app><lem wit="#Zimmel">vitiis</lem><rdg wit="#ed">viciis</rdg></app> non parcente, Vate nominari. Quod si causam dissimulasti, non est quod commenderis. 
-                  Lingua enim sapientis a mente discrepare non debet, ut scis. Verum haec ut obaerato Spectatores &amp; muneribus illecto, condonemus. Accepistis hactenus quid responderim, 
-                  &amp; quam recte, Vide Philonice, ne in foveam quam parasti incidas. Scio Quaquerram illam tuam, &amp; ova ad te sua &amp; pullos dedisse, ut diu institutam accusationem eo prosequereris diligentius.
-                  Quaero te an non parricidio sit conformius, prolem ad elixandum, &amp; assandum dare, &amp; Thyestaeam <app><lem wit="#Zimmel">cenam</lem><rdg wit="#ed">coenam</rdg></app> instituere,
+                  ita ut vivus Parricida, viva nocentis animalis sepultura fieret. hoc aequi et veri <app><lem wit="#Zimmel">interpretes</lem><rdg wit="#ed">interpraetes</rdg></app> asserunt, Quid tu igitur? 
+                  Cur insontissimam illam animalium nil male hoc in scelere meritorum turbarum contemnis et taxas, Philonice? Annon potius Gallos laudabimus, quod vitam in mediis undis deferere <!-- 32 --> ferere non timent,
+                  ut ex hominum commertio pessimi et scelestissimi tollantur. Poeta unus, cum Simiae meminit in culeum sutae eam innoxiam dicit hoc versu, Clauditur adversis innoxia Simia fatis.
+                  Audis Philonice innoxiam Simiam, vel a mordaci et <app><lem wit="#Zimmel">vitiis</lem><rdg wit="#ed">viciis</rdg></app> non parcente, Vate nominari. Quod si causam dissimulasti, non est quod commenderis. 
+                  Lingua enim sapientis a mente discrepare non debet, ut scis. Verum haec ut obaerato Spectatores et muneribus illecto, condonemus. Accepistis hactenus quid responderim, 
+                  et quam recte, Vide Philonice, ne in foveam quam parasti incidas. Scio Quaquerram illam tuam, et ova ad te sua et pullos dedisse, ut diu institutam accusationem eo prosequereris diligentius.
+                  Quaero te an non parricidio sit conformius, prolem ad elixandum, et assandum dare, et Thyestaeam <app><lem wit="#Zimmel">cenam</lem><rdg wit="#ed">coenam</rdg></app> instituere,
                   quam e ripa somniantem Gallinam deturbare, quae tua antea, tanta quaerela fuit. <app><lem wit="#Zimmel">Ceterum</lem><rdg wit="#ed">Caeterum</rdg></app> haec invitus dico,
-                  &amp; attigisse transeunter quam dixisse malo essent equidem id genus multa, sed taceo. Est enim tantum conjugalis necessitudinis vinculum, ut neutrum sine alterius incommodo vituperari possit, 
-                  Quamobrem recte Giggulirus qui me lacessere noluit, pugnare vero &amp; propugnare voluit, Hoc Philonice sat mirari non possum quod Petrum a Gallo proditum dixisti quasi vero plus prodant Galli canto suo divino quam moneant, 
+                  et attigisse transeunter quam dixisse malo essent equidem id genus multa, sed taceo. Est enim tantum conjugalis necessitudinis vinculum, ut neutrum sine alterius incommodo vituperari possit, 
+                  Quamobrem recte Giggulirus qui me lacessere noluit, pugnare vero et propugnare voluit, Hoc Philonice sat mirari non possum quod Petrum a Gallo proditum dixisti quasi vero plus prodant Galli canto suo divino quam moneant, 
                   quid si non prodiderit sed monuerit potius? Quis enim hoc ipsum <app><lem wit="#Zimmel">praeter</lem><rdg wit="#ed">preter</rdg></app> Petrum intellexit,
                   cui repetita memoria magistri verba conscientiam exstimularunt, inducto <app><lem wit="#ed">moerore</lem><rdg wit="#Zimmel">maeror</rdg></app>. Non novit Petrum Gallus ille,
                   quisquis fuit, sed officio suo, in horarum discrimine, satisfecit. Quoties Gallo cantante Philonice luditur, scortatur, caeditur? Quorum nullius eum recte
                   accusaveris, sicut nec huius quod peieravit Petrus, quem mihi crede, consulto <app><lem wit="#ed">praeteriisses</lem><rdg wit="#Zimmel">praeterisses</rdg></app> verum tua <app><lem wit="#Zimmel">istuc</lem><rdg wit="#ed">isthuc</rdg></app> petulantia, 
                   provectus es,ut his etiam qui alio in orbe vitaque meliori beati degunt non peperceris. Ad summam Spectatores,<!-- 33 --> Ut aliquando nostro sermoni finis statuatur: Galli gallinacei, Vigilantissimi, strenuissimi: 
-                  providentissimi, <app><lem wit="#ed">Reipublicae</lem><rdg wit="#Zimmel">rei publicae</rdg></app>, qua nihil inter mortales excellentius, sunt studiosi &amp; terrarum imperio maxime imperitant,
+                  providentissimi, <app><lem wit="#ed">Reipublicae</lem><rdg wit="#Zimmel">rei publicae</rdg></app>, qua nihil inter mortales excellentius, sunt studiosi et terrarum imperio maxime imperitant,
                   siderumque periti, tempus olfaciunt, non ratione dico sed naturae insigni munere. Nec solis ortum incautis patiuntur obrepere, diemque venientem <app><lem wit="#Zimmel">nuntiant</lem><rdg wit="#ed">nunciant</rdg></app> cantu,
                   hincque magnus Poeta quartam vigiliam depingens, si insit, Excubitorque diem cantu praedixerat Ales. Odiosa quoque in hac re vetustas, Nocti deae Gallum, <app><lem wit="#Zimmel">immolare</lem><rdg wit="#ed">imolare</rdg></app> consuevit,
                   cantante Poeta <app><lem wit="#ed">cum primis</lem><rdg wit="#Zimmel">cumprimis</rdg></app> docto, Nocte Deae noctis cristatus creditur ales, Quod tepidum vigili, provocat ore diem. 
-                  Ridenda est sane, Philonici ex testibus <app><lem wit="#Zimmel">audacia</lem><rdg wit="#ed">audatia</rdg></app>, qui galli cantum lasciviae tribuit, quasi disparem cantum,iuvenum &amp; senum hactenus didicerit, 
-                  quos paris esse vigiliae, nec disparis indicii, omnia omnium experimenta praedicant, &amp; tamen constat naturae ratione, plus in junioribus lasciviae esse quam senibus: 
-                  Praeterea Gallos victos non canere amplius sunt qui asserant abstinere autem, &amp; lascivi re nihil, neminem existimo dixisse hactenus, quibus apertum esse videtur non e lascivia,
-                  sed naturae instinctu, <app><lem wit="#ed">coelique</lem><rdg wit="#Zimmel">caelique</rdg></app> influxu, masculos Gallos cantare, &amp; cantando discernere<app><lem wit="#ed"></lem><rdg wit="#Zimmel">horas</rdg></app>,
+                  Ridenda est sane, Philonici ex testibus <app><lem wit="#Zimmel">audacia</lem><rdg wit="#ed">audatia</rdg></app>, qui galli cantum lasciviae tribuit, quasi disparem cantum,iuvenum et senum hactenus didicerit, 
+                  quos paris esse vigiliae, nec disparis indicii, omnia omnium experimenta praedicant, et tamen constat naturae ratione, plus in junioribus lasciviae esse quam senibus: 
+                  Praeterea Gallos victos non canere amplius sunt qui asserant abstinere autem, et lascivi re nihil, neminem existimo dixisse hactenus, quibus apertum esse videtur non e lascivia,
+                  sed naturae instinctu, <app><lem wit="#ed">coelique</lem><rdg wit="#Zimmel">caelique</rdg></app> influxu, masculos Gallos cantare, et cantando discernere<app><lem wit="#ed"></lem><rdg wit="#Zimmel">horas</rdg></app>,
                   Sed haec ut alia Philonico condonemus,  Quem ut ipse gallum ex homine adolescente factum esse credit, ita vos, Spectatores, in Gallinam aliquando Pythagorica palingenesi mutatum iri existimate. 
-                  Non frustra Hercle illustres variarum artium professores &amp; philosophi, in Mercurii tu tela Gallos recensent, ob miram naturae suae in observando &amp; discernendo, celeritatem.
+                  Non frustra Hercle illustres variarum artium professores et philosophi, in Mercurii tu tela Gallos recensent, ob miram naturae suae in observando et discernendo, celeritatem.
                   Quos ex eodem hoc insigne accepisse verarum narrationum <app><lem wit="#Zimmel">auctor</lem><rdg wit="#ed">autor</rdg></app>: scriptum reliquit, 
                   Ut cuicumque longissimam ex cauda pinnam si dextra est, gestandam tradiderint, is comite gallo, omnes fores aperire omniaque invisibilis ipse videre, possit. 
                   Hi quodam magistratus rexere victoriarum omnino toto orbe partarum auspices. Nonne hoc ingens est deorum munus Spectatores? Ferunt Themistoclem, <!-- 34 --> priusquam
                   cum Xerse pugnaret, ingentem gallorum strepitum <app><lem wit="#Zimmel">audisse</lem><rdg wit="#ed">audiisse</rdg></app>, ad quod exemplum suos milites hortatus, victoriam consecutus est.
                   <app><lem wit="#Zimmel">Boeotii</lem><rdg wit="#ed">Boetii</rdg></app> contra <app><lem wit="#Zimmel">Lacedaemonios</lem><rdg wit="#ed">Lacedemonios</rdg></app> pugnaturi: cum totis noctibus galli cantassent, nobilem victoriam praesagivere, 
-                  ita conjecta <app><lem wit="#Zimmel">interpretatione</lem><rdg wit="#ed">interpraetatione</rdg></app>, quod ales illa victa non caneret. Quin &amp; ad Insubres potens
+                  ita conjecta <app><lem wit="#Zimmel">interpretatione</lem><rdg wit="#ed">interpraetatione</rdg></app>, quod ales illa victa non caneret. Quin et ad Insubres potens
                   genus Galeatii nomen ex insolito gallorum cantu accepisse feruntur, qui tota nocte dicitur, cum vicecomes magnus<app><lem wit="#ed">Matheus</lem><rdg wit="#Zimmel"> Mathqeus</rdg></app> primogenitum ex Bonacosa filium suscepit.
-                  Haec est, Spectatores, lasciviae vis censente Philonico, ut Gallos fatidicos efficiat, &amp; futurorum ingerat spiritum, mendaces sunt isti qui lascivia, corpora dissolvi animum obfuscari:`
+                  Haec est, Spectatores, lasciviae vis censente Philonico, ut Gallos fatidicos efficiat, et futurorum ingerat spiritum, mendaces sunt isti qui lascivia, corpora dissolvi animum obfuscari:`
                   memoriam elui, multorum applausu docuere sed pergo. Parturientibus adesse galli existimantur, postquam unus Latonae parienti astitit: eidem postea <app><lem wit="#ed">charus</lem><rdg wit="#Zimmel">carus</rdg></app> admodum: 
-                  generosissimisque ferarum, Leonibus &amp; scolopendris terrori sunt; <app><lem wit="#Zimmel">ex quo</lem><rdg wit="#ed">exquo</rdg></app> Africam petentes, quod ea regio his maxime abundet feris, 
+                  generosissimisque ferarum, Leonibus et scolopendris terrori sunt; <app><lem wit="#Zimmel">ex quo</lem><rdg wit="#ed">exquo</rdg></app> Africam petentes, quod ea regio his maxime abundet feris, 
                   hanc Alitem secum ferre consuevere, Idque certe Spectatores nec magnitudine sit, nec potentia, quis enim in his gallum leoni conferet? Sed potius ex superni ordinis contemplatione, maximus enim naturae admirator,
-                  &amp; leonem &amp; gallum solares esse dixit, praesentiam tamen virtutis eius, gallo majorem inesse, quod &amp; inde apparet, quod gallus quasi quibusdam hymnis surgenti Soli applaudit, hincque fieri, ut a leone timeatur &amp; colatur.
+                  et leonem et gallum solares esse dixit, praesentiam tamen virtutis eius, gallo majorem inesse, quod et inde apparet, quod gallus quasi quibusdam hymnis surgenti Soli applaudit, hincque fieri, ut a leone timeatur et colatur.
                   Pythagoras sapiens vel ob id praecipue putatus, quod sapientis se nomine dignum <app><lem wit="#ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> existimavit, praecipere solebat, tu gallum nutriremus, quo quemadmodum doctissimorum
-                  interpretatio est, divi nam animae nostrae partem, quae divinarum rerum cognitione, quasi solido cibo &amp; <app><lem wit="#ed">coelesti</lem><rdg wit="#Zimmel">caelesti</rdg></app> ambrosia pascit <app><lem wit="#ed">intelligimus</lem><rdg wit="#Zimmel">intellegimus</rdg></app>, 
-                  Et hic quidem Gallus est, cujus aspectum Leo id est omnis terrena potestas formidat &amp; reveretur. Cui singularem intelligentiam datam esse propheta testatus est, singulare patientiae &amp; veritatis exemplar. 
+                  interpretatio est, divi nam animae nostrae partem, quae divinarum rerum cognitione, quasi solido cibo et <app><lem wit="#ed">coelesti</lem><rdg wit="#Zimmel">caelesti</rdg></app> ambrosia pascit <app><lem wit="#ed">intelligimus</lem><rdg wit="#Zimmel">intellegimus</rdg></app>, 
+                  Et hic quidem Gallus est, cujus aspectum Leo id est omnis terrena potestas formidat et reveretur. Cui singularem intelligentiam datam esse propheta testatus est, singulare patientiae et veritatis exemplar. 
                </p>
                <p>
                   Auditis, Spectatores, 
-                  an non Galli vocabulo &amp; natura veneranda admodum <app><lem>mysteria</lem><rdg wit="#ed">mysteria</rdg></app> Philosophi <!-- 35 --> &amp; Theologi <app><lem wit="#Zimmel">celarint</lem><rdg wit="#ed">coelarint</rdg></app> 
+                  an non Galli vocabulo et natura veneranda admodum <app><lem>mysteria</lem><rdg wit="#ed">mysteria</rdg></app> Philosophi <!-- 35 --> et Theologi <app><lem wit="#Zimmel">celarint</lem><rdg wit="#ed">coelarint</rdg></app> 
                   quae quidem hoc in loco minus <app><lem wit="#ed">retulissem</lem><rdg wit="#Zimmel">rettulissem</rdg></app> 
                   nisi mihi persuasissem 
-                  Gallorum gloriam &amp; nobilitatem hisce non parum auctum iri
+                  Gallorum gloriam et nobilitatem hisce non parum auctum iri
                   quae attuli.
                </p>
                <p>
                   Et hercle nescio 
                   an id satis de se galli <app><lem wit="#ed">intelligant</lem><rdg wit="#Zimmel">intellegant</rdg></app> 
                   cum sint multi mortalium 
-                  quibus haec ut mystica &amp; aenigmatica ignorantur. 
+                  quibus haec ut mystica et aenigmatica ignorantur. 
                   Sed ad institutum redeo. 
                </p>
                <p>
@@ -433,27 +588,27 @@
                   quam oportuit 
                   ludicro esset insecturus, 
                   eum Gallinam appellavit 
-                  ut mollis &amp; <app><lem wit="#ed">effoemiatae</lem><rdg wit="#Zimmel">effeminatae</rdg></app> rei vocabulo. 
+                  ut mollis et <app><lem wit="#ed">effoemiatae</lem><rdg wit="#Zimmel">effeminatae</rdg></app> rei vocabulo. 
                   Quod te nolui latere, Philonice, 
-                  qui tam augustum &amp; auspicatum hactenus extollere satis &amp; laudare non potuisti.
+                  qui tam augustum et auspicatum hactenus extollere satis et laudare non potuisti.
                </p>
                <p>
                   Quis vero nescit gentis 
-                  &amp; amplissimae 
-                  &amp; vetustissima bellorum memoria apud scriptores notae 
+                  et amplissimae 
+                  et vetustissima bellorum memoria apud scriptores notae 
                   nomen a gallis gallinaceis sumpsisse? 
                   Tum multi alias et docti Galli nomine et sancti fuerunt: 
                   ceu Cor. Gallus poeta, ceu Gallus <app><lem wit="#Zimmel">Abbas</lem><rdg wit="#ed">Abas</rdg></app> 
                   quem apud eos Helvetios sepultum audivimus 
-                  qui secundum militarem peritiam in texendo lino &amp; poliendo omnium sunt famigeratissimi. 
+                  qui secundum militarem peritiam in texendo lino et poliendo omnium sunt famigeratissimi. 
                </p>
                <p>
                   Quid plura, Spectatores? 
-                  Tanta etiam defunctis Gallis vis &amp; nobilitas inest 
+                  Tanta etiam defunctis Gallis vis et nobilitas inest 
                   (ne gallinarum demortuarum pulpamenta omnia posse Philonicus putet) 
                   ut perunctos galli cerebro nec Pantherae nec Leones attingant: 
                   hoc plagis recentibus prodest, 
-                  hoc venenatorum morsus &amp; serpentum incommoda mortalibus perdomat 
+                  hoc venenatorum morsus et serpentum incommoda mortalibus perdomat 
                   contraque morbos innumeros valet.
                </p>
                <p>
@@ -467,14 +622,14 @@
                   quod profecto pauci vestrum <app><lem wit="#ed">admittunt</lem><rdg wit="#Zimmel">admittuntur</rdg></app>.
                   Non enim semper pondus sed virtutem ipsam attendimus 
                   hincque est 
-                  ut ego in <app><lem wit="#Zimmel">cena</lem><rdg wit="#ed">coena</rdg></app> una turdum bovi praeferam &amp; anseri phasianum.
+                  ut ego in <app><lem wit="#Zimmel">cena</lem><rdg wit="#ed">coena</rdg></app> una turdum bovi praeferam et anseri phasianum.
                </p>
                <p>
                   Ferunt medici in galli vesica lapidem <!-- 36 -->reperiri 
                   qui vesicae nostrae incommodis medeatur. 
                   Item testes Gallinaceorum 
                   perinde si a conceptu edat mulier, mares in utero fieri dicuntur. 
-                  Non possum ego &amp; hoc in loco praeterire 
+                  Non possum ego et hoc in loco praeterire 
                   quod magnis viris persuasum est 
                   pedem dextrum videlicet Galli gallinacei tantam vim habere 
                   ut adversarii victor futurus sit 
@@ -484,10 +639,10 @@
                   Quod si ego fraude potius, aut potius naturae subsidio, 
                   quod a multis in fraudis aut superstitionis infamiam deturbatur, Philonicum hoc in loco vincere, quam rei a gallis propositae <app><lem wit="#Zimmel">efficacia</lem><rdg wit="#ed">efficatia</rdg></app>
                   voluissem, certe vel dextro unius galli pede vicissem, tam acria gallorum calcaria sunt. Nunc <app><lem wit="#ed">dinoscite</lem><rdg wit="#Zimmel">dignoscite</rdg></app>, Spectatores, dum alius iudex non est,
-                  &amp; vobis omnibus censendi &amp; <app><lem wit="#ed">dinoscendi</lem><rdg wit="#Zimmel">dignoscendi</rdg></app> copia facta est, quam inique accusati sint galli quamque petulans &amp; impetuosum genus sit gallinarum, 
-                  &amp; statuite poenam parti adversae, ut deinceps, quid agendum in tali re sit, <app><lem wit="#ed">intelligant</lem><rdg wit="#Zimmel">intellegant</rdg></app> &amp; consilium mutent. 
-                  <app><lem wit="#Zimmel">Sumite</lem><rdg wit="#ed">Summite</rdg></app> in animum veteris &amp; excellentis philosophi sententiam. Quicastigare noxios dixit oportere, ne ipsorum exemplo, <app><lem wit="#Zimmel">ceteri</lem><rdg wit="#ed">caeteri</rdg></app>
-                  quoque peccent,Corripite igitur gallinas, &amp; plectite, absterrete &amp; erudite ut galli tandem agnoscere queant vos aequitatis esse Patronos &amp; virtutis vindices. Dixi. </p>
+                  et vobis omnibus censendi et <app><lem wit="#ed">dinoscendi</lem><rdg wit="#Zimmel">dignoscendi</rdg></app> copia facta est, quam inique accusati sint galli quamque petulans et impetuosum genus sit gallinarum, 
+                  et statuite poenam parti adversae, ut deinceps, quid agendum in tali re sit, <app><lem wit="#ed">intelligant</lem><rdg wit="#Zimmel">intellegant</rdg></app> et consilium mutent. 
+                  <app><lem wit="#Zimmel">Sumite</lem><rdg wit="#ed">Summite</rdg></app> in animum veteris et excellentis philosophi sententiam. Quicastigare noxios dixit oportere, ne ipsorum exemplo, <app><lem wit="#Zimmel">ceteri</lem><rdg wit="#ed">caeteri</rdg></app>
+                  quoque peccent,Corripite igitur gallinas, et plectite, absterrete et erudite ut galli tandem agnoscere queant vos aequitatis esse Patronos et virtutis vindices. Dixi. </p>
             </sp>
          </div>
          <div type="traduction">
@@ -523,12 +678,108 @@
                <p>
                   Vous savez qu’alors que le philosophe Carnéade était venu à Rome comme ambassadeur, suivant l’opinion de Caton, il a été ordonné qu’il soit éloigné de la vue du Sénat, parce qu’en homme sérieux et aimant la vérité, Caton tenait pour suspecte l’éloquence du philosophe.
                </p>
+               <p><!-- l. 37 -->
+                  Mais toi, Philonicus, pour revenir au plan, je veux te prier d’écouter patiemment comment tu as été dévoyé par la malveillance des poules ou ce que ou comment tu as défendues à partir des éléments que je vais bientôt dire. 
+                  Tu comprendra en effet mieux tout cela et le jugera comme moi, bien que, ce que tu n’as pas fait il y a quelques instants, je ne veuille rien affirmer à la légère ni m’accorder la victoire, mais seulement œuvrer pour que ce qui est vrai soit découvert. 
+                  Le reste sera dans les mains de celui qui va être juge de la cause.
+               </p>
+               <p><!-- l. 43 -->
+                  En effet, j’estime que notre affaire va être rapportée vers un seul ou du moins un petit nombre de personnes
+                  parce que, si les choses ne se passent pas ainsi, je vous prends en ce qui me concerne également tous pour juges, Spectateurs, comme Philonicus a fait. 
+                  Et de fait, la vérité est plus justement saisie par le soin de plusieurs personnes que par l’opinion d’une seule et elle est tout à fait précipitée la délibération qui n’est pas due au jugement mesuré de plusieurs personnes.
+               </p>
+               <p><!-- l. 47 -->
+                  Daignez donc, si seulement coqs virils ont jamais été chers à votre coeur par la grâce de la vérité et de la justice, m’écouter ici patiemment, moi, qui suis sur le point de défendre coqs afin que vous discerniez le vrai dans le jugement appelé par nos différends.
+               </p>
+               <p> <!-- l. 50 -->
+                  Hier, quatre coqs sont venus à moi, que vous voyez ici assis à mes côtés, aussi nobles d’allure qu’éminemment fins d’esprit et vigilants, par Hercule ! Le plus âgé d’entre eux, Cocoricus de son nom, après de nombreuses marques d’hospitalité, a commencé à pousser des cris:
+               </p>
+               <p><!-- l. 53 -->
+                  « Euthymus (car il me connaît depuis ses jeunes années déjà, moi qui était souvent associé à son père semblablement sage, lorsqu’il a volé ver moi pour me consulter à propos des affaires les plus sérieuses de sa république),
+                  Euthymus, dit-il, toi qui comprends la langue cocorique et qui, comme avocat, a loyalement assisté les coqs empressés depuis déjà de nombreuses années et qui les a souvent défendu dans des affaires très graves, nous qui avons été établis pour la tâche d’une ambassade publique par l’immense assemblée des coqs, sommes envoyés vers toi, 
+                  toi qui envers tous fais montre également de prudence et agis avantageusement dans cette situation où nous avons compris que nos épouses, si tant est qu’elles méritent d’être appelées épouses, vont déposer une plainte inventée par une longue malveillance devant un avocat, contre lui tu déploieras les forces de ton esprit et avec pour guide la vérité, tu réprimeras tout ce que cette populace changeante aura jeté de faux contre nous.”
+               </p>
+               <p> <!-- l. 62 -->
+                  Moi, après que j’ai entendu le nom “d’épouse”, j’ai été, à vrai dire, si ébahi que, comme saisi d’extase, je serais presque tombé par terre et j’ai commencé à prendre conscience que ce que j’avais souvent craint de voir arriver bien vite, était déjà là.
+               </p>
+               <p> <!-- l. 65 -->
+                  En effet, je sais que les femme, qui de nature sont envieuses et portées à la colère, lorsqu’elles sont blessées ou plutôt corrigées, font par leurs cris d’un paille une poutre et de l’étoupe une pierre de magnésie.
+               </p>
+               <p><!-- l. 67 -->
+                  Alors, comme je lui demandais quelle était la cause de la guerre, Cocoricus me répondit qu’il en allait de la seule gloire de coqs, laquelle, acquise lors de batailles fort honorables, n’avait pas été donnée en partage aux poule, ce dont elles se plaignaient et se lamentaient, n’ayant pas la sagesse de comprendre que certaines choses conviennent aux hommes, d’autres aux femmes.  
+               </p>
+               <p><!-- l. 70  -->
+                  Puis, m’avertissant de certaines choses avec sagacité et éloquence, il dit : « Tu tiens l’affaire, Euthyme! Tu connais les coqs, tu connais les poules. Nous remettons tout à ta sagacité.
+                  Et, même si nous pouvions aisément parler dans cette situation, nous ne le ferions cependant pas, car à cause de leurs méchantes affirmations et de leurs trompeuses inventions, nous pourrions tellement nous emporter contre les poules que nous rendrions public des choses que nous regretterions peut-être après. 
+                  Nous avons en effet plus souci de notre bonne réputation que de la mauvaise des poules.
+                  Nous t’assisterons toutefois pendant que tu parleras pour que notre présence apporte du crédit à tes paroles. »
+               </p>
+               <p><!-- l. 77 -->
+                  Lorsque j’ai entendu ces mots, après avoir plaint les coqs, par Hercule, comme des hommes loyaux et pauvres de paroles, je commençai à remuer tout cela dans mon esprit et à l’examiner avec soin et j’ai trouvé en peu de temps que les poules étaient présentes et que Philonicus avait été embauché comme avocat. 
+                  Et comme peu après, en sortant de chez moi, j’ai remarqué que nombre d’hommes s’amassaient en ce lieu, j’ai suivi le mouvement par hasard.
+               </p>
+               <p><!-- l. 81 -->
+                  Je ne sais, en effet, ce que mon esprit avait pressenti et ce n’est pas en vain puisque j’ai vu Philonicus à ce point essoufflé qu’il me semblait qu’il comprimait ses poumons sous sa poitrine
+                  lui à qui j’ai fait face quand il allait parler pour recueillir de sa bouche toutes les choses, auxquelles il semblait que j’allais devoir répondre.
+                  J’ai donc recueilli pas mal de choses auxquelles il faut que je réponde l’une après l’autre.
+               </p>
+               <p><!-- l. 85 -->
+                  Tu as dit, Philonicus, que le souci des coqs dans le fait de combattre dans l’arène plutôt que de garder le poulailler, et de cela à vrai dire, tu fais dériver la base de la discorde et de la controverse toute entière, ce qui est assurément bien hasardeux pour ne pas dire imprudent. 
+                  En effet, ce n’est vraiment pas une raison de douleur pour les poules que les coqs combattent, mais, bien au contraire puisque enflammées par la haine, elles supportent avec peine que les coqs s’illustrent pendant que, dans l’intervalle, elles-mêmes semblent passer leur temps chez elles, privées de gloire.
+               </p>
+               <p><!-- l. 90 -->
+                  Tu devais donc imputer cette affaire à l’immense jalousie des poules, non au combat des coqs qui, je l’affirme quant à moi, est en ces circonstances non seulement convenable, mais même nécessaire puisque il faut que les coqs soient combatifs et courageux s’ils veulent être et passer pour les glorieux gardiens de tant poules et éliminer les dangers qui se présentent.
+               </p>
+               <p><!-- l. 94 -->
+                  Cependant personne, Spectateurs, n’a jamais été courageux ou apte au combat si on lui cache la raison du combat et la vue d’un ennemi redoutable. 
+                  L’antiquité a jugé misérable cette armée que conduisait un commandant inexpérimenté et inaccoutumé aux blessures de même que le soldat revenu du combat après avoir traversé d’immenses terreurs, le fracas confus des armes et les visages empreints de doute de Mars est plus courageux. 
+                  C’est ce qu’ont montré vraiment L. Sicinius Dentatus, Manlius Capitolinus, et M. Sergius, qui furent souvent blessés. De même, par l’exercice, les coqs deviennent plus ardents à combattre lorsque la circonstance l’exige.  
+               </p>
+               <p><!-- l. 101 -->
+                  Dites-moi, Spectateurs, faut-il préférer un vétéran à une jeune recrue? 
+                  Vous direz, par Hercule, qu’il faut le préférer et ceci ne serait-ce qu’à cause de sa seule vaillance qu’entraînent une longue pratique et l’interminable vie de camps.  
+               </p>
+               <p><!-- l. 103 -->
+                  Tu n’a pas remarqué, Philonicus, combien tu penses autrement que moi? 
+                  Veux-tu que les coq se soient étrangers au combat et qu’ils ne fuient pas quand ils ont vu des rapaces alors que la fuite est ce qui convient le mieux à ceux qui ne savent pas combattre? 
+                  Assurément, tu erres, comme on dit, dans le ciel tout entier et tu te fais mener où elles veulent par les fables de vieilles femmes des poules.
+               </p>
+               <p><!-- l. 106 -->
+                  Comme vous l’avez entendu, Spectateurs, le combat convient aux mâles coqs non tant parce qu’ils y cherchent leur gloire, qu’en vue de la défense et du salut des poules ce que ces querelleuse ne remarquent pas.
+                  Ces célèbres jeux ne sont pas toujours sanglants et meurtriers, ce que profèrent les poules.
+                  Car combien y périssent quand ils combattent?
+               </p>
+               <p><!-- l. 110 -->
+                  Il ne faut pas oublier que, grâce à cette coutume, les coqs furent le sujet d’une gloire éternelle pour de très grandes citées. 
+                  En effet, après que la joute des coqs s’est développée à Pergame et, après la bataille de Thémistocle contre Xerxès, alors qu’une date annuelle avait été fixée, elle a commencé à être pratiquée à Athènes.
+                  Rhodes, Tanagra et le centre du pays se sont illustrés.
+                  En effet, les coqs de Rhodes et ceux de Tanagra ont été entre tous les plus ardents aux combats et, après eux, comme je l’ai appris, ceux de Chalchis et de Médie.
+               </p>
+               <p><!-- l. 115 -->
+                  Vous voyez, Spectateurs, que, grâce à la lutte, de nombreux coqs ont remporté pour eux et pour leur patrie les titres d’une gloire insigne comme s’ils avaient été de victorieux athlètes aux jeux olympiques ou aux jeux isthmiques. 
+                  Par conséquent, cette tradition très ancienne et établie depuis de nombreuses années, que nos coqs se mesurent les uns aux autres, qui la blâme?
+               </p>
+               <p><!-- l. 119 -->
+                  Vous, les poules, vous êtes d’un genre grincheux, vous très jalouses, vous n’aimez pas vos maris que vous préférez, contrairement à leur devoir d’homme, voir à la maison engourdis par l’inertie d’un gardiennage de berger plutôt que vous ne désirez les voir revenir parés de titres de gloire des gymnases bondés.
+               </p>
+               <p><!-- l. 122 -->
+                  Mais vous, qui êtes toujours en train d’imaginer des choses, à quoi êtes-vous utiles ? 
+                  À quoi sert-il de mouiller de vos larmes ces plaintes dont il ne faut assurément pas faire plus de cas que d’une fève?
+                  Votre sexe gagne en considération quand les mâles coqs se fatiguent au combat.
+               </p>
+               <p><!-- l. 124 -->
+                  Les Romaines, dont les virils époux ont soutenu la République face à l’arrivée masculine  d’étrangers, ont tiré pour leur compte une part non négligeable de gloire des victoires, triomphes et autres honneurs.
+                  Vous pensez qu’Hersilie ne se réjouissait aussi ni ne se vantait quand Romulus était si glorieusement victorieux, ce qui n’est pas arrivé qu’une seule fois ? 
+                  Que l’épouse de Cincinnatus, Racilie, bien qu’effrayée, ait été néanmoins remplie de joie lorsque la dictature a été offerte à son mari au milieu des champs, qui en doute?
+                  Pourquoi ferais-je, Spectateurs, la liste interminable des autres femmes qu’a fait vibrer la vaillance de leurs maris?
+               </p>
                <p> 
                   à traduire 
                </p>
                <p> <!-- Reprise de la traduction de Noa à la ligne 210 selon l'édition de mars 2020. -->
                   Moi, je lui arracherai maintenant son second corne/bec, spectateurs, et, avec l'aide des dieux qui sont les juges et les témoins de nos actes [citation de Cicéron], je mettrai en pièces cette effronterie bouillonnante qui est la sienne. Tu ne l'auras pas volé du tout, Philonicus!
                </p>
+               
                <p>
                   Un homme irascible provoque des disputes et celui qui est porté à l'indignation sera plus enclin à la faute [citation de Salomon, en Proverbes chapitre 29 verset 22]. Que tu as commis une faute aujourd'hui à très juste titre tous l’estiment parce que, crédule, tu as vomi la folie aveugle des poules, au point que tu as pu sembler être mu par quelques délires furieux.
                </p>
@@ -552,11 +803,11 @@
                </p>
                <p>
                   Un coq décrépit pond un œuf duquel sort un basilic. Qui pourrait croire cela ? Grands dieux! Ô combien effrontée est la gent féminine! Combien elles préfèrent suivre les fables plutôt que la vérité! J'aime le poète qui dit “quiconque fait confiance à une femme s’accroche au feuillage” [Hésiode, quisquis confidit mulieri frondibus haeret]. Jamais je n'aurais pensé que ces histoires de vieilles femmes allaient être exposé aux yeux de tous. Mais la jalousie ne renonce à rien.
-                  
                </p>
                <p>
                   à traduire
                </p>
+                  
                <p><!-- Reprise de la traduction de Rania à la ligne 379 selon l'édition de mars 2020. -->
                   Vous entendez, Spectateurs, dans le mot et la nature du coq les philosophes et les théologiens n’ont-ils pas caché des mystères tout à fait vénérables?
                   Je les aurais certainement moins précisément rapportés en ce lieu, si je n’avais pas été persuadé que la gloire et de la réputation des coqs allaient être augmentées, et pas qu’un peu, par ces éléments que j’ai apportés. 
