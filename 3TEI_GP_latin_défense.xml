@@ -91,8 +91,9 @@
          <change type="update" resp="#EP"><date when="2020-04-15"/>Correction du texte latin, modification de l'apparat critique, ajout de la traduction.</change>
          <change type="update" resp="#PJ"><date when="2020-04-22"/>Correction de l'apparat critique.</change>
          <change type="update" resp="#EP"><date when="2020-05-22"/>Correction du texte latin, modification de l'apparat critique, ajout de la traduction.</change>
-         <change type="update" resp="#EP"><date when="2020-05-25"/>Correction du texte latin, modificaiton de l'apparat critique, ajout de la traduction.</change>
+         <change type="update" resp="#EP"><date when="2020-05-25"/>Correction du texte latin, modification de l'apparat critique, ajout de la traduction.</change>
          <change type="update" resp="#PJ"><date when="2020-06-01"/>Encodage intertextualité.</change>
+         <change type="update" resp="#EP"><date when="2020-06-07"/>Correction de l'encodage de l'intertextualité, du texte latin, de l'apparat critique, ajout de la traduction.</change>
       </revisionDesc>
    </teiHeader>
    <text n="3" type="discours">
@@ -165,12 +166,12 @@
                   nec fuco vos aut orationis <app><lem wit="#Zimmel">delenimentis</lem><rdg wit="#ed">delinimentis</rdg></app> suspendam. 
                </p>
                <p>
-                  <quote xml:id="def_3" cert="unknown">Iusta enim lingua robur immensum habet &amp; viribus eloquentiae adeo certe non eget
+                  <quote xml:id="def_3" cert="unknown"> Iusta enim lingua robur immensum habet et viribus eloquentiae adeo certe non eget
                   quam haec quae cum rei candore diffidit ad obductae tectoriis <app><lem wit="#Zimmel">blanditias</lem><rdg wit="#ed">blandicias</rdg></app> linguae 
-                  &amp; ostentosam verborum iactantiam refugium habet.</quote>  
+                  et ostentosam verborum iactantiam refugium habet.</quote>  
                </p>
                <p>
-                  <quote xml:id="def_4">Scitis 
+                  <quote xml:id="def_4"> Scitis 
                   Cerneadem philosophum Romae 
                   cum legatus venisset
                   Catonis sententia 
@@ -398,7 +399,7 @@
                   quam lucta exercitio. 
                </p>
                <p>
-                  <quote xml:id="def_8" cert="low">Nestorem ego Triscelem et consultissimi pectoris Heroem 
+                  <quote xml:id="def_8" cert="low"> Nestorem ego Triscelem et consultissimi pectoris Heroem 
                   legi multis gymnicis certaminibus exercitatum</quote>
                   in rei militaris tandem experientiam venisse. 
                   Unde sibi dubio procul senilis illa prudentia incalluit. 
@@ -446,7 +447,7 @@
                   ita et eandem amittentibus silentium praecipuum. 
                </p>
                <p>
-                  <quote xml:id="def_10" cert="low">Romanus olim miles post Cannensem cladem certe non cecinit</quote>
+                  <quote xml:id="def_10" cert="low"> Romanus olim miles post Cannensem cladem certe non cecinit</quote>
                   verum summo silentio Romam est amplexus 
                   si forte quis Romam tunc non Italiam deserturus pervenit. 
                   <quote xml:id="def_11" cert="low">At Scipionis triumpho 
@@ -454,7 +455,7 @@
                   multiplex cantus multiplexque <app><lem wit="#Zimmel">exsultatio</lem><rdg wit="#ed">exultatio</rdg></app> Punicis immixta ferculis dubio procul audita et visa est. 
                </p>
                <p>
-                  <quote xml:id="def_12">Croesus 
+                  <quote xml:id="def_12"> Croesus 
                   quem omnes fama variae fortunae novistis 
                   suam <app><lem wit="#Zimmel">felicitatem</lem><rdg wit="#ed">foelicitatem</rdg></app> non semel blando risu admiratus,</quote> 
                   non, Hercle, risit 
@@ -473,7 +474,7 @@
                   Nostis etenim quam coczysent familiariter quam blando has murmure invitent. 
                </p>
                <p>
-                  <quote xml:id="def_13" cert="medium">Ova excubant 
+                  <quote xml:id="def_13" cert="medium"> Ova excubant 
                   vicesque matricum gerunt ubi defecerint.</quote>
                   Quid frons tibi, Philonice, adeo caperat? 
                   Gallinas ego certe bardas et insipidas appellare ausim 
@@ -513,7 +514,7 @@
                   <app><lem wit="#ed">Nunquam ne</lem><rdg wit="#Zimmel">Numquamne</rdg></app> hoc legisti Philonice? 
                </p>
                <p>
-                  <quote xml:id="def_19">Vir iracundus provocat rixas et qui ad indignandum facilis est erit ad peccandum proclivior.</quote>
+                  <quote xml:id="def_19"> Vir iracundus provocat rixas et qui ad indignandum facilis est erit ad peccandum proclivior.</quote>
                   Peccasse hodie nimirum recte te omnes <app><lem wit="#Zimmel">aestimant</lem><rdg wit="#ed">estimant</rdg></app> 
                   quod adeo credulus <app><lem wit="#Zimmel">caecam</lem><rdg wit="#ed">coecam</rdg></app> gallinarum <app><lem wit="#Zimmel">insaniam</lem><rdg wit="#ed">insaniem</rdg></app> evomuisti 
                   ut furiis quibusdam agitari videri potueris. 
@@ -575,7 +576,7 @@
                   quemadmodum Bactrianum quendam regulum asseruisse ferunt. 
                </p>
                <p>
-                  <quote xml:id="def_24" cert="medium">Ridiculus sane est et 
+                  <quote xml:id="def_24" cert="medium"> Ridiculus sane est et 
                   cum experientia 
                   tum maximorum philosophorum <app><lem wit="#Zimmel">auctoritate</lem><rdg wit="#ed">autoritate</rdg></app> convincitur 
                   qui haec in universum fabulosa esse contendunt.</quote> 
@@ -633,26 +634,66 @@
                   magnus inquit naturae historicus. 
                </p>
                <p>
-                  <quote xml:id="def_29" cert="unknown">Proinde ego <app><lem wit="#ed">cygnum</lem><rdg wit="#Zimmel">cycnum</rdg></app> esse credere mallem Apollinis nato 
+                  <quote xml:id="def_29" cert="unknown"> Proinde ego <app><lem wit="#ed">cygnum</lem><rdg wit="#Zimmel">cycnum</rdg></app> esse credere mallem Apollinis nato 
                   quando <app><lem wit="#Zimmel">Stheneleia</lem><rdg wit="#ed">Steneleia</rdg></app> proles fuit 
                   summo amore <app><lem wit="#Zimmel">junctum</lem><rdg wit="#ed">junctam</rdg></app></quote> 
                   id quod certe multis placere audio. 
                </p>
                <p>
-                  <quote xml:id="def_30" cert="low"><app><lem wit="#ed">Quanquam</lem><rdg wit="#Zimmel">quamquam</rdg></app> est, qui eam Volucrem speciei vocabulo appellat</quote>: 
-                  quo nec gallum, Philonice, nec gallinam neque etiam <app><lem wit="#ed">Cygnum</lem><rdg wit="#Zimmel">Cycnum</rdg></app> recte <app><lem wit="#ed">intelliges</lem><rdg wit="#Zimmel">intelleges</rdg></app>; 
-                  aliae etenim complures in illa voce ut communi continentur. Potuissem ego, Spectatores, si ex praemeditato rem agere mihi contigisset, ut Philonico, multa adducere 
-                  quae certe his quae hactenus pro bene meritis gallis in medium attuli, <app><lem wit="#Zimmel">efficaciora</lem><rdg wit="#ed">efficatiora</rdg></app> forent. 
-                  scitis enim exactius refutari posse, quae sibi objecta esse sciunt accusati, aut objectum iri praesagiunt, quam ea quae subito et nil tale suspicantibus ingeruntur, 
-                  Diis tamen interim ago gratias quod ea quae mihi dicenda obiter videbantur tam prompte hactenus in mentem venere, Sed pergo, Parricidarum comites esse gallos laetari videris Philonice,
-                  quasi et ipsi eo genere poenae digni videantur, quo sceleratissimi puniuntur. Cum tamen ipsi Parricidarum ultores sint, et summorum principum voluntate instituti vindices, perpende, 
-                  <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app>, injuriam, Philonice, non possunt haec praeteriri sine retaxatione, nec debent, maior siquidem deinceps vobis, tibi dico
-                  et gallinis <app><lem wit="#Zimmel">lasciviendi</lem><rdg wit="#ed">lascivendi</rdg></app> et blatterandi daretur occasio, Sapienter 
-                  et <app><lem wit="#ed">oportune</lem><rdg wit="#Zimmel">opportune</rdg></app> <!-- 31 --> quidam ex magnis Oratoribus dixit. <quote xml:id="def_31" cert="low">Occurrere oportere injuriae</quote>, 
-                  quasi inveteraverit quemadmodum connutritum morbum vix quispiam extinxerit. scio quidem et in Codice Iustiniani, et eiusdem rudmentis quas institutiones vocamus, id scriptum esse 
-                  quod tu <app><lem wit="#ed">tetulisti</lem><rdg wit="#Zimmel">detulisti</rdg></app> : et legem ex Modestino depromptam, ad legem Pompeiam de Parricidis <app><lem wit="#Zimmel">librorum</lem><rdg wit="#ed">li</rdg></app>. 
-                  digestorum quadragesimo octavo addo, a te praeteritam et neglectam, qui praesentibus obsoniis plus uteris <quote xml:id="def_32" cert="unknown">quam antiquis legibus</quote>: qua quidem et culei et Galli mentio sit et
-                  <app><lem wit="#ed">praeterea</lem><rdg wit="#ed">preterea</rdg></app> virgarum sanguinearum, id quod a te inducti non habent Verum omnia non ea procacitate et insolentia, qua tu tumescis, 
+                  <quote xml:id="def_30" cert="low"><app><lem wit="#ed">Quanquam</lem><rdg wit="#Zimmel">quamquam</rdg></app> est 
+                     qui eam "Volucrem" speciei vocabulo appellat</quote>
+                  quo nec gallum, Philonice, nec gallinam neque etiam <app><lem wit="#ed">Cygnum</lem><rdg wit="#Zimmel">Cycnum</rdg></app> recte <app><lem wit="#ed">intelliges</lem><rdg wit="#Zimmel">intelleges</rdg></app>: 
+                  aliae etenim complures in illa voce ut communi continentur. 
+               </p>
+               <p>
+                  Potuissem ego, Spectatores, 
+                  si ex praemeditato rem agere mihi contigisset ut Philonico, 
+                  multa adducere 
+                  quae certe his 
+                     quae hactenus pro bene meritis gallis in medium attuli 
+                  <app><lem wit="#Zimmel">efficaciora</lem><rdg wit="#ed">efficatiora</rdg></app> forent. 
+               </p>
+               <p>
+                  Scitis enim exactius refutari posse 
+                  quae sibi objecta esse sciunt accusati 
+                  aut objectum iri praesagiunt 
+                  quam ea quae subito et nil tale suspicantibus ingeruntur. 
+                  Diis tamen interim ago gratias 
+                  quod ea 
+                  quae mihi dicenda obiter videbantur 
+                  tam prompte hactenus in mentem venere,
+                  sed pergo.
+               </p>
+               <p>
+                  Parricidarum comites esse gallos laetari videris, Philonice,
+                  quasi et ipsi eo genere poenae digni videantur 
+                  quo sceleratissimi puniuntur. 
+                  Cum tamen ipsi parricidarum ultores sint et summorum principum voluntate instituti vindices, 
+                  perpende, <app><lem wit="#Zimmel">quaeso</lem><rdg wit="#ed">queso</rdg></app>, injuriam, Philonice: 
+                  non possunt haec praeteriri sine retaxatione nec debent, 
+                  maior siquidem deinceps vobis tibi dico et gallinis 
+                  <app><lem wit="#Zimmel">lasciviendi</lem><rdg wit="#ed">lascivendi</rdg></app> et blatterandi daretur occasio. 
+               </p>
+               <p>
+                  Sapienter et <app><lem wit="#ed">oportune</lem><rdg wit="#Zimmel">opportune</rdg></app> <!-- 31 --> quidam ex magnis oratoribus dixit 
+                  <quote xml:id="def_31" cert="low">occurrere oportere injuriae</quote> 
+                  quam si inveteraverit 
+                  quemadmodum connutritum morbum vix quispiam extinxerit. 
+               </p>
+               <p>
+                  Scio quidem et in Codice Iustiniani et eiusdem rudimentis 
+                  quas institutiones vocamus 
+                  id scriptum esse 
+                  quod tu <app><lem wit="#Zimmel">detulisti</lem><rdg wit="#ed">tetulisti</rdg></app> 
+                  et legem ex Modestino depromptam ad legem Pompeiam de Parricidis 
+                  <app><lem wit="#Zimmel">librorum</lem><rdg wit="#ed">li</rdg></app> digestorum quadragesimo octavo addo 
+                  a te praeteritam et neglectam 
+                  qui praesentibus obsoniis plus uteris <quote xml:id="def_32" cert="unknown">quam antiquis legibus</quote> 
+                  qua quidem et culei et Galli mentio sit et <app><lem wit="#ed">praeterea</lem><rdg wit="#ed">preterea</rdg></app> virgarum sanguinearum 
+                  id quod a te inducti non habent. 
+               </p>
+               <p>
+                  Verum omnia non ea procacitate et insolentia, qua tu tumescis, 
                   sed per modestinum modestissime in haec verba. <quote xml:id="def_33" cert="medium">Poena Parricidii more majorum haec instituta est, ut Parricida virgis sanguineis verberatus, dein in culeo insuatur, 
                   cum cane, Gallo <app><lem wit="#Zimmel">Gallinaceo</lem><rdg wit="#ed">Gallinacio</rdg></app> et vipera et simia, dein in mare profundum culeus jactetur</quote>, 
                   hoc ita si mare proximum sit, alioquin bestiis <app><lem wit="#ed">subiiciatur</lem><rdg wit="#Zimmel">subiciatur</rdg></app>, Secundum Divi Hadriani constitutionem. 
@@ -717,7 +758,7 @@
                   Sed ad institutum redeo. 
                </p>
                <p>
-                  <quote xml:id="def_52" cert="unknown">Hunc Gallum Socrates 
+                  <quote xml:id="def_52" cert="unknown"> Hunc Gallum Socrates 
                   cum divinitatem animi sui divinitati majoris mundi copulaturum se speraret</quote> 
                   Aesculapio <app><lem wit="#Zimmel">illo</lem><rdg wit="#ed">i.</rdg></app> animarum medico debere se dixit
                   <app><lem wit="#ed">quanquam</lem><rdg wit="#Zimmel">quamquam</rdg></app> magnus quidam inter Christianos poetas fidei propugnator, 
@@ -762,7 +803,7 @@
                   ut ego in <app><lem wit="#Zimmel">cena</lem><rdg wit="#ed">coena</rdg></app> una turdum bovi praeferam et anseri phasianum.
                </p>
                <p>
-                  <quote xml:id="def_56" cert="medium">Ferunt medici in galli vesica lapidem <!-- 36 -->reperiri 
+                  <quote xml:id="def_56" cert="medium"> Ferunt medici in galli vesica lapidem <!-- 36 -->reperiri 
                   qui vesicae nostrae incommodis medeatur.</quote> 
                   Item testes Gallinaceorum 
                   perinde si a conceptu edat mulier, mares in utero fieri dicuntur. 
@@ -1021,6 +1062,26 @@
                <p><!-- l. 260 -->
                   Ainsi, moi je préférerais croire qu’un cygne a été uni au fils d’Apollon, puisqu’il était un descendant de Sthelenus, par un amour très profond, un récit qui plaît certainement à beaucoup de monde, à ce que j’entends [Higi. et Arato]. 
                </p>
+               <p><!-- l. 262 -->
+                  D'ailleurs, il y en a un qui l'appelle ''Oiseau'' avec un mot à propos de son aspect: grâce à cette expression, tu comprendras bien, Philonicus, qu’il n'y a ni coq, ni poule, ni non plus de cygne: le fait est que plusieurs autres volatiles sont rassemblés sous cette appellation comme commune.
+               </p>
+               <p><!-- l. 265 -->
+                  Moi j’aurais pu, spectateurs, s'il m'avait été donné de conduire l'affaire à l'avance, comme à Philonicus, amener beaucoup d’éléments, qui certainement auraient été plus efficaces que ceux que j'ai rapportés jusqu'ici au milieu de vous en faveur des coqs bien méritants.
+               </p>
+               <p><!-- l. 267 -->
+                  Vous savez en effet qu'on peut réfuter de façon plus précise des faits quand les accusés savent  ce qu'on leur reproche ou devinent ce qu’on va leur reprocher, plutôt que ceux qui soient lancés contre eux subitement et alors qu'ils ne soupçonnent rien de tel. Cependant, en cet instant, je remercie les dieux de ce que les paroles qu’il me paraissait devoir dire tout de suite me sont venues si rapidement à l’esprit jusqu’ici, mais je poursuis.
+               </p>
+               <p><!-- l. 271  -->
+                  Philonicus, tu sembles te réjouir que les coqs soient des compagnons d’infanticides, comme si eux-mêmes semblaient mériter ce genre de châtiment par lequel sont punis les pires criminels. Toutefois, comme eux-mêmes sont les vengeurs des infanticides et les exécuteurs de la vengeance établis par la volonté des plus hauts placés, évalue l'injustice, je te le demande, Philonicus ; on ne peut pas passer devant ses faits sans riposte, on ne le doit pas puisqu’ensuite une plus grande occasion de badiner et de bavasser serait donnée à vous, j’entends à toi comme aux poules.
+               </p>
+               <p><!-- l. 276 -->
+                  C'est judicieusement et opportunément qu'un des grands orateurs a dit qu’il fallait s'opposer à l'injustice [Hypéride]. Si on la laissait vieillir, on l’éradiquerait avec peine comme une maladie qu’on nourrit.
+               </p>
+               <p><!-- l. 278 -->
+                  Certes, je sais que c’est dans le Code justinien et dans les essais du même que nous appelons les Institutions qu’il a été écrit ce que toi tu as présenté
+                  et j’ajoute la loi tirée d’Hérennius Modestinus à la loi de Pompée sur les parricides du quarante-huitième livre du Digeste, omise et négligée par toi qui te sers plus des nourritures présentes que des lois du passé : 
+                  C’est dans ce loin, évidemment, qu’il est fait mention [Périandre] du sac de cuir et du coq et en plus de verges sanglantes, ce que les auteurs introduits par toi n’ont pas.
+               </p>
                <p>
                   à traduire
                </p>
@@ -1063,64 +1124,63 @@
       </body>
       <back>
          <div type="loci.citati">
-            <cit corresp="#def_1"> 
-               <bibl>Seneca, Epistulae morales ad Lucilium, epist.116, par.2</bibl><quote>nullum est vitium sine patrocinio</quote></cit>
+            <cit corresp="#def_1"><bibl>Seneca, Epistulae morales ad Lucilium, ep. 116, 2</bibl><quote>nullum est vitium sine patrocinio</quote></cit>
             <cit corresp="#def_2"><bibl>Eschyle, Ὀπλόν κρίσις</bibl><quote>Ἁπλᾶ γάρ ἐστι θῆς ἀληθείρας ἔπη</quote></cit>
             <cit corresp="#def_3"><bibl>Sophocles, Oedipe Roi, v. 366</bibl><quote>Πέφευγα; τἀληθὲς γὰρ ἰσχῦον τρέφω.</quote></cit>
-            <cit corresp="#def_4"><bibl>Aulu-Gelle, Nuits Attiques XVII, 21; 48</bibl><quote>Ac deinde annis fere post quindecim bellum adversum Poenos sumptum est atque non nimium longe M. Cato orator in civitate et Plautus poeta in scaena floruerunt; isdemque temporibus Diogenes Stoicus et Carneades Academicus et Critolaus Peripateticus ab Atheniensibus ad senatum populi Romani negotii publici gratia legati sunt</quote></cit> 
-            <cit corresp="#def_5"><bibl>Pline,Histoire Naturelle, VII, 28, </bibl><quote/></cit>
-            <cit corresp="#def_6"><bibl>Pline, Histoire Naturelle, X, 25.2</bibl><quote>Pergami omnibus annis spectaculum gallorum publice editur ceu gladiatorum.</quote></cit>
-            <cit corresp="#def_7"><bibl>Elien, Histoires diverses, II 28.1 </bibl><quote>Ἀλεκτρυόνων ἀγὼν πόθεν ἀρχὴν ἔλαβεν. Μετὰ τὴν κατὰ τῶν Περσῶν νίκην, Ἀθηναῖοι νόμον ἔθεντο, ἀλεκτρυόνας ἀγωνίζεσθαι δημοσίᾳ ἐν τῷ θεάτρῳ μιᾶς ἡμέρας τοῦ ἔτους</quote></cit>
+            <cit corresp="#def_4"><bibl>Aulu-Gelle, Nuits Attiques XVII, 21, 48</bibl><quote>Ac deinde annis fere post quindecim bellum adversum Poenos sumptum est atque non nimium longe M. Cato orator in civitate et Plautus poeta in scaena floruerunt; isdemque temporibus Diogenes Stoicus et Carneades Academicus et Critolaus Peripateticus ab Atheniensibus ad senatum populi Romani negotii publici gratia legati sunt</quote></cit> 
+            <cit corresp="#def_5"><bibl>Pline,Histoire Naturelle, VII, 28 </bibl><quote/></cit>
+            <cit corresp="#def_6"><bibl>Pline, Histoire Naturelle, X, 25, 2</bibl><quote>Pergami omnibus annis spectaculum gallorum publice editur ceu gladiatorum.</quote></cit>
+            <cit corresp="#def_7"><bibl>Elien, Histoires diverses, II, 28, 1 </bibl><quote>Ἀλεκτρυόνων ἀγὼν πόθεν ἀρχὴν ἔλαβεν. Μετὰ τὴν κατὰ τῶν Περσῶν νίκην, Ἀθηναῖοι νόμον ἔθεντο, ἀλεκτρυόνας ἀγωνίζεσθαι δημοσίᾳ ἐν τῷ θεάτρῳ μιᾶς ἡμέρας τοῦ ἔτους</quote></cit>
             <cit corresp="#def_8"><bibl>Philostrate, Heroicus, 26, 1</bibl><quote>τὸν δὲ Ἀντίλοχον τὰ μὲν ἄλλα ὅμοιόν φησι γενέσθαι τῷ Νέστορι, δρομικώτερον δὲ καὶ περιεπτισμένον τὸd εἶδος καὶ μὴ φρονοῦντα ἐπὶ τῇ κόμῃ.</quote></cit>
             <cit corresp="#def_9"><bibl>Lactance, De la mort des persécuteurs de l'Église, 21</bibl><quote> Quid lusorium uel delicias eius referam? Habebat ursos ferociae ac magnitudinis suae simillimos, quos toto imperii sui tempore elegerat; quotiens delectari libuerat, horum aliquem adferri nominatim iubebat. His omnibus non plane comedendi, sed obsorbendi obiectabant: quorum artus cum dissiparentur, ridebat suauissime nec umquam sine humano cruore cenabat.</quote></cit>
             <cit corresp="#def_10"><bibl>Tite-Live, Ab Urbe Condita, XXII, 43-52</bibl><quote/></cit>
             <cit corresp="#def_11"><bibl>Tite-Live, Ab Urbe Condita, XXX, 45</bibl><quote/></cit>
             <cit corresp="#def_12"><bibl>Hérodote, Histoire, I, 26-56, 69-92</bibl><quote/></cit>
-            <cit corresp="#def_13"><bibl>Elien, Elien De la nature des animaux, 3.30</bibl><quote>φυλάττει δὲ ἄρα τοὺς τῶν νεοττιῶν δεσπότας ἀφεστῶτας καὶ πλανωμένους, καὶ παρελθὼν ἐς καταγωγὴν ὀθνείαν ἐντίκτει</quote></cit>
-            <cit corresp="#def_14"><bibl>Varron, De agricultura, 3.9.5</bibl><quote>quae nocent gallinis non modo non pertimescant, sed etiam pro gallinis propugnent.</quote></cit>
+            <cit corresp="#def_13"><bibl>Elien, Elien De la nature des animaux, 3, 30</bibl><quote>φυλάττει δὲ ἄρα τοὺς τῶν νεοττιῶν δεσπότας ἀφεστῶτας καὶ πλανωμένους, καὶ παρελθὼν ἐς καταγωγὴν ὀθνείαν ἐντίκτει</quote></cit>
+            <cit corresp="#def_14"><bibl>Varron, De agricultura, 3, 9, 5</bibl><quote>quae nocent gallinis non modo non pertimescant, sed etiam pro gallinis propugnent.</quote></cit>
             <cit corresp="#def_15"><bibl>Columelle, De Re rustica, VIII, 2, 11-12</bibl></cit>
-            <cit corresp="#def_16"><bibl>Diogène Laerce, Vies des Philosophes, Périande 1 .98</bibl><quote>φίλοις εὐτυχοῦσι καὶ ἀτυχοῦσι ὁ αὐτὸς ἴσθι· ὃ ἂν ὁμολογήσῃς, διατήρει· λόγων ἀπορρήτων ἐκφορὰν μὴ ποιοῦ· </quote></cit>
+            <cit corresp="#def_16"><bibl>Diogène Laerce, Vies des Philosophes, Périande 1, 98</bibl><quote>φίλοις εὐτυχοῦσι καὶ ἀτυχοῦσι ὁ αὐτὸς ἴσθι· ὃ ἂν ὁμολογήσῃς, διατήρει· λόγων ἀπορρήτων ἐκφορὰν μὴ ποιοῦ· </quote></cit>
             <cit corresp="#def_17"><bibl>Sénèque, Des Bienfaits, 5, 21, 1</bibl><quote>Nulla lex iubet amicorum secreta non eloqui; nulla lex iubet fidem etiam inimico praestare;</quote></cit>
-            <cit corresp="#def_18"><bibl>Cicéron, De legibus 2.16</bibl><quote>diis immortalibus interpositis tum iudicibus tum testibus</quote></cit>
-            <cit corresp="#def_19"><bibl>Vulgate, Proverbes, 22.29</bibl><quote>iracundus provocat rixas et qui ad indignandum facilis est erit ad peccata proclivior</quote></cit>
-            <cit corresp="#def_20"><bibl>Diogène Laerce, Vies des Philosophes, Cléobule, 1,92</bibl><quote>Γυναικὶ μὴ φιλοφρονεῖσθαι, μηδὲ μάχεσθαι, ἀλλοτρίων παρόντων</quote></cit>
+            <cit corresp="#def_18"><bibl>Cicéron, De legibus 2, 16</bibl><quote>diis immortalibus interpositis tum iudicibus tum testibus</quote></cit>
+            <cit corresp="#def_19"><bibl>Vulgate, Proverbes, 22, 29</bibl><quote>iracundus provocat rixas et qui ad indignandum facilis est erit ad peccata proclivior</quote></cit>
+            <cit corresp="#def_20"><bibl>Diogène Laerce, Vies des Philosophes, Cléobule, 1, 92</bibl><quote>Γυναικὶ μὴ φιλοφρονεῖσθαι, μηδὲ μάχεσθαι, ἀλλοτρίων παρόντων</quote></cit>
             <cit corresp="#def_21"><bibl>Arrien, Le Manuel d'Épictète, 29</bibl><quote>οὕτω θεασάμενοί τινες φιλόσοφον καὶ ἀκούσαντες οὕτω τινὸς λέγοντος, ὡς Εὐφράτης λέγει (καίτοι τίς οὕτω δύναται εἰπεῖν, ὡς ἐκεῖνος;), θέλουσι καὶ αὐτοὶ φιλοσοφεῖν.</quote></cit>
-            <cit corresp="def_22"><bibl>Hesiode</bibl><quote/></cit>
-            <cit corresp="#def_23"><bibl>Diogène Laerce, Vies des Philosophes, Bion de Borysthène 4.7.48</bibl><quote>τὸ γῆρας ἔλεγεν ὅρμον εἶναι τῶν κακῶν: εἰς αὐτὸ γοῦν πάντα καταφεύγειν.</quote></cit>
-            <cit corresp="#def_24"><bibl>Albertus Magnus, Commentaire sur les Sentences, livre I, 25,46</bibl><quote>Mira dicere quaerunt: quia dicit Philosophus in primo Metaphysicae, quod fabula composita est ex miris</quote></cit>
-            <cit corresp="def_25"><bibl>Pline, Histoire Naturelle, VIII, 33.78 et Albertus Magnus</bibl><quote>Eadem et basilisci serpentis est vis. Cyrenaica hunc generat provincia</quote></cit>
-            <cit corresp="#def_26"><bibl>Ovide, Fastes, 1.414</bibl><quote>nequitia est quae te non sinit esse senem</quote></cit>
+            <cit corresp="#def_22"><bibl>Hesiode</bibl><quote/></cit>
+            <cit corresp="#def_23"><bibl>Diogène Laerce, Vies des Philosophes, Bion de Borysthène 4, 7, 48</bibl><quote>τὸ γῆρας ἔλεγεν ὅρμον εἶναι τῶν κακῶν: εἰς αὐτὸ γοῦν πάντα καταφεύγειν.</quote></cit>
+            <cit corresp="#def_24"><bibl>Albertus Magnus, Commentaire sur les Sentences, I, 25, 46</bibl><quote>Mira dicere quaerunt: quia dicit Philosophus in primo Metaphysicae, quod fabula composita est ex miris</quote></cit>
+            <cit corresp="#def_25"><bibl>Pline, Histoire Naturelle, VIII, 33, 78 et Albertus Magnus</bibl><quote>Eadem et basilisci serpentis est vis. Cyrenaica hunc generat provincia</quote></cit>
+            <cit corresp="#def_26"><bibl>Ovide, Fastes, 1, 414</bibl><quote>nequitia est quae te non sinit esse senem</quote></cit>
             <cit corresp="#def_28"><bibl>Pline, Histoire Naturelle, X, 24, 47</bibl><quote>et plebs tamen aeque superba graditur ardua ceruice, cristis celsa, caelumque sola uolucrum aspicit crebra</quote></cit>
-            <cit corresp="def_29"><bibl>Hyginus et Aratus </bibl><quote/></cit>
+            <cit corresp="#def_29"><bibl>Hyginus et Aratus </bibl><quote/></cit>
             <cit corresp="#def_30"><bibl>Vitruve,  De architectura, IX, 5</bibl><quote/></cit>
-            <cit corresp="def_31"><bibl>Hypéride, Pro Euxenippo, 17-22</bibl><quote>ὡς ἄλλοθί που οὗτοι τὴν γνώμην ἂν σχοίησαν ἢ ἐπ’ αὐτοῦ τοῦ πράγματος καὶ πότερον ἀδικεῖ ὑμᾶς ὁ κρινόμενος ἢ οὔ</quote></cit>
-            <cit corresp="def_32"><bibl>Diogène Laerce, Vies des Philosophes, Périande 1 .94</bibl><quote/></cit>
-            <cit corresp="def_33"><bibl> Institutes de Justinien, IV, 18, 6"Parricida poena",</bibl><quote>sed insutus culeo cum cane et gallo gallinaceo et vipera et simia et inter eius ferales angustias comprehensus</quote></cit>
-            <cit corresp="def_34"><bibl>Bapa. pius et  Panormic(t)a</bibl><quote/></cit>
-            <cit corresp="def_35"><bibl>Juvénal, Satyre XIII, v156-155</bibl><quote>clauditur aduersis innoxia simia fatis</quote></cit>
-            <cit corresp="def_36"><bibl>Diogène Laerce, Vies des Philosophes, Chilon,1.71</bibl><quote>Φασὶ δ' αὐτόν ποτε γηραιὸν ἤδη ὄντα εἰπεῖν ὡς οὐδὲν συνειδείη ἄνομον ἑαυτῷ ἐν τῷ βίῳ· διστάζειν δὲ περὶ ἑνός</quote></cit>
-            <cit corresp="def_37"><bibl>Saint Jérome, Commentaire sur Isaïe, 13 ( cf. Esaie 47, 11) </bibl><quote>ipsa incidas in foveam quam parasti</quote></cit>
-            <cit corresp="def_38"><bibl>Pline, Histoire Naturelle, X, 21 </bibl><quote/></cit>
-            <cit corresp="def_39"><bibl>Virgile,Appendix Vergiliana, "Moretum", v.2 </bibl><quote>excubitorque diem cantu praedixerat ales</quote></cit>
-            <cit corresp="def_40"><bibl>Ovide, Fastes, I, 455-456</bibl><quote>Nocte deae Nocti cristatus caeditur ales, quod tepidum uigili prouocet ore diem</quote></cit>
-            <cit corresp="def_41"><bibl>Pline, Histoire Naturelle, X, 21 &amp; Elien De la nature des animaux, IV, 29</bibl><quote/></cit>
-            <cit corresp="def_42"><bibl>Fulgence de Ruspe, L'Incarnation du fils de Dieu, cap. 47</bibl><quote/></cit>
-            <cit corresp="def_43"><bibl>Lucien, Le Coq, 28</bibl><quote/></cit>
-            <cit corresp="def_44"><bibl>Pline, Histoire naturelle</bibl><quote/></cit>
-            <cit corresp="def_45"><bibl>Élien, Histoire variée, II, 28</bibl><quote/></cit>
-            <cit corresp="def_46"><bibl>Pline, Histoire naturelle,</bibl><quote/></cit>
-            <cit corresp="def_47"><bibl>R. Volaterr</bibl><quote/></cit>
-            <cit corresp="def_48"><bibl>Élien, De la nature des animaux, IV, 29 &amp; Pline Histoire naturelle </bibl><quote/></cit>
-            <cit corresp="def_49"><bibl>Proelus</bibl><quote/></cit>
-            <cit corresp="def_50"><bibl>Ioanni Piel ( pici) &amp; suorum ( opinio) Pico della mirandola, De Hominis dignitate, S. 195</bibl><quote/></cit>
-            <cit corresp="def_51"><bibl>Livre de Job</bibl><quote/></cit>
-            <cit corresp="def_52"><bibl>Picus</bibl><quote/></cit>
-            <cit corresp="def_53"><bibl>Prudentius, Poèmes, Apotheosis, v. 205</bibl><quote>et ipsi gallinam soleant aut gallum</quote></cit>
-            <cit corresp="def_54"><bibl>Gallus Abas</bibl><quote/></cit>
-            <cit corresp="def_55"><bibl>Pline, Histoire Naturelle, XXIX, 25</bibl><quote>Carnibus gallinaceorum ita, ut tepebunt auulsae, adpositis uenena serpentium domantur, item cerebro in uino poto</quote></cit>
-            <cit corresp="def_56"><bibl>Pline, Histoire Naturelle, XXX, 3, 21</bibl><quote>aluum ciet gallinaceorum discoctorum ius et acria mollit, ciet et hirundinum fimum adiecto melle subditum.</quote></cit>
-            <cit corresp="def_57"><bibl>Rasus medicus</bibl><quote/></cit>
-            <cit corresp="def_58"><bibl>Platon</bibl><quote/></cit>
+            <cit corresp="#def_31"><bibl>Hypéride, Pro Euxenippo, 17-22</bibl><quote>ὡς ἄλλοθί που οὗτοι τὴν γνώμην ἂν σχοίησαν ἢ ἐπ’ αὐτοῦ τοῦ πράγματος καὶ πότερον ἀδικεῖ ὑμᾶς ὁ κρινόμενος ἢ οὔ</quote></cit>
+            <cit corresp="#def_32"><bibl>Diogène Laerce, Vies des Philosophes, Périande 1 .94</bibl><quote/></cit>
+            <cit corresp="#def_33"><bibl> Institutes de Justinien, IV, 18, 6"Parricida poena",</bibl><quote>sed insutus culeo cum cane et gallo gallinaceo et vipera et simia et inter eius ferales angustias comprehensus</quote></cit>
+            <cit corresp="#def_34"><bibl>Bapa. pius et  Panormic(t)a</bibl><quote/></cit>
+            <cit corresp="#def_35"><bibl>Juvénal, Satyre XIII, v156-155</bibl><quote>clauditur aduersis innoxia simia fatis</quote></cit>
+            <cit corresp="#def_36"><bibl>Diogène Laerce, Vies des Philosophes, Chilon,1.71</bibl><quote>Φασὶ δ' αὐτόν ποτε γηραιὸν ἤδη ὄντα εἰπεῖν ὡς οὐδὲν συνειδείη ἄνομον ἑαυτῷ ἐν τῷ βίῳ· διστάζειν δὲ περὶ ἑνός</quote></cit>
+            <cit corresp="#def_37"><bibl>Saint Jérome, Commentaire sur Isaïe, 13 ( cf. Esaie 47, 11) </bibl><quote>ipsa incidas in foveam quam parasti</quote></cit>
+            <cit corresp="#def_38"><bibl>Pline, Histoire Naturelle, X, 21 </bibl><quote/></cit>
+            <cit corresp="#def_39"><bibl>Virgile,Appendix Vergiliana, "Moretum", v.2 </bibl><quote>excubitorque diem cantu praedixerat ales</quote></cit>
+            <cit corresp="#def_40"><bibl>Ovide, Fastes, I, 455-456</bibl><quote>Nocte deae Nocti cristatus caeditur ales, quod tepidum uigili prouocet ore diem</quote></cit>
+            <cit corresp="#def_41"><bibl>Pline, Histoire Naturelle, X, 21 et Elien De la nature des animaux, IV, 29</bibl><quote/></cit>
+            <cit corresp="#def_42"><bibl>Fulgence de Ruspe, L'Incarnation du fils de Dieu, cap. 47</bibl><quote/></cit>
+            <cit corresp="#def_43"><bibl>Lucien, Le Coq, 28</bibl><quote/></cit>
+            <cit corresp="#def_44"><bibl>Pline, Histoire naturelle</bibl><quote/></cit>
+            <cit corresp="#def_45"><bibl>Élien, Histoire variée, II, 28</bibl><quote/></cit>
+            <cit corresp="#def_46"><bibl>Pline, Histoire naturelle,</bibl><quote/></cit>
+            <cit corresp="#def_47"><bibl>R. Volaterr</bibl><quote/></cit>
+            <cit corresp="#def_48"><bibl>Élien, De la nature des animaux, IV, 29 et Pline Histoire naturelle </bibl><quote/></cit>
+            <cit corresp="#def_49"><bibl>Proelus</bibl><quote/></cit>
+            <cit corresp="#def_50"><bibl>Ioanni Piel ( pici) et suorum ( opinio) Pico della mirandola, De Hominis dignitate, S. 195</bibl><quote/></cit>
+            <cit corresp="#def_51"><bibl>Livre de Job</bibl><quote/></cit>
+            <cit corresp="#def_52"><bibl>Picus</bibl><quote/></cit>
+            <cit corresp="#def_53"><bibl>Prudentius, Poèmes, Apotheosis, v. 205</bibl><quote>et ipsi gallinam soleant aut gallum</quote></cit>
+            <cit corresp="#def_54"><bibl>Gallus Abas</bibl><quote/></cit>
+            <cit corresp="#def_55"><bibl>Pline, Histoire Naturelle, XXIX, 25</bibl><quote>Carnibus gallinaceorum ita, ut tepebunt auulsae, adpositis uenena serpentium domantur, item cerebro in uino poto</quote></cit>
+            <cit corresp="#def_56"><bibl>Pline, Histoire Naturelle, XXX, 3, 21</bibl><quote>aluum ciet gallinaceorum discoctorum ius et acria mollit, ciet et hirundinum fimum adiecto melle subditum.</quote></cit>
+            <cit corresp="#def_57"><bibl>Rasus medicus</bibl><quote/></cit>
+            <cit corresp="#def_58"><bibl>Platon</bibl><quote/></cit>
          </div>
       </back>
    </text>
