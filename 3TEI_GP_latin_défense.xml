@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="fr">
       <fileDesc>
@@ -843,13 +845,41 @@
                   Mendaces sunt isti qui lascivia corpora dissolvi, animum obfuscari, memoriam elui multorum applausu docuere sed pergo. 
                </p>
                <p>
-                  <quote xml:id="def_48" cert="unknown">Parturientibus adesse galli existimantur, postquam unus Latonae parienti astitit</quote>: eidem postea <app><lem wit="#ed">charus</lem><rdg wit="#Zimmel">carus</rdg></app> admodum: 
-                  generosissimisque ferarum, Leonibus et scolopendris terrori sunt; <app><lem wit="#Zimmel">ex quo</lem><rdg wit="#ed">exquo</rdg></app> Africam petentes, quod ea regio his maxime abundet feris, 
-                  hanc Alitem secum ferre consuevere, Idque certe Spectatores nec magnitudine sit, nec potentia, quis enim in his gallum leoni conferet? Sed potius ex superni ordinis contemplatione, maximus enim naturae admirator,
-                  <quote xml:id="def_49" cert="unknown">et leonem et gallum solares esse dixit, praesentiam tamen virtutis eius, gallo majorem inesse</quote>, quod et inde apparet, quod gallus quasi quibusdam hymnis surgenti Soli applaudit, hincque fieri, ut a leone timeatur et colatur.
-                  Pythagoras sapiens vel ob id praecipue putatus, quod sapientis se nomine dignum <app><lem wit="#ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> existimavit, praecipere solebat, tu gallum nutriremus, quo quemadmodum doctissimorum
-                  interpretatio est, <quote xml:id="def_50" cert="unknown">divi nam animae nostrae partem, quae divinarum rerum cognitione, quasi solido cibo et <app><lem wit="#ed">coelesti</lem><rdg wit="#Zimmel">caelesti</rdg></app> ambrosia pascit <app><lem wit="#ed">intelligimus</lem><rdg wit="#Zimmel">intellegimus</rdg></app></quote>, 
-                  Et hic quidem Gallus est, cujus aspectum Leo id est omnis terrena potestas formidat et reveretur. <quote xml:id="def_51" cert="unknown">Cui singularem intelligentiam datam esse</quote> propheta testatus est, singulare patientiae et veritatis exemplar. 
+                  <quote xml:id="def_48" cert="unknown">Parturientibus adesse Galli existimantur 
+                     postquam unus Latonae parienti astitit</quote> 
+                  eidem postea <app><lem wit="#Zimmel">carus</lem><rdg wit="#ed">charus</rdg></app> admodum. 
+                  Generosissimis ferarum, leonibus et scolopendris terrori sunt. 
+                  <app><lem wit="#Zimmel">Ex quo</lem><rdg wit="#ed">Exquo</rdg></app> Africam petentes 
+                  quod ea regio his maxime abundet feris 
+                  hanc alitem secum ferre consuevere.
+               </p>
+               <p>
+                  Idque certe, Spectatores, nec magnitudine fit nec potentia 
+                  quis enim in his gallum leoni conferet? 
+                  Sed potius ex superni ordinis contemplatione. 
+                  Maximus enim naturae admirator
+                  <quote xml:id="def_49" cert="unknown">et leonem et gallum solares esse dixit praesentiam tamen virtutis eius gallo majorem inesse</quote> 
+                  quod et inde apparet 
+                  quod gallus quasi quibusdam hymnis surgenti soli applaudit 
+                  hincque fieri 
+                  ut a leone timeatur et colatur.
+               </p>
+               <p>
+                  Pythagoras sapiens vel ob id praecipue putatus 
+                  quod sapientis se nomine dignum <app><lem wit="#ed">nunquam</lem><rdg wit="#Zimmel">numquam</rdg></app> existimavit, 
+                  praecipere solebat 
+                  ut gallum nutriremus 
+                  quo quemadmodum doctissimorum interpretatio est 
+                  <quote xml:id="def_50" cert="unknown">divinam animae nostrae partem 
+                     quae divinarum rerum cognitione 
+                     quasi solido cibo et <app><lem wit="#ed">coelesti</lem><rdg wit="#Zimmel">caelesti</rdg></app> ambrosia pascit 
+                     <app><lem wit="#ed">intelligimus</lem><rdg wit="#Zimmel">intellegimus</rdg></app></quote>. 
+               </p>
+               <p>
+                  Et hic quidem Gallus est 
+                  cujus aspectum leo 
+                  id est omnis terrena potestas formidat et reveretur. 
+                  <quote xml:id="def_51" cert="unknown">Cui singularem intelligentiam datam esse</quote> propheta testatus est singulare patientiae et veritatis exemplar. 
                </p>
                <p>
                   Auditis, Spectatores, 
@@ -924,12 +954,28 @@
                </p>
                <p>
                   Quod si ego fraude potius, aut potius naturae subsidio, 
-                  quod a multis in fraudis aut superstitionis infamiam deturbatur, Philonicum hoc in loco vincere, quam rei a gallis propositae <app><lem wit="#Zimmel">efficacia</lem><rdg wit="#ed">efficatia</rdg></app>
-                  voluissem, certe vel dextro unius galli pede vicissem, tam acria gallorum calcaria sunt. Nunc <app><lem wit="#ed">dinoscite</lem><rdg wit="#Zimmel">dignoscite</rdg></app>, Spectatores, dum alius iudex non est,
-                  et vobis omnibus censendi et <app><lem wit="#ed">dinoscendi</lem><rdg wit="#Zimmel">dignoscendi</rdg></app> copia facta est, quam inique accusati sint galli quamque petulans et impetuosum genus sit gallinarum, 
-                  et statuite poenam parti adversae, ut deinceps, quid agendum in tali re sit, <app><lem wit="#ed">intelligant</lem><rdg wit="#Zimmel">intellegant</rdg></app> et consilium mutent. 
-                  <quote xml:id="def_58" cert="unknown"><app><lem wit="#Zimmel">Sumite</lem><rdg wit="#ed">Summite</rdg></app> in animum veteris et excellentis philosophi sententiam</quote>. Quicastigare noxios dixit oportere, ne ipsorum exemplo, <app><lem wit="#Zimmel">ceteri</lem><rdg wit="#ed">caeteri</rdg></app>
-                  quoque peccent,Corripite igitur gallinas, et plectite, absterrete et erudite ut galli tandem agnoscere queant vos aequitatis esse Patronos et virtutis vindices. Dixi. </p>
+                  quod a multis in fraudis aut superstitionis infamiam deturbatur, 
+                  Philonicum hoc in loco vincere 
+                  quam rei a gallis propositae <app><lem wit="#Zimmel">efficacia</lem><rdg wit="#ed">efficatia</rdg></app>
+                  voluissem, 
+                  certe vel dextro unius galli pede vicissem, 
+                  tam acria gallorum calcaria sunt. 
+               </p>
+               <p>
+                  Nunc <app><lem wit="#ed">dinoscite</lem><rdg wit="#Zimmel">dignoscite</rdg></app>, Spectatores, 
+                  dum alius iudex non est
+                  et vobis omnibus censendi et <app><lem wit="#ed">dinoscendi</lem><rdg wit="#Zimmel">dignoscendi</rdg></app> copia facta est 
+                  quam inique accusati sint galli 
+                  quamque petulans et impetuosum genus sit gallinarum, 
+                  et statuite poenam parti adversae, ut deinceps quid agendum in tali re sit <app><lem wit="#ed">intelligant</lem><rdg wit="#Zimmel">intellegant</rdg></app> 
+                  et consilium mutent. 
+                  <quote xml:id="def_58" cert="unknown"><app><lem wit="#Zimmel">Sumite</lem><rdg wit="#ed">Summite</rdg></app> in animum veteris et excellentis philosophi sententiam</quote> 
+                  qui castigare noxios dixit oportere 
+                  ne ipsorum exemplo <app><lem wit="#Zimmel">ceteri</lem><rdg wit="#ed">caeteri</rdg></app> quoque peccent.  
+                  Corripite igitur gallinas et plectite, 
+                  absterrete et erudite 
+                  ut galli tandem agnoscere queant vos aequitatis esse patronos et virtutis vindices. 
+                  Dixi. </p>
             </sp>
          </div>
          <div type="traduction">
@@ -1278,8 +1324,26 @@
                   Voilà, spectateurs, la force de la lascivité selon l'opinion de Philonicus: elle fait prophétiser des coqs et elle donne l'esprit des générations à venir.  
                   Les menteurs sont ceux qui enseignent que les corps sont détruits par la lascivité, l’âme noircie et la mémoire effacée sous des applaudissements nourris, mais je continue.
                </p>
-               <p>
-                  à traduire
+               <p><!-- l. 404 v.4 de l'édition bilingue -->
+                  On pense que les coqs assistent les parturientes, après que l'un d'eux se soit tenu près de Latone qui accouchait [Aelianus et Pline] : 
+                  ce coq a ensuite été très aimé par celle-là même. 
+                  Ils sont craints des plus nobles des bêtes sauvages, les lions et les scolopendres, 
+                  d'où le fait que ceux qui gagnent Afrique, parce que cette région est remplie de ces bêtes sauvages, ont pris l’habitude d’emporter cet oiseau avec eux.
+                  
+               </p>
+               <p><!-- l. 407 -->
+                  Assurément, spectateurs, ce ne serait ni par la grandeur ni par la puissance, qui en effet à ces niveaux-là rapprocherait le coq du lion ? mais c'est plutôt à partir de la contemplation d'un ordre supérieur. 
+                  En effet, le plus grand admirateur de la nature [Proclus], a dit que lion et coq étaient tournés vers le soleil, mais que la présence de cette vertu était plus grande chez le coq, et de là il ressort que le coq, pour ainsi dire, applaudit le soleil levant par certains hymnes et qu’il arrive de là qu’il soit craint et respecté par le lion.
+               </p>
+               <p> <!-- l. 412 -->
+                  Le sage Pythagore, par exemple, considéré comme sage principalement parce que il ne s’est jamais estimé digne du nom de sage, avait coutume de nous conseiller de manger un coq. 
+                  De là, comme c’est l’interprétation des plus savants [Io. Pici et Suorum], 
+                  nous savons qu'est divine une partie de notre âme qui se nourrit de la connaissance des choses divines comme d’un solide repas et d’ambroisie céleste.
+               </p>
+               <p> <!-- l.417 -->
+                  Et certes, tel est le coq, dont la vision fait trembler et craindre le lion, c’est-à-dire la toute-puissance terrestre.
+                  Un prophète [Job], rare exemple de patience et de vérité, a témoigné de l’intelligence particulière qui lui a été donnée.
+                  
                </p>
                <p><!-- Reprise de la traduction de Rania à la ligne 379 selon l'édition de mars 2020. -->
                   Vous entendez, Spectateurs, dans le mot et la nature du coq les philosophes et les théologiens n’ont-ils pas caché des mystères tout à fait vénérables?
@@ -1312,8 +1376,21 @@
                   De même, si une femme mange des testicules de coqs après la conception, il se dit que son utérus produit des mâles. 
                   Moi, à ce stade, je ne peux pas également passer outre le fait qu’il a été décidé par de grands hommes que la patte droite du coq naturellement a une si grande force qu’il sera victorieux contre son ennemi quelle que soit l’intention de celui qui l’aura porté avec lui.
                </p>
-               <p>
-                  à traduire
+               <p><!-- v4 - l. 455 -->
+                  Parce que si moi, j’avais voulu vaincre Philonicus à ce stade par ruse plutôt, ou plutôt avec l’aide de la nature que beaucoup précipitent dans la réputation de fraude ou de superstition, plutôt que grâce à l’efficacité de l’affaire présentée par les coqs,
+                  j’aurais vaincu par exemple avec le pied droit d’une seul coq: les éperons des coqs sont si aiguisés. 
+               </p>
+               <p><!-- v4 l. 458 -->
+                  Maintenant, Spectateurs, reconnaissez, 
+                  tant qu’il n’y a pas d’autre juge et que vous tous n’avez pas la possibilité de penser et de reconnaître, 
+                  combien à tort les coqs ont été accusés et combien pétulante et impétueuse est la race des poules. 
+                  Jugez aussi le châtiment du parti opposé
+                  afin qu’ensuite qu’ils comprennent ce qui doit être fait dans une telle situation et qu’ils changent d’avis. 
+                  Ayez à l’esprit la phrase du vieux et excellent philosoph qui a dit qu’il fallait châtier les criminels pour que, par leur exemple, les autres ne commettent pas aussi de faute. 
+                  Saisissez-vous donc des poules et punissez-les. 
+                  Chassez-les et instruisez-les 
+                  pour que les coqs puissent enfin vous voir comme des avocats et défenseurs de l’honnêteté. 
+                  J’ai parlé.
                </p>
             </sp>
          </div>
