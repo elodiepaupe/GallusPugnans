@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-stylesheet type="text/xsl" href="TEI_to_htmlmonolingue_la.xslt"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="fr">
@@ -484,31 +483,98 @@
                   Sed pergo. 
                </p>
                <p>
-                  Galli pervigiles, paucissima sibi ad quietem <!-- 27 --> momenta deligunt,
-                  perspiciuntque omnia, nec minus clamore interim monent, et <quote xml:id="def_14" cert="high">quae gallinis nocent animalia, non solum non pertimescunt, sed etiam pro conjugibus propugnant.</quote>
-                  Fertiles praeterea eas faciunt idefesso accubitu, cumque modestiori Veneris voluptate perfrui possent, amore tamen conpulsi, sese omnibus communicant, omnibusque miscent,
-                  Quo minus tibi Philonice, <quote xml:id="def_15">gallorum macilentia taxanda fuit, cum adeo vigilent, et ardentis <app><lem wit="#ed">thori</lem><rdg wit="#Zimmel">tori</rdg></app> officium adeo <app><lem wit="#ed">exequantur</lem><rdg wit="#Zimmel">exsequantur</rdg></app>, 
-                  non quidem sui gratia, sed gallinarum potius quibus optime esse volunt. Nec faciunt in sua <app><lem wit="#Zimmel">re publica</lem><rdg wit="#ed">R. P.</rdg></app> quicquam dividuum,
-                  quod aut ma ritus aut <app><lem wit="#Zimmel">femina</lem><rdg wit="#ed">foemina</rdg></app> proprium dicere posset, sed in commune promptissime conspirant,</quote> 
-                  Puto vos Spectatores agnoscere, posse, <app><lem wit="#ed">sint ne</lem><rdg wit="#Zimmel">sintne</rdg></app> vera? quae ex Quaquerrae ore profatus est Philonicus? 
-                  Omnia mansuetissimus gallorum amor efficaciter evincit, et <app><lem wit="#Zimmel">anhelat</lem><rdg wit="#ed">anihilat</rdg></app>, quo sibi conjuges praeferunt,testibus,
-                  cum omnibus his qui aut gallos aut gallinaria <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> curarunt, tum maxime castratis Capis,
-                  qui rem hominem satis compertam habent, Gigguliro nostro id asserente, fuerunt enim et ipsi galli, et gallinas etiamnum amant, ne quis me suspecto teste uti velle existimet.
-                  Facesse igitur Philonice, cum ista tua delirante <app><lem wit="#Zimmel">lamia</lem><rdg wit="#ed">Lamiga</rdg></app>, facessant illa injuriarum praestigia quae ut relatu ita et
-                  oppugnatione magna experte indigna sunt, Nihil enim fere est, quod non rideri potius quam oppugnari debeat. Et tu Giggulire cachinnaberis, postquam ego tibi domi rem tam futilem,
-                  tam muliebribus commentis quadrantem <app><lem wit="#Zimmel">interpretatus</lem><rdg wit="#ed">interpraetatus</rdg></app> fuero, Certe iam nunc ridere videtur, trementibus ocellis, 
-                  Spectatores et omnia capite concusso <app><lem wit="#Zimmel">flocci pendere</lem><rdg wit="#ed">floccipendere</rdg></app>, partim siquidem sermonis mei excursum <app><lem wit="#ed">intelligit</lem><rdg wit="#Zimmel">intellegit</rdg></app>, 
-                  et latinum addidicit, quando eas regiones iuvenis pervagatus est, quibus Galli latine loquuntur, <app><lem wit="#ed">et si</lem><rdg wit="#Zimmel">etsi</rdg></app> latine loqui exacte nesciat, 
-                  Id quod inter nos quoque evenit. Saepe enim exoticae linguae sententiam subodorari videmur, nobis interim ea ipsa nihil que potentibus, Age Giggulire, 
-                  cum rem ad unguem accipies, propensius ridebis, et <!-- 28 --> anilium technarum involucra demiraberis, Nimis <app><lem wit="#ed">medius</lem><rdg wit="#Zimmel">me dius</rdg></app> fidius lingulaca fuit haec tua susurratrix Quaquerra, Philonice,
-                  et tu plus <quote xml:id="def_16" cert="unknown">quam decebat temerarius, ignorans quam fallas res sit temeritas</quote> Si enim quicquam gallinis commisisse galli videbantur, hoc secreto coram his quibus fama utrisque curae est, tractari,
-                  et prudentissime placari redigique poterat. <quote xml:id="def_17" cert="medium">Amicorum enim errata secreto debent censeri, virtus vero laudari palam</quote>, ut vetusta est philosophorum sententia, 
-                  Idque Hercle galli fecissent hac in re, si effrenis gallinarum invidia ullo modo aut placari, aut cohiberi potuerit, <app><lem wit="#ed">quo minus</lem><rdg wit="#Zimmel">quominus</rdg></app> res
-                  ipsa in omnium oculos dijudicanda pervenisset. Quis agger tamen huic torrenti, quod vallum <app><lem wit="#ed">objiciatur</lem><rdg wit="#Zimmel">obiciatur</rdg></app>? 
-                  quo gallinae perstrepunt, Philonicus vero ita furit, ut Achelous cum Hercule certans esse videatur. 
+                  Galli pervigiles paucissima sibi ad quietem <!-- 27 --> momenta deligunt
+                  perspiciuntque omnia 
+                  nec minus clamore interim monent 
+                  et <quote xml:id="def_14" cert="high">quae gallinis nocent animalia non solum non pertimescunt 
+                  sed etiam pro conjugibus propugnant.</quote>
                </p>
                <p>
-                  Cui ego iam eruam alterum cornu, Spectatores, et <quote xml:id="def_18">diis iuvantibus 
+                  Fertiles praeterea eas faciunt indefesso accubitu 
+                  cumque modestiori Veneris voluptate perfrui possent 
+                  amore tamen conpulsi sese omnibus communicant 
+                  omnibusque miscent.
+               </p>
+               <p>
+                  Quo minus tibi, Philonice, <quote xml:id="def_15">gallorum macilentia taxanda fuit 
+                     cum adeo vigilent 
+                     et ardentis <app><lem wit="#ed">thori</lem><rdg wit="#Zimmel">tori</rdg></app> officium adeo <app><lem wit="#ed">exequantur</lem><rdg wit="#Zimmel">exsequantur</rdg></app> 
+                  non quidem sui gratia sed gallinarum potius 
+                  quibus optime esse volunt. 
+                  Nec faciunt in sua <app><lem wit="#Zimmel">re publica</lem><rdg wit="#ed">R. P.</rdg></app> quicquam dividuum
+                  quod aut maritus aut <app><lem wit="#Zimmel">femina</lem><rdg wit="#ed">foemina</rdg></app> proprium dicere posset 
+                     sed in commune promptissime conspirant.</quote> 
+               </p>
+               <p>
+                  Puto vos, Spectatores agnoscere posse 
+                  <app><lem wit="#ed">sint ne</lem><rdg wit="#Zimmel">sintne</rdg></app> vera 
+                  quae ex Quaquerrae ore profatus est Philonicus. 
+                  Omnia mansuetissimus gallorum amor efficaciter evincit 
+                  et <app><lem wit="#Zimmel">anhelat</lem><rdg wit="#ed">anihilat</rdg></app> 
+                  quo sibi conjuges praeferunt testibus
+                  cum omnibus his 
+                  qui aut gallos aut gallinaria <app><lem wit="#ed">unquam</lem><rdg wit="#Zimmel">umquam</rdg></app> curarunt 
+                  tum maxime castratis capis
+                  qui rem omnem satis compertam habent. 
+               </p>
+               <p>
+                  Gigguliro nostro id asserente 
+                  fuerunt enim et ipsi galli et gallinas etiamnum amant 
+                  ne quis me suspecto teste uti velle existimet.
+                  Facesse igitur, Philonice, cum ista tua delirante <app><lem wit="#Zimmel">lamia</lem><rdg wit="#ed">Lamiga</rdg></app>. 
+                  Facessant illa injuriarum praestigia 
+                  quae ut relatu ita et oppugnatione magna ex parte indigna sunt. 
+               </p>
+               <p>
+                  Nihil enim fere est 
+                  quod non rideri potius quam oppugnari debeat. 
+                  Et tu Giggulire cachinnaberis 
+                  postquam ego tibi domi rem tam futilem tam muliebribus commentis quadrantem <app><lem wit="#Zimmel">interpretatus</lem><rdg wit="#ed">interpraetatus</rdg></app> fuero. 
+               </p>
+               <p>
+                  Certe iam nunc ridere videtur trementibus ocellis, 
+                  Spectatores, 
+                  et omnia capite concusso <app><lem wit="#Zimmel">flocci pendere</lem><rdg wit="#ed">floccipendere</rdg></app> 
+                  partim siquidem sermonis mei excursum <app><lem wit="#ed">intelligit</lem><rdg wit="#Zimmel">intellegit</rdg></app> 
+                  et latinum addidicit 
+                  quando eas regiones iuvenis pervagatus est 
+                  quibus Galli latine loquuntur 
+                  <app><lem wit="#Zimmel">etsi</lem><rdg wit="#ed">et si</rdg></app> latine loqui exacte nesciat 
+                  id quod inter nos quoque evenit. 
+                  Saepe enim exoticae linguae sententiam subodorari videmur 
+                  nobis interim ea ipsa nihil loqui potentibus.
+               </p>
+               <p>
+                  Age Giggulire, 
+                  cum rem ad unguem accipies 
+                  propensius ridebis 
+                  et <!-- 28 --> anilium technarum involucra demiraberis. 
+                  Nimis <app><lem wit="#ed">medius</lem><rdg wit="#Zimmel">me dius</rdg></app> fidius lingulaca fuit haec tua susurratrix Quaquerra, 
+                  Philonice,
+                  et tu plus <quote xml:id="def_16" cert="unknown">quam decebat temerarius ignorans quam fallas res sit temeritas</quote>. 
+               </p>
+               <p>
+                  Si enim quicquam gallinis commisisse galli videbantur 
+                  hoc secreto coram his quibus fama utrisque curae est tractari
+                  et prudentissime placari redigique poterat. 
+                  <quote xml:id="def_17" cert="medium">Amicorum enim errata secreto debent censeri virtus vero laudari palam</quote> 
+                  ut vetusta est philosophorum sententia. 
+               </p>
+               <p>
+                  Idque Hercle galli fecissent hac in re 
+                  si effrenis gallinarum invidia ullo modo aut placari aut cohiberi potuerit 
+                  <app><lem wit="#Zimmel">quominus</lem><rdg wit="#ed">quo minus</rdg></app> res ipsa in omnium oculos dijudicanda pervenisset.
+               </p>
+               <p>
+                  Quis agger tamen huic torrenti, 
+                  quod vallum <app><lem wit="#ed">objiciatur</lem><rdg wit="#Zimmel">obiciatur</rdg></app>, 
+                  quo gallinae perstrepunt? 
+                  Philonicus vero ita furit 
+                  ut Achelous cum Hercule certans esse videatur. 
+               </p>
+               <p>
+                  Cui ego iam eruam alterum cornu, Spectatores, 
+                  et <quote xml:id="def_18">diis iuvantibus 
                   qui judices et testes actionum nostrarum sunt</quote> 
                   illam suam <app><lem wit="#Zimmel">ebullientem</lem><rdg wit="#ed">ebulientem</rdg></app> petulantiam <app><lem wit="#Zimmel">comminuam</lem><rdg wit="#ed">cominuam</rdg></app>.
                   <app><lem wit="#ed">Nunquam ne</lem><rdg wit="#Zimmel">Numquamne</rdg></app> hoc legisti Philonice? 
@@ -1153,8 +1219,68 @@
                   En ce qui me concerne, j’oserais qualifier les poules de sottes et insipides, si elles pensaient quelque chose d’autre. En effet, l’affaire est telle que je l’ai dit et ceux qui aiment la vérité ne feront pas confiance à Quaquerra qui raconte des balivernes.
                   Mais je poursuis.
                </p>
+               <p><!-- l. 195 v5 -->
+                  Les coqs qui veillent sélectionnent des très brefs instants pour leur propre tranquillité et observent toutes choses. 
+                  Pendant ce temps, ils n'avertissent pas avec moins de cris et les animaux qui font du mal aux poules, 
+                  ils ne les craignent pas: ils se battent contre eux pour leurs épouses!
+               </p>
+               <p><!-- l. 197 -->
+                  En outre, ce n'est pas en allant se coucher fatigués qu'ils les rendent fertiles 
+                  et alors qu'ils peuvent jouir complètement du plaisir de Vénus avec modération, 
+                  poussés cependant par l'amour, ils se partagent avec tous et se mêlent à tous.
+               </p>
+               <p><!-- l. 200 -->
+                  Combien moins la maigreur des coqs doit être blâmer pour toi, Philonicus, 
+                  puisqu'ils veillent si bien et exécutent si bien le devoir dû à un lit ardent, 
+                  non pas pour leur propre bénéfice, mais plutôt pour celui des poules 
+                  avec lesquelles ils veulent se comporter parfaitement bien.
+                  Dans leur propre affaire publique, 
+                  ils ne répartissent pas ce qu'un mari ou une femme peut dire de son propre chef, 
+                  mais ils s'accordent très rapidement sur le bien commun. 
+               </p>   
+               <p><!-- l. 206 -->
+                  Je pense, spectateurs, que vous peuvent savoir si ce que Philonicus a rapporté de la bouche de Quaquerra est vrai. 
+                  L'amour très doux des coqs triomphe efficacement de tout et grâce à lui les coqs préférent leurs épouses à eux-même. 
+                  Il respire non seulement pour tous les témoins qui ne se sont jamais occupés ni des coqs ni des poulaillers, mais aussi pour les chapons castrés qui ont de toute l'affaire une connaissance assez sûre. 
+               </p>
+               <p><!-- l. 209 -->
+                  Notre Giggullirus l'assure, eux-mêmes ont effectivement été des coqs 
+                  et ils aiment encore les poules 
+                  si bien que personne n'estime que je veuille faire usage d'un témoin suspect.
+                  Retire-toi donc, Philonicus, avec ton extravagante lamie ! 
+                  Que se retirent ces impostures d'injustices 
+                  qui sont en grande partie indignes aussi bien de ce récit que d'une attaque.
+               </p>
+               <p><!-- l. 212 -->
+                  En effet, il n'y a presque rien qui ne doive être moqué plutôt que combattu. 
+                  Giggulirus, on se moquera de toi quand je t'aurai expliqué chez toi l'affaire si futile qui cadre parfaitement avec des inventions de bonnes femmes. 
+               </p>
+               <p><!-- l. 215 -->
+                  Il semble avoir déjà commencé à rire avec ses petits yeux qui s'agitent, spectateurs, et mépriser tout ce que je viens de dire en balançant sa tête 
+                  puisqu'il comprend partiellement le fil de mon discours et a appris le latin 
+                  quand, adolescent, il a voyagé à travers ces régions dans lesquelles les coqs parlent latin, 
+                  même s'il ne sait pas exactement parler latin, 
+                  ce qui arrive chez nous aussi.
+                  Souvent, en effet, nous semblons sentir le sens d'une langue étrangère bien que nous soyons incapables de nous exprimer dans celle-ci.
+               </p>
+               <p>
+                  Allez, Giggulirus, lorsque tu recevras l'affaire à la perfection, tu riras assez volontiers et tu admireras les voiles de ces fourberies de vieilles femmes.
+                  Certes, ta chuchoteuse de Quaquerra a été trop bavarde, Philonicus, et toi plus irréfléchi que ce qu'il convenait, ignorant combien une affaire de ruse est une témérité.
+               </p>
+               <p>
+                  Si en effet les coqs semblaient se rendre coupables de quelque chose devant les poules, 
+                  la situation pouvait être gérée en secret en présence de ceux qui ont le souci de la réputation de l'un et l'autre parti et être apaisé et réduit au silence très sagement. 
+                  En effet, les erreurs des amis dovient être jugés dans le secret, 
+                  mais leur vertu louée au grand jour, comme le dit la vieille sentence des philosophes.
+               </p>
+               <p>
+                  Et cela, par Hercule, les coqs l'auraient fait dans l'affaire qui nous occupe 
+                  si la jalousie effrénée des poules avait pu soit être apaisée ou être contenue de quelque manière 
+                  pour empêcher que cette affaire-ci qui doit être jugée soit parvenue aux yeux de tous.
+               </p>
                <p> 
-                  à traduire 
+                  Quelle fortification cependant pour celui qui brûle de parler, quel rempart est élevé pour celui contre lequel crient les poules? 
+                  Philonicus, en vérité, délire si bien qu'il semble être Achéloüs luttant contre Hercule.
                </p>
                <p> <!-- Reprise de la traduction de Noa à la ligne 210 selon l'édition de mars 2020. -->
                   Moi, je lui arracherai maintenant son second corne/bec, spectateurs, et, avec l'aide des dieux qui sont les juges et les témoins de nos actes [citation de Cicéron], je mettrai en pièces cette effronterie bouillonnante qui est la sienne. Tu ne l'auras pas volé du tout, Philonicus!
